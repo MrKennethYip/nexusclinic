@@ -321,14 +321,18 @@
         <!-- End Title -->
 
         <!-- Input -->
-        <form class="js-validate js-form-message">
+        <form action="https://facebook.us18.list-manage.com/subscribe/post-json?u=74662c8838760a07d2418ab7d&amp;id=5203b0ffbf&amp;c=?" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="js-validate js-form-message" target="_blank" novalidate>
           <div class="js-focus-state input-group u-form">
-            <input type="email" class="form-control u-form__input" name="email" required
+            <input type="email" value="" class="form-control u-form__input" id="mce-EMAIL" name="EMAIL" novalidate required
                    placeholder="Enter your email address"
                    aria-label="Enter your email address">
-            <span class="input-group-append u-form__append">
-              <button type="submit" class="btn btn-primary u-btn-primary">Subscribe</button>
-            </span>
+                   <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_74662c8838760a07d2418ab7d_5203b0ffbf" tabindex="-1" value=""></div>
+              <span class="input-group-append u-form__append">
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary u-btn-primary">
+              </span>
+            </div>
+            <p id="error-text" style="color:red;"></p>
 
           </div>
         </form>
@@ -448,7 +452,6 @@
   <script src="../../assets/vendor/fancybox/jquery.fancybox.min.js"></script>
   <script src="../../assets/vendor/slick-carousel/slick/slick.js"></script>
   <script src="../../assets/vendor/slick-carousel/slick/slick.js"></script>
-  <script src="../../assets/js/components/hs.slick-carousel.js"></script>
   <script src="../../assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
 
   <!-- JS Front -->
@@ -500,10 +503,41 @@
       $.HSCore.components.HSGoTo.init('.js-go-to');
     });
 
-    $(document).on('ready', function () {
-    // initialization of slick carousel
-    $.HSCore.components.HSSlickCarousel.init('.js-slick-carousel');
+    <!-- Mailchimp -->
+    $(document).ready( function () {
+    // I only have one form on the page but you can be more specific if need be.
+        var $form = $('form');
+
+        if ( $form.length > 0 ) {
+            $('form input[type="submit"]').bind('click', function ( event ) {
+                if ( event ) event.preventDefault();
+                // validate_input() is a validation function I wrote, you'll have to substitute this with your own.
+                register($form);
+            });
+        }
     });
+
+    function register($form) {
+        $.ajax({
+            type: $form.attr('method'),
+            url: $form.attr('action'),
+            data: $form.serialize(),
+            cache       : false,
+            dataType    : 'json',
+            contentType: "application/json; charset=utf-8",
+            error       : function(err) { alert("Could not connect to the registration server. Please try again later."); },
+            success     : function(data) {
+                var $input_field = $('form input[type="email"]')
+                if (data.result != "success") {
+                  document.getElementById("error-text").innerHTML = data.msg.replace("0 - ","")
+                } else {
+                  //alert(data.msg);
+                  document.getElementById("error-text").innerHTML = data.msg.replace("0 - ","")
+                }
+            }
+        });
+    }
+    <!-- Mailchimp End-->
 
   </script>
 </body>
