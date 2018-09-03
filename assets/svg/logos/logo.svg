@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 2.9 156.90092 54.3" width="156.90092" height="54.3">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="30" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="20" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="12" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8.1 
+    <dc:date>2018-08-26 21:01:48 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_8">
+        <path d="M 23 47 C 13.1 47 5 39 5 29 C 5 19.1 13 11 23 11 L 34.3 11 C 38 11 40.9 14 40.9 17.6 L 40.9 29 C 41 38.9 32.9 47 23 47 Z" fill="#3f7de0"/>
+      </g>
+      <g id="Graphic_9">
+        <path d="M 28 41.9 C 18.1 41.9 10 33.9 10 23.9 C 10 14 18 5.9 28 5.9 L 39.3 5.9 C 43 6 46 9 46 12.6 L 46 24 C 46 33.9 38 41.9 28 41.9 Z" fill="#00dffc"/>
+      </g>
+      <g id="Graphic_10">
+        <path d="M 18 52 C 8 52 0 44 0 34 C 0 24.1 8 16 18 16 L 29.3 16 C 33 16 35.9 19 35.9 22.6 L 35.9 34 C 35.9 44 27.9 52 18 52 Z" fill="#377dff"/>
+      </g>
+      <g id="Graphic_13">
+        <text transform="translate(47.6 7.964896)" fill="#1782fa">
+          <tspan font-family="Helvetica Neue" font-size="30" font-weight="700" fill="#1782fa" x=".31" y="29">NEXUS</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <text transform="translate(10.45 19.85993)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="20" font-weight="700" fill="white" x=".09" y="20">N</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <text transform="translate(47.900916 36.52596)" fill="#5c5c5c">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="700" fill="#5c5c5c" x=".226" y="12">Massage &amp; Rehab</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
