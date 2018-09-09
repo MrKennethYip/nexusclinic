@@ -24,6 +24,7 @@
   <link rel="stylesheet" href="assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
   <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
   <link rel="stylesheet" href="assets/vendor/custombox/dist/custombox.min.css">
+  <link rel="stylesheet" href="assets/vendor/animate.css">
 
   <!-- CSS Front Template -->
   <link rel="stylesheet" href="assets/css/front.css">
@@ -604,7 +605,12 @@
                 <span class="fa fa-car u-icon__inner"></span>
               </span>
               <h3 class="h5">Parking</h3>
-              <p>Parking Lot Access<br>Metered Street Parking</p>
+              <p>Parking Lot Access
+                <a href="#parkingMapModal" role="button"
+                   data-modal-target="#parkingMapModal" 
+                   data-overlay-color="#111722">
+                   <span class="fa fa-info-circle ml-0s"></span></a>
+                   <br>Metered Street Parking</p>
               </a>
             </div>
             <!-- End Icon Block -->
@@ -715,6 +721,22 @@
   <!-- ========== END FOOTER ========== -->
 
   <!-- ========== SECONDARY CONTENTS ========== -->
+
+  <div id="parkingMapModal" class="js-shopping-cart-window u-modal-window u-modal-window--shopping-cart" style="width: 650px;">
+    <button class="btn btn-xs u-btn--icon u-btn-text-secondary u-modal-window__close" type="button" onclick="Custombox.modal.close();">
+      <span class="fas fa-times"></span>
+    </button>
+
+    <div class="u-shopping-cart-title-wrapper">
+      <strong>Parking Near 40 Eglinton</strong>
+    </div>
+
+      <iframe src="https://www.google.com/maps/d/embed?mid=1PjWGMmbmn5xl1MAHthYeM_M7-bFl3q7Z" width="640" height="480"></iframe>
+
+    <div class="u-shopping-cart-subtotal-bg">
+      <a class="btn btn-sm u-btn-primary--air transition-3d-hover" href="javascript:;" role="button" onclick="Custombox.modal.close();">Close Window</a>
+    </div>
+  </div>
 
   <!-- ========== END SECONDARY CONTENTS ========== -->
 
