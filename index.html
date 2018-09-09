@@ -24,7 +24,6 @@
   <link rel="stylesheet" href="assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
   <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
   <link rel="stylesheet" href="assets/vendor/custombox/dist/custombox.min.css">
-  <link rel="stylesheet" href="assets/vendor/animate.css">
 
   <!-- CSS Front Template -->
   <link rel="stylesheet" href="assets/css/front.css">
@@ -292,6 +291,18 @@
     <!-- Blue Bar Section -->
     <div class="d-flex justify-content-center bg-primary p-1"></div>
     <!-- End Blue Bar Section -->
+
+
+    <style>
+      #header-text {
+        animation-duration:1.25s;
+      }
+      #business-details {
+        animation-delay: 0.75s;
+        animation-duration:1.25s;
+      }
+    </style>
+
   </header>
   <!-- ========== END HEADER ========== -->
 
@@ -304,6 +315,7 @@
       <!-- Apply your Parallax background image here -->
       <div class="divimage dzsparallaxer--target" style="height: 120%; background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/home-massage.png);"></div>
 
+      <div id="header-text" class="animated bounceIn slow">
       <!-- Content -->
       <div class="container position-relative u-space-5-top u-space-3-bottom z-index-2">
         <div class="w-lg-80 text-center mx-auto">
@@ -318,11 +330,13 @@
         </div>
       </div>
       <!-- End Content -->
+      </div>
     </div>
     <!-- End Hero Section -->
 
     <div class="d-flex justify-content-center bg-primary p-1"></div>
 
+    <div id="business-details" class="animated bounceIn slow">
     <!-- Business Details Section -->
     <div class="container u-space-2">
       <div class="row">
@@ -456,6 +470,7 @@
       </div>
     </div>
     <!-- End Business Details Section -->
+    </div>
 
     <!-- CTA Section -->
     <div class="bg-primary text-white text-center">
@@ -468,6 +483,7 @@
     </div>
     <!-- End CTA Section -->
 
+    <div data-animation="bounceIn" data-animation-duration="1500">
     <!-- Services Section -->
     <div class="container u-space-1">
       <!-- Title -->
@@ -552,14 +568,16 @@
             </figure>
           </div>
         </div>
-
     </div>
-    <!-- End Contact Form Section -->
+    <!-- End Services Section -->
+    </div>
 
     <div class="d-flex justify-content-center bg-primary p-1"></div>  
 
     <!-- Google Maps Section -->
     <div class="container u-space-1">
+
+      <div data-animation="bounceIn" data-animation-duration="1500">
       <!-- Title -->
       <div class="w-md-80 w-lg-50 text-center mx-auto mb-9">
         <h2 class="text-primary font-weight-normal">Visit us at <span class="font-weight-bold">Yonge & Eglinton</span></h2>
@@ -630,6 +648,7 @@
         </a>
       </div>
       <!-- End Directions Button Section -->
+      </div>
 
     </div>  
 
@@ -642,11 +661,14 @@
 
   <!-- ========== FOOTER ========== -->
   <footer>
-    <div class="d-flex justify-content-center bg-primary p-1"></div>    
+    <div class="d-flex justify-content-center bg-primary p-1"></div> 
+
+    
+    <!-- Book Appointment -->   
     <div class="position-relative">
       <div class="u-bg-light-blue-50">
         <div class="container u-space-1">
-          <div class="w-md-80 w-lg-50 text-center mx-auto">
+          <div class="w-md-80 w-lg-50 text-center mx-auto" data-animation="bounceIn" data-animation-duration="1500">
 
             <div class="mb-4">
               <h2 class="text-primary">
@@ -684,24 +706,25 @@
         </svg>
       </figure>
     </div>
+    <!-- End Book Appointment -->  
 
     <!-- Social Section -->
     <div class="d-flex justify-content-center bg-primary p-3">
-      <div class="mx-2">
-        <a href="http://facebook.com" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/fb_square_white.svg" alt="Facebook" width="30" height="30"></a>
-      </div>
-      <div class="mx-2">
-        <a href="http://twitter.com" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/twitter_square_white.svg" alt="Twitter" width="30" height="30"></a>
-      </div>
-      <div class="mx-2">
-        <a href="http://instagram.com" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/instagram_square_white.svg" alt="Instagram" width="30" height="30"></a>
-      </div>
-      <div class="mx-2">
-        <a href="http://yelp.com" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/yelp_square_white.svg" alt="Yelp" width="30" height="30"></a>
-      </div>
-      <div class="mx-2">
-        <a href="http://plus.google.com" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/google_square_white.svg" alt="Google Plus" width="30" height="30"></a>
-      </div>
+        <div class="mx-2">
+          <a href="http://facebook.com" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/fb_square_white.svg" alt="Facebook" width="30" height="30"></a>
+        </div>
+        <div class="mx-2">
+          <a href="http://twitter.com" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/twitter_square_white.svg" alt="Twitter" width="30" height="30"></a>
+        </div>
+        <div class="mx-2">
+          <a href="http://instagram.com" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/instagram_square_white.svg" alt="Instagram" width="30" height="30"></a>
+        </div>
+        <div class="mx-2">
+          <a href="http://yelp.com" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/yelp_square_white.svg" alt="Yelp" width="30" height="30"></a>
+        </div>
+        <div class="mx-2">
+          <a href="http://plus.google.com" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/google_square_white.svg" alt="Google Plus" width="30" height="30"></a>
+        </div>
     </div>
     <!-- End Social Section --> 
 
@@ -761,10 +784,9 @@
   <!-- JS Implementing Plugins -->
   <script src="assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
   <script src="assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
-  <script src="assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
   <script src="assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
-  <script src="assets/vendor/gmaps/gmaps.min.js"></script>
   <script src="assets/vendor/custombox/dist/custombox.min.js"></script>
+  <script src="assets/vendor/appear.js"></script>
 
   <!-- JS Front -->
   <script src="assets/js/hs.core.js"></script>
@@ -773,10 +795,10 @@
   <script src="assets/js/components/hs.malihu-scrollbar.js"></script>
   <script src="assets/js/components/hs.validation.js"></script>
   <script src="assets/js/helpers/hs.focus-state.js"></script>
-  <script src="assets/js/components/hs.g-map.js"></script>
   <script src="assets/js/components/hs.show-animation.js"></script>
   <script src="assets/js/components/hs.go-to.js"></script>
   <script src="assets/js/components/hs.modal-window.js"></script>
+  <script src="assets/js/components/hs.onscroll-animation.js"></script>
 
   <!-- JS Plugins Init. -->
   <script>
@@ -788,6 +810,9 @@
         breakpoint: 767,
         hideTimeOut: 0
       });
+
+      // initialization of scroll animation
+      $.HSCore.components.HSOnScrollAnimation.init('[data-animation]');
     });
 
     $(document).on('ready', function () {
@@ -807,41 +832,14 @@
       // initialization of show animations
       $.HSCore.components.HSShowAnimation.init('.js-animation-link');
 
-      // initialization of form validation
-      $.HSCore.components.HSValidation.init('.js-validate', {
-        rules: {
-          confirmPassword: {
-            equalTo: '#password'
-          }
-        }
-      });
-
-      // initialization of forms
-      $.HSCore.helpers.HSFocusState.init();
-
       // initialization of go to
       $.HSCore.components.HSGoTo.init('.js-go-to');
-      });
 
       // initialization of autonomous popups
       $.HSCore.components.HSModalWindow.init('[data-modal-target]', '.js-shopping-cart-window', {
         autonomous: true
       });
-
-      // initialization of google map
-      function initMap() {
-        $.HSCore.components.HSGMap.init('.js-g-map');
-        $.HSCore.components.HSGMap.init('#gMapMultipleMarkers', {
-          infoWindowTemplate: function (imgsrc, imgalt, date, locationname, title) {
-            return '<div class="u-gmap-v1__info">' +
-              '<img class="img-fluid mb-2" src="' + imgsrc + '" alt="' + imgalt + '">' +
-              '<small class="d-block text-muted mb-2">' + date + '</small>' +
-              '<h4 class="h6 mb-0">' + title + '</h4>' +
-              '<p class="mb-0">' + locationname + '</p>' +
-              '</div>';
-          }
-        });
-      }
+    });
   </script>
 
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtt1z99GtrHZt_IcnK-wryNsQ30A112J0&callback=initMap" async defer>
