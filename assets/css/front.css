@@ -2828,7 +2828,7 @@ svg {
 /* danger badge */
 .u-badge-danger {
   color: #fff;
-  background: #de4437;
+  background: #FC4237;
 }
 
 /* light badge */
@@ -2887,7 +2887,7 @@ svg {
 /* danger badge */
 .u-badge-border-danger {
   color: #fff;
-  background: #de4437;
+  background: #FC4237;
   border-color: #fff;
 }
 
@@ -3268,14 +3268,14 @@ svg {
 
 /* danger air */
 .u-btn-danger--air {
-  color: #de4437;
+  color: #FC4237;
   background: rgba(222, 68, 55, 0.1);
   border-color: transparent;
 }
 
 .u-btn-danger--air:hover, .u-btn-danger--air:focus, .u-btn-danger--air:active, .u-btn-danger--air.active {
   color: #fff;
-  background: #de4437;
+  background: #FC4237;
   box-shadow: 0 4px 17px rgba(222, 68, 55, 0.35);
 }
 
@@ -3486,7 +3486,7 @@ svg {
 
 /* danger text button */
 .u-btn-text-danger {
-  color: #de4437;
+  color: #FC4237;
   background: transparent;
 }
 
@@ -4369,8 +4369,8 @@ svg {
 /* danger */
 .u-icon-danger {
   color: #fff;
-  background-color: #de4437;
-  border-color: #de4437;
+  background-color: #FC4237;
+  border-color: #FC4237;
 }
 
 .u-icon-danger[href]:hover {
@@ -4380,8 +4380,8 @@ svg {
 }
 
 .u-icon-danger.disabled, .u-icon-danger:disabled {
-  background-color: #de4437;
-  border-color: #de4437;
+  background-color: #FC4237;
+  border-color: #FC4237;
 }
 
 /* light */
@@ -4588,13 +4588,13 @@ svg {
 
 /* danger air */
 .u-icon-danger--air {
-  color: #de4437;
+  color: #FC4237;
   background: rgba(222, 68, 55, 0.1);
 }
 
 .u-icon-danger--air[href]:hover, .u-icon-danger--air[href]:focus, .u-icon-danger--air[href]:active {
   color: #fff;
-  background: #de4437;
+  background: #FC4237;
 }
 
 /* light air */
@@ -4749,15 +4749,15 @@ svg {
 
 /* danger */
 .u-icon-brd-danger {
-  color: #de4437;
+  color: #FC4237;
   background: transparent;
-  border-color: #de4437;
+  border-color: #FC4237;
 }
 
 .u-icon-brd-danger[href]:hover, .u-icon-brd-danger[href]:focus, .u-icon-brd-danger[href]:active {
   color: #fff;
-  background: #de4437;
-  border-color: #de4437;
+  background: #FC4237;
+  border-color: #FC4237;
 }
 
 /* light */
@@ -5178,11 +5178,11 @@ svg {
 .u-has-error .u-form.u-focus-state .u-form__text,
 .u-has-error .u-form.u-focus-state .u-form__input,
 .u-has-error .u-form.u-focus-state *:focus {
-  border-color: #de4437;
+  border-color: #FC4237;
 }
 
 .u-has-error .u-form.u-focus-state .u-form__text {
-  color: #de4437;
+  color: #FC4237;
 }
 
 /*------------------------------------
@@ -6018,13 +6018,13 @@ svg {
 
 /* label danger */
 .u-label--danger {
-  color: #de4437;
+  color: #FC4237;
   background-color: rgba(222, 68, 55, 0.1);
 }
 
 .u-label--danger[href]:hover, .u-label--danger[href]:focus {
   color: #fff;
-  background-color: #de4437;
+  background-color: #FC4237;
 }
 
 /* label light */
@@ -7273,7 +7273,7 @@ svg {
 }
 
 .u-gradient-half-warning-v1 {
-  background-image: linear-gradient(25deg, #ffc107 30%, #de4437 100%);
+  background-image: linear-gradient(25deg, #ffc107 30%, #FC4237 100%);
   background-repeat: repeat-x;
 }
 
@@ -7283,7 +7283,7 @@ svg {
 }
 
 .u-gradient-half-warning-v3 {
-  background-image: linear-gradient(150deg, #ffc107 0%, #de4437 100%);
+  background-image: linear-gradient(150deg, #ffc107 0%, #FC4237 100%);
   background-repeat: repeat-x;
 }
 
@@ -7383,7 +7383,7 @@ svg {
 }
 
 .u-fill-danger {
-  fill: #de4437;
+  fill: #FC4237;
 }
 
 .u-fill-danger-lighter {
@@ -7454,7 +7454,7 @@ svg {
 }
 
 .u-stop-color-danger {
-  stop-color: #de4437;
+  stop-color: #FC4237;
 }
 
 .u-stop-color-danger-lighter {
@@ -7497,7 +7497,7 @@ svg {
 }
 
 .u-stroke-danger {
-  stroke: #de4437;
+  stroke: #FC4237;
 }
 
 .u-stroke-warning {

@@ -23,7 +23,7 @@
   --success: #00c9a7;
   --info: #00dffc;
   --warning: #ffc107;
-  --danger: #de4437;
+  --danger: #FC4237;
   --light: #f6f9fc;
   --dark: #1e2022;
   --breakpoint-xs: 0;
@@ -2115,7 +2115,7 @@ textarea.form-control {
   width: 100%;
   margin-top: 0.25rem;
   font-size: 80%;
-  color: #de4437;
+  color: #FC4237;
 }
 
 .invalid-tooltip {
@@ -2129,20 +2129,20 @@ textarea.form-control {
   font-size: 0.875rem;
   line-height: 1.5;
   color: #fff;
-  background-color: #de4437;
+  background-color: #FC4237;
   border-radius: 0.25rem;
 }
 
 .was-validated .form-control:invalid, .form-control.is-invalid, .was-validated
 .custom-select:invalid,
 .custom-select.is-invalid {
-  border-color: #de4437;
+  border-color: #FC4237;
 }
 
 .was-validated .form-control:invalid:focus, .form-control.is-invalid:focus, .was-validated
 .custom-select:invalid:focus,
 .custom-select.is-invalid:focus {
-  border-color: #de4437;
+  border-color: #FC4237;
   box-shadow: 0 0 0 0.2rem rgba(222, 68, 55, 0.25);
 }
 
@@ -2164,7 +2164,7 @@ textarea.form-control {
 }
 
 .was-validated .form-check-input:invalid ~ .form-check-label, .form-check-input.is-invalid ~ .form-check-label {
-  color: #de4437;
+  color: #FC4237;
 }
 
 .was-validated .form-check-input:invalid ~ .invalid-feedback,
@@ -2174,7 +2174,7 @@ textarea.form-control {
 }
 
 .was-validated .custom-control-input:invalid ~ .custom-control-label, .custom-control-input.is-invalid ~ .custom-control-label {
-  color: #de4437;
+  color: #FC4237;
 }
 
 .was-validated .custom-control-input:invalid ~ .custom-control-label::before, .custom-control-input.is-invalid ~ .custom-control-label::before {
@@ -2196,7 +2196,7 @@ textarea.form-control {
 }
 
 .was-validated .custom-file-input:invalid ~ .custom-file-label, .custom-file-input.is-invalid ~ .custom-file-label {
-  border-color: #de4437;
+  border-color: #FC4237;
 }
 
 .was-validated .custom-file-input:invalid ~ .custom-file-label::after, .custom-file-input.is-invalid ~ .custom-file-label::after {
@@ -2504,8 +2504,8 @@ fieldset:disabled a.btn {
 
 .btn-danger {
   color: #fff;
-  background-color: #de4437;
-  border-color: #de4437;
+  background-color: #FC4237;
+  border-color: #FC4237;
 }
 
 .btn-danger:hover {
@@ -2520,8 +2520,8 @@ fieldset:disabled a.btn {
 
 .btn-danger.disabled, .btn-danger:disabled {
   color: #fff;
-  background-color: #de4437;
-  border-color: #de4437;
+  background-color: #FC4237;
+  border-color: #FC4237;
 }
 
 .btn-danger:not(:disabled):not(.disabled):active, .btn-danger:not(:disabled):not(.disabled).active,
@@ -2775,16 +2775,16 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-danger {
-  color: #de4437;
+  color: #FC4237;
   background-color: transparent;
   background-image: none;
-  border-color: #de4437;
+  border-color: #FC4237;
 }
 
 .btn-outline-danger:hover {
   color: #fff;
-  background-color: #de4437;
-  border-color: #de4437;
+  background-color: #FC4237;
+  border-color: #FC4237;
 }
 
 .btn-outline-danger:focus, .btn-outline-danger.focus {
@@ -2792,15 +2792,15 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-danger.disabled, .btn-outline-danger:disabled {
-  color: #de4437;
+  color: #FC4237;
   background-color: transparent;
 }
 
 .btn-outline-danger:not(:disabled):not(.disabled):active, .btn-outline-danger:not(:disabled):not(.disabled).active,
 .show > .btn-outline-danger.dropdown-toggle {
   color: #fff;
-  background-color: #de4437;
-  border-color: #de4437;
+  background-color: #FC4237;
+  border-color: #FC4237;
 }
 
 .btn-outline-danger:not(:disabled):not(.disabled):active:focus, .btn-outline-danger:not(:disabled):not(.disabled).active:focus,
@@ -4846,7 +4846,7 @@ input[type="button"].btn-block {
 
 .badge-danger {
   color: #fff;
-  background-color: #de4437;
+  background-color: #FC4237;
 }
 
 .badge-danger[href]:hover, .badge-danger[href]:focus {
@@ -6123,7 +6123,7 @@ button.bg-warning:focus {
 }
 
 .bg-danger {
-  background-color: #de4437 !important;
+  background-color: #FC4237 !important;
 }
 
 a.bg-danger:hover, a.bg-danger:focus,
@@ -6221,7 +6221,7 @@ button.bg-dark:focus {
 }
 
 .border-danger {
-  border-color: #de4437 !important;
+  border-color: #FC4237 !important;
 }
 
 .border-light {
@@ -9750,7 +9750,7 @@ a.text-warning:hover, a.text-warning:focus {
 }
 
 .text-danger {
-  color: #de4437 !important;
+  color: #FC4237 !important;
 }
 
 a.text-danger:hover, a.text-danger:focus {
