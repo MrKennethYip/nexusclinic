@@ -168,7 +168,7 @@ a {
 }
 
 a:hover {
-  color: #0052ea;
+  color: #1FC2DE;
   text-decoration: none;
 }
 
@@ -2883,7 +2883,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-link:hover {
-  color: #0052ea;
+  color: #1FC2DE;
   text-decoration: none;
   background-color: transparent;
   border-color: transparent;
