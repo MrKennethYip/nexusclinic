@@ -41,7 +41,7 @@ h1 > a, h2 > a, h3 > a, h4 > a, h5 > a, h6 > a,
 
 h1 > a:hover, h2 > a:hover, h3 > a:hover, h4 > a:hover, h5 > a:hover, h6 > a:hover,
 .h1 > a:hover, .h2 > a:hover, .h3 > a:hover, .h4 > a:hover, .h5 > a:hover, .h6 > a:hover {
-  color: #1164ff;
+  color: #269EB5;
 }
 
 h1.text-white > a, h2.text-white > a, h3.text-white > a, h4.text-white > a, h5.text-white > a, h6.text-white > a,
@@ -4285,7 +4285,7 @@ svg {
 
 .u-icon-primary[href]:hover {
   color: #fff;
-  background-color: #1164ff;
+  background-color: #269EB5;
   border-color: #045cff;
 }
 
@@ -6091,7 +6091,7 @@ svg {
 }
 
 .u-link:hover .u-link__icon {
-  background-color: #1164ff;
+  background-color: #269EB5;
   -webkit-transform: rotate(90deg);
           transform: rotate(90deg);
 }
@@ -6105,8 +6105,8 @@ svg {
 }
 
 .u-link-muted:hover {
-  color: #1164ff;
-  border-color: #1164ff;
+  color: #269EB5;
+  border-color: #269EB5;
 }
 
 /*------------------------------------
