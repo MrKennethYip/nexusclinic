@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Referral Offer | Nexus Massage & Rehab</title>
+  <title>Refer a Friend | Nexus Massage & Rehab</title>
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">
@@ -222,6 +222,18 @@
     <!-- Blue Bar Section -->
     <div class="d-flex justify-content-center bg-primary p-1"></div>
     <!-- End Blue Bar Section -->
+
+    <style>
+      #header-text {
+        animation-delay: 0.25s;
+        animation-duration:0.5s;
+      }
+      #how-it-works {
+        animation-delay: 0.5s;
+        animation-duration:0.5s;
+      }
+    </style>    
+
   </header>
   <!-- ========== END HEADER ========== -->
 
@@ -233,18 +245,21 @@
       <!-- Apply your Parallax background image here -->
       <div class="divimage dzsparallaxer--target" style="height: 120%; background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/referral-people.png);"></div>
 
+      <div id="header-text" class="animated zoomIn">
       <!-- Content -->
       <div class="container position-relative u-space-5-top u-space-3-bottom z-index-2">
         <div class="w-lg-80 text-center mx-auto">
-          <h1 class="display-3 font-size-48--md-down text-white font-weight-bold">Refer $20 Get $20</h1>
+          <h1 class="display-3 font-size-48--md-down text-white font-weight-bold">Refer a Friend</h1>
         </div>
       </div>
       <!-- End Content -->
+      </div>
     </div>
     <!-- End Hero Section -->
 
     <div class="d-flex justify-content-center bg-primary p-1"></div>
 
+    <div id="how-it-works" class="animated zoomIn">
     <!-- Steps Section -->
     <div class="container">
       <br><br>
@@ -258,7 +273,7 @@
       <!-- Conditions Section -->
       <div class="card-deck d-block d-md-flex u-space-1-top u-space-1-bottom">
         <!-- Friends List -->
-        <a class="card u-info-v2 mb-3" style="border: #FC4237 3px solid;">
+        <a class="card u-info-v2 mb-3" style="border: #FC4237 1px solid;">
           <div class="card-body p-6">
             <div class="text-center">
               <div class="media-body">
@@ -276,7 +291,7 @@
         <!-- End Friends List -->
 
         <!-- Friends List -->
-        <a class="card u-info-v2 mb-3" style="border: #FC4237 3px solid;">
+        <a class="card u-info-v2 mb-3" style="border: #FC4237 1px solid;">
           <div class="card-body p-6">
             <div class="text-center">
               <div class="media-body">
@@ -294,7 +309,7 @@
         <!-- End Friends List -->
 
         <!-- Friends List -->
-        <a class="card u-info-v2 mb-3" style="border: #FC4237 3px solid;">
+        <a class="card u-info-v2 mb-3" style="border: #FC4237 1px solid;">
           <div class="card-body p-6">
             <div class="text-center">
               <div class="media-body">
@@ -313,15 +328,17 @@
       <!-- End Friends List -->
     </div>
     <!-- End Steps Section -->
+    </div>
 
     <div class="d-flex justify-content-center bg-primary p-1"></div>
     
+    <div data-animation="zoomIn" data-animation-duration="750">
     <!-- Features Section -->
     <div class="container u-space-1">
       <!-- Title -->
-      <div class="w-md-80 w-lg-50 text-center mx-auto mb-9">
+      <div class="w-md-80 w-lg-50 text-center mx-auto mb-4">
         <h2 class="text-primary">Offer <span class="font-weight-bold">Details</span></h2>
-        <p><span class="fa fa-asterisk mr-2"></span>Some conditions apply.</p>
+        <p><span class="fa fa-asterisk mr-2"></span><em>Some conditions apply.</em></p>
       </div>
       <!-- End Title -->
 
@@ -419,6 +436,7 @@
       </div>
     </div>
     <!-- End Features Section -->
+    </div>
   </main>
   <!-- ========== END MAIN CONTENT ========== -->
 
@@ -428,7 +446,7 @@
     <div class="position-relative">
       <div class="u-bg-light-blue-50">
         <div class="container u-space-1">
-          <div class="w-md-80 w-lg-50 text-center mx-auto">
+          <div class="w-md-80 w-lg-50 text-center mx-auto" data-animation="zoomIn" data-animation-duration="750">
 
             <div class="mb-4">
               <h2 class="text-primary">
@@ -539,6 +557,7 @@
   <script src="assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
   <script src="assets/vendor/slick-carousel/slick/slick.js"></script>
   <script src="assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
+  <script src="assets/vendor/appear.js"></script>
 
   <!-- JS Front -->
   <script src="assets/js/hs.core.js"></script>
@@ -547,6 +566,7 @@
   <script src="assets/js/components/hs.validation.js"></script>
   <script src="assets/js/components/hs.slick-carousel.js"></script>
   <script src="assets/js/components/hs.go-to.js"></script>
+  <script src="assets/js/components/hs.onscroll-animation.js"></script>
 
   <!-- JS Plugins Init. -->
   <script>
@@ -558,6 +578,9 @@
         breakpoint: 767,
         hideTimeOut: 0
       });
+
+      // initialization of scroll animation
+      $.HSCore.components.HSOnScrollAnimation.init('[data-animation]');
     });
 
     $(document).on('ready', function () {

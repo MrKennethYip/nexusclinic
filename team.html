@@ -216,6 +216,14 @@
     <!-- Blue Bar Section -->
     <div class="d-flex justify-content-center bg-primary p-1"></div>
     <!-- End Blue Bar Section -->
+
+    <style>
+      #header-text {
+        animation-delay: 0.25s;
+        animation-duration:0.5s;
+      }
+    </style>
+
   </header>
   <!-- ========== END HEADER ========== -->
 
@@ -227,19 +235,21 @@
       <!-- Apply your Parallax background image here -->
       <div class="divimage dzsparallaxer--target" style="height: 120%; background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/team-hands.png);"></div>
 
+      <div id="header-text" class="animated zoomIn">
       <!-- Content -->
       <div class="container position-relative u-space-5-top u-space-3-bottom z-index-2">
         <div class="w-lg-80 text-center mx-auto">
           <h1 class="display-3 font-size-48--md-down text-white font-weight-bold">Our Team</h1>
           <br><br>
-          
         </div>
       </div>
       <!-- End Content -->
+      </div>
     </div>
     <!-- End Hero Section -->
 
     <div class="d-flex justify-content-center bg-primary p-1"></div>
+    
     <!-- Portfolio 1 Section -->
     <div class="container u-space-2">
       <div class="w-md-80 w-lg-50 text-center mx-auto mb-7">
@@ -273,7 +283,7 @@
           <!-- Item -->
           <div class="cbp-item rmt chiro acupuncture">
             <a class="cbp-caption" href="profiles/karen_ngo.html">
-              <img class="rounded" style="border: #FC4237 2px solid;" src="https://pbs.twimg.com/profile_images/855289506471198721/LfcjLcDv_400x400.jpg" alt="Image Description">
+              <img class="rounded" style="border: #8A8A8D 2px solid;" src="https://pbs.twimg.com/profile_images/855289506471198721/LfcjLcDv_400x400.jpg" alt="Image Description">
               <div class="py-3">
                 <h4 class="h6 text-dark mb-0">Karen Ngo</h4>
                 <p class="small mb-0">
@@ -287,7 +297,7 @@
           <!-- Item -->
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="profiles/cassandra_kong.html">
-              <img class="rounded" style="border: #FC4237 2px solid;" src="https://media.licdn.com/dms/image/C4D03AQEaLtU-rk3PPw/profile-displayphoto-shrink_800_800/0?e=1541030400&v=beta&t=02gzLzsYL0il5zq9NiljpUUebEUAYXqzO2cCtP6t1nM" alt="Image Description">
+              <img class="rounded" style="border: #8A8A8D 2px solid;" src="https://media.licdn.com/dms/image/C4D03AQEaLtU-rk3PPw/profile-displayphoto-shrink_800_800/0?e=1541030400&v=beta&t=02gzLzsYL0il5zq9NiljpUUebEUAYXqzO2cCtP6t1nM" alt="Image Description">
               <div class="py-3">
                 <h4 class="h6 text-dark mb-0">Cassandra Kong</h4>
                 <p class="small mb-0">
@@ -297,13 +307,11 @@
             </a>
           </div>
           <!-- End Item -->
-
         </div>
         <!-- End Content -->
-
-      </div>
-            
+      </div>       
     </div>
+    <!-- End Portfolio 1 Section -->
 
   </main>
   <!-- ========== END MAIN ========== -->
@@ -314,7 +322,7 @@
       <div class="position-relative">
         <div class="u-bg-light-blue-50">
           <div class="container u-space-1">
-            <div class="w-md-80 w-lg-50 text-center mx-auto">
+            <div class="w-md-80 w-lg-50 text-center mx-auto" data-animation="zoomIn" data-animation-duration="750">
 
               <div class="mb-4">
                 <h2 class="text-primary">
@@ -405,6 +413,7 @@
   <script src="assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
   <script src="assets/vendor/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
   <script src="assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
+  <script src="assets/vendor/appear.js"></script>
 
   <!-- JS Front -->
   <script src="assets/js/hs.core.js"></script>
@@ -416,6 +425,7 @@
   <script src="assets/js/components/hs.show-animation.js"></script>
   <script src="assets/js/components/hs.cubeportfolio.js"></script>
   <script src="assets/js/components/hs.go-to.js"></script>
+  <script src="assets/js/components/hs.onscroll-animation.js"></script>
 
   <!-- JS Plugins Init. -->
   <script>
@@ -427,6 +437,9 @@
         breakpoint: 767,
         hideTimeOut: 0
       });
+
+      // initialization of scroll animation
+      $.HSCore.components.HSOnScrollAnimation.init('[data-animation]');
     });
 
     $(document).on('ready', function () {

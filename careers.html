@@ -215,6 +215,18 @@
       <!-- Blue Bar Section -->
       <div class="d-flex justify-content-center bg-primary p-1"></div>
       <!-- End Blue Bar Section -->
+
+    <style>
+      #header-text {
+        animation-delay: 0.25s;
+        animation-duration:0.5s;
+      }
+      #how-it-works {
+        animation-delay: 0.5s;
+        animation-duration:0.5s;
+      }
+    </style>   
+
   </header>
   <!-- ========== END HEADER ========== -->
 
@@ -223,6 +235,8 @@
 		<!-- Career Title Section -->
 		<div class="container u-space-3-top">
 			<div class="position-relative">
+
+        <div id="header-text" class="animated zoomIn">
 				<!-- Title -->
 				<div class="w-md-80 w-lg-50 text-center mx-auto">
 					<div class="mb-4">
@@ -236,6 +250,7 @@
 					</a>
 				</div>
 				<!-- End Title -->
+        </div>
 
 				<!-- SVG Shapes - Top Left -->
 				<figure class="d-none d-sm-block position-absolute-bottom-left-0" style="width: 70px;">
@@ -427,8 +442,9 @@
 		</div>
 		<!-- End Frames Section -->
 
-		<hr class="my-0">
+		<div class="d-flex justify-content-center bg-primary p-1"></div>
 
+    <div data-animation="zoomIn" data-animation-duration="750">
 		<!-- Core Values -->
 		<div class="position-relative">
 			<div class="container u-space-3">
@@ -485,13 +501,15 @@
 			</div>
 		</div>
 		<!-- End Core Values -->
+    </div>
 
 		<div class="d-flex justify-content-center bg-primary p-1"></div>
 
+    <div data-animation="zoomIn" data-animation-duration="750">
 		<!-- Features Section -->
 		<div class="container u-space-1">
 			<!-- Title -->
-			<div class="w-md-80 w-lg-50 text-center mx-auto mb-9">
+			<div class="w-md-80 w-lg-50 text-center mx-auto mb-5">
 				<h2 class="text-primary">What we can
 					<span class="font-weight-bold">offer</span>
 				</h2>
@@ -593,6 +611,7 @@
 			</div>
 		</div>
 		<!-- End Features Section -->
+    </div>
 
 		<!-- Background Image
 		<div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll min-height-100vh"
@@ -603,6 +622,7 @@
 
     <hr class="my-0">
 
+    <div data-animation="zoomIn" data-animation-duration="750">
 		<!-- Job Positions -->
 		<div class="container u-space-1-top u-space-1-bottom">
 			<!-- Title -->
@@ -696,6 +716,7 @@
 			</div>
 		</div>
 		<!-- End Job Positions -->
+    </div>
 
 	</main>
 	<!-- ========== END MAIN ========== -->
@@ -706,7 +727,7 @@
     <div class="position-relative">
       <div class="u-bg-light-blue-50">
         <div class="container u-space-1">
-          <div class="w-md-80 w-lg-50 text-center mx-auto">
+          <div class="w-md-80 w-lg-50 text-center mx-auto" data-animation="zoomIn" data-animation-duration="750">
 
             <div class="mb-4">
               <h2 class="text-primary">
@@ -1100,6 +1121,7 @@
 	<script src="assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
 	<script src="assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
 	<script src="assets/vendor/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
+  <script src="assets/vendor/appear.js"></script>
 
 	<!-- JS Front -->
 	<script src="assets/js/hs.core.js"></script>
@@ -1112,6 +1134,7 @@
 	<script src="assets/js/components/hs.video-player.js"></script>
 	<script src="assets/js/components/hs.show-animation.js"></script>
 	<script src="assets/js/components/hs.go-to.js"></script>
+  <script src="assets/js/components/hs.onscroll-animation.js"></script>
 
 	<!-- JS Plugins Init. -->
 	<script>
@@ -1123,6 +1146,9 @@
         breakpoint: 767,
         hideTimeOut: 0
       });
+
+      // initialization of scroll animation
+      $.HSCore.components.HSOnScrollAnimation.init('[data-animation]');
     });
 
     $(document).on('ready', function () {
