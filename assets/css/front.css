@@ -8494,3 +8494,15 @@ button:focus {
 /*------------------------------------
   Custom CSS
 ------------------------------------*/
+
+.hidden{
+  opacity:0;
+}
+
+.visible{
+  opacity:1;
+}
+
+#block-1 {
+  animation-delay: 0.5s;
+}

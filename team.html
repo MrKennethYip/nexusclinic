@@ -12,7 +12,7 @@
   <link rel="shortcut icon" href="favicon.ico">
 
   <!-- Google Fonts -->
-  <link href="//fonts.googleapis.com/css?family=Poppins:300,400,500,600" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600" rel="stylesheet">
 
   <!-- CSS Global Compulsory -->
   <link rel="stylesheet" href="assets/vendor/bootstrap/css/bootstrap.css">
@@ -60,21 +60,19 @@
 <body>
 
   <!-- ========== HEADER ========== -->
+
   <header id="header" class="u-header u-header--abs-top-md u-header--show-hide-md"
           data-header-fix-moment="500"
           data-header-fix-effect="slide">
 
     <div class="u-header__section">
-      <!-- Topbar -->
-
-      <!-- End Topbar -->
 
       <div id="logoAndNav" class="container">
         <!-- Nav -->
         <nav class="js-mega-menu navbar navbar-expand-md u-header__navbar">
           <!-- Logo -->
           <a class="navbar-brand u-header__navbar-brand u-header__navbar-brand-top-space" href="index.html" aria-label="Front">
-            <img src="assets/svg/logos/logo.svg" alt="Logo">
+            <img src="assets/img/logos/logo.png" alt="Logo" style="width: 200px;">
           </a>
           <!-- End Logo -->
 
@@ -89,6 +87,7 @@
               <span class="u-hamburger__inner"></span>
             </span>
           </button>
+
           <!-- End Responsive Toggle Button -->
 
           <!-- Navigation -->
@@ -103,18 +102,85 @@
               </li>
               <!-- End Home - Link -->
 
-              <!-- Team - Link -->
-              <li class="nav-item">
-                <a class="nav-link u-header__nav-link" href="team.html">
-                  Our Team
+              <li class="nav-item hs-has-mega-menu u-header__nav-item"
+                  data-event="hover"
+                  data-animation-in="slideInUp"
+                  data-animation-out="fadeOut"
+                  data-position="left"
+                  onclick="location.href='team.html';" value="Nexus Team">
+                <a id="homeMegaMenu" class="nav-link u-header__nav-link" href="team.html"
+                   aria-haspopup="true"
+                   aria-expanded="false">
+                  Team
                 </a>
+
+                <!-- Home - Mega Menu -->
+                <div class="hs-mega-menu u-header__sub-menu w-100 u-header__mega-menu-wrapper-v2" aria-labelledby="homeMegaMenu">
+                  <div class="row p-0 mr-0">
+                    <div class="col-lg-6 pr-0">
+                      <!-- Banner Image -->
+                      <div class="d-none d-lg-block u-header__banner-v1" data-bg-img-src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/team-hands.png">
+                        <div class="w-100 text-center u-header__banner-v1-content u-content-centered-y p-4">
+                          <div class="mb-4">
+                            <strong class="d-block u-header__banner-v1-title mb-2">Trusted Health Experts</strong>
+                            <span class="u-header__banner-v1-text">Experience a level of our quality in both mental &amp; physical health.</span>
+                          </div>
+                          <a class="btn btn-primary u-btn-primary btn-sm transition-3d-hover" href="team.html">See the Team <span class="fa fa-angle-right ml-2"></span></a>
+                        </div>
+                      </div>
+                      <!-- End Banner Image -->
+                    </div>
+
+                    <div class="col-lg-6 u-header__mega-menu-wrapper-v3">
+                      <div class="row u-header__mega-menu-wrapper-v1">
+                        <div class="col-sm-6">
+                          <strong class="d-block mb-2">Chiropractors</strong>
+
+                          <!-- Links -->
+                          <ul class="list-unstyled mb-4">
+                            <li><a class="nav-link u-list__link py-2 px-0" href="profiles/karen_ngo.html">Karen Ngo</a></li>
+                          </ul>
+                          <!-- End Links -->
+
+                          <strong class="d-block mb-2">Massage Therapists</strong>
+
+                          <!-- Links -->
+                          <ul class="list-unstyled mb-4">
+                            <li><a class="nav-link u-list__link py-2 px-0" href="profiles/cassandra_kong.html">Cassandra Kong</a></li>
+                            <li><a class="nav-link u-list__link py-2 px-0" href="profiles/karen_ngo.html">Karen Ngo</a></li>
+                          </ul>
+                          <!-- End Links -->
+                        </div>
+
+                        <div class="col-sm-6">
+                          <strong class="d-block mb-2">Acupuncture Provider</strong>
+
+                          <!-- Links -->
+                          <ul class="list-unstyled mb-4">
+                            <li><a class="nav-link u-list__link py-2 px-0" href="profiles/karen_ngo.html">Karen Ngo</a></li>
+                          </ul>
+                          <!-- End Links -->
+
+                          <strong class="d-block mb-2">Physiotherapist</strong>
+
+                          <!-- Links -->
+                          <ul class="list-unstyled mb-4">
+                            <li>Coming Soon<span class="badge badge-success ml-1">New</span></li>
+                          </ul>
+                          <!-- End Links -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- End Home - Mega Menu -->
               </li>
-              <!-- End Team - Link -->
+              <!-- End Home -->
 
               <!-- Vision - Link -->
               <li class="nav-item">
                 <a class="nav-link u-header__nav-link" href="vision.html">
-                  Our Vision
+                  Vision
                 </a>
               </li>
               <!-- End Vision - Link -->
@@ -135,18 +201,26 @@
               </li>
               <!-- End Pricing - Link -->
 
+              <!-- Blog - Link
+              <li class="nav-item">
+                <a class="nav-link u-header__nav-link" href="blog.html">
+                  Blog
+                </a>
+              </li>
+              End Blog - Link -->
+
               <!-- Referral -->
               <li class="nav-item hs-has-mega-menu u-header__nav-item"
                   data-event="hover"
                   data-animation-in="slideInUp"
                   data-animation-out="fadeOut"
                   data-max-width="440px"
-                  data-position="right">
+                  data-position="right"
+                  onclick="location.href='referral.html';" value="Refer a Friend!">
                 <a id="shopMegaMenu" class="nav-link u-header__nav-link" href="referral.html"
                    aria-haspopup="true"
                    aria-expanded="false">
-                  Refer $20 get $20
-                  <span class="fa fa-angle-down u-header__nav-link-icon"></span>
+                  Refer a Friend
                 </a>
 
                 <!-- Mobile Referral Menu -->
@@ -155,7 +229,7 @@
                     <ul class="row list-unstyled u-header__mega-menu-list">
                       <li class="col-sm-6 col-lg u-header__mega-menu-col mb-3 mb-sm-0">
                         <span class="u-header__sub-menu-title">Refer a Friend!</span>
-                        <p>Refer a new patient and earn a $20 credit!</p>
+                        <p>Give your friend $20 and earn a $20 credit!</p>
                         <!-- Links -->
                         <ul class="list-unstyled p1">
                           <li><a class="btn btn-sm u-btn-primary--air transition-3d-hover" href="referral.html">Learn More<span class="fa fa-angle-right ml-2"></span></a></li>
@@ -201,7 +275,7 @@
 
               <!-- Button -->
               <li class="nav-item d-none d-md-inline-block pl-3 pr-0">
-                <a class="btn btn-sm btn-danger u-btn-danger transition-3d-hover" href="https://app.shedul.com/online_bookings/143514/link" target="_blank">
+                <a class="btn btn-sm btn-danger u-btn-danger transition-3d-hover" href="https://app.shedul.com/online_bookings/143514/link" target="blank">
                   Book Now
                 </a>
               </li>
@@ -217,13 +291,6 @@
     <div class="d-flex justify-content-center bg-primary p-1"></div>
     <!-- End Blue Bar Section -->
 
-    <style>
-      #header-text {
-        animation-delay: 0.25s;
-        animation-duration:1.0s;
-      }
-    </style>
-
   </header>
   <!-- ========== END HEADER ========== -->
 
@@ -235,7 +302,7 @@
       <!-- Apply your Parallax background image here -->
       <div class="divimage dzsparallaxer--target" style="height: 120%; background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/team-hands.png);"></div>
 
-      <div id="header-text" class="animated bounceIn">
+      <div class="animated bounceIn">
       <!-- Content -->
       <div class="container position-relative u-space-5-top u-space-3-bottom z-index-2">
         <div class="w-lg-80 text-center mx-auto">
@@ -245,6 +312,7 @@
       </div>
       <!-- End Content -->
       </div>
+
     </div>
     <!-- End Hero Section -->
 
@@ -322,7 +390,7 @@
       <div class="position-relative">
         <div class="u-bg-light-blue-50">
           <div class="container u-space-1">
-            <div class="w-md-80 w-lg-50 text-center mx-auto" data-animation="zoomIn" data-animation-duration="750">
+            <div class="w-md-80 w-lg-50 text-center mx-auto post">
 
               <div class="mb-4">
                 <h2 class="text-primary">
@@ -478,5 +546,16 @@
       $.HSCore.components.HSGoTo.init('.js-go-to');
     });
   </script>
+
+  <script src="assets/js/viewportchecker.js"></script>
+  <script>
+  jQuery(document).ready(function() {
+    jQuery('.post').addClass("hidden").viewportChecker({
+        classToAdd: 'visible animated bounceIn',
+        offset: 100
+       });
+  });
+  </script>
+
 </body>
 </html>

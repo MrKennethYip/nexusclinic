@@ -28,14 +28,6 @@
   <!-- CSS Front Template -->
   <link rel="stylesheet" href="assets/css/front.css">
 
-  <style>
-    .hidden{
-        opacity:0;
-    }
-    .visible{
-        opacity:1;
-    }
-  </style>
   <!-- Drift Chat Widget -->
   <script>
   "use strict";
@@ -300,18 +292,6 @@
     <div class="d-flex justify-content-center bg-primary p-1"></div>
     <!-- End Blue Bar Section -->
 
-
-    <style>
-      #header-text {
-        animation-delay: 0.15s;
-        animation-duration:1.25s;
-      }
-      #business-details {
-        animation-delay: 0.5s;
-        animation-duration:1.25s;
-      }
-    </style>
-
   </header>
   <!-- ========== END HEADER ========== -->
 
@@ -324,11 +304,11 @@
       <!-- Apply your Parallax background image here -->
       <div class="divimage dzsparallaxer--target" style="height: 120%; background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/home-massage.png);"></div>
 
-      <div id="header-text" class="post">
+      <div class="animated bounceIn">
       <!-- Content -->
       <div class="container position-relative u-space-5-top u-space-3-bottom z-index-2">
         <div class="w-lg-80 text-center mx-auto">
-          <h1 class="display-3 font-size-48--md-down text-white font-weight-bold">MASSAGE<span class="p-5 font-weight-light">|</span>CHIRO<span class="p-5 font-weight-light">|</span>PHYSIO</h1>
+          <h1 class="display-3 font-size-48--md-down text-white font-weight-bold">CHIRO<span class="p-5 font-weight-light">|</span>MASSAGE<span class="p-5 font-weight-light">|</span>PHYSIO</h1>
           <p class="lead text-white"><strong><em>Located at Yonge & Eglinton</em></strong></p>
 
           <br>
@@ -344,7 +324,7 @@
     <!-- End Hero Section -->
 
     <div class="d-flex justify-content-center bg-primary p-1"></div>
-    <div id="business-details" class="post">
+    <div id="block-1" class="animated bounceIn">
     <!-- Business Details Section -->
     <div class="container u-space-2">
       <div class="row">
@@ -483,9 +463,9 @@
     </div>
     <!-- End CTA Section -->
 
-    <div class="post" style="background-color:#E6E8E8">
+    <div style="background-color:#E6E8E8">
     <!-- Services Section -->
-      <div class="container u-space-1">
+      <div class="container u-space-1 post">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-auto mb-9">
           <h2 class="text-dark font-weight-normal">What makes us <span class="font-weight-bold">Unique?</span></h2>
@@ -657,7 +637,7 @@
   <footer>
     <!-- Book Appointment -->   
     <div class="position-relative">
-      <div style="background-color:#0096AC">
+      <div style="background-color:#002733">
         <div class="container u-space-1">
           <div class="w-md-80 w-lg-50 text-center mx-auto post" >
             <div class="mb-4">
@@ -779,9 +759,6 @@
   <script src="assets/js/components/hs.show-animation.js"></script>
   <script src="assets/js/components/hs.go-to.js"></script>
   <script src="assets/js/components/hs.modal-window.js"></script>
-  <script src="assets/js/components/hs.onscroll-animation.js"></script>
-
-
 
   <!-- JS Plugins Init. -->
   <script>
@@ -793,9 +770,6 @@
         breakpoint: 767,
         hideTimeOut: 0
       });
-
-      // initialization of scroll animation
-      $.HSCore.components.HSOnScrollAnimation.init('[data-animation]');
     });
 
     $(document).on('ready', function () {
@@ -831,6 +805,7 @@
   </script>
 
   <script src="assets/js/viewportchecker.js"></script>
+  
   <script>
   jQuery(document).ready(function() {
     jQuery('.post').addClass("hidden").viewportChecker({
@@ -839,5 +814,6 @@
        });
   });
   </script>
+
 </body>
 </html>
