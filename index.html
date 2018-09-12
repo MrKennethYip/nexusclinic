@@ -28,6 +28,14 @@
   <!-- CSS Front Template -->
   <link rel="stylesheet" href="assets/css/front.css">
 
+  <style>
+    .hidden{
+      opacity:0;
+    }
+    .visible{
+        opacity:1;
+    }
+  </style>
   <!-- Drift Chat Widget -->
   <script>
   "use strict";
@@ -295,11 +303,11 @@
 
     <style>
       #header-text {
-        animation-delay: 0.25s;
+        animation-delay: 0s;
         animation-duration:0.5s;
       }
       #business-details {
-        animation-delay: 0.5s;
+        animation-delay: 0s;
         animation-duration:0.5s;
       }
     </style>
@@ -316,7 +324,7 @@
       <!-- Apply your Parallax background image here -->
       <div class="divimage dzsparallaxer--target" style="height: 120%; background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/home-massage.png);"></div>
 
-      <div id="header-text" class="animated pulse" >
+      <div id="header-text" class="post" data-vp-delay="250" >
       <!-- Content -->
       <div class="container position-relative u-space-5-top u-space-3-bottom z-index-2">
         <div class="w-lg-80 text-center mx-auto">
@@ -337,7 +345,7 @@
 
     <div class="d-flex justify-content-center bg-primary p-1"></div>
 
-    <div id="business-details" class="animated pulse slow">
+    <div id="business-details" class="post" data-vp-delay="500">
     <!-- Business Details Section -->
     <div class="container u-space-2">
       <div class="row">
@@ -484,7 +492,7 @@
     </div>
     <!-- End CTA Section -->
 
-    <div data-animation="pulse" data-animation-duration="750">
+    <div class="post">
     <!-- Services Section -->
       <div class="container u-space-1">
         <!-- Title -->
@@ -577,7 +585,7 @@
 
     <!-- Google Maps Section -->
     <div class="container u-space-1">
-      <div data-animation="pulse" data-animation-duration="750">
+      <div class="post">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-auto mb-9">
           <h2 class="text-primary font-weight-normal">Visit us at <span class="font-weight-bold">Yonge & Eglinton</span></h2>
@@ -668,7 +676,7 @@
     <div class="position-relative">
       <div class="u-bg-light-blue-50">
         <div class="container u-space-1">
-          <div class="w-md-80 w-lg-50 text-center mx-auto" data-animation="pulse" data-animation-duration="750">
+          <div class="w-md-80 w-lg-50 text-center mx-auto post" >
 
             <div class="mb-4">
               <h2 class="text-primary">
@@ -849,5 +857,14 @@
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtt1z99GtrHZt_IcnK-wryNsQ30A112J0&callback">
   </script>
 
+  <script src="assets/js/viewportchecker.js"></script>
+  <script>
+  jQuery(document).ready(function() {
+    jQuery('.post').addClass("hidden").viewportChecker({
+        classToAdd: 'visible animated bounceIn',
+        offset: 0
+       });
+  });
+  </script>
 </body>
 </html>
