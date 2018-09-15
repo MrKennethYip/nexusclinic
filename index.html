@@ -710,7 +710,141 @@
     "@type": "GeoCoordinates",
     "latitude": 43.707311,
     "longitude": -79.397152
-  }
+  },
+  "starRating" : { "@type" : "Rating",
+                   "ratingValue" : "5"},
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Health services",
+    "itemListElement": [
+      {
+        "@type": "OfferCatalog",
+        "name": "CHIROPRACTIC",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Initial Appointment"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "20 Min Follow Up"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "40 Min Follow Up"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "RMT MASSAGE",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "30 Min Session"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "45 Min Session"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "60 Min Session"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "75 Min Session"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "90 Min Session"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "120 Min Session"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "PHYSIOTHERAPY",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Initial Appointment"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "20 Min Follow Up"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "40 Min Follow Up"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "60 Min Follow Up"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "potentialAction": {
+		"@type": "ReserveAction",
+		"target": {
+			"@type": "EntryPoint",
+			"urlTemplate": "https://nexusclinic.clinicsense.com/book/",
+			"inLanguage":"en-US",
+			"actionPlatform": [
+				"http://schema.org/DesktopWebPlatform",
+				"http://schema.org/IOSPlatform",
+				"http://schema.org/AndroidPlatform"
+			]
+		},
+		"result": {
+			"@type": "Reservation",
+			"name": "Book Now"
+		}
+	}
 }
 </script>
 </body>
