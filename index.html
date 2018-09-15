@@ -29,6 +29,11 @@
 
   <!-- CSS Front Template -->
   <link rel="stylesheet" href="assets/css/front.css">
+  <style>
+    @media (max-width: 768px) {
+      .full-text { display: none; }
+    }
+  </style>
 
   <!-- Drift Chat Widget -->
   <script>
@@ -192,12 +197,17 @@
          data-options='{direction: "normal"}'>
       <!-- Apply your Parallax background image here -->
       <div class="divimage dzsparallaxer--target" style="height: 120%; background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/home-massage.png);"></div>
-
       <div class="animated bounceIn">
       <!-- Content -->
       <div class="container position-relative u-space-5-top u-space-3-bottom z-index-2">
         <div class="w-lg-80 text-center mx-auto">
-          <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">CHIRO | MASSAGE | PHYSIO</h1>
+          <h1 >
+            <span class="display-4 font-size-48--md-down text-white font-weight-bold">CHIRO</span>
+            <span class="display-4 font-size-48--md-down text-white full-text">&#10072;</span>
+            <span class="display-4 font-size-48--md-down text-white font-weight-bold">MASSAGE</span>
+            <span class="display-4 font-size-48--md-down text-white full-text">&#10072;</span>
+            <span class="display-4 font-size-48--md-down text-white font-weight-bold">PHYSIO</span>
+          </h1>
           <p class="lead text-white">Located at <span class="font-weight-bold">Yonge & Eglinton</span></p>
           <div class="u-space-1-top">
             <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank">Book Online<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
