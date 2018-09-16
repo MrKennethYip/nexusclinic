@@ -589,7 +589,7 @@ svg {
 
 /* Topbar Nav Link */
 .u-header__topbar-nav-link {
-  color: #77838f;
+  color: #354F5E;
   font-weight: 300;
   font-size: 0.875rem;
   padding-left: 0.5rem;
@@ -2942,7 +2942,7 @@ svg {
 ------------------------------------*/
 /* white */
 .u-btn-white {
-  color: #1e2022;
+  color: #354F5E;
   background-color: #fff;
   border-color: #fff;
 }
@@ -4405,8 +4405,8 @@ svg {
 /* dark */
 .u-icon-dark {
   color: #fff;
-  background-color: #1e2022;
-  border-color: #1e2022;
+  background-color: #354F5E;
+  border-color: #354F5E;
 }
 
 .u-icon-dark[href]:hover {
@@ -6404,7 +6404,7 @@ svg {
   Nav
 ------------------------------------*/
 .nav-link {
-  color: #77838f;
+  color: #354F5E;
 }
 
 /*------------------------------------
