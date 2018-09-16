@@ -298,7 +298,7 @@
                   <HR>
 
                   <div class="media-body p-3 text-center">
-                    <a href="#comingSoonPhysioModal" role="button" data-modal-target="#comingSoonPhysioModal"><button type="button" class="btn btn-sm btn-block btn-outline-dark transition-3d-hover">Coming Soon</button></a>
+                    <a href="#comingSoonPhysioModal" role="button" data-modal-target="#comingSoonPhysioModal"><button type="button" class="btn btn-sm btn-block btn-outline-dark transition-3d-hover">Get Notified When Available<span class="fa fa-angle-right ml-2"></span></button></a>
                   </div>
 
                 </div>
@@ -370,7 +370,7 @@
                   <HR>
 
                   <div class="media-body p-3 text-center">
-                    <a href="#comingSoonAcuModal" role="button" data-modal-target="#comingSoonAcuModal"><button type="button" class="btn btn-sm btn-block btn-outline-dark transition-3d-hover">Coming Soon</button></a>
+                    <a href="#comingSoonAcuModal" role="button" data-modal-target="#comingSoonAcuModal"><button type="button" class="btn btn-sm btn-block btn-outline-dark transition-3d-hover">Get Notified When Available<span class="fa fa-angle-right ml-2"></span></button></a>
                   </div>
 
                 </div>
@@ -567,7 +567,7 @@
 
       <div class="container p-6">
         <!-- Input -->
-        <form action="https://facebook.us18.list-manage.com/subscribe/post-json?u=74662c8838760a07d2418ab7d&amp;id=5203b0ffbf&amp;c=?" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="js-validate js-form-message" target="_blank" novalidate>
+        <form action="https://facebook.us18.list-manage.com/subscribe/post-json?u=74662c8838760a07d2418ab7d&amp;id=5f590467bd&amp;c=?" method="get" id="mc-embedded-subscribe-form-physio" name="mc-embedded-subscribe-form" class="js-validate js-form-message" target="_blank" novalidate>
           <div class="js-focus-state input-group u-form">
             <input type="email" value="" class="form-control u-form__input" id="mce-EMAIL" name="EMAIL" novalidate required
                    placeholder="Enter your email address"
@@ -578,7 +578,7 @@
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-danger u-btn-danger">
               </span>
             </div>
-            <p id="error-text" style="color:red;"></p>
+            <p id="error-text-physio" style="color:red;"></p>
 
           </div>
         </form>
@@ -597,7 +597,7 @@
 
       <div class="container p-6">
         <!-- Input -->
-        <form action="https://facebook.us18.list-manage.com/subscribe/post-json?u=74662c8838760a07d2418ab7d&amp;id=5203b0ffbf&amp;c=?" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="js-validate js-form-message" target="_blank" novalidate>
+        <form action="https://facebook.us18.list-manage.com/subscribe/post-json?u=74662c8838760a07d2418ab7d&amp;id=eee3ce6066&amp;c=?" method="get" id="mc-embedded-subscribe-form-accu" name="mc-embedded-subscribe-form" class="js-validate js-form-message" target="_blank" novalidate>
           <div class="js-focus-state input-group u-form">
             <input type="email" value="" class="form-control u-form__input" id="mce-EMAIL" name="EMAIL" novalidate required
                    placeholder="Enter your email address"
@@ -608,7 +608,7 @@
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-danger u-btn-danger">
               </span>
             </div>
-            <p id="error-text" style="color:red;"></p>
+            <p id="error-text-accu" style="color:red;"></p>
 
           </div>
         </form>
@@ -713,10 +713,14 @@
         var $form = $('form');
 
         if ( $form.length > 0 ) {
-            $('form input[type="submit"]').bind('click', function ( event ) {
+            $('#mc-embedded-subscribe-form-physio').bind('click', function ( event ) {
                 if ( event ) event.preventDefault();
-                // validate_input() is a validation function I wrote, you'll have to substitute this with your own.
-                register($form);
+                register($('#mc-embedded-subscribe-form-physio'));
+            });
+
+            $('#mc-embedded-subscribe-form-accu').bind('click', function ( event ) {
+              if ( event ) event.preventDefault();
+              register($('#mc-embedded-subscribe-form-accu'));
             });
         }
     });
@@ -733,10 +737,20 @@
             success     : function(data) {
                 var $input_field = $('form input[type="email"]')
                 if (data.result != "success") {
-                  document.getElementById("error-text").innerHTML = data.msg.replace("0 - ","")
+                  if ($form.attr("id") == 'mc-embedded-subscribe-form-physio') {
+                    document.getElementById("error-text-physio").innerHTML = data.msg.replace("0 - ","")
+                  }
+                  if ($form.attr("id") == 'mc-embedded-subscribe-form-accu') {
+                    document.getElementById("error-text-accu").innerHTML = data.msg.replace("0 - ","")
+                  }
                 } else {
                   //alert(data.msg);
-                  document.getElementById("error-text").innerHTML = data.msg.replace("0 - ","")
+                  if ($form.attr("id") == 'mc-embedded-subscribe-form-physio') {
+                    document.getElementById("error-text-physio").innerHTML = data.msg.replace("0 - ","")
+                  }
+                  if ($form.attr("id") == 'mc-embedded-subscribe-form-accu') {
+                    document.getElementById("error-text-accu").innerHTML = data.msg.replace("0 - ","")
+                  }
                 }
             }
         });
