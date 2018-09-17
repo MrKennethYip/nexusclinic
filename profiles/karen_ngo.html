@@ -26,7 +26,18 @@
 
   <!-- CSS Front Template -->
   <link rel="stylesheet" href="../assets/css/front.css">
-
+  <style>
+    @media (min-width: 768px) {
+      .custom-top-spacing {
+        padding-top: 8.125rem;
+      }
+    }
+    @media (max-width: 1024px) {
+      .custom-top-spacing {
+        padding-top: 15rem;
+      }
+    }
+  </style>
   <!-- Drift Chat Widget -->
   <script>
   "use strict";
@@ -183,7 +194,7 @@
   <main id="content" role="main">
 
     <!-- Author Section -->
-    <div class="position-relative text-center u-space-3-top u-gradient-overlay-half-info-v1 u-bg-img-hero">
+    <div class="position-relative text-center custom-top-spacing u-gradient-overlay-half-info-v1 u-bg-img-hero">
       <div class="row justify-content-md-center">
 
         <div class="col-md-8 col-lg-7 col-xl-5">
