@@ -1,6 +1,11 @@
 @media (min-width: 0) {
   .card-deck .card {
-    flex: 0 0 calc(100% - 30px);
+    flex: 0 0 0 0
+  }
+}
+@media (min-width: 50) {
+  .card-deck .card {
+    flex: 0 0 0 0
   }
 }
 @media (min-width: 576px) {
