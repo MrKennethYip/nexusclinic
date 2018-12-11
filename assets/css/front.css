@@ -34,6 +34,62 @@ h4, h5, h6,
   font-weight: 500;
 }
 
+@font-face {
+    font-family: 'belco';
+    src: url('../fonts/BelcoW01Regular.woff2') format('woff2'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('../fonts/BelcoW01Regular.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+@font-face {
+    font-family: 'GeorgiaItalic';
+    src: url('../fonts/GeorgiaItalic.woff2') format('woff2'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('../fonts/GeorgiaItalic.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+@font-face {
+    font-family: 'BrandonGrotesqueBold';
+    src: url('../fonts/BrandonGrotesque-Bold.woff2') format('woff2'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('../fonts/BrandonGrotesque-Bold.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+@font-face {
+    font-family: 'brandonreg';
+    src: url('../fonts/brandonreg.woff2') format('woff2'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('../fonts/brandonreg.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+
+h1, .h1 {
+  font-family: "belco", Helvetica, Arial, sans-serif;
+  font-size: 5.0rem;
+}
+
+h2, .h2 {
+  font-family: "BrandonGrotesque", Helvetica, Arial, sans-serif;
+  font-size: 2.5rem;
+}
+
+h3, .h3 {
+  font-family: "GeorgiaItalic", Helvetica, Arial, sans-serif;
+  font-size: 2.0rem;
+}
+
+h4, .h4 {
+  font-family: "brandonreg", Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+
+h5, .h5 {
+  font-family: "brandonreg", Helvetica, Arial, sans-serif;
+  font-size: 1.25rem;
+}
+
+body, .body, p, .p {
+  font-family: "brandonreg", Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+}
+
 h1 > a, h2 > a, h3 > a, h4 > a, h5 > a, h6 > a,
 .h1 > a, .h2 > a, .h3 > a, .h4 > a, .h5 > a, .h6 > a {
   color: #1e2022;
