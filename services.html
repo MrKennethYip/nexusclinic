@@ -81,6 +81,17 @@
     gtag('config', 'UA-124593606-2');
   </script>
 
+  <style>
+      h3.LessMoreCollapse.collapsed:before
+      {
+          content:'More . . .' ;
+      }
+      h3.LessMoreCollapse:before
+      {
+          content:'Less . . .' ;
+      }
+  </style>
+
 </head>
 
 <body>
@@ -515,7 +526,6 @@
     <div style="border-top: 1px solid #898A8D;">
     <!-- Services FAQ Section -->
       <div class="container u-space-1">
-
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-auto mb-6">
           <h2 class="text-primary"><span class="font-weight-bold">Frequently Answered Questions</span></h2>
@@ -616,163 +626,181 @@
               </div>
               <!-- End Card -->
 
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingFour">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQFour" aria-expanded="false" aria-controls="FAQFour" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      What should I expect in a Massage Therapy treatment?
+              <!-- More Expandable Card -->
+              <div class="card mb-3 u-card-collapse" style="border:none;">
+
+                <div id="FAQOneExpand" class="collapse" aria-labelledby="FAQHeadingOneExpand" data-parent="#FAQHeadingOneExpand">
+                  <div class="card-body px-4">
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingFour">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQFour" aria-expanded="false" aria-controls="FAQFour" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            What should I expect in a Massage Therapy treatment?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQFour" class="collapse" aria-labelledby="FAQHeadingFour" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          Your massage session starts when you enter the room and ends when you leave the room. It consists of an assessment, treatment and exercises/home care.<br><br>
+
+                          During the treatment, your massage therapist will ask you your goals and what areas you would like to be worked on. If this is your subsequent treatment, your therapist will follow up on the effects of your last treatment session and modify the treatment, if needed, for effectiveness.<br><br>
+
+                          After you have set your goals for treatment, your RMT will leave the room for you to get ready on the table. During the massage, your RMT will check in on the pressure of the massage to make sure you feel comfortable. If you feel the pressure is too much, or would like more, please don’t hesitate to let your massage therapist know and he/she will modify the treatment for you.<br><br>
+
+                          After the massage is complete, your RMT may provide you some exercises and home care on how to improve your health based on your goals. The homecare prescription is part of your massage therapy session that you booked.<br><br>
+
+                          Please note that if you require more hands-on massage time to book for a longer duration.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingFive">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQFive" aria-expanded="false" aria-controls="FAQFive" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            Do I have to remove all my clothing for massage therapy?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQFive" class="collapse" aria-labelledby="FAQHeadingFive" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          No. Your comfort as a client is of the utmost importance to us. Whether that is in the context of the clothing you wear or the treatment you receive. Our RMTs can provide an effective treatment whether you elect to remove any, some, or all of your clothing. Our massage therapists at Nexus Massage and Rehab performs proper draping procedures to ensure that your privacy is completely respected at all times during treatment. Your comfort and ability to relax is paramount to effective treatment.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingSix">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQSix" aria-expanded="false" aria-controls="FAQFSix" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            Is Massage Therapy a regulated health profession?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQSix" class="collapse" aria-labelledby="FAQHeadingSix" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          The practice of massage therapy is regulated under the Regulated Health Professions Act, 1991 (RHPA) and is therefore a Regulated Health Profession.  Only individuals who have completed the requisite training and have met the strict competency requirements of the College of Massage Therapists of Ontario (CMTO) can call themselves a "Massage Therapist" or a "Registered Massage Therapist".
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingOne-alt">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQOne-alt" aria-expanded="false" aria-controls="FAQOne-alt" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            Does massage therapy hurt?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQOne-alt" class="collapse" aria-labelledby="FAQHeadingOne-alt" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          As with many treatments affecting the soft tissue, there are times when massage therapy can cause some discomfort, but it is not harmful. Massage therapy relieves muscle tension by stimulating the natural healing response of the body.  By bringing blood flow and circulation to the area, we are causing inflammation to start the healing process. Pain can be felt during a massage as we are manipulating the tissue to start the initial tissue repair.<br><br>
+
+                          If you feel discomfort during a massage, it is likely because the area being massaged is tight. If at any point, you find the pressure to be too much for you, please let your therapist know and they will modify the pressure to your liking. You can also stop or change the treatment at any time.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingTwo-alt">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQTwo-alt" aria-expanded="false" aria-controls="FAQTwo-alt" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            Is it normal to be sore after a massage therapy session?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQTwo-alt" class="collapse" aria-labelledby="FAQHeadingTwo-alt" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          After a massage therapy treatment, it is normal to be sore for 1-3 days. This is called Delayed Onset Muscle Soreness (DOMS). This usually feel like sore muscles after a hard workout at the gym.<br><br>
+
+                          This is the time your muscles are repairing themselves. With increased blood flow and inflammation to the area, your muscles can feel sore.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingThree-alt">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQThree-alt" aria-expanded="false" aria-controls="FAQThree-alt" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            How many visits will I need?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQThree-alt" class="collapse" aria-labelledby="FAQHeadingThree-alt" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          The number of treatments will vary depending on the problem and individual. After a thorough treatment, your massage therapist will help you establish a program that fits your physical needs and lifestyle. We are most interested in your recovery and in the maintenance of your health. Any recommendation for further treatment is being made by a qualified health professional and is made with your utmost care in mind.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingFour-alt">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQFour-alt" aria-expanded="false" aria-controls="FAQFour-alt" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            How long should I book for a Massage at Nexus Massage and Rehab?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQFour-alt" class="collapse" aria-labelledby="FAQHeadingFour-alt" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          The duration of your appointment depends on what your goals is, how complicated it is to treat and how your body responds to treatment. An average massage duration is 60 minutes, but it can be more or less depending on each person.<br><br>
+
+                          Your RMT at Nexus Clinic will let you know how long  and how often your treatments should be for optimal effectiveness.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingFive-alt">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQFive-alt" aria-expanded="false" aria-controls="FAQFive-alt" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            Do I have to be referred by a doctor to get massage therapy treatments?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQFive-alt" class="collapse" aria-labelledby="FAQHeadingFive-alt" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          No, Massage Therapists can assess and treat without referral by a doctor. However some health insurers require a doctor’s referral before they authorise cover of fees, some only require a phone call. Please check with your insurance company as all insurance companies / insurance plans are different.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                  </div>
+                </div>
+                <div class="card-header px-4" id="FAQHeadingOneExpand" style="border-bottom:none;">
+                    <h3 class="h5 LessMoreCollapse collapsed text-center justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0" data-toggle="collapse" data-target="#FAQOneExpand" aria-expanded="false" aria-controls="FAQOneExpand" role="button">
+
                       <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
                     </h3>
-                  </div>
-                </div>
-                <div id="FAQFour" class="collapse" aria-labelledby="FAQHeadingFour" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    Your massage session starts when you enter the room and ends when you leave the room. It consists of an assessment, treatment and exercises/home care.<br><br>
-
-                    During the treatment, your massage therapist will ask you your goals and what areas you would like to be worked on. If this is your subsequent treatment, your therapist will follow up on the effects of your last treatment session and modify the treatment, if needed, for effectiveness.<br><br>
-
-                    After you have set your goals for treatment, your RMT will leave the room for you to get ready on the table. During the massage, your RMT will check in on the pressure of the massage to make sure you feel comfortable. If you feel the pressure is too much, or would like more, please don’t hesitate to let your massage therapist know and he/she will modify the treatment for you.<br><br>
-
-                    After the massage is complete, your RMT may provide you some exercises and home care on how to improve your health based on your goals. The homecare prescription is part of your massage therapy session that you booked.<br><br>
-
-                    Please note that if you require more hands-on massage time to book for a longer duration.
-                  </div>
                 </div>
               </div>
-              <!-- End Card -->
+              <!-- End More Expandable Card -->
 
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingFive">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQFive" aria-expanded="false" aria-controls="FAQFive" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      Do I have to remove all my clothing for massage therapy?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQFive" class="collapse" aria-labelledby="FAQHeadingFive" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    No. Your comfort as a client is of the utmost importance to us. Whether that is in the context of the clothing you wear or the treatment you receive. Our RMTs can provide an effective treatment whether you elect to remove any, some, or all of your clothing. Our massage therapists at Nexus Massage and Rehab performs proper draping procedures to ensure that your privacy is completely respected at all times during treatment. Your comfort and ability to relax is paramount to effective treatment.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingSix">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQSix" aria-expanded="false" aria-controls="FAQFSix" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      Is Massage Therapy a regulated health profession?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQSix" class="collapse" aria-labelledby="FAQHeadingSix" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    The practice of massage therapy is regulated under the Regulated Health Professions Act, 1991 (RHPA) and is therefore a Regulated Health Profession.  Only individuals who have completed the requisite training and have met the strict competency requirements of the College of Massage Therapists of Ontario (CMTO) can call themselves a "Massage Therapist" or a "Registered Massage Therapist".
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingOne-alt">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQOne-alt" aria-expanded="false" aria-controls="FAQOne-alt" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      Does massage therapy hurt?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQOne-alt" class="collapse" aria-labelledby="FAQHeadingOne-alt" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    As with many treatments affecting the soft tissue, there are times when massage therapy can cause some discomfort, but it is not harmful. Massage therapy relieves muscle tension by stimulating the natural healing response of the body.  By bringing blood flow and circulation to the area, we are causing inflammation to start the healing process. Pain can be felt during a massage as we are manipulating the tissue to start the initial tissue repair.<br><br>
-
-                    If you feel discomfort during a massage, it is likely because the area being massaged is tight. If at any point, you find the pressure to be too much for you, please let your therapist know and they will modify the pressure to your liking. You can also stop or change the treatment at any time.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingTwo-alt">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQTwo-alt" aria-expanded="false" aria-controls="FAQTwo-alt" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      Is it normal to be sore after a massage therapy session?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQTwo-alt" class="collapse" aria-labelledby="FAQHeadingTwo-alt" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    After a massage therapy treatment, it is normal to be sore for 1-3 days. This is called Delayed Onset Muscle Soreness (DOMS). This usually feel like sore muscles after a hard workout at the gym.<br><br>
-
-                    This is the time your muscles are repairing themselves. With increased blood flow and inflammation to the area, your muscles can feel sore.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingThree-alt">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQThree-alt" aria-expanded="false" aria-controls="FAQThree-alt" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      How many visits will I need?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQThree-alt" class="collapse" aria-labelledby="FAQHeadingThree-alt" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    The number of treatments will vary depending on the problem and individual. After a thorough treatment, your massage therapist will help you establish a program that fits your physical needs and lifestyle. We are most interested in your recovery and in the maintenance of your health. Any recommendation for further treatment is being made by a qualified health professional and is made with your utmost care in mind.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingFour-alt">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQFour-alt" aria-expanded="false" aria-controls="FAQFour-alt" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      How long should I book for a Massage at Nexus Massage and Rehab?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQFour-alt" class="collapse" aria-labelledby="FAQHeadingFour-alt" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    The duration of your appointment depends on what your goals is, how complicated it is to treat and how your body responds to treatment. An average massage duration is 60 minutes, but it can be more or less depending on each person.<br><br>
-
-                    Your RMT at Nexus Clinic will let you know how long  and how often your treatments should be for optimal effectiveness.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingFive-alt">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQFive-alt" aria-expanded="false" aria-controls="FAQFive-alt" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      Do I have to be referred by a doctor to get massage therapy treatments?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQFive-alt" class="collapse" aria-labelledby="FAQHeadingFive-alt" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    No, Massage Therapists can assess and treat without referral by a doctor. However some health insurers require a doctor’s referral before they authorise cover of fees, some only require a phone call. Please check with your insurance company as all insurance companies / insurance plans are different.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
             </div>
           </div>
           <!-- End RMT Accordion -->
@@ -862,140 +890,156 @@
               </div>
               <!-- End Card -->
 
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingFour">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQFour" aria-expanded="false" aria-controls="FAQFour" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      How can Chiropractors at Nexus Massage & Rehab help?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
+
+              <!-- More Expandable Card -->
+              <div class="card mb-3 u-card-collapse" style="border:none;">
+
+                <div id="FAQTwoExpand" class="collapse" aria-labelledby="FAQHeadingTwoExpand" data-parent="#FAQHeadingTwoExpand">
+                  <div class="card-body px-4">
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingFour">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQFour" aria-expanded="false" aria-controls="FAQFour" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            How can Chiropractors at Nexus Massage & Rehab help?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQFour" class="collapse" aria-labelledby="FAQHeadingFour" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          Chiropractors at Nexus Massage & Rehab are extensively educated in the prevention, assessment, diagnosis and management of musculoskeletal (MSK) conditions and associated neurological system and will recommend a course of treatment to help relieve pain and improve function without surgery or pharmaceuticals. This includes<br><br>
+
+                          <ul>
+                            <li><strong><em>Manual therapy:</strong></em>  When a joint isn’t moving as well as it should, your chiropractor at Nexus Massage & Rehab may utilize this treatment technique to help regain motion within a joint.</li><br>
+                            <li><strong><em>Soft tissue therapy:</strong></em>  This is where your chiropractor works to relax and treat tight and sore muscles.</li><br>
+                            <li><strong><em>Exercise therapy/self-management:</strong></em>  Your chiropractor will be able to provide simple exercises that you can do at home to help with your pain and to help prevent re-injury.</li><br>
+                            <li><strong><em>Modalities:</strong></em>  Although chiropractors use their hands for most treatments, they also use other methods such as heat, ultrasound, low-level laser therapy, electrotherapy, acupuncture and other physical therapy techniques.</li><br>
+                            At Nexus Massage & Rehab, our chiropractors adopt an evidence-informed practice principle to guide clinical and treatment decisions while prioritizing our patient’s preferences and values.</li>
+                          </ul>
+
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingFive">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQFive" aria-expanded="false" aria-controls="FAQFive" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            Is Chiropractic treatment safe?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQFive" class="collapse" aria-labelledby="FAQHeadingFive" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          Chiropractic is widely recognised as one of the safest drug-free, non-invasive therapies available for the treatment of muscle and joint complaints. Although chiropractic treatment has an excellent safety record, no health treatment is completely free of potential adverse effects. The risks associated with care from a chiropractor, however, are very small. Many patients feel immediate relief following chiropractic treatment.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingOne-alt">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQOne-alt" aria-expanded="false" aria-controls="FAQOne-alt" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            What can I expect on my first appointment to a Chiropractor at Nexus Massage & Rehab?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQOne-alt" class="collapse" aria-labelledby="FAQHeadingOne-alt" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          The initial chiropractic assessment consists of a thorough health history and focused physical examination that helps the chiropractor identify factors influencing a patient’s health. The chiropractor will then review therapies that may be used in the treatment plan. Chiropractic patients may ask their chiropractor any questions they have. A chiropractic treatment is also performed on the first visit, unless further diagnostic tests are needed. The typical chiropractic initial assessment takes between 40 and 60 minutes.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingTwo-alt">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQTwo-alt" aria-expanded="false" aria-controls="FAQTwo-alt" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            What should I wear to my initial assessment with the Chiropractor?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQTwo-alt" class="collapse" aria-labelledby="FAQHeadingTwo-alt" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          Patients should wear comfortable clothing that allows the chiropractor easy access to the area of concern.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingThree-alt">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQThree-alt" aria-expanded="false" aria-controls="FAQThree-alt" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            Does the Chiropractor take X-Rays?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQThree-alt" class="collapse" aria-labelledby="FAQHeadingThree-alt" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          The majority of chiropractic patients who come into Nexus Massage & Rehab do not require x-rays to have their conditions treated effectively. X-rays are occasionally ordered by a chiropractor in order to rule out serious conditions.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingFour-alt">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQFour-alt" aria-expanded="false" aria-controls="FAQFour-alt" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            How long will my condition take to get better with Chiropractic care?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQFour-alt" class="collapse" aria-labelledby="FAQHeadingFour-alt" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          Following the initial exam, the chiropractor will inform the patient of the extent of treatment recommended and how long it can be expected to last. The goal of the chiropractor is to resolve pain, restore function, and reduce incidences of recurrence.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingFive-alt">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQFive-alt" aria-expanded="false" aria-controls="FAQFive-alt" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            What education does a Chiropractor from Nexus Massage & Rehab have?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQFive-alt" class="collapse" aria-labelledby="FAQHeadingFive-alt" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          A chiropractor undergoes at least four years of professional study following an undergraduate university degree. Chiropractors must also pass national and provincial board examinations.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
                   </div>
                 </div>
-                <div id="FAQFour" class="collapse" aria-labelledby="FAQHeadingFour" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    Chiropractors at Nexus Massage & Rehab are extensively educated in the prevention, assessment, diagnosis and management of musculoskeletal (MSK) conditions and associated neurological system and will recommend a course of treatment to help relieve pain and improve function without surgery or pharmaceuticals. This includes<br><br>
-
-                    <ul>
-                      <li><strong><em>Manual therapy:</strong></em>  When a joint isn’t moving as well as it should, your chiropractor at Nexus Massage & Rehab may utilize this treatment technique to help regain motion within a joint.</li><br>
-                      <li><strong><em>Soft tissue therapy:</strong></em>  This is where your chiropractor works to relax and treat tight and sore muscles.</li><br>
-                      <li><strong><em>Exercise therapy/self-management:</strong></em>  Your chiropractor will be able to provide simple exercises that you can do at home to help with your pain and to help prevent re-injury.</li><br>
-                      <li><strong><em>Modalities:</strong></em>  Although chiropractors use their hands for most treatments, they also use other methods such as heat, ultrasound, low-level laser therapy, electrotherapy, acupuncture and other physical therapy techniques.</li><br>
-                      At Nexus Massage & Rehab, our chiropractors adopt an evidence-informed practice principle to guide clinical and treatment decisions while prioritizing our patient’s preferences and values.</li>
-                    </ul>
-
-                  </div>
+                <div class="card-header px-4" id="FAQHeadingTwoExpand" style="border-bottom:none;">
+                  <h3 class="h5 LessMoreCollapse collapsed text-center justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0" data-toggle="collapse" data-target="#FAQTwoExpand" aria-expanded="false" aria-controls="FAQTwoExpand" role="button">
+                    <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                  </h3>
                 </div>
               </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingFive">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQFive" aria-expanded="false" aria-controls="FAQFive" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      Is Chiropractic treatment safe?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQFive" class="collapse" aria-labelledby="FAQHeadingFive" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    Chiropractic is widely recognised as one of the safest drug-free, non-invasive therapies available for the treatment of muscle and joint complaints. Although chiropractic treatment has an excellent safety record, no health treatment is completely free of potential adverse effects. The risks associated with care from a chiropractor, however, are very small. Many patients feel immediate relief following chiropractic treatment.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingOne-alt">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQOne-alt" aria-expanded="false" aria-controls="FAQOne-alt" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      What can I expect on my first appointment to a Chiropractor at Nexus Massage & Rehab?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQOne-alt" class="collapse" aria-labelledby="FAQHeadingOne-alt" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    The initial chiropractic assessment consists of a thorough health history and focused physical examination that helps the chiropractor identify factors influencing a patient’s health. The chiropractor will then review therapies that may be used in the treatment plan. Chiropractic patients may ask their chiropractor any questions they have. A chiropractic treatment is also performed on the first visit, unless further diagnostic tests are needed. The typical chiropractic initial assessment takes between 40 and 60 minutes.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingTwo-alt">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQTwo-alt" aria-expanded="false" aria-controls="FAQTwo-alt" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      What should I wear to my initial assessment with the Chiropractor?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQTwo-alt" class="collapse" aria-labelledby="FAQHeadingTwo-alt" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    Patients should wear comfortable clothing that allows the chiropractor easy access to the area of concern.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingThree-alt">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQThree-alt" aria-expanded="false" aria-controls="FAQThree-alt" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      Does the Chiropractor take X-Rays?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQThree-alt" class="collapse" aria-labelledby="FAQHeadingThree-alt" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    The majority of chiropractic patients who come into Nexus Massage & Rehab do not require x-rays to have their conditions treated effectively. X-rays are occasionally ordered by a chiropractor in order to rule out serious conditions.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingFour-alt">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQFour-alt" aria-expanded="false" aria-controls="FAQFour-alt" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      How long will my condition take to get better with Chiropractic care?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQFour-alt" class="collapse" aria-labelledby="FAQHeadingFour-alt" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    Following the initial exam, the chiropractor will inform the patient of the extent of treatment recommended and how long it can be expected to last. The goal of the chiropractor is to resolve pain, restore function, and reduce incidences of recurrence.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingFive-alt">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQFive-alt" aria-expanded="false" aria-controls="FAQFive-alt" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      What education does a Chiropractor from Nexus Massage & Rehab have?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQFive-alt" class="collapse" aria-labelledby="FAQHeadingFive-alt" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    A chiropractor undergoes at least four years of professional study following an undergraduate university degree. Chiropractors must also pass national and provincial board examinations.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
+              <!-- End More Expandable Card -->
 
             </div>
 
@@ -1087,155 +1131,171 @@
               </div>
               <!-- End Card -->
 
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingFour">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQFour" aria-expanded="false" aria-controls="FAQFour" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      Do I need to bring anything to my Physiotherapy appointment?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
+              <!-- More Expandable Card -->
+              <div class="card mb-3 u-card-collapse" style="border:none;">
+
+                <div id="FAQPhysioExpand" class="collapse" aria-labelledby="FAQHeadingPhysioExpand" data-parent="#FAQHeadingPhysioExpand">
+                  <div class="card-body px-4">
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingFour">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQFour" aria-expanded="false" aria-controls="FAQFour" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            Do I need to bring anything to my Physiotherapy appointment?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQFour" class="collapse" aria-labelledby="FAQHeadingFour" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          For your first physiotherapy appointment at Nexus Massage and Rehab; please prepare the following, if applicable:<br><br>
+
+                          <ul>
+                            <li>Loose and comfortable clothes</li>
+                            <li>Any referrals or paperwork that pertains to your condition</li>
+                            <li>A list of medication</li>
+                            <li>Any imaging results (i.e. X-rays/MRI/Ultrasound reports)</li>
+                          </ul>
+
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingFive">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQFive" aria-expanded="false" aria-controls="FAQFive" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            What should I wear to my Physiotherapy appointment at Nexus Massage and Rehab?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQFive" class="collapse" aria-labelledby="FAQHeadingFive" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          During the treatment, the physiotherapist will be doing some assessments and exercises with you. Please bring or wear clothes that will allow your physiotherapist to address your area of concern and for you to move freely during exercise. You can also bring a change of clothes (ie. Shorts, t-shirt, sports bra) to allow for better movement.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingSeven">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQSeven" aria-expanded="false" aria-controls="FAQSeven" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            What is involved in a Physiotherapy treatment at Nexus Massage and Rehab?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQSeven" class="collapse" aria-labelledby="FAQHeadingSeven" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          Physiotherapy treatments may include, but not limited to the following:<br><br>
+
+                          <ul>
+                            <li>Education</li>
+                            <li>Health promotion and prevention services</li>
+                            <li>Personalized therapeutic exercise programs</li>
+                            <li>Soft tissue and manual therapy techniques; including massage, spinal and peripheral joint mobilization</li>
+                            <li>Physical, electrotherapeutic and mechanical agents</li>
+                            <li>Addressing environmental change and focusing on removing barriers to function</li>
+                            <li>May involve referral to other health care professionals to optimize your recovery</li>
+                          </ul>
+
+                          Your physiotherapists at Nexus Massage and Rehab will work and collaborate with you to customize your rehabilitation treatment based on the nature of your condition, age, activity levels, values and your goals.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingEight">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQEight" aria-expanded="false" aria-controls="FAQEight" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            Does Physiotherapy hurt?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQEight" class="collapse" aria-labelledby="FAQHeadingEight" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          For the initial physiotherapy appointment, your physiotherapist will be probing the area in which you have pain and assess your limits of pain. Due to this, after your first appointment it is normal to feel a little sore and aggravated. The goal of physiotherapy is to provide you with the knowledge and tools to self-manage your condition, not to cause pain!
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingNine">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQNine" aria-expanded="false" aria-controls="FAQNine" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            Is Physiotherapy the same as Massage?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQNine" class="collapse" aria-labelledby="FAQHeadingNine" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          This is a question we get a lot. No, physiotherapy is not just massage. Physiotherapy treatment may involve soft tissue techniques, but it is not our sole treatment. Physiotherapy consists of a combination of manual therapy, exercises, laser therapy, ultrasound, and much more, depending on your needs.<br><br>
+
+                          If you wish to learn more about Massage Therapy offered by our Registered Massage Therapists at Nexus Massage and Rehab, please refer to our Registered Massage Therapy FAQ.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingTen">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQTen" aria-expanded="false" aria-controls="FAQTen" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            How many sessions do I need to see results?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQTen" class="collapse" aria-labelledby="FAQHeadingTen" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          This vastly depends on the nature of condition and the individual. Everyone is different and responds to physiotherapy differently. Your physiotherapist will address these individualistic factors and tailor your physiotherapy treatment especially to you and adjust it depending on your recovery process.<br><br>
+
+                          Your physiotherapist may refer you to other health professionals to optimize your rehabilitation. In the event that your pain and condition does not respond to physiotherapy or if physiotherapy is not appropriate for you, the physiotherapist will refer you to the appropriate health professional or your family doctor.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingEleven">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQleven" aria-expanded="false" aria-controls="FAQleven" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            Do I need a doctor’s referral to see a Physiotherapist?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQleven" class="collapse" aria-labelledby="FAQHeadingleven" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          No referral is needed to see a physiotherapist. Please check your insurance provider if a referral is needed to access your benefits and what you are entitled to.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
                   </div>
                 </div>
-                <div id="FAQFour" class="collapse" aria-labelledby="FAQHeadingFour" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    For your first physiotherapy appointment at Nexus Massage and Rehab; please prepare the following, if applicable:<br><br>
-
-                    <ul>
-                      <li>Loose and comfortable clothes</li>
-                      <li>Any referrals or paperwork that pertains to your condition</li>
-                      <li>A list of medication</li>
-                      <li>Any imaging results (i.e. X-rays/MRI/Ultrasound reports)</li>
-                    </ul>
-
-                  </div>
+                <div class="card-header px-4" id="FAQHeadingPhysioExpand" style="border-bottom:none;">
+                  <h3 class="h5 LessMoreCollapse collapsed text-center justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0" data-toggle="collapse" data-target="#FAQPhysioExpand" aria-expanded="false" aria-controls="FAQPhysioExpand" role="button">
+                    <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                  </h3>
                 </div>
               </div>
-              <!-- End Card -->
+              <!-- End More Expandable Card -->
 
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingFive">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQFive" aria-expanded="false" aria-controls="FAQFive" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      What should I wear to my Physiotherapy appointment at Nexus Massage and Rehab?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQFive" class="collapse" aria-labelledby="FAQHeadingFive" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    During the treatment, the physiotherapist will be doing some assessments and exercises with you. Please bring or wear clothes that will allow your physiotherapist to address your area of concern and for you to move freely during exercise. You can also bring a change of clothes (ie. Shorts, t-shirt, sports bra) to allow for better movement.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingSeven">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQSeven" aria-expanded="false" aria-controls="FAQSeven" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      What is involved in a Physiotherapy treatment at Nexus Massage and Rehab?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQSeven" class="collapse" aria-labelledby="FAQHeadingSeven" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    Physiotherapy treatments may include, but not limited to the following:<br><br>
-
-                    <ul>
-                      <li>Education</li>
-                      <li>Health promotion and prevention services</li>
-                      <li>Personalized therapeutic exercise programs</li>
-                      <li>Soft tissue and manual therapy techniques; including massage, spinal and peripheral joint mobilization</li>
-                      <li>Physical, electrotherapeutic and mechanical agents</li>
-                      <li>Addressing environmental change and focusing on removing barriers to function</li>
-                      <li>May involve referral to other health care professionals to optimize your recovery</li>
-                    </ul>
-
-                    Your physiotherapists at Nexus Massage and Rehab will work and collaborate with you to customize your rehabilitation treatment based on the nature of your condition, age, activity levels, values and your goals.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingEight">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQEight" aria-expanded="false" aria-controls="FAQEight" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      Does Physiotherapy hurt?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQEight" class="collapse" aria-labelledby="FAQHeadingEight" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    For the initial physiotherapy appointment, your physiotherapist will be probing the area in which you have pain and assess your limits of pain. Due to this, after your first appointment it is normal to feel a little sore and aggravated. The goal of physiotherapy is to provide you with the knowledge and tools to self-manage your condition, not to cause pain!
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingNine">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQNine" aria-expanded="false" aria-controls="FAQNine" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      Is Physiotherapy the same as Massage?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQNine" class="collapse" aria-labelledby="FAQHeadingNine" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    This is a question we get a lot. No, physiotherapy is not just massage. Physiotherapy treatment may involve soft tissue techniques, but it is not our sole treatment. Physiotherapy consists of a combination of manual therapy, exercises, laser therapy, ultrasound, and much more, depending on your needs.<br><br>
-
-                    If you wish to learn more about Massage Therapy offered by our Registered Massage Therapists at Nexus Massage and Rehab, please refer to our Registered Massage Therapy FAQ.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingTen">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQTen" aria-expanded="false" aria-controls="FAQTen" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      How many sessions do I need to see results?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQTen" class="collapse" aria-labelledby="FAQHeadingTen" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    This vastly depends on the nature of condition and the individual. Everyone is different and responds to physiotherapy differently. Your physiotherapist will address these individualistic factors and tailor your physiotherapy treatment especially to you and adjust it depending on your recovery process.<br><br>
-
-                    Your physiotherapist may refer you to other health professionals to optimize your rehabilitation. In the event that your pain and condition does not respond to physiotherapy or if physiotherapy is not appropriate for you, the physiotherapist will refer you to the appropriate health professional or your family doctor.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingEleven">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQleven" aria-expanded="false" aria-controls="FAQleven" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      Do I need a doctor’s referral to see a Physiotherapist?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQleven" class="collapse" aria-labelledby="FAQHeadingleven" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    No referral is needed to see a physiotherapist. Please check your insurance provider if a referral is needed to access your benefits and what you are entitled to.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
             </div>
 
           </div>
@@ -1311,159 +1371,173 @@
               </div>
               <!-- End Card -->
 
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingFour">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQFour" aria-expanded="false" aria-controls="FAQFour" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      What should I do before a treatment?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
+              <!-- More Expandable Card -->
+              <div class="card mb-3 u-card-collapse" style="border:none;">
+
+                <div id="FAQAcupunctureExpand" class="collapse" aria-labelledby="FAQHeadingAcupunctureExpand" data-parent="#FAQHeadingAcupunctureExpand">
+                  <div class="card-body px-4">
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingFour">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQFour" aria-expanded="false" aria-controls="FAQFour" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            What should I do before a treatment?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQFour" class="collapse" aria-labelledby="FAQHeadingFour" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          Make sure you are well hydrated and have eaten within the last two hours. For convenience for yourself and the practitioner, it is best to wear loose and light clothing which will provide easier access to certain areas of the body for treatment.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingFive">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQFive" aria-expanded="false" aria-controls="FAQFive" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            What is a typical Acupuncture treatment like at Nexus Massage and Rehab?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQFive" class="collapse" aria-labelledby="FAQHeadingFive" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          A typical treatment here at Nexus Massage and Rehab consists of an initial appointment where the practitioner goes through an intake with you, asking you a series of questions, performs a tongue diagnosis and palpation of your pulse to understand your health status and constitution which will then guide the treatment plan. After the intake, your acupuncturist will put thin needles in certain areas of your body. The needles will remain in the body for 15 to 30 minutes. Additional treatment with tuina (Chinese massage) may be included if necessary.<br><br>
+
+                          Subsequent treatments will involve a brief recap of the previous treatment and a quick analysis of the patient's current status followed by acupuncture.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingSix">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQSix" aria-expanded="false" aria-controls="FAQFSix" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            Where does the Acupuncturist insert the needles?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQSix" class="collapse" aria-labelledby="FAQHeadingSix" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          The most common areas that will be needled during treatment will be on the limbs. The needles can potentially go in at other points on the body, depending on the individual and their health status.<br><br>
+
+                          If you are nervous or uncomfortable about a specific area being treated, do not hesitate to voice your concerns to the practitioner and he/she will take appropriate measures.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingOne-alt">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQOne-alt" aria-expanded="false" aria-controls="FAQOne-alt" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            Does Acupuncture hurt?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQOne-alt" class="collapse" aria-labelledby="FAQHeadingOne-alt" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          Most people you ask will say no. If done properly, the sensation will be extremely mild. Some common sensations that are reported are pressure, warmth, pricking, twitching, or nothing at all.<br><br>
+
+                          Mild bruising or redness may occur at the needle site, but most of the time there will be no visible trace of the needle having been inserted.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingTwo-alt">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQTwo-alt" aria-expanded="false" aria-controls="FAQTwo-alt" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            What are Acupuncture needles like?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQTwo-alt" class="collapse" aria-labelledby="FAQHeadingTwo-alt" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          Some individuals may be hesitant about trying acupuncture due to uncomfortable past experiences with needles. However, it is good to know that the needles used for acupuncture vary greatly from the ones that are used for injections, piercings or blood withdrawal.<br><br>
+
+                          Acupuncture needles are much thinner than those mentioned. Also acupuncture needles are solid, not hollow, so there is no removal of flesh upon insertion or removal – this drastically changes the feeling experienced.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingNine">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQNine" aria-expanded="false" aria-controls="FAQNine" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            Are the needles re-used?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQNine" class="collapse" aria-labelledby="FAQHeadingNine" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          No, the needles used for acupuncture are sealed, sterilized, and used only once and discarded in a disposal hazard box after.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingTen">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQTen" aria-expanded="false" aria-controls="FAQTen" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            What is the difference between TCM Acupuncture and Dry Needling?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQTen" class="collapse" aria-labelledby="FAQHeadingTen" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          The main difference would be the theory behind it. With TCM acupuncture the needles are inserted into specific points on the body that run along meridians. These meridians are where the vital energy (qi) of the body flows. Each specific point has its own unique function and can help aid in the flow of qi and balancing of the internal organs.<br><br>
+
+                          Acupuncture may be used for a wide variety of conditions. Dry needling is only for musculoskeletal conditions and involves the insertion of a needle into a trigger point (painful area) to relieve pain.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
+
+                    <!-- Card -->
+                    <div class="card mb-3 u-card-collapse">
+                      <div class="card-header px-4" id="FAQHeadingEleven">
+                        <div class="collapsed" data-toggle="collapse" data-target="#FAQEleven" aria-expanded="false" aria-controls="FAQEleven" role="button">
+                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                            Does insurance cover Acupuncture?
+                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                          </h3>
+                        </div>
+                      </div>
+                      <div id="FAQEleven" class="collapse" aria-labelledby="FAQHeadingEleven" data-parent="#FAQCollapse">
+                        <div class="card-body px-4">
+                          Many insurance providers are now covering acupuncture only if it is done by a licensed Acupuncturist. Contact your insurance provider directly to find out if you are covered and the details of your coverage.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card -->
                   </div>
                 </div>
-                <div id="FAQFour" class="collapse" aria-labelledby="FAQHeadingFour" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    Make sure you are well hydrated and have eaten within the last two hours. For convenience for yourself and the practitioner, it is best to wear loose and light clothing which will provide easier access to certain areas of the body for treatment.
-                  </div>
+                <div class="card-header px-4" id="FAQHeadingAcupunctureExpand" style="border-bottom:none;">
+                  <h3 class="h5 LessMoreCollapse collapsed text-center justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0" data-toggle="collapse" data-target="#FAQAcupunctureExpand" aria-expanded="false" aria-controls="FAQAcupunctureExpand" role="button">
+                    <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                  </h3>
                 </div>
               </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingFive">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQFive" aria-expanded="false" aria-controls="FAQFive" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      What is a typical Acupuncture treatment like at Nexus Massage and Rehab?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQFive" class="collapse" aria-labelledby="FAQHeadingFive" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    A typical treatment here at Nexus Massage and Rehab consists of an initial appointment where the practitioner goes through an intake with you, asking you a series of questions, performs a tongue diagnosis and palpation of your pulse to understand your health status and constitution which will then guide the treatment plan. After the intake, your acupuncturist will put thin needles in certain areas of your body. The needles will remain in the body for 15 to 30 minutes. Additional treatment with tuina (Chinese massage) may be included if necessary.<br><br>
-
-                    Subsequent treatments will involve a brief recap of the previous treatment and a quick analysis of the patient's current status followed by acupuncture.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingSix">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQSix" aria-expanded="false" aria-controls="FAQFSix" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      Where does the Acupuncturist insert the needles?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQSix" class="collapse" aria-labelledby="FAQHeadingSix" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    The most common areas that will be needled during treatment will be on the limbs. The needles can potentially go in at other points on the body, depending on the individual and their health status.<br><br>
-
-                    If you are nervous or uncomfortable about a specific area being treated, do not hesitate to voice your concerns to the practitioner and he/she will take appropriate measures.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingOne-alt">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQOne-alt" aria-expanded="false" aria-controls="FAQOne-alt" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      Does Acupuncture hurt?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQOne-alt" class="collapse" aria-labelledby="FAQHeadingOne-alt" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    Most people you ask will say no. If done properly, the sensation will be extremely mild. Some common sensations that are reported are pressure, warmth, pricking, twitching, or nothing at all.<br><br>
-
-                    Mild bruising or redness may occur at the needle site, but most of the time there will be no visible trace of the needle having been inserted.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingTwo-alt">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQTwo-alt" aria-expanded="false" aria-controls="FAQTwo-alt" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      What are Acupuncture needles like?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQTwo-alt" class="collapse" aria-labelledby="FAQHeadingTwo-alt" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    Some individuals may be hesitant about trying acupuncture due to uncomfortable past experiences with needles. However, it is good to know that the needles used for acupuncture vary greatly from the ones that are used for injections, piercings or blood withdrawal.<br><br>
-
-                    Acupuncture needles are much thinner than those mentioned. Also acupuncture needles are solid, not hollow, so there is no removal of flesh upon insertion or removal – this drastically changes the feeling experienced.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingNine">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQNine" aria-expanded="false" aria-controls="FAQNine" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      Are the needles re-used?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQNine" class="collapse" aria-labelledby="FAQHeadingNine" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    No, the needles used for acupuncture are sealed, sterilized, and used only once and discarded in a disposal hazard box after.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingTen">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQTen" aria-expanded="false" aria-controls="FAQTen" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      What is the difference between TCM Acupuncture and Dry Needling?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQTen" class="collapse" aria-labelledby="FAQHeadingTen" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    The main difference would be the theory behind it. With TCM acupuncture the needles are inserted into specific points on the body that run along meridians. These meridians are where the vital energy (qi) of the body flows. Each specific point has its own unique function and can help aid in the flow of qi and balancing of the internal organs.<br><br>
-
-                    Acupuncture may be used for a wide variety of conditions. Dry needling is only for musculoskeletal conditions and involves the insertion of a needle into a trigger point (painful area) to relieve pain.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingEleven">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQEleven" aria-expanded="false" aria-controls="FAQEleven" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      Does insurance cover Acupuncture?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQEleven" class="collapse" aria-labelledby="FAQHeadingEleven" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    Many insurance providers are now covering acupuncture only if it is done by a licensed Acupuncturist. Contact your insurance provider directly to find out if you are covered and the details of your coverage.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
+              <!-- End More Expandable Card -->
 
             </div>
 
@@ -1475,9 +1549,9 @@
         <!-- End FAQ Content Section -->
 
       </div>
+
     </div>
     <!-- End Services FAQ Section -->
-
   </main>
   <!-- ========== END MAIN ========== -->
 
