@@ -70,14 +70,40 @@
   drift.load('zcrncp4tbrsb');
   </script>
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124593606-2"></script>
+  
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
     gtag('config', 'UA-124593606-2');
+    gtag('config', 'AW-774824693');
+  </script>
+
+  <script>
+    function gtag_report_conversion(url) {
+      var callback = function () {
+        if (typeof(url) != 'undefined') {
+          window.location = url;
+        }
+      };
+      gtag('event', 'conversion', {
+          'send_to': 'AW-774824693/aW9eCM_dppIBEPXFu_EC',
+          'transaction_id': '',
+          'event_callback': callback
+      });
+      return false;
+    }
+
+    function handleClick(label) {
+      ga('send', 'event', {
+        eventCategory: 'book',
+        eventAction: 'click',
+        eventLabel: label
+      });
+      gtag_report_conversion();
+    }
   </script>
   
 </head>
@@ -189,7 +215,7 @@
 
               <!-- Button -->
               <li class="nav-item d-none d-md-inline-block pl-3 pr-0">
-                <a class="btn btn-sm btn-danger u-btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank">
+                <a class="btn btn-sm btn-danger u-btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('menuBar');">
                   BOOK NOW
                 </a>
               </li>
@@ -220,7 +246,7 @@
           <h1 class="display-3 font-size-48--md-down text-white font-weight-bold">TEAM</h1>
 
           <div class="u-space-1-top">
-            <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank">Book Online<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
+            <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bannerBtn');">Book Online<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
           </div>
 
         </div>
@@ -459,14 +485,14 @@
               <p class="text-white">Use our fast and secure online booking platform!</p>
             </div>
 
-            <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank">Book Now</a>
+            <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bottomBtn');">Book Now</a>
 
             <div class="text-center">
               <br>
               <span class="u-divider u-divider--xs u-divider--text mb-4 text-white"><strong>OR</strong></span>
             </div>
 
-            <a class="btn btn-sm btn-outline-light transition-3d-hover" href="tel:647-557-6267">
+            <a class="btn btn-sm btn-outline-light transition-3d-hover" href="tel:647-557-6267" onclick="handleClick('callUsBtn');">
               <span class="fa fa-phone font-size-13 mr-2"></span>
               Call us at (647) 557-6267
             </a><br><br>

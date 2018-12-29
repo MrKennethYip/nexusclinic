@@ -71,14 +71,40 @@
   drift.load('zcrncp4tbrsb');
   </script>
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124593606-2"></script>
+  
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
     gtag('config', 'UA-124593606-2');
+    gtag('config', 'AW-774824693');
+  </script>
+
+  <script>
+    function gtag_report_conversion(url) {
+      var callback = function () {
+        if (typeof(url) != 'undefined') {
+          window.location = url;
+        }
+      };
+      gtag('event', 'conversion', {
+          'send_to': 'AW-774824693/aW9eCM_dppIBEPXFu_EC',
+          'transaction_id': '',
+          'event_callback': callback
+      });
+      return false;
+    }
+
+    function handleClick(label) {
+      ga('send', 'event', {
+        eventCategory: 'book',
+        eventAction: 'click',
+        eventLabel: label
+      });
+      gtag_report_conversion();
+    }
   </script>
 
 </head>
@@ -190,7 +216,7 @@
 
               <!-- Button -->
               <li class="nav-item d-none d-md-inline-block pl-3 pr-0">
-                <a class="btn btn-sm btn-danger u-btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank">
+                <a class="btn btn-sm btn-danger u-btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('menuBar');">
                   BOOK NOW
                 </a>
               </li>
