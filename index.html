@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- Title -->
-  <title>Nexus Massage & Rehab - Online Booking - Open 7 Days</title>
+
 
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="Description" content="Best Chiropractor, Physiotherapist, Massage Therapist (RMT), Acupuncturist in Toronto | Yonge Eglinton | 603 - 40 Eglinton Ave. E. | 7 Days | Direct Billing | Online Booking">
-  <meta name="keywords" content="Best Massage, direct billing, open on weekends, Yonge and Eglinton, Online booking, Massage Near Me, Toronto Massage, Registered Massage Therapist, RMT, rehab, chiropractic">
-  <title>CHIRO | MASSAGE | PHYSIO, Located at Yonge & Eglinton</title>
+  <meta name="keywords" content="Best Massage, direct billing, open on weekends, Yonge and Eglinton, Online booking, Massage Near Me, Toronto Massage, Registered Massage Therapist, RMT, rehab, chiropractic, chiro, massage, physio">
+  <!-- Title -->
+  <title>Nexus Massage & Rehab - Online Booking - Open 7 Days - CHIRO | MASSAGE | PHYSIO</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="favicon.ico">
@@ -90,6 +90,34 @@
     gtag('js', new Date());
 
     gtag('config', 'UA-124593606-2');
+    gtag('config', 'AW-774824693'); //Google Adwords Tracking
+  </script>
+
+  <!-- Event snippet for Book Appointment conversion page
+  In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+  <script>
+    function gtag_report_conversion(url) {
+      var callback = function () {
+        if (typeof(url) != 'undefined') {
+          window.location = url;
+        }
+      };
+      gtag('event', 'conversion', {
+          'send_to': 'AW-774824693/aW9eCM_dppIBEPXFu_EC',
+          'transaction_id': '',
+          'event_callback': callback
+      });
+      return false;
+    }
+
+    function handleClick(label) {
+      ga('send', 'event', {
+        eventCategory: 'book',
+        eventAction: 'click',
+        eventLabel: label
+      });
+      gtag_report_conversion();
+    }
   </script>
 
 </head>
@@ -201,7 +229,7 @@
 
               <!-- Button -->
               <li class="nav-item d-none d-md-inline-block pl-3 pr-0">
-                <a class="btn btn-sm btn-danger u-btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank">
+                <a class="btn btn-sm btn-danger u-btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('menuBar');">
                   BOOK NOW
                 </a>
               </li>
@@ -238,7 +266,7 @@
           </h1>
           <p class="lead text-white">Located at <span class="font-weight-bold">Yonge & Eglinton</span></p>
           <div class="u-space-1-top">
-            <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank">Book Online<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
+            <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bannerBtn');">Book Online<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
           </div>
         </div>
       </div>
@@ -360,7 +388,7 @@
         <span class="h6 d-block d-lg-inline-block font-weight-light mb-lg-0">
            Are you ready to <span class="font-weight-bold">improve your health?</span>
         </span>
-        <a class="btn btn-sm u-btn-white transition-3d-hover font-weight-normal ml-2" href="https://nexusclinic.clinicsense.com/book" target="blank">Book your session today<span class="fa fa-angle-right ml-2"></span></a>
+        <a class="btn btn-sm u-btn-white transition-3d-hover font-weight-normal ml-2" href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('improveHealthBtn');">Book your session today<span class="fa fa-angle-right ml-2"></span></a>
       </div>
     </div>
     <!-- End CTA Section -->
@@ -590,14 +618,14 @@
               <p class="text-white">Use our fast and secure online booking platform!</p>
             </div>
 
-            <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank">Book Now</a>
+            <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bottomBtn');">Book Now</a>
 
             <div class="text-center">
               <br>
               <span class="u-divider u-divider--xs u-divider--text mb-4 text-white"><strong>OR</strong></span>
             </div>
 
-            <a class="btn btn-sm btn-outline-light transition-3d-hover" href="tel:647-557-6267">
+            <a class="btn btn-sm btn-outline-light transition-3d-hover" href="tel:647-557-6267" onclick="handleClick('callUsBtn');">
               <span class="fa fa-phone font-size-13 mr-2"></span>
               Call us at (647) 557-6267
             </a><br><br>
