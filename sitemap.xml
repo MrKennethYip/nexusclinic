@@ -9,62 +9,167 @@
 
 <url>
   <loc>https://nexushealthclinic.com/</loc>
-  <lastmod>2018-09-15T18:16:57+00:00</lastmod>
+  <lastmod>2019-01-01T19:58:29+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://nexushealthclinic.com/index</loc>
-  <lastmod>2018-09-15T18:16:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://nexushealthclinic.com/team</loc>
-  <lastmod>2018-09-15T17:13:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://nexushealthclinic.com/vision</loc>
-  <lastmod>2018-09-15T17:13:02+00:00</lastmod>
+  <lastmod>2019-01-01T19:58:30+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nexushealthclinic.com/services</loc>
-  <lastmod>2018-09-15T17:13:02+00:00</lastmod>
+  <lastmod>2019-01-01T19:58:30+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nexushealthclinic.com/pricing</loc>
-  <lastmod>2018-09-15T17:13:01+00:00</lastmod>
+  <lastmod>2019-01-01T19:58:30+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nexushealthclinic.com/referral</loc>
-  <lastmod>2018-09-15T17:13:01+00:00</lastmod>
+  <loc>https://nexushealthclinic.com/community/</loc>
+  <lastmod>2019-01-01T20:02:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/community/learn/</loc>
+  <lastmod>2019-01-01T20:02:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/community/events/</loc>
+  <lastmod>2019-01-01T20:02:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/classes</loc>
+  <lastmod>2019-01-01T19:58:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/parking</loc>
+  <lastmod>2019-01-01T19:58:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/about-us</loc>
+  <lastmod>2019-01-01T19:58:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nexushealthclinic.com/careers</loc>
-  <lastmod>2018-09-15T17:13:01+00:00</lastmod>
+  <lastmod>2019-01-01T19:58:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/referral</loc>
+  <lastmod>2019-01-01T19:58:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/terms</loc>
+  <lastmod>2019-01-01T19:58:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/privacy</loc>
+  <lastmod>2019-01-01T19:58:30+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nexushealthclinic.com/profiles/karen_ngo</loc>
-  <lastmod>2018-09-15T17:13:02+00:00</lastmod>
+  <lastmod>2018-12-29T20:16:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://nexushealthclinic.com/profiles/cassandra_kong</loc>
-  <lastmod>2018-09-15T17:13:02+00:00</lastmod>
+  <lastmod>2018-12-29T20:16:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nexushealthclinic.com/legal/privacy</loc>
-  <lastmod>2018-09-13T01:44:12+00:00</lastmod>
+  <loc>https://nexushealthclinic.com/profiles/felix_chu</loc>
+  <lastmod>2018-12-29T20:16:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/profiles/mai_hoang</loc>
+  <lastmod>2018-12-29T20:16:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/profiles/daniel_thrush</loc>
+  <lastmod>2018-12-29T20:16:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/profiles/phil_kim</loc>
+  <lastmod>2018-12-29T20:16:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/profiles/eric_miraflor</loc>
+  <lastmod>2018-12-29T20:16:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/community/how-to-decrease-tension-with-proper-desk-ergonomics/</loc>
+  <lastmod>2019-01-01T20:02:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/community/nexus-giving-back-networking-and-mentoring-chiropractic-students/</loc>
+  <lastmod>2019-01-01T20:02:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/community/what-i-wish-everyone-knew-about-foam-rolling/</loc>
+  <lastmod>2019-01-01T20:02:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/community/5-common-reasons-you-are-experiencing-neck-pain/</loc>
+  <lastmod>2019-01-01T20:02:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/community/271-2/</loc>
+  <lastmod>2019-01-01T20:02:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/community/category/learn/</loc>
+  <lastmod>2019-01-01T20:02:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/community/category/lifestyle/</loc>
+  <lastmod>2019-01-01T20:02:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/community/category/events/</loc>
+  <lastmod>2019-01-01T20:02:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/community/category/exercises/</loc>
+  <lastmod>2019-01-01T20:02:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/community/author/mhoang/</loc>
+  <lastmod>2019-01-01T20:02:43+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://nexushealthclinic.com/legal/terms</loc>
-  <lastmod>2018-09-13T01:44:12+00:00</lastmod>
+  <loc>https://nexushealthclinic.com/community/author/kngo/</loc>
+  <lastmod>2019-01-01T20:02:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nexushealthclinic.com/community/author/ckong/</loc>
+  <lastmod>2019-01-01T20:02:43+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
