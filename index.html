@@ -88,7 +88,6 @@
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-
     gtag('config', 'UA-124593606-2');
     gtag('config', 'AW-774824693');
   </script>
@@ -108,16 +107,22 @@
       return false;
     }
 
+    var eventSubmitted = false;
+    function submitEvent() {
+      if (!eventSubmitted) {
+        eventSubmitted = true;
+      }
+    }
+
     function handleClick(label) {
-      ga('send', 'event', {
-        eventCategory: 'book',
-        eventAction: 'click',
-        eventLabel: label
+      gtag('event', 'click', {
+       'event_action': 'click',
+       'event_category' : 'button',
+       'event_label' : label
       });
       gtag_report_conversion();
     }
   </script>
-
 </head>
 
 <body>
