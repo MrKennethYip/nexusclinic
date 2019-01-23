@@ -55,7 +55,7 @@
   <meta name="theme-color" content="#ffffff">
 
   <!-- Drift Chat Widget -->
-  <script>
+  <script async>
   "use strict";
 
   !function() {
@@ -84,7 +84,7 @@
 
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124593606-2"></script>
   
-  <script>
+  <script async>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
@@ -92,7 +92,7 @@
     gtag('config', 'AW-774824693');
   </script>
 
-  <script>
+  <script async>
     function gtag_report_conversion(url) {
       var callback = function () {
         if (typeof(url) != 'undefined') {
@@ -115,6 +115,10 @@
     }
 
     function handleClick(label) {
+      if (eventSubmitted == true) {
+        return;
+      }
+      submitEvent()
       gtag('event', 'click', {
        'event_action': 'click',
        'event_category' : 'button',
@@ -502,7 +506,7 @@
             <div class="card-body p-3">
               <div class="text-center">
                   <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/social/google_logo.png" alt="Nexus Massage & Rehab 5 star review Google" title="Nexus Massage & Rehab 5 star review Google" style="width: 200px;">
-                  <iframe src="https://embedsocial.com/api/reviews_source_badges/badge-6/en/google/4705" scrolling="no" style="width: 200px; height: 55px; border: 0px; overflow: hidden;" /></iframe>
+                  <iframe id="google-social" src="" scrolling="no" style="width: 200px; height: 55px; border: 0px; overflow: hidden;" /></iframe>
               </div>
             </div>
           </a>
@@ -515,7 +519,7 @@
             <div class="card-body p-3">
               <div class="text-center">
                 <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/social/yelp_logo.png" alt="Nexus Massage & Rehab 5 star review Yelp" title="Nexus Massage & Rehab 5 star review Yelp" style="width: 200px;">
-                <iframe src="https://embedsocial.com/api/reviews_source_badges/badge-6/en/yelp/396" scrolling="no" style="width: 200px; height: 55px; border: 0px; overflow: hidden;" /></iframe>
+                <iframe id="yelp-social" src="" scrolling="no" style="width: 200px; height: 55px; border: 0px; overflow: hidden;" /></iframe>
               </div>
             </div>
           </a>
@@ -528,7 +532,7 @@
             <div class="card-body p-3">
               <div class="text-center">
                 <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/social/facebook_logo.png" alt="Nexus Massage & Rehab 5 star review facebook" title="Nexus Massage & Rehab 5 star review facebook" style="width: 200px;">
-                <iframe src="https://embedsocial.com/api/reviews_source_badges/badge-6/en/facebook/24868" scrolling="no" style="width: 200px; height: 55px; border: 0px; overflow: hidden;" /></iframe>
+                <iframe id="facebook-social" src="" scrolling="no" style="width: 200px; height: 55px; border: 0px; overflow: hidden;" /></iframe>
               </div>
             </div>
           </a>
@@ -602,7 +606,7 @@
     </div>
 
     <div class="u-space-1-top">
-      <iframe width="100%" height="500" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8682.701534121301!2d-79.40139737083489!3d43.70751239672543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b33bb783e569b%3A0xfe369432193e0cf0!2sNexus+Massage+%26+Rehab!5e0!3m2!1sen!2sca!4v1536630500759"></iframe>
+      <iframe width="100%" height="500" id="maps-nexus" src=""></iframe>
     </div>
   </main>
   <!-- ========== END MAIN ========== -->
@@ -694,7 +698,7 @@
     </div>
 
     </style>
-      <iframe src="https://www.google.com/maps/d/embed?mid=1PjWGMmbmn5xl1MAHthYeM_M7-bFl3q7Z" width="100%" height="480"></iframe>
+      <iframe id="maps-parking" src="" width="100%" height="480"></iframe>
 
     <div class="u-shopping-cart-subtotal-bg">
       <a class="btn btn-sm btn-secondary transition-3d-hover" href="javascript:;" role="button" onclick="Custombox.modal.close();">Close Window</a>
@@ -729,16 +733,16 @@
   <script src="assets/vendor/appear.js"></script>
 
   <!-- JS Front -->
-  <script src="assets/js/hs.core.js"></script>
-  <script src="assets/js/components/hs.header.js"></script>
-  <script src="assets/js/components/hs.unfold.js"></script>
-  <script src="assets/js/components/hs.malihu-scrollbar.js"></script>
-  <script src="assets/js/components/hs.go-to.js"></script>
+  <script async defer src="assets/js/hs.core.js"></script>
+  <script async defer src="assets/js/components/hs.header.js"></script>
+  <script async defer src="assets/js/components/hs.unfold.js"></script>
+  <script async defer src="assets/js/components/hs.malihu-scrollbar.js"></script>
+  <script async defer src="assets/js/components/hs.go-to.js"></script>
 
-  <script src="assets/js/components/hs.modal-window.js"></script>
-  <script src="assets/js/helpers/hs.focus-state.js"></script>
-  <script src="assets/js/components/hs.validation.js"></script>
-  <script src="assets/js/components/hs.show-animation.js"></script>
+  <script async defer src="assets/js/components/hs.modal-window.js"></script>
+  <script async defer src="assets/js/helpers/hs.focus-state.js"></script>
+  <script async defer src="assets/js/components/hs.validation.js"></script>
+  <script async defer src="assets/js/components/hs.show-animation.js"></script>
 
 
   <!-- JS Plugins Init. -->
@@ -779,6 +783,18 @@
       });
 
     });
+
+
+  </script>
+
+  <script defer>
+    $(document).ready(function(){
+        $('iframe#google-social').attr('src', 'https://embedsocial.com/api/reviews_source_badges/badge-6/en/google/4705');
+        $('iframe#yelp-social').attr('src', 'https://embedsocial.com/api/reviews_source_badges/badge-6/en/yelp/396');
+        $('iframe#facebook-social').attr('src', 'https://embedsocial.com/api/reviews_source_badges/badge-6/en/facebook/24868');
+        $('iframe#maps-nexus').attr('src', 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8682.701534121301!2d-79.40139737083489!3d43.70751239672543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b33bb783e569b%3A0xfe369432193e0cf0!2sNexus+Massage+%26+Rehab!5e0!3m2!1sen!2sca!4v1536630500759');
+        $('iframe#maps-parking').attr('src', 'https://www.google.com/maps/d/embed?mid=1PjWGMmbmn5xl1MAHthYeM_M7-bFl3q7Z');
+      });
   </script>
 
   <script async defer
@@ -797,7 +813,7 @@
   </script>
 
   <!-- JSON-LD markup generated by Google Structured Data Markup Helper. -->
-  <script type="application/ld+json">
+  <script async type="application/ld+json">
 {
   "@context" : "http://schema.org",
   "@type" : "LocalBusiness",
