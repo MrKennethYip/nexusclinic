@@ -72,17 +72,16 @@
   </script>
 
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124593606-2"></script>
-  
-  <script>
+
+  <script async>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-
     gtag('config', 'UA-124593606-2');
     gtag('config', 'AW-774824693');
   </script>
 
-  <script>
+  <script async>
     function gtag_report_conversion(url) {
       var callback = function () {
         if (typeof(url) != 'undefined') {
@@ -97,11 +96,22 @@
       return false;
     }
 
+    var eventSubmitted = false;
+    function submitEvent() {
+      if (!eventSubmitted) {
+        eventSubmitted = true;
+      }
+    }
+
     function handleClick(label) {
-      ga('send', 'event', {
-        eventCategory: 'book',
-        eventAction: 'click',
-        eventLabel: label
+      if (eventSubmitted == true) {
+        return;
+      }
+      submitEvent()
+      gtag('event', 'click', {
+       'event_action': 'click',
+       'event_category' : 'button',
+       'event_label' : label
       });
       gtag_report_conversion();
     }
@@ -293,7 +303,7 @@
                   <HR>
 
                   <div class="media-body p-3 text-center">
-                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookServiceBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Chiro<span class="fa fa-angle-right ml-2"></span></button></a>
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Chiro<span class="fa fa-angle-right ml-2"></span></button></a>
                   </div>
 
                 </div>
@@ -327,7 +337,7 @@
                   <HR>
 
                   <div class="media-body p-3 text-center">
-                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookServiceBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book RMT Massage<span class="fa fa-angle-right ml-2"></span></button></a>
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book RMT Massage<span class="fa fa-angle-right ml-2"></span></button></a>
                   </div>
 
                 </div>
@@ -361,7 +371,7 @@
                   <HR>
 
                   <div class="media-body p-3 text-center">
-                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookServiceBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Hot Stone Massage<span class="fa fa-angle-right ml-2"></span></button></a>
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Hot Stone Massage<span class="fa fa-angle-right ml-2"></span></button></a>
                   </div>
 
                 </div>
@@ -401,7 +411,7 @@
                   <HR>
 
                   <div class="media-body p-3 text-center">
-                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookServiceBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Physio<span class="fa fa-angle-right ml-2"></span></button></a>
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Physio<span class="fa fa-angle-right ml-2"></span></button></a>
                   </div>
 
                 </div>
@@ -433,7 +443,7 @@
                   <HR>
 
                   <div class="media-body p-3 text-center">
-                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookServiceBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Acupuncture<span class="fa fa-angle-right ml-2"></span></button></a>
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Acupuncture<span class="fa fa-angle-right ml-2"></span></button></a>
                   </div>
 
                 </div>
