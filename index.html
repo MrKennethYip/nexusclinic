@@ -25,7 +25,6 @@
   <link rel="stylesheet" href="assets/vendor/hs-megamenu/src/hs.megamenu.css">
   <link rel="stylesheet" href="assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
   <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
-  <link rel="stylesheet" href="assets/vendor/custombox/dist/custombox.min.css">
 
   <!-- CSS Front Template -->
   <link rel="stylesheet" href="assets/css/front.css">
@@ -620,6 +619,7 @@
     <div class="u-space-1-top">
       <iframe width="100%" height="500" id="maps-nexus" src=""></iframe>
     </div>
+
   </main>
   <!-- ========== END MAIN ========== -->
 
@@ -699,29 +699,9 @@
       </div>
     </div>
     <!-- End Copyright -->
+
   </footer>
   <!-- ========== END FOOTER ========== -->
-
-  <!-- ========== SECONDARY CONTENTS ========== -->
-
-  <div id="parkingMapModal" class="js-shopping-cart-window u-modal-window u-modal-window--shopping-cart" style="width: 750px;">
-    <button class="btn btn-xs u-btn--icon u-btn-text-secondary u-modal-window__close" type="button" onclick="Custombox.modal.close();">
-      <span class="fas fa-times"></span>
-    </button>
-
-    <div class="u-shopping-cart-title-wrapper">
-      <strong>Parking near 40 Eglinton Ave East</strong>
-    </div>
-
-    </style>
-      <iframe id="maps-parking" src="" width="100%" height="480"></iframe>
-
-    <div class="u-shopping-cart-subtotal-bg">
-      <a class="btn btn-sm btn-secondary transition-3d-hover" href="javascript:;" role="button" onclick="Custombox.modal.close();">Close Window</a>
-    </div>
-  </div>
-
-  <!-- ========== END SECONDARY CONTENTS ========== -->
 
   <!-- Go to Top -->
   <a class="js-go-to u-go-to" href="#"
@@ -751,15 +731,12 @@
   <!-- JS Front -->
   <script async defer src="assets/js/hs.core.js"></script>
   <script async defer src="assets/js/components/hs.header.js"></script>
-  <script async defer src="assets/js/components/hs.unfold.js"></script>
+
   <script async defer src="assets/js/components/hs.malihu-scrollbar.js"></script>
   <script async defer src="assets/js/components/hs.go-to.js"></script>
 
-  <script async defer src="assets/js/components/hs.modal-window.js"></script>
   <script async defer src="assets/js/helpers/hs.focus-state.js"></script>
-  <script async defer src="assets/js/components/hs.validation.js"></script>
   <script async defer src="assets/js/components/hs.show-animation.js"></script>
-
 
   <!-- JS Plugins Init. -->
   <script>
@@ -777,13 +754,6 @@
       // initialization of header
       $.HSCore.components.HSHeader.init($('#header'));
 
-      // initialization of unfold component
-      $.HSCore.components.HSUnfold.init($('[data-unfold-target]'), {
-        afterOpen: function () {
-          $(this).find('input[type="search"]').focus();
-        }
-      });
-
       // initialization of malihu scrollbar
       $.HSCore.components.HSMalihuScrollBar.init($('.js-scrollbar'));
 
@@ -792,11 +762,6 @@
 
       // initialization of go to
       $.HSCore.components.HSGoTo.init('.js-go-to');
-
-      // initialization of autonomous popups
-      $.HSCore.components.HSModalWindow.init('[data-modal-target]', '.js-shopping-cart-window', {
-        autonomous: true
-      });
 
     });
 
