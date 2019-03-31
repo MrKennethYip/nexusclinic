@@ -29,6 +29,8 @@
   <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
   <link rel="stylesheet" href="assets/vendor/custombox/dist/custombox.min.css">
 
+  <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
+
   <!-- CSS Front Template -->
   <link rel="stylesheet" href="assets/css/front.css">
   <link rel="stylesheet" href="assets/css/nexus-columns.css">
@@ -300,12 +302,12 @@
 
           </div>
 
-          <div class="text-center">
-            <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/physical_gift_card_promo.png" width="80%" height="80%" alt="Image">
+          <div class="media-body mb-4 text-center u-space-1-top">
+            <a class="btn btn-primary u-btn-primary u-btn-wide transition-3d-hover" href="#giftCardModal" role="button" data-modal-target="#giftCardModal" data-overlay-color="#111722">Purchase Gift Card<span class="fa fa-angle-right ml-2"></span></a>
           </div>
 
-          <div class="media-body mb-4 text-center u-space-1-top">
-            <a class="btn btn-primary u-btn-primary u-btn-wide transition-3d-hover" href="#giftCardModal" role="button" data-modal-target="#giftCardModal" data-overlay-color="#111722">Purchase Physical Gift Card<span class="fa fa-angle-right ml-2"></span></a>
+          <div class="text-center">
+            <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/physical_gift_card_promo.png" width="80%" height="80%" alt="Image">
           </div>
 
         </div>
@@ -316,108 +318,116 @@
     <!-- Services Section -->
       <div class="container u-space-1" style="background:url( https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
         <!-- Title -->
-        <div class="w-md-80 w-lg-50 text-center mx-auto mb-5">
+        <div class="w-md-80 w-lg-50 text-center mx-auto">
           <h2 class="text-dark font-weight-normal"><span class="font-weight-bold">Online Gift Certificates</span></h2>
-          <p><em>Purchase online and send via email!</em></p>
+          <p><em>Purchase instantly, customize online, and send via email!</em></p>
         </div>
         <!-- End Title -->
 
-          <div class="row justify-content-between align-items-center">
-            <div class="col-lg-5 mb-7 mb-lg-0">
-              <div class="pr-md-4">
-                <div class="mb-7">
+        <div class="media-body u-space-1 text-center">
+          <a class="btn btn-danger u-btn-danger u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/gift" target="blank">Purchase Gift Certificate<span class="fa fa-angle-right ml-2"></span></a>
+        </div>
 
-                  <div class="media u-indicator-ver-dashed mb-3">
-                    <div class="d-flex mt-1 mr-3">
-                      <span class="u-icon u-icon-dark u-icon--xs rounded-circle">
-                        <span class="fa fa-check u-icon__inner"></span>
-                      </span>
-                    </div>
-                    <div class="media-body">
-                      <h3 class="h5 text-dark"><strong>Personalize your Gift</strong></h3>
-                      <p class="text-dark">Choose the perfect theme for the occasion!</p>
-                    </div>
-                  </div>
+        <!-- News Carousel -->
+        <div class="js-slick-carousel u-slick u-slick--equal-height u-slick--gutters-3"
+             data-slides-show="3"
+             data-slides-scroll="1"
+             data-arrows-classes="d-none d-lg-inline-block u-slick__arrow u-slick__arrow--offset u-slick__arrow-centered--y rounded-circle"
+             data-arrow-left-classes="fa fa-arrow-left u-slick__arrow-inner u-slick__arrow-inner--left"
+             data-arrow-right-classes="fa fa-arrow-right u-slick__arrow-inner u-slick__arrow-inner--right"
+             data-pagi-classes="text-center u-slick__pagination mt-7 mb-0"
+             data-responsive='[{
+               "breakpoint": 992,
+               "settings": {
+                 "slidesToShow": 2
+               }
+             }, {
+               "breakpoint": 768,
+               "settings": {
+                 "slidesToShow": 1
+               }
+             }, {
+               "breakpoint": 554,
+               "settings": {
+                 "slidesToShow": 1
+               }
+             }]'>
+          <!-- Blog News -->
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/seasonal-themes/Valentines_Day_Preview.png);">
+            <article class="align-self-end w-100 text-center p-6">
+              <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+              <h3 class="h4 text-white">Valentine's Day</h3>
+            </article>
+          </a>
+          <!-- End Blog News -->
 
-                  <div class="media u-indicator-ver-dashed mb-3">
-                    <div class="d-flex mt-1 mr-3">
-                      <span class="u-icon u-icon-dark u-icon--xs rounded-circle">
-                        <span class="fa fa-check u-icon__inner"></span>
-                      </span>
-                    </div>
-                    <div class="media-body">
-                      <h3 class="h5 text-dark"><strong>Add your own Touch</strong></h3>
-                      <p class="text-dark">Write a personalized message to your recipient.</p>
-                    </div>
-                  </div>
+          <!-- Blog News -->
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/seasonal-themes/Mothers_Day_Preview.png);">
+            <article class="align-self-end w-100 text-center p-6">
+              <h3 class="h4 text-white">Mother's Day</h3>
+            </article>
+          </a>
+          <!-- End Blog News -->
 
-                  <div class="media">
-                    <div class="d-flex mt-1 mr-3">
-                      <span class="u-icon u-icon-dark u-icon--xs rounded-circle">
-                        <span class="fa fa-check u-icon__inner"></span>
-                      </span>
-                    </div>
-                    <div class="media-body">
-                      <h3 class="h5 text-dark"><strong>Some third Point</strong></h3>
-                      <p class="text-dark">Not sure what to put here!</p>
-                    </div>
-                  </div>
+          <!-- Blog News -->
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/seasonal-themes/Fathers_Day_Preview.png);">
+            <article class="align-self-end w-100 text-center p-6">
+              <h3 class="h4 text-white">Father's Day</h3>
+            </article>
+          </a>
+          <!-- End Blog News -->
 
-                  <div class="media-body u-space-1 text-center">
-                    <a class="btn btn-danger u-btn-danger u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/gift" target="blank">Purchase Online Gift Card<span class="fa fa-angle-right ml-2"></span></a>
-                  </div>
+          <!-- Blog News -->
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/seasonal-themes/Birthday_Preview.png);">
+            <article class="align-self-end w-100 text-center p-6">
+              <h3 class="h4 text-white">Birthday</h3>
+            </article>
+          </a>
+          <!-- End Blog News -->
 
-                  <!-- ClinicSense Gift Certificate Button 
-                  <script type="text/javascript">
-                  var host = (('https:' == document.location.protocol) ? 'https://' : 'http://');
-                  var params = "?size=big&color=blue";
-                  document.write(unescape('%3Cscript src="' + host +
-                  'nexusclinic.clinicsense.com/gift_widget/') + params +
-                  unescape('" type="text/javascript"%3E%3C/script%3E'));
-                  </script> -->
+          <!-- Blog News -->
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/seasonal-themes/Aniversary_Preview.png);">
+            <article class="align-self-end w-100 text-center p-6">
+              <h3 class="h4 text-white">Anniversary</h3>
+            </article>
+          </a>
+          <!-- End Blog News -->
 
-                </div>
+          <!-- Blog News -->
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/seasonal-themes/Christmas_Preview.png);">
+            <article class="align-self-end w-100 text-center p-6">
+              <h3 class="h4 text-white">Christmas</h3>
+            </article>
+          </a>
+          <!-- End Blog News -->
 
-              </div>
-            </div>
+          <!-- Blog News -->
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/seasonal-themes/Nexus_Logo_Preview.png);">
+            <article class="align-self-end w-100 text-center p-6">
+              <h3 class="h4 text-white">Our Logo</h3>
+            </article>
+          </a>
+          <!-- End Blog News -->
 
-            <div class="col-lg-6 position-relative">
-              <div class="row mx-gutters-5 p-5">
+          <!-- Blog News -->
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/seasonal-themes/General_1_Preview.png);">
+            <article class="align-self-end w-100 text-center p-6">
+              <h3 class="h4 text-white">General 1</h3>
+            </article>
+          </a>
+          <!-- End Blog News -->
 
-                <div class="col-6 offset-1 px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/seasonal-themes/Valentines.png" alt="amazing deep and relaxing neck and back massage" title="Full Deep Relaxing Neck and Back Massage"  style="border: 1px solid #898A8D">
-                </div>
+          <!-- Blog News -->
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/seasonal-themes/General_2_Preview.png);">
+            <article class="align-self-end w-100 text-center p-6">
+              <h3 class="h4 text-white">General 2</h3>
+            </article>
+          </a>
+          <!-- End Blog News -->
 
-                <div class="col-5 px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/seasonal-themes/Fathers_Day.png" alt="best dry needling acupuncture" title="Best dry needling acupuncture" style="border: 1px solid #898A8D">
-                </div>
-
-                <div class="col-6 offset-1 px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/seasonal-themes/Mothers_Day.png" alt="amazing deep and relaxing neck and back massage" title="Full Deep Relaxing Neck and Back Massage"  style="border: 1px solid #898A8D">
-                </div>
-
-                <div class="col-5 px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/seasonal-themes/Anniversary.png" alt="best dry needling acupuncture" title="Best dry needling acupuncture" style="border: 1px solid #898A8D">
-                </div>
-
-                <div class="col-6 offset-1 px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/seasonal-themes/Happy_Birthday.png" alt="amazing deep and relaxing neck and back massage" title="Full Deep Relaxing Neck and Back Massage"  style="border: 1px solid #898A8D">
-                </div>
-
-                <div class="col-5 px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/seasonal-themes/Christmas.png" alt="best dry needling acupuncture" title="Best dry needling acupuncture" style="border: 1px solid #898A8D">
-                </div>
-              </div>
-
-              <figure class="w-100 u-content-centered-y z-index-minus-1">
-                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                     viewBox="0 0 1109.8 797.1" style="enable-background:new 0 0 1109.8 797.1;" xml:space="preserve">
-                  <path class="u-fill-primary" opacity=".05" d="M105.1,267.1C35.5,331.5-3.5,423,0.3,517.7c5.8,145.3,110.7,314.2,588,273.1c753-64.7,481.3-358.3,440.4-398.3
-                    c-4-3.9-7.9-7.9-11.7-12L761.9,104.8C639.4-27.6,432.5-35.6,299.9,87L105.1,267.1z"/>
-                </svg>
-              </figure>
-            </div>
-          </div>
+          
+        </div>
+        <!-- End News Carousel -->
       </div>
       <!-- End Services Section -->
     </div>
@@ -611,6 +621,8 @@
   <script src="assets/vendor/custombox/dist/custombox.min.js"></script>
   <script src="assets/vendor/appear.js"></script>
 
+  <script src="assets/vendor/slick-carousel/slick/slick.js"></script>
+
   <!-- JS Front -->
   <script async defer src="assets/js/hs.core.js"></script>
   <script async defer src="assets/js/components/hs.header.js"></script>
@@ -620,6 +632,8 @@
   <script async defer src="assets/js/components/hs.modal-window.js"></script>
   <script async defer src="assets/js/helpers/hs.focus-state.js"></script>
   <script async defer src="assets/js/components/hs.show-animation.js"></script>
+
+  <script async defer src="assets/js/components/hs.slick-carousel.js"></script>
 
   <!-- JS Plugins Init. -->
   <script>
@@ -649,7 +663,11 @@
       // initialization of autonomous popups
       $.HSCore.components.HSModalWindow.init('[data-modal-target]', '.js-shopping-cart-window', {
         autonomous: true
+
       });
+
+      // initialization of slick carousel
+      $.HSCore.components.HSSlickCarousel.init('.js-slick-carousel');
 
     });
 
