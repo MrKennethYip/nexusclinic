@@ -25,7 +25,6 @@
   <link rel="stylesheet" href="../assets/vendor/animate.css/animate.css">
   <link rel="stylesheet" href="../assets/vendor/hs-megamenu/src/hs.megamenu.css">
   <link rel="stylesheet" href="../assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
-  <link rel="stylesheet" href="../assets/vendor/dzsparallaxer/dzsparallaxer.css">
 
   <!-- CSS Front Template -->
   <link rel="stylesheet" href="../assets/css/front.css">
@@ -529,18 +528,12 @@
   <!-- JS Implementing Plugins -->
   <script src="../assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
   <script src="../assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
-  <script src="../assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
-  <script src="../assets/vendor/slick-carousel/slick/slick.js"></script>
 
   <!-- JS Front -->
   <script src="../assets/js/hs.core.js"></script>
   <script src="../assets/js/components/hs.header.js"></script>
-  <script src="../assets/js/components/hs.unfold.js"></script>
   <script src="../assets/js/components/hs.malihu-scrollbar.js"></script>
-  <script src="../assets/js/helpers/hs.focus-state.js"></script>
   <script src="../assets/js/components/hs.go-to.js"></script>
-
-  <script src="../assets/js/components/hs.slick-carousel.js"></script>
 
   <!-- JS Plugins Init. -->
   <script>
@@ -558,25 +551,25 @@
       // initialization of header
       $.HSCore.components.HSHeader.init($('#header'));
 
-      // initialization of unfold component
-      $.HSCore.components.HSUnfold.init($('[data-unfold-target]'), {
-        afterOpen: function () {
-          $(this).find('input[type="search"]').focus();
-        }
-      });
-
       // initialization of malihu scrollbar
       $.HSCore.components.HSMalihuScrollBar.init($('.js-scrollbar'));
-
-      // initialization of forms
-      $.HSCore.helpers.HSFocusState.init();
 
       // initialization of go to
       $.HSCore.components.HSGoTo.init('.js-go-to');
 
-      // initialization of slick carousel
-      $.HSCore.components.HSSlickCarousel.init('.js-slick-carousel');
     });
   </script>
+
+  <script src="../assets/js/viewportchecker.js"></script>
+  
+  <script>
+  jQuery(document).ready(function() {
+    jQuery('.post').addClass("hidden").viewportChecker({
+        classToAdd: 'visible animated bounceIn',
+        offset: 100
+       });
+  });
+  </script>
+  
 </body>
 </html>
