@@ -23,7 +23,6 @@
   <link rel="stylesheet" href="assets/vendor/font-awesome/css/fontawesome-all.min.css">
   <link rel="stylesheet" href="assets/vendor/animate.css/animate.css">
   <link rel="stylesheet" href="assets/vendor/hs-megamenu/src/hs.megamenu.css">
-  <link rel="stylesheet" href="assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
   <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
 
   <!-- CSS Front Template -->
@@ -735,9 +734,6 @@
   <script async defer src="assets/js/components/hs.malihu-scrollbar.js"></script>
   <script async defer src="assets/js/components/hs.go-to.js"></script>
 
-  <script async defer src="assets/js/helpers/hs.focus-state.js"></script>
-  <script async defer src="assets/js/components/hs.show-animation.js"></script>
-
   <!-- JS Plugins Init. -->
   <script>
     $(window).on('load', function () {
@@ -753,12 +749,6 @@
     $(document).on('ready', function () {
       // initialization of header
       $.HSCore.components.HSHeader.init($('#header'));
-
-      // initialization of malihu scrollbar
-      $.HSCore.components.HSMalihuScrollBar.init($('.js-scrollbar'));
-
-      // initialization of show animations
-      $.HSCore.components.HSShowAnimation.init('.js-animation-link');
 
       // initialization of go to
       $.HSCore.components.HSGoTo.init('.js-go-to');

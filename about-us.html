@@ -24,9 +24,6 @@
   <link rel="stylesheet" href="assets/vendor/font-awesome/css/fontawesome-all.min.css">
   <link rel="stylesheet" href="assets/vendor/animate.css/animate.css">
   <link rel="stylesheet" href="assets/vendor/hs-megamenu/src/hs.megamenu.css">
-  <link rel="stylesheet" href="assets/vendor/fancybox/jquery.fancybox.css">
-  <link rel="stylesheet" href="assets/vendor/hs-bg-video/hs-bg-video.css">
-  <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
   <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
 
   <!-- CSS Front Template -->
@@ -417,26 +414,13 @@
 
   <!-- JS Implementing Plugins -->
   <script src="assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
-  <script src="assets/vendor/hs-bg-video/hs-bg-video.js"></script>
-  <script src="assets/vendor/hs-bg-video/vendor/player.min.js"></script>
-  <script src="assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
-  <script src="assets/vendor/fancybox/jquery.fancybox.min.js"></script>
-  <script src="assets/vendor/slick-carousel/slick/slick.js"></script>
-  <script src="assets/vendor/slick-carousel/slick/slick.js"></script>
   <script src="assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
   <script src="assets/vendor/appear.js"></script>
 
   <!-- JS Front -->
   <script src="assets/js/hs.core.js"></script>
   <script src="assets/js/components/hs.header.js"></script>
-  <script src="assets/js/components/hs.unfold.js"></script>
-  <script src="assets/js/helpers/hs.bg-video.js"></script>
-  <script src="assets/js/components/hs.validation.js"></script>
-  <script src="assets/js/helpers/hs.focus-state.js"></script>
-  <script src="assets/js/components/hs.fancybox.js"></script>
-  <script src="assets/js/components/hs.slick-carousel.js"></script>
   <script src="assets/js/components/hs.go-to.js"></script>
-  <script src="assets/js/components/hs.onscroll-animation.js"></script>
 
   <!-- JS Plugins Init. -->
   <script>
@@ -449,71 +433,16 @@
         hideTimeOut: 0
       });
 
-      // initialization of scroll animation
-      $.HSCore.components.HSOnScrollAnimation.init('[data-animation]');
     });
 
     $(document).on('ready', function () {
       // initialization of header
       $.HSCore.components.HSHeader.init($('#header'));
 
-      // initialization of unfold component
-      $.HSCore.components.HSUnfold.init($('[data-unfold-target]'));
-
-      // initialization of video on background
-      $.HSCore.helpers.HSBgVideo.init('.js-bg-video');
-
-      // initialization of form validation
-      $.HSCore.components.HSValidation.init('.js-validate');
-
-      // initialization of forms
-      $.HSCore.helpers.HSFocusState.init();
-
-      // initialization of fancybox
-      $.HSCore.components.HSFancyBox.init('.js-fancybox');
-
-      // initialization of slick carousel
-      $.HSCore.components.HSSlickCarousel.init('.js-slick-carousel');
-
       // initialization of go to
       $.HSCore.components.HSGoTo.init('.js-go-to');
     });
 
-    <!-- Mailchimp -->
-    $(document).ready( function () {
-    // I only have one form on the page but you can be more specific if need be.
-        var $form = $('form');
-
-        if ( $form.length > 0 ) {
-            $('form input[type="submit"]').bind('click', function ( event ) {
-                if ( event ) event.preventDefault();
-                // validate_input() is a validation function I wrote, you'll have to substitute this with your own.
-                register($form);
-            });
-        }
-    });
-
-    function register($form) {
-        $.ajax({
-            type: $form.attr('method'),
-            url: $form.attr('action'),
-            data: $form.serialize(),
-            cache       : false,
-            dataType    : 'json',
-            contentType: "application/json; charset=utf-8",
-            error       : function(err) { alert("Could not connect to the registration server. Please try again later."); },
-            success     : function(data) {
-                var $input_field = $('form input[type="email"]')
-                if (data.result != "success") {
-                  document.getElementById("error-text").innerHTML = data.msg.replace("0 - ","")
-                } else {
-                  //alert(data.msg);
-                  document.getElementById("error-text").innerHTML = data.msg.replace("0 - ","")
-                }
-            }
-        });
-    }
-    <!-- Mailchimp End-->
   </script>
 
   <script src="assets/js/viewportchecker.js"></script>

@@ -24,7 +24,6 @@
   <link rel="stylesheet" href="../assets/vendor/font-awesome/css/fontawesome-all.min.css">
   <link rel="stylesheet" href="../assets/vendor/animate.css/animate.css">
   <link rel="stylesheet" href="../assets/vendor/hs-megamenu/src/hs.megamenu.css">
-  <link rel="stylesheet" href="../assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
 
   <!-- CSS Front Template -->
   <link rel="stylesheet" href="../assets/css/front.css">
@@ -541,12 +540,10 @@
 
   <!-- JS Implementing Plugins -->
   <script src="../assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
-  <script src="../assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
 
   <!-- JS Front -->
   <script src="../assets/js/hs.core.js"></script>
   <script src="../assets/js/components/hs.header.js"></script>
-  <script src="../assets/js/components/hs.malihu-scrollbar.js"></script>
   <script src="../assets/js/components/hs.go-to.js"></script>
 
   <!-- JS Plugins Init. -->
@@ -564,9 +561,6 @@
     $(document).on('ready', function () {
       // initialization of header
       $.HSCore.components.HSHeader.init($('#header'));
-
-      // initialization of malihu scrollbar
-      $.HSCore.components.HSMalihuScrollBar.init($('.js-scrollbar'));
 
       // initialization of go to
       $.HSCore.components.HSGoTo.init('.js-go-to');
