@@ -52,7 +52,7 @@
   <meta name="theme-color" content="#ffffff">
 
   <!-- Drift Chat Widget -->
-  <script>
+  <script async>
   "use strict";
 
   !function() {
@@ -81,7 +81,7 @@
 
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124593606-2"></script>
   
-  <script>
+  <script async>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
@@ -90,7 +90,7 @@
     gtag('config', 'AW-774824693');
   </script>
 
-  <script>
+  <script async>
     function gtag_report_conversion(url) {
       var callback = function () {
         if (typeof(url) != 'undefined') {
@@ -113,6 +113,18 @@
       });
       gtag_report_conversion();
     }
+  </script>
+
+  <!-- Hotjar Tracking Code for www.nexushealthclinic.com -->
+  <script async>
+      (function(h,o,t,j,a,r){
+          h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+          h._hjSettings={hjid:1253957,hjsv:6};
+          a=o.getElementsByTagName('head')[0];
+          r=o.createElement('script');r.async=1;
+          r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+          a.appendChild(r);
+      })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
   </script>
 
 </head>
@@ -194,7 +206,7 @@
                    aria-haspopup="true"
                    aria-expanded="false"
                    aria-labelledby="communitySubMenu">
-                  COMMUNITY
+                  COMMUNITY&nbsp;<span class="fa fa-angle-down"></span>
                 </a>
 
                 <ul id="pagesSubMenu" class="list-inline hs-sub-menu u-header__sub-menu py-3 mb-0" style="min-width: 140px;"
@@ -483,16 +495,16 @@
       <!-- Social Section -->
       <div class="d-flex justify-content-center p-3">
         <div class="mx-2">
-          <a href="https://facebook.com/nexushealthclinic" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/fb_square_color.svg" alt="Facebook" width="30" height="30"></a>
+          <a href="https://facebook.com/nexushealthclinic" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/fb_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Facebook" width="30" height="30"></a>
         </div>
         <div class="mx-2">
-          <a href="https://twitter.com/Nexus_MnR" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/twitter_square_color.svg" alt="Twitter" width="30" height="30"></a>
+          <a href="https://twitter.com/Nexus_MnR" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/twitter_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Twitter" width="30" height="30"></a>
         </div>
         <div class="mx-2">
-          <a href="https://www.instagram.com/nexus.clinic" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/instagram_square_color.svg" alt="Instagram" width="30" height="30"></a>
+          <a href="https://www.instagram.com/nexus.clinic" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/instagram_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Instagram" width="30" height="30"></a>
         </div>
         <div class="mx-2">
-          <a href="https://www.yelp.ca/biz/nexus-massage-and-rehab-toronto" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/yelp_square_color.svg" alt="Yelp" width="30" height="30"></a>
+          <a href="https://www.yelp.ca/biz/nexus-massage-and-rehab-toronto" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/yelp_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Yelp" width="30" height="30"></a>
         </div>
         <div class="mx-2">
           <a href="https://www.opencare.com/clinic/nexus-massage-rehab-toronto-on-24630728802/" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/opencare_square_color.png" alt="Massage Clinic - Yonge & Eglinton - OpenCare" width="30" height="30"></a>
@@ -502,13 +514,17 @@
 
       <!-- Terms / Privacy -->
       <div class="container text-center p-2">
-        <a href="../about-us.html">ABOUT US</a> &nbsp;&bull;&nbsp; <a href="../careers.html">CAREERS</a> &nbsp;&bull;&nbsp; <a href="../referral.html">REFER A FRIEND</a> &nbsp;&bull;&nbsp; <a href="../terms.html">TERMS</a> &nbsp;&bull;&nbsp; <a href="../privacy.html">PRIVACY</a>
+        <a href="../about-us.html">ABOUT US</a> &nbsp;&bull;&nbsp; <a href="../careers.html">CAREERS</a> &nbsp;&bull;&nbsp; <a href="../referral.html">REFER A FRIEND</a> &nbsp;&bull;&nbsp; <a href="../gift-cards.html">GIFT CARDS</a>
       </div>
       <!-- End Terms / Privacy -->
 
       <HR>
 
       <p class="small text-muted">&copy; 2019 - Nexus Massage & Rehab. All rights reserved.</p>
+
+      <div class="list-unstyled">
+        <p class="small text-muted"><a class="u-link-muted" href="../terms.html">Terms of Use</a> &nbsp;/&nbsp; <a class="u-link-muted" href="../privacy.html">Privacy Policy</a></p>
+      </div>
     </div>
     <!-- End Copyright -->
   </footer>
