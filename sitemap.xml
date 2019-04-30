@@ -61,6 +61,11 @@
     <priority>0.80</priority>
   </url>
   <url>
+    <loc>https://nexushealthclinic.com/gift-cards</loc>
+    <lastmod>2019-04-30T19:58:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>https://nexushealthclinic.com/referral</loc>
     <lastmod>2019-01-01T19:58:30+00:00</lastmod>
     <priority>0.80</priority>
@@ -116,17 +121,17 @@
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://nexushealthclinic.com/community/sitting/</loc>
-    <lastmod>2019-01-27T16:15:02+00:00</lastmod>
+    <loc>https://nexushealthclinic.com/profiles/katelyn_morgan</loc>
+    <lastmod>2019-04-30T14:18:34+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://nexushealthclinic.com/community/workplace-ergonomics-2/</loc>
-    <lastmod>2019-01-27T16:15:02+00:00</lastmod>
+    <loc>https://nexushealthclinic.com/community/knee-pain/</loc>
+    <lastmod>2019-04-30T16:15:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://nexushealthclinic.com/community/nexus-giving-back-networking-and-mentoring-chiropractic-students/</loc>
+    <loc>https://nexushealthclinic.com/community/5-common-reasons-you-are-experiencing-neck-pain/</loc>
     <lastmod>2019-01-27T16:15:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
@@ -136,8 +141,28 @@
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://nexushealthclinic.com/community/5-common-reasons-you-are-experiencing-neck-pain/</loc>
+    <loc>https://nexushealthclinic.com/community/nexus-giving-back-networking-and-mentoring-chiropractic-students/</loc>
     <lastmod>2019-01-27T16:15:02+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://nexushealthclinic.com/community/workplace-ergonomics-2/</loc>
+    <lastmod>2019-01-27T16:15:02+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://nexushealthclinic.com/community/sitting/</loc>
+    <lastmod>2019-01-27T16:15:02+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://nexushealthclinic.com/community/physio-myth-busters/</loc>
+    <lastmod>2019-04-30T16:15:02+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://nexushealthclinic.com/community/your-health-through-your-tongue/</loc>
+    <lastmod>2019-04-30T16:15:02+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
@@ -161,11 +186,6 @@
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://nexushealthclinic.com/community/knee-pain/</loc>
-    <lastmod>2019-01-27T16:15:02+00:00</lastmod>
-    <priority>0.64</priority>
-  </url>
-  <url>
     <loc>https://nexushealthclinic.com/community/author/mhoang/</loc>
     <lastmod>2019-01-27T16:15:02+00:00</lastmod>
     <priority>0.51</priority>
@@ -180,6 +200,10 @@
     <lastmod>2019-01-27T16:15:02+00:00</lastmod>
     <priority>0.51</priority>
   </url>
-
+  <url>
+    <loc>https://nexushealthclinic.com/community/author/daniel_thrush/</loc>
+    <lastmod>2019-04-30T16:15:02+00:00</lastmod>
+    <priority>0.51</priority>
+  </url>
 
 </urlset>
