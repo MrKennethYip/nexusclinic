@@ -26,6 +26,8 @@
   <link rel="stylesheet" href="assets/vendor/hs-megamenu/src/hs.megamenu.css">
   <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
   <link rel="stylesheet" href="assets/vendor/responsively-lazy/responsivelyLazy.min.css">
+  <link rel="stylesheet" href="assets/vendor/custombox/dist/custombox.min.css">
+  <link rel="stylesheet" href="assets/vendor/animate.css/animate.min.css">
 
   <!-- CSS Front Template -->
   <link rel="stylesheet" href="assets/css/front.css">
@@ -148,6 +150,10 @@
           a.appendChild(r);
       })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
   </script>
+
+  <!-- Leadquizzes 3 tracking script -->
+  <script src='https://lq3-production.s3.amazonaws.com/lead_quizzes_3.0/tracking/js/properties/gj5g0_uomg7ueq.js'></script>
+  <!-- End of Leadquizzes 3 script -->
 
 </head>
 
@@ -296,9 +302,10 @@
       <div class="container position-relative u-space-5-top u-space-3-bottom z-index-2">
         <div class="w-lg-80 text-center mx-auto">
           <h1 class="display-3 font-size-48--md-down text-white font-weight-bold">SERVICES</h1>
+          <p class="lead text-white">Take our <span class="font-weight-bold">5 minute quiz</span> and get <span class="font-weight-bold">personalized recommendations</span><br>of services and practitioners that <span class="font-weight-bold">fit you best</span>!</p>
           
           <div class="u-space-1-top">
-            <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bannerBtn');">Book Online<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
+            <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="#treatmentQuizModal" data-modal-target="#treatmentQuizModal">Take the Quiz<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
           </div>
 
         </div>
@@ -307,6 +314,30 @@
       </div>
     </div>
     <!-- End Hero Section -->
+
+    <!-- Shopping Cart Modal Window -->
+    <div id="treatmentQuizModal" class="js-modal-window u-modal-window" style="width:60%;">
+      <div class="card">
+        
+        <!-- Header -->
+        <header class="card-header bg-light py-3 px-5">
+          <div class="d-flex justify-content-between align-items-center">
+            <h3 class="h6 mb-0">Nexus Massage & Rehab - Quiz!</h3>
+
+            <button type="button" class="close" aria-label="Close" onclick="Custombox.modal.close();">
+              <span aria-hidden="true">×</span>
+            </button>
+          </div>
+        </header>
+        <!-- End Header -->
+
+        <!-- Body -->
+        <div id='inline-embed-iframe' class='inline-embed-responsive' style='border-radius:5px; overflow:hidden;'><iframe src='https://content.leadquizzes.com/lp/ALw9cXng0w?embed=1' frameborder='0' style='width:100%; float:left;'></iframe></div>
+        <!-- End Body -->
+
+      </div>
+    </div>
+    <!-- End Shopping Cart Modal Window -->
 
     <!-- Service Item Start -->
      <div class="scrolltag" id="rmt"></div>
@@ -1740,12 +1771,14 @@
   <script src="assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
   <script src="assets/vendor/appear.js"></script>
   <script src="assets/vendor/responsively-lazy/responsivelyLazy.min.js"></script>
+  <script src="assets/vendor/custombox/dist/custombox.min.js"></script>
 
   <!-- JS Front -->
   <script src="assets/js/hs.core.js"></script>
   <script src="assets/js/components/hs.header.js"></script>
   <script src="assets/js/components/hs.unfold.js"></script>
   <script src="assets/js/components/hs.go-to.js"></script>
+  <script src="assets/js/components/hs.modal-window.js"></script>
 
   <!-- JS Plugins Init. -->
   <script>
@@ -1756,6 +1789,11 @@
         pageContainer: $('.container'),
         breakpoint: 767,
         hideTimeOut: 0
+      });
+
+      // initialization of autonomous popups
+      $.HSCore.components.HSModalWindow.init('[data-modal-target]', '.js-modal-window', {
+        autonomous: true
       });
 
     });
