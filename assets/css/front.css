@@ -8506,3 +8506,7 @@ button:focus {
 #block-1 {
   animation-delay: 0.5s;
 }
+
+.height-250 {
+  height: 15.625rem;
+}
