@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Title -->
+  <title>Team [Practitioners] - Find a Massage Therapist, Chiropractor, Physiotherapist or Acupuncturist in Toronto | Nexus Massage & Rehab</title>
+
+  <meta name="Description" content="Our highly skilled team members at Nexus Clinic consists of ​registered massage therapists, chiropractors, physiotherapists and acupuncturists.">
+  <meta name="keywords" content="Team building, skilled therapists, yonge and eglinton massage, hiring, careers, skill building, hiring now, hiring today, open positions, massage therapy jobs, chiro jobs">  
+
+  <!-- Common Header -->
+  <?php include('includes/common-header.php') ?>
+  <!-- End Common Header -->
+  
+</head>
+
+<body>
+
+  <!-- ========== HEADER ========== -->
+  <?php include('includes/nav.php') ?>
+  <!-- ========== END HEADER ========== -->
+
+  <!-- ========== MAIN ========== -->
+  <main id="content" role="main">
+    <!-- Hero Section -->
+    <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll"
+         data-options='{direction: "normal"}'>
+      <!-- Apply your Parallax background image here -->
+      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Hiring RMT Today - Group Hands" style="height: 120%; background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/team-hands.jpg);"></div>
+
+      <div class="animated bounceIn">
+      <!-- Content -->
+      <div class="container position-relative u-space-5-top u-space-3-bottom z-index-2">
+        <div class="w-lg-80 text-center mx-auto">
+          <h1 class="display-3 font-size-48--md-down text-white font-weight-bold">TEAM</h1>
+
+          <div class="u-space-1-top">
+            <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bannerBtn');">Book Online<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
+          </div>
+
+        </div>
+      </div>
+      <!-- End Content -->
+      </div>
+
+    </div>
+    <!-- End Hero Section -->
+    
+    <!-- Portfolio 1 Section -->
+    <div class="container u-space-2">
+      <div class="w-md-80 w-lg-50 text-center mx-auto mb-7">
+        <h2 class="text-primary font-weight-normal"><span class="font-weight-bold">Healthcare Practitioners</span></h2>
+      </div>    
+      <div class="u-cubeportfolio">
+        <!-- Filter -->
+        <ul id="filterControls" class="list-inline cbp-l-filters-alignRight text-center">
+          <li class="list-inline-item cbp-filter-item cbp-filter-item-active u-cubeportfolio__item" data-filter="*">ALL</li>
+          <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".rmt">Registered Massage Therapist</li>
+          <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".chiro">Chiropractor</li>
+          <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".physio">Physiotherapist</li>
+          <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".acupuncture">Registered Acupuncturist</li>
+        </ul>
+        <!-- End Filter -->
+
+        <!-- Content -->
+        <div class="cbp"
+             data-layout="grid"
+             data-controls="#filterControls"
+             data-animation="quicksand"
+             data-x-gap="32"
+             data-y-gap="32"
+             data-media-queries='[
+              {"width": 1500, "cols": 4},
+              {"width": 1100, "cols": 4},
+              {"width": 800, "cols": 3},
+              {"width": 480, "cols": 3},
+              {"width": 300, "cols": 2}
+            ]'>
+          <!-- Item -->
+          <div class="cbp-item rmt chiro">
+            <a class="cbp-caption" href="profiles/karen_ngo">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/karen_ngo.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Karen Ngo - Chiropractor, Registered Massage Therapist">
+              <div class="py-3">
+                <h4 class="h6 text-dark mb-0">Dr. Karen Ngo</h4>
+                <p class="small mb-0">
+                  Chiropractor, Registered Massage Therapist, Acupuncture Provider
+                </p>
+              </div>
+            </a>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="profiles/cassandra_kong">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/cassandra_kong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Cassandra Kong - Registered Massage Therapist">
+              <div class="py-3">
+                <h4 class="h6 text-dark mb-0">Cassandra Kong</h4>
+                <p class="small mb-0">
+                  Registered Massage Therapist<br><br>
+                </p>
+              </div>
+            </a>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item chiro">
+            <a class="cbp-caption" href="profiles/felix_chu">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/felix_chu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Felix Chu - Chiropractor">
+              <div class="py-3">
+                <h4 class="h6 text-dark mb-0">Dr. Felix Chu</h4>
+                <p class="small mb-0">
+                  Chiropractor, <br>Acupuncture Provider
+                </p>
+              </div>
+            </a>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item physio">
+            <a class="cbp-caption" href="profiles/mai_hoang">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mai_hoang.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mai_hoang.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mai_hoang.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/mai_hoang.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Mai Hoang - Physiotherapist">
+              <div class="py-3">
+                <h4 class="h6 text-dark mb-0">Mai Hoang</h4>
+                <p class="small mb-0">
+                  Physiotherapist<br><br>
+                </p>
+              </div>
+            </a>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item acupuncture">
+            <a class="cbp-caption" href="profiles/daniel_thrush">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/daniel_thrush.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/daniel_thrush.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/daniel_thrush.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/daniel_thrush.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Daniel Thrush - Acupuncture">
+              <div class="py-3">
+                <h4 class="h6 text-dark mb-0">Daniel Thrush</h4>
+                <p class="small mb-0">
+                  Registered Acupuncturist, <br>Certified Nutritional Practitioner
+                </p>
+              </div>
+            </a>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="profiles/phil_kim">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/phil_kim.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/phil_kim.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/phil_kim.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/phil_kim.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Phil Kim - Registered Massage Therapy">
+              <div class="py-3">
+                <h4 class="h6 text-dark mb-0">Phil Kim</h4>
+                <p class="small mb-0">
+                  Registered Massage Therapist<br><br>
+                </p>
+              </div>
+            </a>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="profiles/eric_miraflor">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/eric_miraflor.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/eric_miraflor.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/eric_miraflor.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/eric_miraflor.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Eric Miraflor - Registered Massage Therapy">
+              <div class="py-3">
+                <h4 class="h6 text-dark mb-0">Eric Miraflor</h4>
+                <p class="small mb-0">
+                  Registered Massage Therapist<br><br>
+                </p>
+              </div>
+            </a>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="profiles/lydia_giammartino">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lydia_giammartino.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lydia_giammartino.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lydia_giammartino.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/lydia_giammartino.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Lydia Giammartino - Registered Massage Therapy">
+              <div class="py-3">
+                <h4 class="h6 text-dark mb-0">Lydia Giammartino</h4>
+                <p class="small mb-0">
+                  Registered Massage Therapist<br><br>
+                </p>
+              </div>
+            </a>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="profiles/katelyn_morgan">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/katelyn_morgan.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/katelyn_morgan.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/katelyn_morgan.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/katelyn_morgan.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Katelyn Morgan - Registered Massage Therapy">
+              <div class="py-3">
+                <h4 class="h6 text-dark mb-0">Katelyn Morgan</h4>
+                <p class="small mb-0">
+                  Registered Massage Therapist<br><br>
+                </p>
+              </div>
+            </a>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item chiro">
+            <a class="cbp-caption" href="profiles/kevin_hong">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kevin_hong.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kevin_hong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kevin_hong.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/kevin_hong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Kevin Hong - Chiropractor">
+              <div class="py-3">
+                <h4 class="h6 text-dark mb-0">Dr. Kevin Hong</h4>
+                <p class="small mb-0">
+                  Chiropractor, <br>Acupuncture Provider
+                </p>
+              </div>
+            </a>
+          </div>
+          <!-- End Item -->
+
+        </div>
+        <!-- End Content -->
+      </div>       
+    </div>
+    <!-- End Portfolio 1 Section -->
+
+    <!-- Portfolio 2 Section -->
+    <div class="container u-space-2">
+      <div class="w-md-80 w-lg-50 text-center mx-auto mb-7">
+        <h2 class="text-primary font-weight-normal"><span class="font-weight-bold">Office Staff</span></h2>
+      </div>    
+      <div class="u-cubeportfolio">
+        
+
+        <!-- Content -->
+        <div class="cbp"
+             data-layout="grid"
+             data-controls="#filterControls"
+             data-animation="quicksand"
+             data-x-gap="32"
+             data-y-gap="32"
+             data-media-queries='[
+              {"width": 1500, "cols": 4},
+              {"width": 1100, "cols": 4},
+              {"width": 800, "cols": 3},
+              {"width": 480, "cols": 3},
+              {"width": 300, "cols": 2}
+            ]'>
+
+          <!-- Item -->
+          <div class="cbp-item rmt chiro acupuncture physio">
+            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/emmy_podell.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/emmy_podell.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/emmy_podell.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/emmy_podell.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Emmy Podell - Nexus Massage and Rehab - Toronto">
+            <div class="py-3">
+              <h4 class="h6 text-dark mb-0">Emmy Podell</h4>
+              <p class="small mb-0">
+                Clinic Administrator<br><br>
+              </p>
+            </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt chiro acupuncture physio">
+            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gorma_jekula.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gorma_jekula.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gorma_jekula.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/gorma_jekula.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px"  alt="Gorma Jekula - Nexus Massage and Rehab - Toronto">
+            <div class="py-3">
+              <h4 class="h6 text-dark mb-0">Gorma Jekula</h4>
+              <p class="small mb-0">
+                Clinic Administrator<br><br>
+              </p>
+            </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt chiro acupuncture physio">
+            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/tara_mooney.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/tara_mooney.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/tara_mooney.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/tara_mooney.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Tara Mooney - Nexus Massage and Rehab - Toronto">
+            <div class="py-3">
+              <h4 class="h6 text-dark mb-0">Tara Mooney</h4>
+              <p class="small mb-0">
+                Clinic Administrator<br><br>
+              </p>
+            </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt chiro acupuncture physio">
+            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/natasha_abbey.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/natasha_abbey.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/natasha_abbey.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/natasha_abbey.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Natasha Abbey - Nexus Massage and Rehab - Toronto">
+            <div class="py-3">
+              <h4 class="h6 text-dark mb-0">Natasha Abbey</h4>
+              <p class="small mb-0">
+                Clinic Administrator<br><br>
+              </p>
+            </div>
+          </div>
+          <!-- End Item -->
+
+        </div>
+        <!-- End Content -->
+      </div>       
+    </div>
+    <!-- End Portfolio 2 Section -->
+
+  </main>
+  <!-- ========== END MAIN ========== -->
+
+  <!-- ========== FOOTER ========== -->
+  <?php include('includes/footer.php') ?>
+  <!-- ========== END FOOTER ========== -->
+
+  <!-- Common Footer -->
+  <?php include('includes/common-footer.php') ?>
+  <!-- End Common Footer -->
+
+</body>
+</html>
