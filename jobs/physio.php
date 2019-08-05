@@ -38,7 +38,7 @@
         <div class="row justify-content-md-between align-items-md-center mb-7">
           <div class="col-md-9 mb-7 mb-md-0">
             <h1 class="h3 font-weight-bold">Physiotherapist</h1>
-            <p class="mb-0"><strong>Part Time</strong></p>
+            <p class="mb-0"><strong>Toronto, ON</strong> - <strong>Part Time</strong></p>
           </div>
 
           <div class="col-md-3 text-md-right">
@@ -66,9 +66,10 @@
           <li><p>In-depth knowledge of health care treatments and modalities</p></li>
           <li><p>Improving skills and techniques from complementary professionals</p></li>
           <li><p>One-on-One coaching on technical skills</p></li>
+          <li><p>Business and marketing initiatives to grow your own client base</p></li>
         </ul>
 
-        <p>If you are <strong>self-motivated</strong> and looking for a place to grow into a strong physiotherapist with the Nexus team, then we are looking for YOU!/p>
+        <p>If you are <strong>self-motivated</strong> and looking for a place to grow into a strong physiotherapist with the Nexus team, then we are looking for YOU!</p>
 
         <p>** Must be able to work <strong>evenings</strong> and <strong>weekends</strong>. <strong>Immediate start date</strong>.</p>
 
