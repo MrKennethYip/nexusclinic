@@ -25,7 +25,7 @@
 		<div class="container u-space-3-top">
 			<div class="position-relative">
 
-        <div class="animated bounceIn">
+	    <div class="animated bounceIn">
 				<!-- Title -->
 				<div class="w-md-80 w-lg-50 text-center mx-auto">
 					<div class="mb-4">
@@ -34,12 +34,12 @@
 					</div>
 					<a class="js-go-to btn btn-primary u-btn-primary transition-3d-hover" href="javascript:;"
 					   data-target="#jobPositions"
-             data-type="static">
-            View Open Jobs
+	         data-type="static">
+	        View Open Jobs
 					</a>
 				</div>
 				<!-- End Title -->
-        </div>
+	    </div>
 			</div>
 		</div>
 		<!-- End Career Title Section -->
@@ -56,12 +56,12 @@
 			     data-load-more-action="auto"
 			     data-load-items-amount="4"
 			     data-media-queries='[
-          {"width": 1500, "cols": 4},
-          {"width": 1100, "cols": 4},
-          {"width": 800, "cols": 3},
-          {"width": 480, "cols": 2},
-          {"width": 400, "cols": 2}
-      ]'>
+	      {"width": 1500, "cols": 4},
+	      {"width": 1100, "cols": 4},
+	      {"width": 800, "cols": 3},
+	      {"width": 480, "cols": 2},
+	      {"width": 400, "cols": 2}
+	  ]'>
 				<!-- Item -->
 				<div class="cbp-item">
 					<div class="cbp-caption">
@@ -122,10 +122,10 @@
 		</div>
 		<!-- End Frames Section -->
 
-    <div style="background-color:#E7E8E8; border: 1px solid #898A8D">
+	<div style="background-color:#E7E8E8; border: 1px solid #898A8D">
 		<!-- Core Values -->
 		<div class="position-relative">
-            <div class="container u-space-2" style="background:url(	https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-grey-transparent.svg) no-repeat; background-size:auto 100%;">
+	        <div class="container u-space-2" style="background:url(	https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-grey-transparent.svg) no-repeat; background-size:auto 100%;">
 				<div class="row align-items-center">
 					<div class="col-lg-5 mb-9 mb-lg-0">
 						<!-- Title -->
@@ -154,7 +154,7 @@
 			</div>
 		</div>
 		<!-- End Core Values -->
-    </div>
+	</div>
 
 	<!-- Features Section -->
 	<div class="container u-space-1">
@@ -170,9 +170,9 @@
 				<!-- Icon Blocks -->
 				<div class="media">
 					<div class="d-flex mr-3">
-        <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle">
-          <span class="u-icon__inner font-weight-bold">01</span>
-        </span>
+	    <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle">
+	      <span class="u-icon__inner font-weight-bold">01</span>
+	    </span>
 					</div>
 					<div class="media-body">
 						<h6>A great location at Yonge and Eglinton, 2 minutes walk from Eglinton Subway and close to shops and restaurants.</h6>
@@ -185,9 +185,9 @@
 				<!-- Icon Blocks -->
 				<div class="media">
 					<div class="d-flex mr-3">
-        <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle">
-          <span class="u-icon__inner font-weight-bold">02</span>
-        </span>
+	    <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle">
+	      <span class="u-icon__inner font-weight-bold">02</span>
+	    </span>
 					</div>
 					<div class="media-body">
 						<h6>Electronic medical records (paperless).</h6>
@@ -200,9 +200,9 @@
 				<!-- Icon Blocks -->
 				<div class="media">
 					<div class="d-flex mr-3">
-        <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle">
-          <span class="u-icon__inner font-weight-bold">03</span>
-        </span>
+	    <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle">
+	      <span class="u-icon__inner font-weight-bold">03</span>
+	    </span>
 					</div>
 					<div class="media-body">
 						<h6>Supplies and equipments (linens, towels, electronic modalities).</h6>
@@ -215,9 +215,9 @@
 				<!-- Icon Blocks -->
 				<div class="media">
 					<div class="d-flex mr-3">
-        <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle">
-          <span class="u-icon__inner font-weight-bold">04</span>
-        </span>
+	    <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle">
+	      <span class="u-icon__inner font-weight-bold">04</span>
+	    </span>
 					</div>
 					<div class="media-body">
 						<h6>Front desk support who will check patients in/out and handle your financial transactions.</h6>
@@ -230,9 +230,9 @@
 				<!-- Icon Blocks -->
 				<div class="media">
 					<div class="d-flex mr-3">
-        <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle">
-          <span class="u-icon__inner font-weight-bold">05</span>
-        </span>
+	    <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle">
+	      <span class="u-icon__inner font-weight-bold">05</span>
+	    </span>
 					</div>
 					<div class="media-body">
 						<h6>Monthly clinic rounds where practitioners learn and teach diagnostic and treatment techniques.</h6>
@@ -245,9 +245,9 @@
 				<!-- Icon Blocks -->
 				<div class="media">
 					<div class="d-flex mr-3">
-        <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle">
-          <span class="u-icon__inner font-weight-bold">06</span>
-        </span>
+	    <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle">
+	      <span class="u-icon__inner font-weight-bold">06</span>
+	    </span>
 					</div>
 					<div class="media-body">
 						<h6>A strong team-based environment where everyone can practice and grow together.</h6>
@@ -255,116 +255,68 @@
 				</div>
 				<!-- End Icon Blocks -->
 			</div>
-    <span id="jobPositions"></span>
+	<span id="jobPositions"></span>
 		</div>
 	</div>
 	<!-- End Features Section -->
 
-  <div style="background-color:#E7E8E8; border: 1px solid #898A8D">
-  <!-- Steps Section -->
-  <div class="container u-space-1">
-
-    <!-- Title -->
-    <div class="w-md-80 w-lg-50 text-center mx-auto mb-2">
-      <h2 class="text-dark"><span class="font-weight-bold">Our open positions</span>
+	<div style="background-color:#E7E8E8; border: 1px solid #898A8D">
+	<!-- Job Positions -->
+	<div id="jobPositions" class="container u-space-1-top u-space-1-bottom">
+		<!-- Title -->
+		<div class="w-md-80 w-lg-50 text-center mx-auto mb-5">
+			<h2 class="text-dark"><span class="font-weight-bold">Our open positions</span>
       </h2>
-      <p class="text-dark">We are always looking for creative, talented folks to join the Nexus family. We are currently hiring <strong>Registered Massage Therapists</strong>, <strong>Physiotherapists</strong> and <strong>Office Receptionists</strong>.</p>
-    </div>
-    <!-- End Title -->
+      <p class="text-dark">We are always looking for creative, talented, and motivated folks to join the Nexus family! Learn more about our open positions below.</p>
+		</div>
+		<!-- End Title -->
 
-    <!-- Conditions Section -->
-    <div class="card-deck d-block d-md-flex u-space-1">
-      <!-- Friends List -->
-      <div class="card u-info-v2 mb-3" style="background-color:#003A5D;">
-        <div class="card-body p-3">
-          <div class="text-center">
-            <div class="media-body p-3">
-              <h2 class="text-primary p-1">
-                <strong class="font-weight-bold text-white">HEALTH CARE</strong>
-              </h2>
+		<!-- Job Positions -->
+		<div class="mb-7">
+			<span class="u-label u-label--sm u-label--primary u-label--rounded mb-2">HEALTH CARE</span>
 
-              <img class="u-space-1-bottom" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+			<!-- List of Job Positions -->
+			<ul class="list-unstyled mb-0">
+				<li class="my-2">
+					<!-- Job -->
+					<a class="u-info-v1 p-4" href="/jobs/rmt">
+            <span class="row justify-content-sm-between align-items-sm-center">
+              <span class="col-sm-6 mb-2 mb-sm-0">
+                <strong>Registered Massage Therapist</strong>
+              </span>
+              <span class="col-sm-6 text-primary text-sm-right">
+                Full Time / Part Time
+                <span class="fa fa-arrow-right small ml-2"></span>
+              </span>
+            </span>
+					</a>
+					<!-- End Job -->
+				</li>
 
-              <h3 class="text-primary p-1">
-                <strong class="font-weight-bold text-white">Qualifications:</strong>
-              </h3>
+				<li class="my-2">
+					<!-- Job -->
+					<a class="u-info-v1 p-4" href="/jobs/physio">
+            <span class="row justify-content-sm-between align-items-sm-center">
+              <span class="col-sm-6 mb-2 mb-sm-0">
+                <strong>Physiotherapist</strong>
+              </span>
+              <span class="col-sm-6 text-primary text-sm-right">
+                Part Time
+                <span class="fa fa-arrow-right small ml-2"></span>
+              </span>
+            </span>
+					</a>
+					<!-- End Job -->
+				</li>
+			</ul>
+		</div>
+		<!-- End List of Job Positions -->
 
-              <div>
-                <p class="text-white">Good standing with their respective Colleges.</p>
-                <p class="text-white">Proof of valid liability/malpractice insurance.</p>
-                <p class="text-white">Flexibility with work hours/availability:<br>Mornings, Evenings, Weekends.</p>
-                <p class="text-white">Can collaboratively work in a team environment.</p>
-                <p class="text-white">New Grads Welcome!</p>
-              </div>  
+	</div>
+	<!-- End Job Positions -->
+	</div>
 
-              <h3 class="text-primary p-1">
-                <strong class="font-weight-bold text-white">Responsibilities:</strong>
-              </h3>
-
-              <div>
-                <p class="text-white">Developing treatment plans and home care for clients.</p>
-                <p class="text-white">Performing high-quality treatments with complete focus on the client.</p>
-                <p class="text-white">Maintaining accurate client records.</p>
-              </div>  
-
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- End Friends List -->
-
-      <!-- Office Staff -->
-      <div class="card u-info-v2 mb-3" style="background-color:#002A3A;">
-        <div class="card-body p-3">
-          <div class="text-center">
-            <div class="media-body p-3">
-              <h2 class="text-primary p-1">
-                <strong class="font-weight-bold text-white">RECEPTIONIST</strong>
-              </h2>
-
-              <img class="u-space-1-bottom" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
-
-              <h3 class="text-primary p-1">
-                <strong class="font-weight-bold text-white">Qualifications:</strong>
-              </h3>
-              
-              <div>
-                <p class="text-white">Post secondary education.</p>
-                <p class="text-white">1-2 years working in an administrative/receptionist role.</p>
-                <p class="text-white">Have a dynamic and friendly personality with excellent communication skills and a strong sense of professional responsibility.</p>
-                <p class="text-white">Experience with using health electronic management records and insurance companies is an asset, but not required.</p>
-                <p class="text-white">Fluent in the English language (verbal and written).</p>
-                <p class="text-white">Organizational skills and attention to detail is critical.</p>
-                <p class="text-white">Ability to solve problems and manage time.</p>
-                <p class="text-white">Flexibility with work hours/availability:<br>Mornings, Evenings, Weekends.</p>
-              </div> 
-
-              <h3 class="text-primary p-1">
-                <strong class="font-weight-bold text-white">Responsibilities:</strong>
-              </h3>
-
-              <div">
-                <p class="text-white">Greet patients and other callers in a courteous and efficient manner.</p>
-                <p class="text-white">Answer the telephone promptly and courteously.</p>
-                <p class="text-white">Make appointments for patients following set procedures.</p>
-                <p class="text-white">Check patients in/out and issue invoices and receipts.</p>
-                <p class="text-white">Data entry using word, excel and clinic software program.</p>
-                <p class="text-white">Process account receivables as required.</p>
-                <p class="text-white">Maintain cleanliness of the clinic.</p>
-                <p class="text-white">Folding and washing linens and towels as needed.</p>
-              </div>   
-            </div>
-          </div>
-        </div>
-      </div>  
-      <!-- End Office Staff-->
-
-    </div>
-  </div>
-  <!-- End Steps Section -->
-  </div>
-
-    <!-- Careers FAQ Section -->
+  <!-- Careers FAQ Section -->
 	<div class="container u-space-1">
 		<!-- Title -->
 		<div class="w-md-80 w-lg-50 text-center mx-auto mb-5">
