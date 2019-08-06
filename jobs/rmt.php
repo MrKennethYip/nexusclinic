@@ -93,9 +93,9 @@
                "centerPadding": "50px"
              }
            }]'>
-        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://miltonbackdoc.com/wp-content/uploads/2019/01/massage-therapy.jpg);"></div>
-        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://applebywellness.ca/img/massageTherapy.jpg);"></div>
-        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://livewellhealthandphysiotherapy.com/sites/default/files/inline-images/LivewellHealth_JulyBlogImages2.jpg);"></div>
+        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers-jobs/lrg/hot_stone.jpg);"></div>
+        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers-jobs/lrg/massage.jpg);"></div>
+        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers-jobs/lrg/cupping.jpg);"></div>
       </div>
       <!-- End Images Carousel -->
 
