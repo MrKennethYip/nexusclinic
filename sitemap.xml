@@ -81,14 +81,24 @@
     <priority>0.80</priority>
   </url>
   <url>
+    <loc>https://nexushealthclinic.com/jobs/rmt</loc>
+    <lastmod>2019-08-08T21:30:29+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://nexushealthclinic.com/jobs/physio</loc>
+    <lastmod>2019-08-08T21:30:29+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>https://nexushealthclinic.com/terms</loc>
     <lastmod>2019-01-01T19:58:30+00:00</lastmod>
-    <priority>0.80</priority>
+    <priority>0.64</priority>
   </url>
   <url>
     <loc>https://nexushealthclinic.com/privacy</loc>
     <lastmod>2019-01-01T19:58:30+00:00</lastmod>
-    <priority>0.80</priority>
+    <priority>0.64</priority>
   </url>
   <url>
     <loc>https://nexushealthclinic.com/profiles/karen_ngo</loc>
