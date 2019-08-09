@@ -262,7 +262,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Fluency in English, with strong verbal communication skills and interpersonal skills
+                  Fluency in English, with strong verbal communication and interpersonal skills
                 </div>
               </div>
             </li>

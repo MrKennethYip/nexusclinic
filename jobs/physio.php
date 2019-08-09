@@ -102,9 +102,9 @@
                "centerPadding": "50px"
              }
            }]'>
-        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://www.thephysioco.com.au/wp-content/uploads/2018/06/bigstock-Portrait-Of-Physiotherapist-Do-238971859-1024x684-800x534.jpg);"></div>
-        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://www.nahb.ca/wp-content/uploads/2015/10/Physiotherapy-Schools-.png);"></div>
-        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://www.physiohouse.ca/images/services/physiotherapy.jpg);"></div>
+        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers-jobs/lrg/physio-ball.jpg);"></div>
+        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers-jobs/lrg/physio-weights.jpg);"></div>
+        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers-jobs/lrg/physio-tape.jpg);"></div>
       </div>
       <!-- End Images Carousel -->
 
@@ -175,7 +175,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Able to write and community fluently in English
+                  Fluency in English, with strong verbal communication and interpersonal skills
                 </div>
               </div>
             </li>
