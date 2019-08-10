@@ -126,7 +126,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Developing treatment plans and home care for clients
+                  Perform clinical assessments, set goals and provide treatment plans for clients, initiate appropriate treatment intervention based on clinical assessment
                 </div>
               </div>
             </li>
@@ -138,7 +138,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Performing high-quality treatments with complete focus on the client
+                  Provide on-going evaluation of client progress
                 </div>
               </div>
             </li>
@@ -150,7 +150,55 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Maintaining accurate client records
+                  Participate in community & promotional events to represent the clinic
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-success--air u-icon--xs rounded-circle">
+                    <span class="fa fa-arrow-right u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Maintain a strong working relationship with other practitioners in the clinic with the goal of providing the patients with a multi-disciplinary approach
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-success--air u-icon--xs rounded-circle">
+                    <span class="fa fa-arrow-right u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Complete and maintain and accurate medical records, and SOAP notes
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-success--air u-icon--xs rounded-circle">
+                    <span class="fa fa-arrow-right u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Maintain clean treatment rooms and common use areas
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-success--air u-icon--xs rounded-circle">
+                    <span class="fa fa-arrow-right u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Present a professional manner and appearance at all times
                 </div>
               </div>
             </li>
@@ -175,6 +223,42 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
+                  Good standing with your respective college
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle">
+                    <span class="fa fa-check u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Professional liability insurance
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle">
+                    <span class="fa fa-check u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Availability to work evening/weekend shifts
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle">
+                    <span class="fa fa-check u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
                   Fluency in English, with strong verbal communication and interpersonal skills
                 </div>
               </div>
@@ -187,7 +271,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Licensed physiotherapist
+                  Critical thinking and problem-solving skills
                 </div>
               </div>
             </li>
@@ -199,7 +283,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Good standing with their respective Colleges
+                  Extensive knowledge in clinical treatments and assessments
                 </div>
               </div>
             </li>
@@ -211,7 +295,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Proof of valid liability/malpractice insurance
+                  Ability to build and maintain a strong relationship with patients
                 </div>
               </div>
             </li>
@@ -223,7 +307,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Flexibility with work hours/availability (Mornings, Evenings, Weekends)
+                  Motivated and driven to learn, succeed and to build a loyal client base
                 </div>
               </div>
             </li>
@@ -235,7 +319,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Can collaboratively work in a team environment
+                  Ability to work independently and as part of a multi-disciplinary team
                 </div>
               </div>
             </li>
@@ -247,13 +331,183 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  New grads are welcome!
+                  Ability to work in a fast-paced, dynamic environment with excellent time management and organizational skills
                 </div>
               </div>
             </li>
           </ul>
           <!-- End List -->
         </div>
+
+        <div class="u-space-2-bottom">
+          <!-- Title -->
+          <div class="mb-4">
+            <h3 class="h5">What we provide:</h3>
+          </div>
+          <!-- End Title -->
+
+          <!-- List -->
+          <ul class="list-unstyled mb-0">
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
+                    <span class="fa fa-plus u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Competitive splits and rates
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
+                    <span class="fa fa-plus u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  A great location at Yonge and Eglinton, thriving with new condos, close to shops and restaurants
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
+                    <span class="fa fa-plus u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Newly renovated, clean and modern space and equipment
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
+                    <span class="fa fa-plus u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Collaboration with many other professionals in your field
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
+                    <span class="fa fa-plus u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Opportunity to build a strong client base
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
+                    <span class="fa fa-plus u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Flexible schedules and hours
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
+                    <span class="fa fa-plus u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Electronic medical records (paperless)
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
+                    <span class="fa fa-plus u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Online booking and ability to check your schedule from your phone
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
+                    <span class="fa fa-plus u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Supplies and equipment (linens, towels, electronic modalities)
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
+                    <span class="fa fa-plus u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Front desk support who will check patients in/out and handle your financial transactions
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
+                    <span class="fa fa-plus u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Monthly clinic rounds where practitioners learn and teach diagnostic and treatment techniques
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
+                    <span class="fa fa-plus u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  A strong team-based environment where everyone can practice and grow together
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
+                    <span class="fa fa-plus u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  Private health spending account (if applicable)
+                </div>
+              </div>
+            </li>
+          </ul>
+          <!-- End List -->
+        </div>
+        
       </div>
     </div>
     <!-- End Career Detail Section -->
