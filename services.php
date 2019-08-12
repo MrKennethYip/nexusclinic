@@ -60,10 +60,8 @@
         <div class="w-lg-80 text-center mx-auto">
           <h1 class="display-3 font-size-48--md-down text-white font-weight-bold">SERVICES</h1>
 
-		      <p class="lead text-white">Take our <span class="font-weight-bold">3 minute Massage Treatment Quiz</span> and get <span class="font-weight-bold">personalized recommendations</span><br>of practitioners that <span class="font-weight-bold">fit you best</span>!</p>
-          
-          <div class="u-space-1-top">
-            <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="#treatmentQuizModal" data-modal-target="#treatmentQuizModal">Take the Quiz<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
+		      <div class="u-space-1-top">
+            <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bannerBtn');">Book Online<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
           </div>
 
         </div>
