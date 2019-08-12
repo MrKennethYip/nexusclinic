@@ -857,5 +857,82 @@
   <?php include('../includes/common-footer.php') ?>
   <!-- End Common Footer -->
 
+  <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Do I need to bring anything to my Physiotherapy appointment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For your first physiotherapy appointment at Nexus Massage and Rehab; please prepare the following, if applicable:<br><br>
+
+          <ul>
+            <li>Loose and comfortable clothes</li>
+            <li>Any referrals or paperwork that pertains to your condition</li>
+            <li>A list of medication</li>
+            <li>Any imaging results (i.e. X-rays/MRI/Ultrasound reports)</li>
+          </ul>"
+      }
+    }, {
+      "@type": "Question",
+      "name": "What should I wear to my Physiotherapy appointment at Nexus Massage and Rehab?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During the treatment, the physiotherapist will be doing some assessments and exercises with you. Please bring or wear clothes that will allow your physiotherapist to address your area of concern and for you to move freely during exercise. You can also bring a change of clothes (ie. Shorts, t-shirt, sports bra) to allow for better movement."
+      }
+    }, {
+      "@type": "Question",
+      "name": "What is involved in a Physiotherapy treatment at Nexus Massage and Rehab?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Physiotherapy treatments may include, but not limited to the following:<br><br>
+
+          <ul>
+            <li>Education</li>
+            <li>Health promotion and prevention services</li>
+            <li>Personalized therapeutic exercise programs</li>
+            <li>Soft tissue and manual therapy techniques; including massage, spinal and peripheral joint mobilization</li>
+            <li>Physical, electrotherapeutic and mechanical agents</li>
+            <li>Addressing environmental change and focusing on removing barriers to function</li>
+            <li>May involve referral to other health care professionals to optimize your recovery</li>
+          </ul>
+
+        Your physiotherapists at Nexus Massage and Rehab will work and collaborate with you to customize your rehabilitation treatment based on the nature of your condition, age, activity levels, values and your goals.</p>"
+      }
+    }, {
+      "@type": "Question",
+      "name": "Does Physiotherapy hurt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For the initial physiotherapy appointment, your physiotherapist will be probing the area in which you have pain and assess your limits of pain. Due to this, after your first appointment it is normal to feel a little sore and aggravated. The goal of physiotherapy is to provide you with the knowledge and tools to self-manage your condition, not to cause pain!"
+      }
+    }, {
+      "@type": "Question",
+      "name": "Is Physiotherapy the same as Massage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"This is a question we get a lot. No, physiotherapy is not just massage. Physiotherapy treatment may involve soft tissue techniques, but it is not our sole treatment. Physiotherapy consists of a combination of manual therapy, exercises, laser therapy, ultrasound, and much more, depending on your needs.<br><br>
+
+        If you wish to learn more about Massage Therapy offered by our Registered Massage Therapists at Nexus Massage and Rehab, please refer to our Registered Massage Therapy FAQ."}
+      }, {
+      "@type": "Question",
+      "name": "How many sessions do I need to see results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"This vastly depends on the nature of condition and the individual. Everyone is different and responds to physiotherapy differently. Your physiotherapist will address these individualistic factors and tailor your physiotherapy treatment especially to you and adjust it depending on your recovery process.<br><br>
+
+        Your physiotherapist may refer you to other health professionals to optimize your rehabilitation. In the event that your pain and condition does not respond to physiotherapy or if physiotherapy is not appropriate for you, the physiotherapist will refer you to the appropriate health professional or your family doctor."}
+      }, {
+      "@type": "Question",
+      "name": "Do I need a doctor’s referral to see a Physiotherapist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"No referral is needed to see a physiotherapist. Please check your insurance provider if a referral is needed to access your benefits and what you are entitled to."}
+      }]
+    }
+  </script>
+
 </body>
 </html>

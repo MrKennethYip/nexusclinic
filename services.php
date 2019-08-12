@@ -391,8 +391,6 @@
     </div>
     <!-- End CTA Section -->
 
-
-
     <div style="border-top: 1px solid #898A8D;">
     <!-- Services FAQ Section -->
       <div class="container u-space-1">
@@ -809,7 +807,7 @@
                       <div class="card-header px-4" id="FAQHeadingFour">
                         <div class="collapsed" data-toggle="collapse" data-target="#FAQFour" aria-expanded="false" aria-controls="FAQFour" role="button">
                           <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                            What should I do before a treatment?
+                            What should I do before an Acupuncture treatment?
                             <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
                           </h3>
                         </div>
@@ -1126,6 +1124,255 @@
         offset: 100
        });
   });
+  </script>
+
+  <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What Is Massage Therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Massage Therapy is the manipulation of the soft tissues of the body including muscles, connective tissue, tendons, ligaments and joints. Massage therapy helps alleviate the soft tissue discomfort associated with everyday and occupational stresses, muscular over-use and many chronic pain conditions. If employed early enough after accidents involving trauma and injury, massage therapy can greatly reduce the development of painful muscular patterning."
+      }
+    }, {
+      "@type": "Question",
+      "name": "How can massage therapy help me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Massage therapy can be beneficial to people of all ages and can help alleviate pain and tension from  many conditions. Massage helps by increasing blood circulation in an area, decreasing muscle tension, improving tissue health, and increasing range of motion. Massage is a very non-invasive and safe treatment that can help improve the following conditions:<br><br>
+
+          <ul>
+            <li>Inflammatory conditions such as arthritis and tendinitis</li>
+            <li>Stress relief and associated conditions</li>
+            <li>Headaches and migraines</li>
+            <li>Muscle and related conditions such as spasms, strains and sprains</li>
+            <li>Back pain</li>
+            <li>Neck pain</li>
+            <li>Repetitive strain injury</li>
+            <li>Circulatory and Respiratory problems</li>
+            <li>Pregnancy and labour discomfort</li>
+            <li>Post-injury and post surgical rehabilitation</li>
+            <li>And many other conditions</li>
+          </ul>"
+      }
+    }, {
+      "@type": "Question",
+      "name": "What should I expect in a Massage Therapy treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your massage session starts when you enter the room and ends when you leave the room. It consists of an assessment, treatment and exercises/home care.<br><br>
+
+        During the treatment, your massage therapist will ask you your goals and what areas you would like to be worked on. If this is your subsequent treatment, your therapist will follow up on the effects of your last treatment session and modify the treatment, if needed, for effectiveness.<br><br>
+
+        After you have set your goals for treatment, your RMT will leave the room for you to get ready on the table. During the massage, your RMT will check in on the pressure of the massage to make sure you feel comfortable. If you feel the pressure is too much, or would like more, please don’t hesitate to let your massage therapist know and he/she will modify the treatment for you.<br><br>
+
+        After the massage is complete, your RMT may provide you some exercises and home care on how to improve your health based on your goals. The homecare prescription is part of your massage therapy session that you booked.<br><br>
+
+        Please note that if you require more hands-on massage time to book for a longer duration."
+      }
+    }, {
+      "@type": "Question",
+      "name": "What is Chiropractic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chiropractic is an evidence-informed, non-invasive, hands-on health care discipline that focuses on the musculoskeletal system. As spine, muscle, and nervous system experts, your chiropractor at Nexus Massage & Rehab provide qualified, effective treatment to promote health, alleviate pain, and improve your quality of life. Chiropractors focus on your spine, muscle, and nervous system and treat the bones, muscles, soft tissues, and joints that you use every day. The spine, muscle, and nervous system supports your weight, keeps your body stable, protects your organs, and keeps you moving. It also connects directly to other vital systems in your body, which is why medical professionals, researchers, and the wider health community trust the spine care expertise of chiropractors to assess, diagnose, and treat conditions and injuries related to the spine, muscle, and nervous system. For optimal health and quality of life, a chiropractor should be part of every Canadian’s healthcare team."
+      }
+    }, {
+      "@type": "Question",
+      "name": "When should I consider Chiropractic care?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"If aching joints and muscle pain are affecting your ability to get through the day and keeping you away from your favourite activities, consider chiropractic care. Work, accidents, sports injuries, household chores, even the stress of daily living can cause painful joint and back problems. Even if you do not have painful symptoms, chiropractic care can help you maintain healthy spine and joint function.<br><br>
+
+        Here are some of the most common reasons why patients visit a chiropractor at Nexus Massage & Rehab:<br><br>
+
+          <ul>
+            <li>Back pain</li>
+            <li>Neck pain</li>
+            <li>Knee pain</li>
+            <li>Headaches</li>
+            <li>Strains and sprains from daily activities</li>
+            <li>Repetitive strain injuries</li>
+            <li>Work and sports-related injuries</li>
+            <li>Arthritis</li>
+            <li>Restricted movement in the back, shoulders, neck or limbs</li>
+          </ul>"}
+      }, {
+      "@type": "Question",
+      "name": "What are the benefits of Chiropractic care?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"Chiropractic treatment is skilled, hands-on health care that relieves pain and helps your body be its best. Here are some of its benefits:<br><br>
+
+          <ul>
+            <li>Improved movement in your neck, shoulders, back and torso</li>
+            <li>Better posture</li>
+            <li>Relief from headaches, neck and back pain</li>
+            <li>Prevention of work-related muscle and joint injuries</li>
+            <li>Enhanced athletic performance</li>
+            <li>Improved flexibility</li>
+            <li>Relief of pregnancy-related back ache</li>
+            <li>Correction of gait and foot problems</li>
+          </ul>"}
+      }, {
+      "@type": "Question",
+      "name": "How can Chiropractors at Nexus Massage & Rehab help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"Chiropractors at Nexus Massage & Rehab are extensively educated in the prevention, assessment, diagnosis and management of musculoskeletal (MSK) conditions and associated neurological system and will recommend a course of treatment to help relieve pain and improve function without surgery or pharmaceuticals. This includes<br><br>
+
+          <ul>
+            <li><strong><em>Manual therapy:</strong></em>  When a joint isn’t moving as well as it should, your chiropractor at Nexus Massage & Rehab may utilize this treatment technique to help regain motion within a joint.</li><br>
+            <li><strong><em>Soft tissue therapy:</strong></em>  This is where your chiropractor works to relax and treat tight and sore muscles.</li><br>
+            <li><strong><em>Exercise therapy/self-management:</strong></em>  Your chiropractor will be able to provide simple exercises that you can do at home to help with your pain and to help prevent re-injury.</li><br>
+            <li><strong><em>Modalities:</strong></em>  Although chiropractors use their hands for most treatments, they also use other methods such as heat, ultrasound, low-level laser therapy, electrotherapy, acupuncture and other physical therapy techniques.</li><br>
+            At Nexus Massage & Rehab, our chiropractors adopt an evidence-informed practice principle to guide clinical and treatment decisions while prioritizing our patient’s preferences and values.</li>
+          </ul>"}
+      }, {
+      "@type": "Question",
+      "name": "What can I expect on my first appointment to a Chiropractor at Nexus Massage & Rehab?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"The initial chiropractic assessment consists of a thorough health history and focused physical examination that helps the chiropractor identify factors influencing a patient’s health. The chiropractor will then review therapies that may be used in the treatment plan. Chiropractic patients may ask their chiropractor any questions they have. A chiropractic treatment is also performed on the first visit, unless further diagnostic tests are needed. The typical chiropractic initial assessment takes between 40 and 60 minutes."}
+      }, {
+      "@type": "Question",
+      "name": "What is Physiotherapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"Physiotherapy is a profession that focuses on the science of movement in order to address injury, conditions, and diseases. Their aim is to restore, maintain, and optimize a patient’s function, mobility, and to prevent future injuries. Physiotherapists are important players in health promotion and disease prevention.<br><br>
+
+        Physiotherapists can assess, diagnose and treat disease conditions, and injuries."}
+      }, {
+      "@type": "Question",
+      "name": "What types of issues can Physiotherapists treat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"Physiotherapy can help a wide range of physical ailments, from neurological, cardiorespiratory, to musculoskeletal issues, such as, (but not limited to):<br><br>
+
+          <ul>
+            <li>Back Pain</li>
+            <li>Sports Injuries; sprains and strains</li>
+            <li>Pelvic Health (i.e. pregnancy related, incontinence)</li>
+            <li>Neurological conditions (i.e. stroke, traumatic brain injuries, Parkinson’s, spinal cord injuries)</li>
+            <li>Fractures</li>
+            <li>Osteoporosis</li>
+            <li>Post-Surgery rehabilitation such as hip or knee replacement</li>
+            <li>Asthma</li>
+            <li>Chronic Obstructive Pulmonary Disease</li>
+            <li>Cardiovascular diseases</li>
+            <li>Falls Prevention</li>
+            <li>Concussion Management</li>
+            <li>Vestibular Rehabilitation</li>
+            <li>Arthritis</li>
+            <li>Amputation Rehabilitation</li>
+            <li>Pediatric Therapy</li>
+          </ul>
+
+        And much more!"}
+      }, {
+      "@type": "Question",
+      "name": "What to expect in your first Physiotherapy appointment at Nexus Massage and Rehab?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"Physiotherapy is a profession that focuses on the science of movement in order to address injury, conditions, and diseases. Their aim is to restore, maintain, and optimize a patient’s function, mobility, and to prevent future injuries. Physiotherapists are important players in health promotion and disease prevention.<br><br>
+
+        Physiotherapists can assess, diagnose and treat disease conditions, and injuries."}
+      }, {
+      "@type": "Question",
+      "name": "What is Physiotherapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"In the first physiotherapy appointment, your physiotherapist at Nexus Massage and Rehab will discuss with you the nature of your condition and pain. They will also probe into your medical history and any other treatments you had in the past. It is best to be honest with your physiotherapist regarding your health; this is a place free of judgement or embarrassment.<br><br>
+
+        This is followed by a physical examination. Your physiotherapist will assess your movement, muscle strength, and perform other special tests to get a better understanding about how you move, and what may contribute to your pain. The premise is to look for areas of your pain. Please let your physiotherapist know what is, or isn’t aggravating it. Do not try to endure the pain!<br><br>
+
+        It is important for you to have a goal on what you want to achieve with physiotherapy."}
+      }, {
+      "@type": "Question",
+      "name": "What is Acupuncture or TCM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"Acupuncture is one of the few modalities that fall under the system of Traditional Chinese Medicine, or TCM. Its use can be found in artifacts dating back to 1000 BC. It involves the use of small needles inserted at specific points on the body, to help regulate the flow of energy or “qi”.<br><br>
+
+        Imbalance of qi in the body is at the root of all ailments and disease. By regulating the state of qi with the needles, we can help guide the body back into balance. Acupuncture can treat any conditions and is often a great compliment to other treatment programs as well."}
+      }, {
+      "@type": "Question",
+      "name": "What can Acupuncture be used for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"Acupuncture may be used for a wide variety of health issues. According to the World Health Organization, acupuncture may be beneficial for, but not limited to, the following conditions:<br><br>
+
+          <ul>
+            <li><strong><em>Digestive</em></strong> – IBS, Constipation, Diarrhea, Indigestion</li>
+            <li><strong><em>Emotional</em></strong> – Anxiety, Depression, Insomnia, Addictions</li>
+            <li><strong><em>Gynecological</em></strong> – Infertility, Menopause, PMS</li>
+            <li><strong><em>Musculoskeletal</em></strong> – Back pain, Arthritis, Cramping, Muscle Pain/Weakness, Sciatica</li>
+            <li><strong><em>Neurological</em></strong> – Headaches, Migraines, Stroke Rehab</li>
+            <li><strong><em>Systemic</em></strong> – Stress, Chronic Fatigue, Fibromyalgia</li>
+          </ul>"}
+      }, {
+      "@type": "Question",
+      "name": "What should I do before an Acupuncture treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"Make sure you are well hydrated and have eaten within the last two hours. For convenience for yourself and the practitioner, it is best to wear loose and light clothing which will provide easier access to certain areas of the body for treatment."}
+      }, {
+      "@type": "Question",
+      "name": "What is a typical Acupuncture treatment like at Nexus Massage and Rehab?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"A typical treatment here at Nexus Massage and Rehab consists of an initial appointment where the practitioner goes through an intake with you, asking you a series of questions, performs a tongue diagnosis and palpation of your pulse to understand your health status and constitution which will then guide the treatment plan. After the intake, your acupuncturist will put thin needles in certain areas of your body. The needles will remain in the body for 15 to 30 minutes. Additional treatment with tuina (Chinese massage) may be included if necessary.<br><br>
+
+        Subsequent treatments will involve a brief recap of the previous treatment and a quick analysis of the patient's current status followed by acupuncture."}
+      }, {
+      "@type": "Question",
+      "name": "Where does the Acupuncturist insert the needles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"The most common areas that will be needled during treatment will be on the limbs. The needles can potentially go in at other points on the body, depending on the individual and their health status.<br><br>
+
+        If you are nervous or uncomfortable about a specific area being treated, do not hesitate to voice your concerns to the practitioner and he/she will take appropriate measures."}
+      }, {
+      "@type": "Question",
+      "name": "Does Acupuncture hurt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"Most people you ask will say no. If done properly, the sensation will be extremely mild. Some common sensations that are reported are pressure, warmth, pricking, twitching, or nothing at all.<br><br>
+
+        Mild bruising or redness may occur at the needle site, but most of the time there will be no visible trace of the needle having been inserted."}
+      }, {
+      "@type": "Question",
+      "name": "What are Acupuncture needles like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"Some individuals may be hesitant about trying acupuncture due to uncomfortable past experiences with needles. However, it is good to know that the needles used for acupuncture vary greatly from the ones that are used for injections, piercings or blood withdrawal.<br><br>
+
+        Acupuncture needles are much thinner than those mentioned. Also acupuncture needles are solid, not hollow, so there is no removal of flesh upon insertion or removal – this drastically changes the feeling experienced."}
+      }, {
+      "@type": "Question",
+      "name": "Are the needles re-used?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"No, the needles used for acupuncture are sealed, sterilized, and used only once and discarded in a disposal hazard box after."}
+      }, {
+      "@type": "Question",
+      "name": "What is the difference between TCM Acupuncture and Dry Needling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"The main difference would be the theory behind it. With TCM acupuncture the needles are inserted into specific points on the body that run along meridians. These meridians are where the vital energy (qi) of the body flows. Each specific point has its own unique function and can help aid in the flow of qi and balancing of the internal organs.<br><br>
+
+        Acupuncture may be used for a wide variety of conditions. Dry needling is only for musculoskeletal conditions and involves the insertion of a needle into a trigger point (painful area) to relieve pain."}
+      }, {
+      "@type": "Question",
+      "name": "Does insurance cover Acupuncture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"Many insurance providers are now covering acupuncture only if it is done by a licensed Acupuncturist. Contact your insurance provider directly to find out if you are covered and the details of your coverage."}
+      }]
+    }
   </script>
 
 </body>

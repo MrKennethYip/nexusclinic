@@ -847,5 +847,65 @@
   <?php include('../includes/common-footer.php') ?>
   <!-- End Common Footer -->
 
+  <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Is Massage Therapy a regulated health profession?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The practice of massage therapy is regulated under the Regulated Health Professions Act, 1991 (RHPA) and is therefore a Regulated Health Profession.  Only individuals who have completed the requisite training and have met the strict competency requirements of the College of Massage Therapists of Ontario (CMTO) can call themselves a "Massage Therapist" or a "Registered Massage Therapist"."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Do I have to remove all my clothing for massage therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Your comfort as a client is of the utmost importance to us. Whether that is in the context of the clothing you wear or the treatment you receive. Our RMTs can provide an effective treatment whether you elect to remove any, some, or all of your clothing. Our massage therapists at Nexus Massage and Rehab performs proper draping procedures to ensure that your privacy is completely respected at all times during treatment. Your comfort and ability to relax is paramount to effective treatment."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Does massage therapy hurt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As with many treatments affecting the soft tissue, there are times when massage therapy can cause some discomfort, but it is not harmful. Massage therapy relieves muscle tension by stimulating the natural healing response of the body.  By bringing blood flow and circulation to the area, we are causing inflammation to start the healing process. Pain can be felt during a massage as we are manipulating the tissue to start the initial tissue repair.<br><br>
+
+        If you feel discomfort during a massage, it is likely because the area being massaged is tight. If at any point, you find the pressure to be too much for you, please let your therapist know and they will modify the pressure to your liking. You can also stop or change the treatment at any time."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Is it normal to be sore after a massage therapy session?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After a massage therapy treatment, it is normal to be sore for 1-3 days. This is called Delayed Onset Muscle Soreness (DOMS). This usually feel like sore muscles after a hard workout at the gym.<br><br>
+
+        This is the time your muscles are repairing themselves. With increased blood flow and inflammation to the area, your muscles can feel sore."
+      }
+    }, {
+      "@type": "Question",
+      "name": "How many visits will I need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"The number of treatments will vary depending on the problem and individual. After a thorough treatment, your massage therapist will help you establish a program that fits your physical needs and lifestyle. We are most interested in your recovery and in the maintenance of your health. Any recommendation for further treatment is being made by a qualified health professional and is made with your utmost care in mind."}
+      }, {
+      "@type": "Question",
+      "name": "How long should I book for a Massage at Nexus Massage and Rehab?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"The duration of your appointment depends on what your goals is, how complicated it is to treat and how your body responds to treatment. An average massage duration is 60 minutes, but it can be more or less depending on each person.<br><br>
+
+        Your RMT at Nexus Clinic will let you know how long  and how often your treatments should be for optimal effectiveness."}
+      }, {
+      "@type": "Question",
+      "name": "Do I have to be referred by a doctor to get massage therapy treatments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"No, Massage Therapists can assess and treat without referral by a doctor. However some health insurers require a doctor’s referral before they authorise cover of fees, some only require a phone call. Please check with your insurance company as all insurance companies / insurance plans are different."}
+      }]
+    }
+  </script>
+
 </body>
 </html>

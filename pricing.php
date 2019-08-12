@@ -656,5 +656,89 @@
   <?php include('includes/common-footer.php') ?>
   <!-- End Common Footer -->
 
+  <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What is the Cancellation Policy at Nexus Clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is  a 24 hour cancellation policy for all services. Patients will be charged 50% of their treatment fee for late cancellations or missed appointments.<br><br>
+
+        To cancel your appointment, you can do so through your <u>confirmation appointment email</u> or you can call the clinic at <strong>647-557-6267</strong> and speak with the clinic administrator.<br><br>
+
+        Appointments cancelled with less than 24 hours notice must be cancelled over the phone with the clinic administrator.<br><br>
+
+        To avoid any cancellation fees, please cancel your appointment at least 24 hours before your scheduled appointment."
+      }
+    }, {
+      "@type": "Question",
+      "name": "How does Direct Billing work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Please bring in your insurance card with you on  your visit to Nexus Massage and Rehab and we can submit the claim on your behalf as long as your insurance company accepts direct billing. You are responsible to cover the remaining amount that is not covered by your insurance.<br><br>
+
+        Sometimes, the insurance company may have complications and the submission does not go through. Please bring another form of payment with you."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Why am I still being charged if my insurance is 100% covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Some insurance companies may say they cover 100% of your treatment but have a cap on the maximum it covers per treatment. If your treatment cost is over the maximum cap, you will have to cover the remaining balance. Please consult with your policy provider for the details of your plan."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Can I claim the insurance on my own?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely! You can always pay upfront and remit your own insurance if you wish. This is also a great way to collect those credit card points!"
+      }
+    }, {
+      "@type": "Question",
+      "name": "Is Massage Therapy / Physio / Chiro / Acupuncture covered in OHIP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"Unfortunately, the above services is not covered by OHIP, but many private insurance companies cover treatments for Massage Therapy, Chiropractic, Physiotherapy and Acupuncture as part of their extended healthcare plans. Please consult your policy to see if you have coverage."}
+      }, {
+      "@type": "Question",
+      "name": "Why does Massage Therapy charge HST?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"In Canada, before a health profession can be exempted from charging HST the profession must be regulated in a minimum of five (5) provinces.  Registered Massage Therapists are a regulated health profession currently in only three (3) Provinces, Ontario, Newfoundland and British Columbia.  Legislation is in progress in several other provinces at various stages.  These include Alberta, Manitoba and Nova Scotia. The RMTAO, is working to ensure that Massage Therapists become regulated in other provinces and will be asking the Canadian Government to allow the exemption as soon as possible.<br><br>
+
+        In the meantime, most Massage Therapists are HST-registered under the rules established by the Canadian Government are required to charge HST."}
+      }, {
+      "@type": "Question",
+      "name": "What should I prepare on my first visit to Nexus Massage and Rehab?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"On your first visit to Nexus Massage and Rehab, please complete your intake form prior to your appointment. This intake form is emailed to you on your first booking. If you did not receive the intake form, please double check to see if the email address you entered is correct.<br><br>
+
+        If you are seeing a rehab practitioner, you may want to wear loose fitted clothes or bring a change of clothes for easy access to the area of concern."}
+      }, {
+      "@type": "Question",
+      "name": "How early should I arrive for my appointment at Nexus Massage and Rehab?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"If you are a new patient at Nexus Massage and Rehab, please arrive at least 10 minutes early for your appointment to complete a health intake form if you have not complete it in advance to ensure your appointment can start on time. We may also need to obtain insurance and extended health benefit information from you if you are qualified and wish to receive direct billing."}
+      }, {
+      "@type": "Question",
+      "name": "Why do I need to fill out a health intake form?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"Health intake forms are only required on your first visit at Nexus Massage and Rehab and are updated yearly so that we are aware of any medical conditions or medications that you are taking. It is important to be honest on these forms so we can provide you a safe and effective treatment."}
+      }, {
+      "@type": "Question",
+      "name": "I referred a friend to this clinic, how do I redeem my $20?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"Thanks for referring your friend to us and sharing your experience here at Nexus Massage and Rehab. When you refer a friend to us, both you and your friend will receive $20 on your account. This will be applied to your next appointment at the clinic when you check out."}
+      }]
+    }
+  </script>
+
 </body>
 </html>

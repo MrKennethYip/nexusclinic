@@ -845,5 +845,47 @@
   <?php include('../includes/common-footer.php') ?>
   <!-- End Common Footer -->
 
+  <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Is Chiropractic treatment safe?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chiropractic is widely recognised as one of the safest drug-free, non-invasive therapies available for the treatment of muscle and joint complaints. Although chiropractic treatment has an excellent safety record, no health treatment is completely free of potential adverse effects. The risks associated with care from a chiropractor, however, are very small. Many patients feel immediate relief following chiropractic treatment."
+      }
+    }, {
+      "@type": "Question",
+      "name": "What should I wear to my initial assessment with the Chiropractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients should wear comfortable clothing that allows the chiropractor easy access to the area of concern."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Does the Chiropractor take X-Rays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The majority of chiropractic patients who come into Nexus Massage & Rehab do not require x-rays to have their conditions treated effectively. X-rays are occasionally ordered by a chiropractor in order to rule out serious conditions."
+      }
+    }, {
+      "@type": "Question",
+      "name": "How long will my condition take to get better with Chiropractic care?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Following the initial exam, the chiropractor will inform the patient of the extent of treatment recommended and how long it can be expected to last. The goal of the chiropractor is to resolve pain, restore function, and reduce incidences of recurrence."
+      }
+    }, {
+      "@type": "Question",
+      "name": "What education does a Chiropractor from Nexus Massage & Rehab have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"A chiropractor undergoes at least four years of professional study following an undergraduate university degree. Chiropractors must also pass national and provincial board examinations."}
+      }]
+    }
+  </script>
+
 </body>
 </html>

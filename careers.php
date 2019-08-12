@@ -527,5 +527,48 @@
   <?php include('includes/common-footer.php') ?>
   <!-- End Common Footer -->
 
+  <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What makes you different from other multidisciplinary clinics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We work as a team and bring out the best in all our practitioners by providing guidance on areas such as:<br><br>
+
+          <ul>
+            <li>Building a strong client base</li>
+            <li>In-depth knowledge of health care treatments and modalities</li>
+            <li>Improving skills and techniques from complementary professionals</li>
+          </ul>"
+      }
+    }, {
+      "@type": "Question",
+      "name": "What qualities and attributes do you look for in successful hires?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We value practitioners who are  motivated to learn and grow and is open to new changes as we are always striving to improve and do better. If you are passionate, friendly, driven, dynamic and a team player, then we are looking for YOU!"
+      }
+    }, {
+      "@type": "Question",
+      "name": "What type of learning and growth opportunities are there?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<u>Monthly Rounds:</u><br>
+
+          Here at Nexus Massage and Rehab we offer Monthly Rounds, which is a training and learning session where we all talk about a specific condition or certain area of the body that we commonly treat. We all participate by demonstrating on each other, showcasing our individual skills and sharing new ways to approach treatment.<br><br>
+
+          You can also claim CEUs on these Monthly Rounds. As a bonus, we often have breakfast together before the practical happens as a fun way to start our day.<br><br>
+
+          <u>Business and Marketing Skills:</u><br>
+
+          As a  new team member here, we will teach you how to market yourself and successfully grow your own client base. We will help you achieve your goals, whether it is starting your own business in the future, or becoming a strong practitioner."
+      }
+    }]
+    }
+  </script>
+
 </body>
 </html>
