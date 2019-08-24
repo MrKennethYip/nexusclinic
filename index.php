@@ -8,10 +8,10 @@
   <meta name="Description" content="Quality Massage - Trusted by 150+ Patient Google 5 Star reviews - Toronto Massage Therapist (RMT), Chiropractor, Physiotherapist, Acupuncturist, Rehab | Yonge Eglinton | 40 Eglinton Ave E, Suite 603, Toronto, ON M4P 3A2 | 7 Days | Direct Billing | Online Booking - Nexus Massage & Rehab">
   <meta name="keywords" content="toronto massage, direct billing, open on weekends, Yonge and Eglinton, yonge eg, online booking, Open 7 Days, open late, Massage Near Me, Registered Massage Therapist, RMT, near me, therapy, chiropractic, chiro, chiropractor, massage, physio, physiotherapy, acupuncture, acu, rehab, nexus, massage places, best massage, hot stone, health, clinic, sports, relax, pain, spine, back, dr, karen ngo, dr ngo, cass, cassandra kong, felix chu, dr chu, lydia, mai hoang, daniel thrush, phil kim, eric miraflor, katelyn morgan, kevin hong">
 
-  <meta property="og:image" content="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/lrg/home-massage.jpg"/>
+  <meta property="og:image" content="../assets/img/Nexus-Square.jpg"/>
   <meta property="og:type" content="website"/>
   <meta property="og:url" content="http://www.nexushealthclinic.com"/>
-  <meta property="og:title" content="Nexus Massage & Rehab - Yonge & Eglinton"/>
+  <meta property="og:title" content="Nexus Massage & Rehab - Online Booking - Open 7 Days - CHIRO | MASSAGE | PHYSIO"/>
   <meta property="og:description" content="Nexus Massage & Rehab Clinic offers physiotherapy, chiropractic services, acupuncture & registered massage therapy (RMT) at Yonge and Eglinton."/>
 
   <!-- Common Header -->
