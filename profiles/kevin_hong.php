@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Kevin Hong (Chiropractor) | Nexus Massage & Rehab | (647) 557-6267</title>
+  <title>Kevin Hong | Chiropractor | Nexus Massage & Rehab at Yonge & Eglinton</title>
 
-  <meta name="Description" content="Kevin Hong is a Chiropractor at Yonge and Eglinton who provides chiropractic care, rehabilitation exercises and acupuncture to patients.">
+  <meta name="Description" content="Meet our team! Kevin Hong is a Chiropractor at our Yonge & Eglinton clinic who specializes in chiropractic care, rehabilitation exercises & acupuncture. ">
   <meta name="keywords" content="Chiropractic, chiropractor, chiro, deep massage, rehabilitation, exercise, orthotics, acupuncture, doctor, trigger point, neck pain, back pain, headaches, adjustments, posture, alignment, spine alignment, proper posture, the best chiropractor at yonge and eglinton, expert in spine, pinched nerve, Chronic neck pain, chronic back pain, spine pain, best back pain relief, lower back pain relief, lumbar spine, back strain, herniated disc, neck problems, sore neck, backache, back injury">
 
   <!-- Common Header -->

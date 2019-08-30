@@ -4,7 +4,7 @@
   <!-- Title -->
   <title>Phil Kim (RMT) | Nexus Massage & Rehab | (647) 557-6267</title>
 
-  <meta name="Description" content="Phil Kim is a massage therapist at Yonge and Eglinton who specializes in Lower Back Pain and Sacroiliac issues.">
+  <meta name="Description" content="Learn about the team at Nexus Massage & Rehab. Phil Kim specializes in massage therapy & lower back pain at our Yonge & Eglinton clinic. Learn more!">
   <meta name="keywords" content="Phil Kim, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
 
   <!-- Common Header -->

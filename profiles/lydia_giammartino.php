@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Lydia Giammartino (RMT) | Nexus Massage & Rehab</title>
+  <title>Lydia Giammartino | RMT | Nexus Massage & Rehab at Yonge & Eglinton</title>
 
-  <meta name="Description" content="Lydia Giammartino is a massage therapist at Yonge and Eglinton who specializes in Trigger Point release therapy and Myofascial Release.">
+  <meta name="Description" content="Learn about our team! Lydia Giammartino is a massage therapist at our Yonge & Eglinton clinic who specializes in Trigger Point release therapy & Myofascial Release.">
   <meta name="keywords" content="Lydia Giammartino, Lydia, Giammartino, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
 
   <!-- Common Header -->

@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Careers (Apply Today) | Nexus Massage & Rehab</title>
+  <title>Careers | Apply Today | Nexus Massage & Rehab at Yonge & Eglinton</title>
 
-  <meta name="Description" content="Hiring Now! Available RMT Jobs. Open Chiro Positions. Located at Yonge and Eglinton! Best rated multidisciplinary clinic.">
+  <meta name="Description" content="Looking for a RMT or chiro job? Join the Nexus Massage & Rehab team at our Yonge & Eglinton clinic. Review our job listings online to apply today!">
   <meta name="keywords" content="RMT jobs, RMT positions available, multidisciplinary clinic, rehab clinic, now hiring, best rated clinic, massage clinic at yonge and eglinton, best massage in toronto, busy clinic"> 
 
   <!-- Common Header -->

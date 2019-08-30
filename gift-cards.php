@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Gift Cards | Nexus Massage & Rehab</title>
+  <title>Gift Cards | Nexus Massage & Rehab at Yonge & Eglinton</title>
 
-  <meta name="Description" content="Nexus Massage & Rehab provides Gift Cards and Online Gift Certificates for purchase by customers to use towards goods and services.">
+  <meta name="Description" content="Give the gift of rejuvenation with a gift card from Nexus Massage & Rehab. Purchase a gift card to our Yonge & Eglinton clinic in-store or online today!">
   <meta name="keywords" content="Nexus Clinic, Nexus Massage & Rehab, Gift Card, Gift Cards, Gift Certificate, Gift Certificates, Online Gift Certificate"> 
 
   <!-- Common Header -->

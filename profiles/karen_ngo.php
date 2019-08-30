@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Karen Ngo (Chiropractor, RMT) | Nexus Massage & Rehab | (647) 557-6267</title>
+  <title>Karen Ngo | Chiropractor & RMT | Nexus Massage & Rehab</title>
 
-  <meta name="Description" content="Dr. Karen Ngo is a Chiropractor and RMT at Yonge and Eglinton who provides chiropractic care, massage, and acupuncture to patients and dancers.">
+  <meta name="Description" content="Our co-founder Dr. Karen Ngo offers acupuncture, RMT & chiropractic services at Yonge & Eglinton. Learn about the Nexus Massage & Rehab team!">
   <meta name="keywords" content="Chiropractic, chiropractor, massage therapy, massage therapist, RMT, deep massage, rehabilitation, exercise, orthotics, acupuncture, traditional chinese medicine, doctor, trigger point, neck pain, back pain, headaches, adjustments, chiropractor at yonge and eglinton, back pain relief, lower back pain relief, lumbar spine, back strain, herniated disc, neck problems, sore neck, backache, back injury">
 
   <!-- Common Header -->

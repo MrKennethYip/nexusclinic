@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Classes | Nexus Massage & Rehab</title>
+  <title>Studio Classes | Learn to Dance | Nexus Massage & Rehab</title>
 
-  <meta name="Description" content="Best Fitness Classes - Best Dance Classes - Nexus Massage & Rehab. Yonge and Eglinton. Sign Up Today!">
+  <meta name="Description" content="At Nexus Massage & Rehab, we love hosting studio classes for the community. Read about the fitness & dance classes at our Yonge & Eglinton clinic today!">
   <meta name="keywords" content="fitness classes, dance classes, salsa classes, intro, beginner, advanced">
 
   <!-- Common Header -->

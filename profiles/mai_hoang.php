@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Mai Hoang (Physiotherapist) | Nexus Massage & Rehab | (647) 557-6267</title>
+  <title>Mai Hong | Physiotherapist | Nexus Massage & Rehab at Yonge & Eglinton</title>
 
-  <meta name="Description" content="Mai Huang is a Physiotherapist at Yonge and Eglinton who provides physiotherapy and rehabilitation exercises to patients with strain and sprain injuries as well as chronic and acute problems.">
+  <meta name="Description" content="Learn about the staff at Nexus Massage & Rehab. Mai Huang specializes in physiotherapy, rehabilitation & more at our Yonge & Eglinton clinic. Learn more!">
   <meta name="keywords" content="Physiotherapy, rehabilitation, strength, fitness, disability, injuries, exercise, frozen shoulder, knee pain, shoulder pain. shin splints, training, carpal tunnel, tennis elbow, meniscus tear, rotator cuff, strain, sprain, exercises, rehab, physio, endurance, recover, recovery, strengthening, physiotherapist, the best physiotherapist, physio at yonge and eglinton, rehab exercises, physio at yonge and eglinton">
 
   <!-- Common Header -->

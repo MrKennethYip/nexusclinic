@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Custom Orthotics - Nexus Massage & Rehab</title>
+  <title>Custom Orthotics Toronto | Nexus Massage & Rehab at Yonge & Eglinton</title>
 
-  <meta name="Description" content="">
+  <meta name="Description" content="Orthotics help align the foot & ankle. At Nexus Massage & Rehab, we offer custom-made orthotics to our patients. Visit our Yonge & Eglinton clinic today!">
   <meta name="keywords" content="">  
 
   <!-- Common Header -->

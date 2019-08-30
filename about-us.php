@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>About Us (And Why It Matters) | Nexus Massage & Rehab</title>
+  <title>About Us | Midtown Massage, Chiro & Physio Clinic | Nexus Massage</title>
 
-  <meta name="Description" content="At ​Nexus Clinic​ we integrate different disciplines of health care to provide you the best results in your treatments.">
+  <meta name="Description" content="Nexus Massage & Rehab helps patients reach health goals. We integrate RMT, physiotherapy, acupuncture & more at our Yonge & Eglinton clinic. Call now!">
   <meta name="keywords" content="Massage at Yonge and Eglinton, best RMT, best chiro, best physio, best acupuncturist, community, giving back, multidisciplinary clinic, effective treatments"> 
 
   <!-- Common Header -->

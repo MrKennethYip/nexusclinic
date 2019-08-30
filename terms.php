@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 	<!-- Title -->
-	<title>Terms of Use | Nexus Massage & Rehab</title>
+	<title>Terms of Use | Nexus Massage & Rehab at Yonge & Eglinton</title>
 
-  <meta name="Description" content="Learn more about Nexus Health Clinic's simple and customer-friendly Terms of Use.">
+  <meta name="Description" content="By using Nexus Massage & Rehab's products or services ('Services'), you are agreeing to the following terms. Read our clinic's terms today!">
   <meta name="keywords" content="nexus terms, nexus health clinic terms, terms of use">  
 
 	<!-- Common Header -->

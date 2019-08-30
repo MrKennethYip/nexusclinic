@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Registered Massage Therapy - Nexus Massage & Rehab</title>
+  <title>Massage Therapy Services at Yonge & Eglinton | Nexus Massage & Rehab</title>
 
-  <meta name="Description" content="">
+  <meta name="Description" content="Massage therapy treats muscles & soft tissue. Nexus Massage & Rehab offers registered massage therapy (RMT) at our Yonge & Eglinton clinic. Book an appointment!">
   <meta name="keywords" content="">  
 
   <!-- Common Header -->

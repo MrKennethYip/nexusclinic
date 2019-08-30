@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Physiotherapy - Nexus Massage & Rehab</title>
+  <title>Physiotherapy Services at Yonge & Eglinton | Nexus Massage & Rehab</title>
 
-  <meta name="Description" content="">
+  <meta name="Description" content="Physiotherapy uses movement & exercise to treat & rehabilitate the body. Nexus Massage & Rehab offers physiotherapy at Yonge & Eglinton. Book today">
   <meta name="keywords" content="">  
 
   <!-- Common Header -->

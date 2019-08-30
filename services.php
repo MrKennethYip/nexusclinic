@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Services [Offerings] - Registered Massage Therapy, Chiropractic, Physiotherapy and Acupuncture in Toronto | Nexus Massage & Rehab</title>
+  <title>Services | Massage, Chiro, Physio & Acupuncture in Toronto | Nexus</title>
 
-  <meta name="Description" content="At ​Nexus Massage clinic​ we offer the​ best RMT​, Chiropractic, Physiotherapy and Acupuncture services. Book your appointment today!">
+  <meta name="Description" content="Nexus Massage & Rehab is a multidisciplinary clinic that offers RMT, chiropractic, physiotherapy & acupuncture services at Yonge & Eglinton. Book an appointment!">
   <meta name="keywords" content="Best RMT, chiropractic adjustments, physiotherapy exercises, acupuncture, best results, effective treatments, back ache, knee pain, fast relief now, headaches, neck pain, sore, body pain, muscle pain, muscle ache, rehab, migraines, chronic back pain, muscle spasm, posture correction, posture, desk posture, ergonomic assessment">  
   
   <!-- Common Header -->

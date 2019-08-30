@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Refer a Friend | Nexus Massage & Rehab</title>
+  <title>Refer a Friend | Nexus Massage & Rehab at Yonge & Eglinton</title>
 
-  <meta name="Description" content="Get $20 off your next appointment for every friend you refer to ​Nexus Massage Clinic​. Open 7 days | Weekends | Online Booking | Direct Billing">
+  <meta name="Description" content="Refer a friend to Nexus Massage & Rehab clinic & get $20 off your next appointment for both you & each of your friends who comes in. Learn more today!">
   <meta name="keywords" content="Best Massage Therapist, Nexus Clinic, Open today, massage at yonge and eglinton, refer a friend, massage discounts, promotional offer, sale, best massage in toronto">  
 
   <!-- Common Header -->

@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Privacy Policy | Nexus Massage & Rehab</title>
+  <title>Privacy Policy | Nexus Massage & Rehab at Yonge & Eglinton</title>
 
-  <meta name="Description" content="Learn more about Nexus Health Clinic's simple and customer-friendly Privacy Policy.">
+  <meta name="Description" content="Nexus Massage & Rehab respects privacy & adheres to the Personal Health Information Protection (PHIPA) & Electronic Documents Act. Review our privacy policy.">
   <meta name="keywords" content="nexus privacy, nexus health clinic privacy, privacy policy">  
 
   <!-- Common Header -->

@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Eric Miraflor (RMT) | Nexus Massage & Rehab | (647) 557-6267</title>
+  <title>Eric Miraflor | Registered Massage Therapist | Nexus Massage & Rehab</title>
 
-  <meta name="Description" content="Eric Miraflor is a massage therapist at Yonge and Eglinton who specializes in Trigger Point release therapy and Myofascial Release.">
+  <meta name="Description" content="Learn about our team! Eric Miraflor is a massage therapist at our Yonge & Eglinton clinic who specializes in trigger release therapy. Book your appointment now.">
   <meta name="keywords" content="Eric Miraflor, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
 
   <!-- Common Header -->

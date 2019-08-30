@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Team [Practitioners] - Find a Massage Therapist, Chiropractor, Physiotherapist or Acupuncturist in Toronto | Nexus Massage & Rehab</title>
+  <title>Massage Therapists, Chiropractors & Physiotherapists at Yonge & Eglinton</title>
 
-  <meta name="Description" content="Our highly skilled team members at Nexus Clinic consists of ​registered massage therapists, chiropractors, physiotherapists and acupuncturists.">
+  <meta name="Description" content="Nexus Massage & Rehab is staffed with licensed massage therapists, chiropractors, physiotherapists & acupuncturists. Meet our Yonge & Eglinton clinic team!">
   <meta name="keywords" content="Team building, skilled therapists, yonge and eglinton massage, hiring, careers, skill building, hiring now, hiring today, open positions, massage therapy jobs, chiro jobs">  
 
   <!-- Common Header -->

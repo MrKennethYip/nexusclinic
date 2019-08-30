@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Pricing [List] - Book a Registered Massage, Chiropractic, Physiotherapy or Acupuncture appointment in Toronto today | Nexus Massage & Rehab</title>
+  <title>Pricing | Massage, Chiro, Physio & Acupuncture in Toronto | Nexus</title>
 
-  <meta name="Description" content="ONLINE BOOKING​ available. We are open WEEKENDS, 7 days a week to serve you better! Registered Massage Therapist (RMT) | Chiro | Physio | Acupuncture">
+  <meta name="Description" content="At Nexus Massage & Rehab, our licensed staff offers various health services. Learn about the prices for various services at our Yonge & Eglinton clinic today!">
   <meta name="keywords" content="Direct Billing, Easy and Convenient, online booking, open today, open now, open late, open weekends, massage therapy, massage at yonge and eglinton, best massage in toronto">
 
   <!-- Common Header -->

@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Chiropractic - Nexus Massage & Rehab</title>
+  <title>Chiropractic Services at Yonge & Eglinton | Nexus Massage & Rehab</title>
 
-  <meta name="Description" content="">
+  <meta name="Description" content="Chiropractic care focuses on your muscles, joints & nerves. Nexus Massage & Rehab offers chiropractor services at Yonge & Eglinton. Book an appointment!">
   <meta name="keywords" content="">  
 
   <!-- Common Header -->

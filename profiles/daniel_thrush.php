@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Daniel Thrush (Acupuncture) | Nexus Massage & Rehab | (647) 557-6267</title>
+  <title>Daniel Thrush | Registered Acupuncturist | Nexus Massage & Rehab </title>
 
-  <meta name="Description" content="Daniel Thrush is an Acupuncturist at Yonge and Eglinton who specializes in traditional chinese medicine and helps patients through holistic care.">
+  <meta name="Description" content="Learn about the staff at Nexus Massage & Rehab. Daniel Thrush specializes in acupuncture & holistic care at our Yonge & Eglinton clinic. Learn more!">
   <meta name="keywords" content="Daniel Thrush, TCM, traditional chinese medicine, cupping, chi, wellness, healthy, trigger points, acupressure, acupuncture points, guasha, nutrition. Diet, weight loss, depression, anxiety, sleep, menstruation, pain, digestion, fertility, stress, meridian points, tongue diagnosis, pulse diagnosis, tuina, chinese massage, the best acupuncturist at yonge and eglinton, acupuncturist at yonge and eglinton">
 
   <!-- Common Header -->
