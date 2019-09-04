@@ -157,7 +157,7 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           New Custom-Made Orthotics now available. <a class="text-white" href="service/orthotics"><u>Click Here</u> to learn more.
+           $30 OFF Initial Chiropractic Appointment for September. <a class="text-white" href="https://www.instagram.com/p/B13ijpYHZVs/" target="blank"><u>Click Here</u> to learn more.
         </span>
       </div>
     </div>
