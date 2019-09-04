@@ -638,7 +638,7 @@
                   <h4 class="h6 text-dark mb-0">Vithursun Yugadeva</h4>
                 </a>
                 <p class="small mb-0">
-                  Vithursun is a driven therapist whose goal is to figure out what the root cause of pain is from the patient’s concerns and forming an individualized treatment plan for every patient.<br><br><br><br>
+                  I am a driven therapist whose goal is to figure out what the root cause of pain is from the patient’s concerns and forming an individualized treatment plan for every patient.<br><br><br><br>
                 </p>
               </div>
           </div>
