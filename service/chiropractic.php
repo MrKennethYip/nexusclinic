@@ -650,13 +650,15 @@
           <div class="cbp-item chiro">
             <a class="cbp-caption" href="../profiles/felix_chu">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/felix_chu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Felix Chu - Chiropractor">
+            </a>
               <div class="py-3">
-                <h4 class="h6 text-dark mb-0">Dr. Felix Chu</h4>
+                <a href="../profiles/felix_chu">
+                  <h4 class="h6 text-dark mb-0">Dr. Felix Chu</h4>
+                </a>
                 <p class="small mb-0">
                   I pride myself in providing patient-centred care for my patients. This involves creating a treatment program that is individually tailored towards my patients’ needs, preferences, and values. My foundation as a registered social worker allows me to understand my patients’ challenges through a holistic perspective by recognizing not only physical obstacles, but also emotional and psychological hurdles. This integrative viewpoint enables me to better help my patients achieve optimal health and a higher quality of life.<br>
                 </p>
               </div>
-            </a>
           </div>
           <!-- End Item -->
 
@@ -664,13 +666,15 @@
           <div class="cbp-item chiro">
             <a class="cbp-caption" href="../profiles/kevin_hong">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kevin_hong.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kevin_hong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kevin_hong.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/kevin_hong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Kevin Hong - Chiropractor">
+            </a>
               <div class="py-3">
-                <h4 class="h6 text-dark mb-0">Dr. Kevin Hong</h4>
+                <a href="../profiles/kevin_hong">
+                  <h4 class="h6 text-dark mb-0">Dr. Kevin Hong</h4>
+                </a>
                 <p class="small mb-0">
                   My greatest passion in life is to help people in pain get better. I continually research and learn new and effective techniques to help cure my patients of their pain. This way, I am able to provide every patient with a variety of treatment options that best suits them. Not only do I make your health my top priority, I also make great conversations along your journey to recovery.<br><br>
                 </p>
               </div>
-            </a>
           </div>
           <!-- End Item -->
 
@@ -678,13 +682,15 @@
           <div class="cbp-item chiro">
             <a class="cbp-caption" href="../profiles/karen_ngo">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/karen_ngo.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Karen Ngo - Chiropractor, Registered Massage Therapist">
+            </a>
               <div class="py-3">
-                <h4 class="h6 text-dark mb-0">Dr. Karen Ngo</h4>
+                <a href="../profiles/karen_ngo">
+                  <h4 class="h6 text-dark mb-0">Dr. Karen Ngo</h4>
+                </a>
                 <p class="small mb-0">
                   I have a strong passion and love for helping people and dancers, through non-invasive medicine; efficient and effectively returning them back to their natural function. As a licensed chiropractor, a registered massage therapist and a certified acupuncture provider, I tailor each treatment plan specific to my patient’s needs through the most current evidence-based care. Your health is my priority. <br>
                 </p>
               </div>
-            </a>
           </div>
           <!-- End Item -->
 

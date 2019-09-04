@@ -44,14 +44,14 @@
           <div class="animated bounceIn">
           <!-- Info -->
           <div class="mb-4">
-            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">VITHERSUN YUGADEVAs</h1>
+            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">VITHERSUN YUGADEVA</h1>
           </div>
 
           <ul class="list-inline">
             <li class="list-inline-item">
               <a class="u-text-light" href="mailto:vithursun@nexushealthclinic.com">
                 <span class="far fa-envelope mr-2"></span>
-                Vithursun@nexushealthclinic.com
+                vithursun@nexushealthclinic.com
               </a>
             </li>
           </ul>
@@ -212,7 +212,7 @@
     <div class="u-bg-light-blue-50 u-space-2-bottom">
       <div class="container">
         <!-- Review Widget -->
-        <div class='embedsocial-reviews' data-ref="9d6142fbce3d6e1309cb31e8d0a932e71f56a39e"></div>
+        <div class='embedsocial-reviews' data-ref="64a0cdee46dc3a820e9db8df96338b8eabecf640"></div>
 
         <script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
         <!-- End Review Widget -->

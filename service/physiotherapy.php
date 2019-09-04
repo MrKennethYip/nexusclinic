@@ -630,13 +630,15 @@
           <div class="cbp-item physio">
             <a class="cbp-caption" href="profiles/mai_hoang">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mai_hoang.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mai_hoang.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mai_hoang.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/mai_hoang.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Mai Hoang - Physiotherapist">
+            </a>
               <div class="py-3">
-                <h4 class="h6 text-dark mb-0">Mai Hoang</h4>
+                <a href="profiles/mai_hoang">
+                  <h4 class="h6 text-dark mb-0">Mai Hoang</h4>
+                </a>
                 <p class="small mb-0">
                    I take a holistic and patient centered approach towards my clients. Given my background in psychology and health promotion, I consider not only the physical dysfunction at present but also psychological aspects, individual values and goals.<br>
                 </p>
               </div>
-            </a>
           </div>
           <!-- End Item -->
 

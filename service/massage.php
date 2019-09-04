@@ -568,13 +568,15 @@
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/phil_kim">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/phil_kim.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/phil_kim.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/phil_kim.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/phil_kim.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Phil Kim - Registered Massage Therapy">
+            </a>
               <div class="py-3">
-                <h4 class="h6 text-dark mb-0">Phil Kim</h4>
+                <a href="../profiles/phil_kim">
+                  <h4 class="h6 text-dark mb-0">Phil Kim</h4>
+                </a>
                 <p class="small mb-0">
                   There are many great RMTs in the area however as a dual-registered provider, RMT/R.Kin, I look at problems from two distinct points of view; one being the pain relief aspect and another being the preventative aspect. Therefore, I believe that I have the advantage when it comes to a more holistic therapy.<br>
                 </p>
               </div>
-            </a>
           </div>
           <!-- End Item -->
 
@@ -582,13 +584,15 @@
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/eric_miraflor">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/eric_miraflor.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/eric_miraflor.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/eric_miraflor.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/eric_miraflor.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Eric Miraflor - Registered Massage Therapy">
+            </a>
               <div class="py-3">
-                <h4 class="h6 text-dark mb-0">Eric Miraflor</h4>
+                <a href="../profiles/eric_miraflor">
+                  <h4 class="h6 text-dark mb-0">Eric Miraflor</h4>
+                </a>
                 <p class="small mb-0">
                   I use a collaborative approach by combining patient goals and preferences with my professional expertise in delivering a safe and effective individualized treatment. This integrative approach allows me to provide the highest quality of care.<br><br>
                 </p>
               </div>
-            </a>
           </div>
           <!-- End Item -->
 
@@ -596,13 +600,15 @@
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/lydia_giammartino">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lydia_giammartino.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lydia_giammartino.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lydia_giammartino.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/lydia_giammartino.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Lydia Giammartino - Registered Massage Therapy">
+            </a>
               <div class="py-3">
-                <h4 class="h6 text-dark mb-0">Lydia Giammartino</h4>
+                <a href="../profiles/lydia_giammartino">
+                  <h4 class="h6 text-dark mb-0">Lydia Giammartino</h4>
+                </a>
                 <p class="small mb-0">
                   I have a passion for the healthcare field and for seeing my patient’s treatment through to the end. I recognize that each person is an individual with specific needs and time constraints in today’s busy world, so I finds a way to partner and work with my patients in order to meet their healthcare goals.<br>
                 </p>
               </div>
-            </a>
           </div>
           <!-- End Item -->
 
@@ -610,13 +616,31 @@
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/katelyn_morgan">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/katelyn_morgan.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/katelyn_morgan.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/katelyn_morgan.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/katelyn_morgan.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Katelyn Morgan - Registered Massage Therapy">
+            </a>
               <div class="py-3">
-                <h4 class="h6 text-dark mb-0">Katelyn Morgan</h4>
+                <a href="../profiles/katelyn_morgan">
+                  <h4 class="h6 text-dark mb-0">Katelyn Morgan</h4>
+                </a>
                 <p class="small mb-0">
-                  When treating, I listen to my patients and their goals, and also educate them on what I feel would benefit them. I provide a trusting and comfortable environment so my patients will feel at ease.<br>
+                  When treating, I listen to my patients and their goals, and also educate them on what I feel would benefit them. I provide a trusting and comfortable environment so my patients will feel at ease.<br><br><br><br>
                 </p>
               </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/vithursun_yugadeva">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/vithursun_yugadeva.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/vithursun_yugadeva.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/vithursun_yugadeva.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/vithursun_yugadeva.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Vithursun Yugadeva - Registered Massage Therapy">
             </a>
+              <div class="py-3">
+                <a href="../profiles/vithursun_yugadeva">
+                  <h4 class="h6 text-dark mb-0">Vithursun Yugadeva</h4>
+                </a>
+                <p class="small mb-0">
+                  Vithursun is a driven therapist whose goal is to figure out what the root cause of pain is from the patient’s concerns and forming an individualized treatment plan for every patient.<br><br><br><br>
+                </p>
+              </div>
           </div>
           <!-- End Item -->
 
@@ -624,13 +648,15 @@
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/cassandra_kong">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/cassandra_kong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Cassandra Kong - Registered Massage Therapist">
+            </a>
               <div class="py-3">
-                <h4 class="h6 text-dark mb-0">Cassandra Kong</h4>
+                <a href="../profiles/cassandra_kong">
+                  <h4 class="h6 text-dark mb-0">Cassandra Kong</h4>
+                </a>
                 <p class="small mb-0">
                   I love bringing great energy to my sessions and working together with my patient to form their treatment plan. I believe that understanding the root cause of the problem is important for preventative care as well as our treatment direction. I work towards bringing you back to doing the things you love, pain-free.<br>
                 </p>
               </div>
-            </a>
           </div>
           <!-- End Item -->
 
@@ -638,13 +664,15 @@
           <div class="cbp-item rmt chiro">
             <a class="cbp-caption" href="../profiles/karen_ngo">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/karen_ngo.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Karen Ngo - Chiropractor, Registered Massage Therapist">
+            </a>
               <div class="py-3">
-                <h4 class="h6 text-dark mb-0">Dr. Karen Ngo</h4>
+                <a href="../profiles/karen_ngo">
+                  <h4 class="h6 text-dark mb-0">Dr. Karen Ngo</h4>
+                </a>
                 <p class="small mb-0">
                   I have a strong passion and love for helping people and dancers, through non-invasive medicine; efficient and effectively returning them back to their natural function. As a licensed chiropractor, a registered massage therapist and a certified acupuncture provider, I tailor each treatment plan specific to my patient’s needs through the most current evidence- based care. Your health is my priority.<br>
                 </p>
               </div>
-            </a>
           </div>
           <!-- End Item -->
 
