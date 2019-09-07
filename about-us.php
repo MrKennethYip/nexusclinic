@@ -59,7 +59,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-us/med/mission_mountain.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/about-us/med/mission_mountain.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/about-us/lrg/mission_mountain.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/about-us/lrg/mission_mountain.jpg 1500w" alt="Mission Statement" title="Nexus Massage - Mission Statement">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-us/med/running_girl.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/about-us/med/running_girl.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/about-us/lrg/running_girl.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/about-us/lrg/running_girl.jpg 1500w" alt="Mission Statement" title="Nexus Massage - Mission Statement">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -215,13 +215,13 @@
             <h2 class="text-primary">
               <strong class="font-weight-bold">How did Nexus start?</strong>
             </h2>
-            <p><em>Meet the founders - <strong>Karen</strong> (left) and <strong>Cassandra</strong> (right)!</em></p>
+            <p><em>Meet the founders - <strong>Cassandra</strong> (left) and <strong>Karen</strong> (right)!</em></p>
           </div>
 
         </div>
 
         <div class="text-center">
-          <img style="background-color:#CDCED0; border: 2px solid #898A8D" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-us/sml/founder_story.jpg" srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-us/sml/founder_story.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-us/med/founder_story.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-us/lrg/founder_story.jpg 1500w" width="50%" height="50%" alt="Nexus Gift Card">
+          <img style="background-color:#CDCED0; border: 2px solid #898A8D" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-us/sml/founder_story_alt.jpg" srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-us/sml/founder_story_alt.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-us/med/founder_story_alt.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-us/lrg/founder_story_alt.jpg 1500w" width="75%" height="75%" alt="Founder Story - Cassandra and Karen">
         </div>
 
         <div class="u-space-1">
