@@ -251,6 +251,19 @@
           </div>
           <!-- End Item -->
 
+          <!-- Item -->
+          <div class="cbp-item">
+            <a class="cbp-caption" href="careers">
+              <img class="rounded p-2 responsively-lazy" style="border: #00C3DC 3px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/new_hire.png" alt="We are Hiring">
+            </a>
+              <div class="py-3">
+                <a href="careers">
+                  <h4 class="h6 text-dark mb-0 text-primary">We are Hiring!</h4>
+                </a>
+              </div>
+          </div>
+          <!-- End Item -->
+
         </div>
         <!-- End Content -->
       </div>       
