@@ -611,7 +611,7 @@
 
       <!-- Terms / Privacy -->
       <div class="container text-center p-2">
-        <a href="./about-us">ABOUT US</a> &nbsp;&bull;&nbsp; <a href="./careers">CAREERS</a> &nbsp;&bull;&nbsp; <a href="./referral">REFER A FRIEND</a> &nbsp;&bull;&nbsp; <a href="./gift-cards">GIFT CARDS</a>
+        <a href="../about-us">ABOUT US</a> &nbsp;&bull;&nbsp; <a href="../careers">CAREERS</a> &nbsp;&bull;&nbsp; <a href="../referral">REFER A FRIEND</a> &nbsp;&bull;&nbsp; <a href="../gift-cards">GIFT CARDS</a>
       </div>
       <!-- End Terms / Privacy -->
 
@@ -621,7 +621,7 @@
       <span class="small text-muted"><em>40 Eglinton Ave E, Suite 603, Toronto, ON M4P 3A2</em></span>
 
       <div class="list-unstyled mt-3">
-        <p class="small text-muted"><a class="u-link-muted" href="./terms">Terms of Use</a> &nbsp;/&nbsp; <a class="u-link-muted" href="./privacy">Privacy Policy</a></p>
+        <p class="small text-muted"><a class="u-link-muted" href="../terms">Terms of Use</a> &nbsp;/&nbsp; <a class="u-link-muted" href="../privacy">Privacy Policy</a></p>
       </div>
     </div>
     <!-- End Copyright -->
