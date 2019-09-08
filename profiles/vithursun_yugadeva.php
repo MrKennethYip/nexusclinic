@@ -44,7 +44,7 @@
           <div class="animated bounceIn">
           <!-- Info -->
           <div class="mb-4">
-            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">VITHERSUN YUGADEVA</h1>
+            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">VITHURSUN YUGADEVA</h1>
           </div>
 
           <ul class="list-inline">
