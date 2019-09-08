@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Ellen Yang | Registered Massage Therapist | Nexus Massage</title>
+  <title>Ellen Zhang | Registered Massage Therapist | Nexus Massage</title>
 
-  <meta name="Description" content="Learn about our team! Ellen Yang is a massage therapist at our Yonge & Eglinton clinic who specializes in trigger release therapy. Book your appointment now.">
+  <meta name="Description" content="Learn about our team! Ellen Zhang is a massage therapist at our Yonge & Eglinton clinic who specializes in trigger release therapy. Book your appointment now.">
   <meta name="keywords" content="Vithursun Yugadeva, Vithursun, Yugadeva, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
 
   <!-- Common Header -->
@@ -44,12 +44,12 @@
           <div class="animated bounceIn">
           <!-- Info -->
           <div class="mb-4">
-            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">ELLEN YANG</h1>
+            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">ELLEN ZHANG</h1>
           </div>
 
           <ul class="list-inline">
             <li class="list-inline-item">
-              <a class="u-text-light" href="mailto:vithursun@nexushealthclinic.com">
+              <a class="u-text-light" href="mailto:ellen@nexushealthclinic.com">
                 <span class="far fa-envelope mr-2"></span>
                 ellen@nexushealthclinic.com
               </a>
@@ -58,7 +58,7 @@
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ellen_yang.jpg" alt="Ellen Yang - Registered Massage Therapist">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ellen_zhang.jpg" alt="Ellen Zhang - Registered Massage Therapist">
           <!-- End Avatar -->
           </div>
         </div>

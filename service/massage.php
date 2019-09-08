@@ -646,12 +646,12 @@
 
           <!-- Item -->
           <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/ellen_yang">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ellen_yang.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ellen_yang.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ellen_yang.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/ellen_yang.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Ellen Yang - Registered Massage Therapy">
+            <a class="cbp-caption" href="../profiles/ellen_zhang">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ellen_zhang.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ellen_zhang.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ellen_zhang.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/ellen_zhang.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Ellen Yang - Registered Massage Therapy">
             </a>
               <div class="py-3">
-                <a href="../profiles/ellen_yang">
-                  <h4 class="h6 text-dark mb-0">Ellen Yang</h4>
+                <a href="../profiles/ellen_zhang">
+                  <h4 class="h6 text-dark mb-0">Ellen Zhang</h4>
                 </a>
                 <p class="small mb-0">
                   Coming Soon.<br><br><br><br><br><br><br>
