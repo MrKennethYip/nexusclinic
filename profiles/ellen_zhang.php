@@ -155,7 +155,8 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>I am a Registered Traditional Chinese Medicine (TCM) Practitioner, Registered Acupuncturist, (RAC) Registered Massage Therapist (RMT) and an Osteopathic Manual Practitioner (DOMP). I have worked in a community hospital for 10 years as an orthopedic surgeon in China, and 5 years as a psychology counselor.</p>
+              <p>On my free time, I enjoy going to kickboxing, yoga, meditating and taking walks. In my practice in Canada, I enjoy treating with the combination of acupuncture massage and osteopath because I believe that the combination of the different modalities can facilitate different healing aspects in the body and enhance the treatment results.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -165,7 +166,8 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>I enjoy treating neck and upper back tension and gastrointestinal problems the most. I find that when I reduce the tension in the neck and upper back, it helps relieve stress and helps patients feel more relaxed. I feel that when this area is treated it creates immediate and noticeable change in the body.</p>
+              <p>I also enjoy treating people with digestive issues because people work a lot and have a lot of stress stored in their body. I find that many people eat really quick due to busy work hours and not always healthy food, which can cause digestive issues. I enjoy combining acupuncture and massage to help balance the body and stimulate the nerves to the organs for better functioning.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -175,7 +177,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>Neck, shoulder and back pain, Gastrointestinal Disorders and Insomnia.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -185,7 +187,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>Sometimes people fix things like machines, machines perform specific function. If you can’t fix it, you can throw it out. I take proud of fixing and treating the human body because it is life, if it more important, you can’t just throw it out. I feel proud in helping people bring back a higher quality of life and keeping the body functioning stronger and healthier.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -195,7 +197,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>I have an extensive understanding of the body and its function with my education background in Traditional Chinese Medicine, Acupuncture, Osteopath and Massage. I believe that with this knowledge, I am also able to better understand the symptoms and problems that my patients come in with and deliver the most effective treatment to meet their goals.</p>
               <!-- End Text -->
 
           </div>
