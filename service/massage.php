@@ -560,8 +560,8 @@
               {"width": 1500, "cols": 3},
               {"width": 1100, "cols": 3},
               {"width": 800, "cols": 3},
-              {"width": 480, "cols": 3},
-              {"width": 300, "cols": 2}
+              {"width": 480, "cols": 2},
+              {"width": 300, "cols": 1}
             ]'>
 
           <!-- Item -->
@@ -654,7 +654,7 @@
                   <h4 class="h6 text-dark mb-0">Ellen Zhang</h4>
                 </a>
                 <p class="small mb-0">
-                  Coming Soon.<br><br><br><br><br><br><br>
+                  I have an extensive understanding of the body and its function with my education background in Massage, Acupuncture and Osteopath . I believe that with this knowledge, I am better at understanding the symptoms and problems that my patients come in with and deliver the most effective treatment to meet their goals.<br>
                 </p>
               </div>
           </div>
