@@ -117,7 +117,7 @@
                   <h4 class="h6 text-dark mb-0">Dr. Felix Chu</h4>
                 </a>
                 <p class="small mb-0">
-                  Chiropractor, <br>Acupuncture Provider
+                  Chiropractor, Acupuncture Provider<br><br>
                 </p>
               </div>
           </div>
@@ -229,7 +229,7 @@
                   <h4 class="h6 text-dark mb-0">Dr. Kevin Hong</h4>
                 </a>
                 <p class="small mb-0">
-                  Chiropractor, <br>Acupuncture Provider
+                  Chiropractor, Acupuncture Provider<br><br>
                 </p>
               </div>
           </div>
@@ -252,7 +252,7 @@
           <!-- End Item -->
 
           <!-- Item -->
-          <div class="cbp-item rmt">
+          <div class="cbp-item rmt acupuncture">
             <a class="cbp-caption" href="profiles/ellen_zhang">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ellen_zhang.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ellen_zhang.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ellen_zhang.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/ellen_zhang.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Ellen Zhang - Registered Massage Therapy">
             </a>
@@ -261,7 +261,7 @@
                   <h4 class="h6 text-dark mb-0">Ellen Zhang</h4>
                 </a>
                 <p class="small mb-0">
-                  Registered Massage Therapist<br><br>
+                  Registered Massage Therapist, <br>Registered Acupuncturist
                 </p>
               </div>
           </div>
