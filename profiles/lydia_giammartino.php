@@ -156,8 +156,8 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I have worked in the health care field for well over 10 years. Some of my positions included working as a paramedic with the British Columbia Ambulance service and working as a Doctor’s Assistant, most recently in the field of chronic pain management. I have also completed a Bachelors degree in Kinesiology and a Masters degree in Medical Sciences.</p>
-              <p>I spend my free time as a tutor for massage therapy students, specifically helping them with their manual skills as well as the more academic side of massage training, including systemic anatomy and pathophysiology.</p>
+              <p>I have worked in the healthcare field for well over 10 years. Some of my roles included working as a paramedic with the British Columbia Ambulance service and also working as a Doctor’s Assistant, most recently in the field of chronic pain management. On top of my paramedic training and my massage therapy training I also have a Bachelors degree in Kinesiology and a Masters degree in Medical Sciences.</p>
+              <p>I am also an instructor at the Canadian College of Massage and Hydrotherapy where I teach Systemic Anatomy and Pathophysiology to term 3 massage therapy students.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -177,8 +177,8 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>The techniques I have used most commonly are Trigger Point release therapy and Myofascial Release; these are both integral treatment modalities to an RMT and can help significantly reduce muscle tension and pain.</p>
-              <p>I also incorporate (and tutor) low to medium grade Joint Mobilization whenever it is relevant to the treatment goals. This is an incredibly useful technique that I like to incorporate into the massage treatment when the range of motion is restricted in specific joints.</p>
+              <p>The techniques I have used most commonly are Trigger Point release therapy and Myofascial Release, these are both integral treatment modalities to an RMT and can help significantly reduce muscle tension and pain.</p>
+              <p>I also incorporate low to medium grade Joint Mobilization whenever it is relevant to the treatment goals. This is an incredibly useful technique that I like to incorporate into massage when the range of motion is restricted in specific joints.</p>
               <!-- End Text -->
 
               <!-- Title -->

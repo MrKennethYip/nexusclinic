@@ -156,8 +156,11 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Cassandra moved from Vancouver, BC to pursue her passion for helping others in the health care field and to start a new journey in Toronto. She graduated from Canadian College of Massage and Hydrotherapy with honours and is registered with the College of Massage Therapists of Ontario.</p>
-              <p>On her free time, Cassandra likes to go hiking, camping and taking pictures of scenic landscapes. Some of her other hobbies include, salsa dancing and making natural skin care products.</p>
+              <p>I am originally from Vancouver, BC. I moved to Toronto in 2014 to pursue my passion in the health care field. I graduated from the Canadian College of Massage and Hydrotherapy with honours and am registered with the College of Massage Therapists of Ontario.</p>
+
+              <p>On top of being a practitioner, I enjoy helping other practitioners grow and hit their personal and professional goals. As a clinic owner, I wear many different hats and I enjoy all the different experiences and challenges I face everyday. One can’t grow and succeed without challenges in life. I embrace all of them!</p> 
+
+              <p>When I can get a long weekend off, I like to go camping and do nature things. I like trying different foods, traveling and experience different cultures. Some of my other hobbies include dancing (bachata, kizomba) and doing some acro-yoga for fun!</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -167,7 +170,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I enjoy all different cases, especially the upper back, neck and shoulders. I find a lot of patients hold their tension in the neck and shoulder area, causing tightness and pain. I love stripping through the muscles, and tending to those trouble spots to relieve tension.</p>
+              <p>I enjoy all different cases, especially the upper back, neck and shoulders. I find a lot of people store their stress in these areas, which cause tension and discomfort. I like to work with the deep muscles, tending to those trouble spots to relieve tension. Decreasing stress and tension in these areas make a big difference in people’s attitude. I love to see the expression on my patient’s face after their treatment!</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -188,7 +191,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I take pride in figuring out what contributes to the patient’s problematic areas and alleviating the pain and discomfort, bringing the patient to recovery feeling healthier, happier and stronger.</p>
+              <p>I take pride in figuring out the root cause of the patient’s problematic areas and alleviating their pain and discomfort. My treatments are clinical focussed – I like to create change in people and bring them to recovery, feeling healthier, happier and stronger.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -198,7 +201,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I enjoy my work and helping patients relieve their pain and discomfort. I believe in working together to achieve goals and create a trusting relationship where I can provide patients a safe and effective treatment.</p>
+              <p>I love bringing great energy to my sessions and working together with my patients to form their treatment plan. I believe that understanding the root cause of the problem is important for preventative care as well as our treatment direction. I work towards bringing you back to doing the things you love, pain-free.</p>
               <!-- End Text -->
 
           </div>
