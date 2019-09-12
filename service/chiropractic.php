@@ -680,6 +680,22 @@
 
           <!-- Item -->
           <div class="cbp-item chiro">
+            <a class="cbp-caption" href="../profiles/natalie_ng">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/natalie_ng.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/natalie_ng.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/natalie_ng.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/natalie_ng.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Natalie Ng - Chiropractor">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/natalie_ng">
+                  <h4 class="h6 text-dark mb-0">Dr. Natalie Ng</h4>
+                </a>
+                <p class="small mb-0">
+                  Having seen a chiropractor for the majority of my life, I strongly value the associated health benefits. I pride myself in providing the best care for my patients while keeping their needs in mind, and staying up to date with current literature. I strive to make your health my priority, so that you’re able to enjoy the highest quality of life that you deserve!<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item chiro">
             <a class="cbp-caption" href="../profiles/karen_ngo">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/karen_ngo.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Karen Ngo - Chiropractor, Registered Massage Therapist">
             </a>
@@ -688,7 +704,7 @@
                   <h4 class="h6 text-dark mb-0">Dr. Karen Ngo</h4>
                 </a>
                 <p class="small mb-0">
-                  I have a strong passion and love for helping people and dancers, through non-invasive medicine; efficient and effectively returning them back to their natural function. As a licensed chiropractor, a registered massage therapist and a certified acupuncture provider, I tailor each treatment plan specific to my patient’s needs through the most current evidence-based care. Your health is my priority. <br>
+                  I have a strong passion and love for helping people and dancers, through non-invasive medicine; efficient and effectively returning them back to their natural function. As a licensed chiropractor, a registered massage therapist and a certified acupuncture provider, I tailor each treatment plan specific to my patient’s needs through the most current evidence-based care. Your health is my priority.<br>
                 </p>
               </div>
           </div>
