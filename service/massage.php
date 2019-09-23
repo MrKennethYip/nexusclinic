@@ -662,6 +662,22 @@
 
           <!-- Item -->
           <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/mackenzie_deluca">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mackenzie_deluca.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mackenzie_deluca.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mackenzie_deluca.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/mackenzie_deluca.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Mackenzie Deluca - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/mackenzie_deluca">
+                  <h4 class="h6 text-dark mb-0">Mackenzie Deluca</h4>
+                </a>
+                <p class="small mb-0">
+                  As every patient and every injury is different, I believe in the importance of listening to my patient's goals and creating a unique and specialized treatment plan for each individual. I focus our treatments on returning you to your full function and movement.<br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/cassandra_kong">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/cassandra_kong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Cassandra Kong - Registered Massage Therapist">
             </a>
