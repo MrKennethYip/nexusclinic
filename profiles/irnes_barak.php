@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Phil Kim (RMT) | Nexus Massage & Rehab | (647) 557-6267</title>
+  <title>Irnes Barak | Osteopath | Nexus Massage</title>
 
-  <meta name="Description" content="Learn about the team at Nexus Massage & Rehab. Phil Kim specializes in massage therapy & lower back pain at our Yonge & Eglinton clinic. Learn more!">
-  <meta name="keywords" content="Phil Kim, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
+  <meta name="Description" content="Meet our team! Irnes Barak is an Osteopath at our Yonge & Eglinton clinic.">
+  <meta name="keywords" content="Irnes Barak, Irnes, Barak, Osteopath, Osteopathic, Osteopathy">
 
   <!-- Common Header -->
   <?php include('../includes/common-header.php') ?>
@@ -44,21 +44,21 @@
           <div class="animated bounceIn">
           <!-- Info -->
           <div class="mb-4">
-            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">PHIL KIM</h1>
+            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">IRNES BARAK</h1>
           </div>
 
           <ul class="list-inline">
             <li class="list-inline-item">
-              <a class="u-text-light" href="mailto:phil@nexushealthclinic.com">
+              <a class="u-text-light" href="mailto:irnes@nexushealthclinic.com">
                 <span class="far fa-envelope mr-2"></span>
-                phil@nexushealthclinic.com
+                irnes@nexushealthclinic.com
               </a>
             </li>
           </ul>
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/phil_kim.jpg" alt="Phil Kim - Profile">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/irnes_barak.jpg" alt="Irnes Barak - Osteopath">
           <!-- End Avatar -->
           </div>
         </div>
@@ -83,8 +83,6 @@
     </div>
     <!-- End Author Section -->  
 
-
-
     <!-- Content Section -->
     <div class="u-bg-light-blue-50">
       <div class="container u-space-2">
@@ -98,7 +96,7 @@
                   <a class="btn btn-block btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book/" target="_blank" onclick="handleClick('sidebarBtn');">Book Practitioner<span class="fa fa-angle-right ml-2"></span></a>
                   <br>
 
-                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:phil@nexushealthclinic.com">
+                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:irnes@nexushealthclinic.com">
                     <span class="far fa-envelope mr-2"></span>
                     Send a Message
                   </a>
@@ -118,9 +116,7 @@
                 <div class="card-header border-0 py-3 d-flex align-items-center">
                   <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/massage-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                   <div>
-                    <a href="../service/massage">
-                      <span class="d-block text-dark small font-weight-bold">Registered Massage Therapy</span>
-                    </a>
+                    <span class="d-block text-dark small font-weight-bold">Registered Manual Osteopath</span>
                   </div>
                 </div>
                 <!-- End User -->
@@ -140,7 +136,10 @@
                 <span class="d-flex align-items-start">
 
                   <div class="ml-2">
-                    <p class="text-dark"><strong>Mon - Fri:</strong><span class="ml-3"></span>10am - 8pm</p>
+                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>2:30pm - 8pm</p>
+                    <p class="text-dark"><strong>Fri:</strong><span class="ml-3"></span>10am - 8pm</p>
+                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>2pm - 5pm</p>
+                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>10am - 5pm</p>
                   </div>
                 </span>
                 <!-- End User -->
@@ -159,7 +158,9 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am a registered massage therapist and a registered kinesiologist. I emigrated from South Korea, and I am a bilingual, speaking both Korean and English fluently. I earned my Kinesiology degree from University of Toronto St. George. After that I finished my massage program with the President’s honour roll at Fanshawe College. I have been lifting weights since I was in high school, and it has become a part of my daily routine. I love learning new things outside of my field, currently I am very interested in modern philosophy. I spend my free time playing guitar, reading, playing games, and cooking.</p>
+              <p>I have a passion for helping people and have been working in the health industry for over 15 years. I was a physical therapist for the local soccer club in Bosnia and Herzegovina and have been with various other clinics to expand my expertise. One of my greatest opportunities I had was to work as a massage therapist on a private yacht and travel the world for six years. We circumnavigated the globe multiple times and stepped on all seven continents, from the Artic to Antarctica, desert to jungle, The Great Pyramids to The Great Wall of China. As I was traveling and working overseas I spent my spare time enhancing my skills and knowledge so I can better help people. I enjoy sharing this knowledge and empowering people about their health.</p>
+
+              <p>In my free time you will find me at the gym. I also love taking my dog for long walks and experiencing different food cultures in the city.</p> 
               <!-- End Text -->
 
               <!-- Title -->
@@ -169,7 +170,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>My favorite cases are low back pain and sacroiliac issues. I know that low back pain can be excruciating even at rest and it is often debilitating to deal with. Knowing that, I just love witnessing the client’s quality of life improve when their back pain is relieved. I also enjoy treating athletes, weight lifters, and those who require deep pressure.</p>
+              <p>Some cases that I enjoy are TMJ dysfunctions, headaches, visceral mobility, and musculoskeletal problems such as chronic, or old injuries that may still affect your daily function. Being able to see a difference both immediately and long term makes me feel very fulfilled as a practitioner.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -179,7 +180,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Although I am familiar with a variety of massage techniques, I especially use a lot of trigger point therapy and joint mobilization during my treatment. Being a kinesiologist, prescribing therapeutic exercise is another strength of mine. I believe massage therapy is truly effective only when coupled with appropriate homecare. I try to give out quick and easy exercises that the clients can do at their work or at home.</p>
+              <p>I specialize in Positional Release, Cranial Osteopathy, Visceral Manipulation, and Muscle Energy Technique. I look at the body as a whole functioning unit, working together, and not a collection of various moving parts.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -189,7 +190,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>The proudest moment is when I find out that my massage treatment is contributing to a client’s well-being. That’s when my passion for massage therapy rejuvenates.</p>
+              <p>I pride myself in thoroughly assessing the body as a whole and creating a customized treatment plan for each individual. My treatments are focussed on finding the root cause of the problem and not only dealing with just the symptoms, but to create a long lasting effect. My patients put their trust in me to treat their most valuable asset, their bodies, and bring them to good health.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -199,7 +200,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>There are many great RMTs in the area however as a dual-registered provider, RMT/R.Kin, I look at problems from two distinct points of view; one being the pain relief aspect and another being the preventative aspect. Therefore, I believe that I have the advantage when it comes to a more holistic therapy.</p>
+              <p>I put 110% into every treatment and every individual I see. My continued education provides me the knowledge and understanding to deal with all types of conditions. I am confident that I can help you achieve your goals.</p>
               <!-- End Text -->
 
           </div>
@@ -214,7 +215,9 @@
     <div class="u-bg-light-blue-50 u-space-2-bottom">
       <div class="container">
         <!-- Review Widget -->
-        <div class='embedsocial-reviews' data-ref="869743daa02eb1a99337c4d12dd936db3a9e84ed"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
+        <div class='embedsocial-reviews' data-ref="e2897b9bb8b07ad2ea5c05685e82b98e3109adde"></div>
+
+        <script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
         <!-- End Review Widget -->
       </div>
     </div>
