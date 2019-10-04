@@ -114,7 +114,7 @@
 
                 <!-- User -->
                 <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/massage-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/osteopath-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                   <div>
                     <span class="d-block text-dark small font-weight-bold">Registered Manual Osteopath</span>
                   </div>

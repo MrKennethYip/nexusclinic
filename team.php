@@ -58,6 +58,7 @@
           <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".chiro">Chiropractor</li>
           <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".physio">Physiotherapist</li>
           <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".acupuncture">Registered Acupuncturist</li>
+          <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".osteopath">Registered Osteopath</li>
         </ul>
         <!-- End Filter -->
 
@@ -300,6 +301,22 @@
           <!-- End Item -->
 
           <!-- Item -->
+          <div class="cbp-item osteopath">
+            <a class="cbp-caption" href="profiles/irnes_barak">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/irnes_barak.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/irnes_barak.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/irnes_barak.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/irnes_barak.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Irnes Barak - Registered Manual Osteopath">
+            </a>
+              <div class="py-3">
+                <a href="profiles/mackenzie_deluca">
+                  <h4 class="h6 text-dark mb-0">Irnes Barak</h4>
+                </a>
+                <p class="small mb-0">
+                  Registered Manual Osteopath<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
           <div class="cbp-item">
             <a class="cbp-caption" href="careers">
               <img class="rounded p-2 responsively-lazy" style="border: #00C3DC 3px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/new_hire.png" alt="We are Hiring">
@@ -342,7 +359,7 @@
             ]'>
 
           <!-- Item -->
-          <div class="cbp-item rmt chiro acupuncture physio">
+          <div class="cbp-item rmt chiro acupuncture physio osteopath">
             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/emmy_podell.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/emmy_podell.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/emmy_podell.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/emmy_podell.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Emmy Podell - Nexus Massage and Rehab - Toronto">
             <div class="py-3">
               <h4 class="h6 text-dark mb-0">Emmy Podell</h4>
@@ -354,7 +371,7 @@
           <!-- End Item -->
 
           <!-- Item -->
-          <div class="cbp-item rmt chiro acupuncture physio">
+          <div class="cbp-item rmt chiro acupuncture physio osteopath">
             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gorma_jekula.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gorma_jekula.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gorma_jekula.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/gorma_jekula.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px"  alt="Gorma Jekula - Nexus Massage and Rehab - Toronto">
             <div class="py-3">
               <h4 class="h6 text-dark mb-0">Gorma Jekula</h4>
@@ -366,7 +383,7 @@
           <!-- End Item -->
 
           <!-- Item -->
-          <div class="cbp-item rmt chiro acupuncture physio">
+          <div class="cbp-item rmt chiro acupuncture physio osteopath">
             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/tara_mooney.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/tara_mooney.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/tara_mooney.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/tara_mooney.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Tara Mooney - Nexus Massage and Rehab - Toronto">
             <div class="py-3">
               <h4 class="h6 text-dark mb-0">Tara Mooney</h4>
@@ -378,7 +395,7 @@
           <!-- End Item -->
 
           <!-- Item -->
-          <div class="cbp-item rmt chiro acupuncture physio">
+          <div class="cbp-item rmt chiro acupuncture physio osteopath">
             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/natasha_abbey.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/natasha_abbey.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/natasha_abbey.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/natasha_abbey.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Natasha Abbey - Nexus Massage and Rehab - Toronto">
             <div class="py-3">
               <h4 class="h6 text-dark mb-0">Natasha Abbey</h4>

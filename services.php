@@ -378,6 +378,63 @@
     </div>
     <!-- Service Item End -->
 
+    <!-- Service Item Start -->
+     <div class="scrolltag" id="osteopath"></div>
+     <div class="position-relative">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-5 mb-9 mb-lg-0">
+            <div class="pr-lg-4 mb-7">
+              <h2 class="text-primary"> 
+                <span class="font-weight-bold">Osteopathy</span>
+              </h2>
+              <p>Osteopathy is form of non-invasive manual therapy that works to maximize health across all systems of the body by treating the muscles, joints, spine as well as the central nervous system, lymphatic system and circulatory systems. Osteopaths look at the body as a whole function and focus on the root cause of the problem to bring your body back to balance. It is effective for treating postural alignment, muscle tension, arthritis, digestive and nervous issues and much more.</p>
+
+              <a id="sidebarAccountInvoker" href="javascript:;" role="button" target="blank"
+                 aria-controls="sidebarOsteo"
+                 aria-haspopup="true"
+                 aria-expanded="false"
+                 data-unfold-event="click"
+                 data-unfold-hide-on-scroll="false"
+                 data-unfold-target="#sidebarOsteo"
+                 data-unfold-type="css-animation"
+                 data-unfold-animation-in="fadeInRight"
+                 data-unfold-animation-out="fadeOutRight"
+                 data-unfold-duration="500">
+                <button type="button" class="btn btn-sm btn-block u-btn-primary--air u-btn-primary transition-3d-hover">See Therapists who provide service<span class="fa fa-angle-right ml-2"></span></button>
+              </a> 
+
+              <br>
+
+              <a href="https://nexusclinic.clinicsense.com/book" target="blank" target="blank" onclick="handleClick('bookServiceBtn');"><button type="button" class="btn btn-sm btn-block u-btn-danger--air u-btn-danger transition-3d-hover">Book Osteopath<span class="fa fa-angle-right ml-2"></span></button></a>
+
+            </div>
+          </div>
+
+          <div class="col-lg-7 position-relative">
+            <div id="video" class="u-video-player">
+              <img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-osteopathy.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-osteopathy.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-osteopathy.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-osteopathy.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Osteopathy - Stomach Treatment">
+
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe id="youTubeVideo" class="embed-responsive-item"
+                        data-src="//www.youtube.com/embed/0qisGSwZym4?autoplay=1&showinfo=0&rel=0">
+                </iframe>
+              </div>
+            </div>
+
+            <figure class="w-100 u-content-centered">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 1109.8 797.1" style="enable-background:new 0 0 1109.8 797.1;" xml:space="preserve">
+              <path class="u-fill-primary" opacity=".1" d="M105.1,267.1C35.5,331.5-3.5,423,0.3,517.7c5.8,145.3,110.7,314.2,588,273.1c753-64.7,481.3-358.3,440.4-398.3
+                c-4-3.9-7.9-7.9-11.7-12L761.9,104.8C639.4-27.6,432.5-35.6,299.9,87L105.1,267.1z"/>
+            </svg>
+            </figure>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Service Item End -->
+
     <!-- CTA Section -->
     <div class="text-white text-center" style="background-color:#002A3A">
       <div class="container p-4 post">
@@ -1058,6 +1115,66 @@
     </div>
   </aside>
   <!-- End Acupuncture Sidebar -->
+
+  <!-- Osteopath Sidebar -->
+  <aside id="sidebarOsteo" class="u-sidebar u-unfold--css-animation u-unfold--hidden" aria-labelledby="sidebarNavToggler">
+    <div class="u-sidebar__scroller">
+      <div class="u-sidebar__container">
+        <div class="u-header-sidebar__footer-offset">
+          <!-- Toggle Button -->
+          <div class="d-flex align-items-center pt-4 px-7">
+            <button type="button" class="close ml-auto"
+                    aria-controls="sidebarOsteo"
+                    aria-haspopup="true"
+                    aria-expanded="false"
+                    data-unfold-event="click"
+                    data-unfold-hide-on-scroll="false"
+                    data-unfold-target="#sidebarOsteo"
+                    data-unfold-type="css-animation"
+                    data-unfold-animation-in="fadeInRight"
+                    data-unfold-animation-out="fadeOutRight"
+                    data-unfold-duration="500">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <!-- End Toggle Button -->
+
+          <!-- Content -->
+          <div class="js-scrollbar u-sidebar__body">
+            <br>
+            <!-- CTA Section -->
+            <div class="bg-primary text-white text-center">
+              <div class="container u-space-1 p-2">
+                <span class="h6 d-block d-lg-inline-block font-weight-light mb-lg-0">
+                  <span class="font-weight-bold">Osteopathy</span>
+                </span>
+              </div>
+            </div>
+            <!-- End CTA Section -->
+            <div class="u-sidebar__content u-header-sidebar__content">
+
+              <!-- Card -->
+              <div class="card u-info-v2 mb-3" style="border: #00A6CE 2px solid;">
+                <a class="card-body p-3" href="profiles/irnes_barak">
+                  <div class="media align-items-center">
+                    <img class="u-md-avatar rounded-circle mr-3" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/sml/irnes_barak.jpg" alt="Irnes Barak - Registered Manual Osteopath">
+                    <div class="media-body">
+                      <span class="text-dark">Irnes Barak</span>
+                      <small class="d-block text-secondary">View Profile</small>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <!-- End Card -->
+
+            </div>
+          </div>
+          <!-- End Content -->
+        </div>
+      </div>
+    </div>
+  </aside>
+  <!-- End Osteopath Sidebar -->
 
   <!-- ========== END SECONDARY CONTENTS ========== -->
 
