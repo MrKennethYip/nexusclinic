@@ -181,6 +181,7 @@
                   <a href="service/physiotherapy"><p class="mb-md-0 text-white">Physiotherapy</p></a>
                   <p class="mb-md-0 text-white">Acupuncture</p>
                   <a href="service/orthotics"><p class="mb-md-0 text-white">Custom Orthotics</p></a>
+                  <p class="mb-md-0 text-white">Osteopathy</p>
                 </div>  
               </div>
             </div>
