@@ -672,7 +672,7 @@
                   <h4 class="h6 text-dark mb-0">Dr. Kevin Hong</h4>
                 </a>
                 <p class="small mb-0">
-                  My greatest passion in life is to help people in pain get better. I continually research and learn new and effective techniques to help cure my patients of their pain. This way, I am able to provide every patient with a variety of treatment options that best suits them. Not only do I make your health my top priority, I also make great conversations along your journey to recovery.<br><br>
+                  My greatest passion in life is to help people in pain get better. I continually research and learn new and effective techniques to help cure my patients of their pain. This way, I am able to provide every patient with a variety of treatment options that best suits them. Not only do I make your health my top priority, I also make great conversations along your journey to recovery.<br><br><br>
                 </p>
               </div>
           </div>
@@ -688,7 +688,7 @@
                   <h4 class="h6 text-dark mb-0">Dr. Natalie Ng</h4>
                 </a>
                 <p class="small mb-0">
-                  Having seen a chiropractor for the majority of my life, I strongly value the associated health benefits. I pride myself in providing the best care for my patients while keeping their needs in mind, and staying up to date with current literature. I strive to make your health my priority, so that you’re able to enjoy the highest quality of life that you deserve!<br><br>
+                  Having seen a chiropractor for the majority of my life, I strongly value the associated health benefits. I pride myself in providing the best care for my patients while keeping their needs in mind, and staying up to date with current literature. I strive to make your health my priority, so that you’re able to enjoy the highest quality of life that you deserve!<br><br><br>
                 </p>
               </div>
           </div>
