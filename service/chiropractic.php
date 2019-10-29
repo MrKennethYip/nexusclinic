@@ -656,7 +656,7 @@
                   <h4 class="h6 text-dark mb-0">Dr. Felix Chu</h4>
                 </a>
                 <p class="small mb-0">
-                  I pride myself in providing patient-centred care for my patients. This involves creating a treatment program that is individually tailored towards my patients’ needs, preferences, and values. My foundation as a registered social worker allows me to understand my patients’ challenges through a holistic perspective by recognizing not only physical obstacles, but also emotional and psychological hurdles. This integrative viewpoint enables me to better help my patients achieve optimal health and a higher quality of life.<br>
+                  I pride myself in providing patient-centred care for my patients. This involves creating a treatment program that is individually tailored towards my patients’ needs, preferences, and values. My foundation as a registered social worker allows me to understand my patients’ challenges through a holistic perspective by recognizing not only physical obstacles, but also emotional and psychological hurdles. This integrative viewpoint enables me to better help my patients achieve optimal health and a higher quality of life.
                 </p>
               </div>
           </div>
@@ -704,7 +704,7 @@
                   <h4 class="h6 text-dark mb-0">Dr. Karen Ngo</h4>
                 </a>
                 <p class="small mb-0">
-                  I have a strong passion and love for helping people and dancers, through non-invasive medicine; efficient and effectively returning them back to their natural function. As a licensed chiropractor, a registered massage therapist and a certified acupuncture provider, I tailor each treatment plan specific to my patient’s needs through the most current evidence-based care. Your health is my priority.<br>
+                  I have a strong passion and love for helping people and dancers, through non-invasive medicine; efficient and effectively returning them back to their natural function. As a licensed chiropractor, a registered massage therapist and a certified acupuncture provider, I tailor each treatment plan specific to my patient’s needs through the most current evidence-based care. Your health is my priority.
                 </p>
               </div>
           </div>
