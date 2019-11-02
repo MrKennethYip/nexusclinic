@@ -669,55 +669,55 @@
           </div>
           <!-- End Card -->
 
+          <!-- Card -->
+          <div class="card mb-3 u-card-collapse">
+            <div class="card-header px-4" id="FAQHeadingThree">
+              <div class="collapsed" data-toggle="collapse" data-target="#FAQThree" aria-expanded="false" aria-controls="FAQThree" role="button">
+                <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                  Chiropractic Care
+                  <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                </h3>
+              </div>
+            </div>
+            <div id="FAQThree" class="collapse" aria-labelledby="FAQHeadingThree" data-parent="#FAQCollapse">
+              <div class="card-body px-4">
+                Chiropractors at our Yonge and Eglinton clinic are proficient in spinal adjustments and spinal manipulations, but their expertise in <a href="./service/chiropractic">Chiropractic care</a> precedes these abilities. Our professionals are experienced in exercise prescriptions, muscle release therapy and more.<br><br>
+
+                Our chiropractors perform manual adjustments, muscle and joint manipulation, and hands-off techniques to help restore the functional and structural integrity of nerves, muscles, joints and the spine. Whether you are suffering from <a href="https://nexushealthclinic.com/community/5-common-reasons-you-are-experiencing-neck-pain/">neck pain</a> or chronic pain, you can make an appointment with a chiropractor on staff who will work with you one on one to help you create a personalized treatment plan to meet your specific needs.<br><br>
+
+                We offer myofascial release, contemporary and medical acupuncture, exercise therapy and spinal manipulation therapy.  We are with you every step of the way and will listen to your concerns to ensure you are on the right track towards your health goals.
+              </div>
+            </div>
+          </div>
+          <!-- End Card -->
+        </div>
+
+        <!-- Card -->
+          <div class="card mb-3 u-card-collapse">
+            <div class="card-header px-4" id="FAQHeadingOne-alt">
+              <div class="collapsed" data-toggle="collapse" data-target="#FAQOne-alt" aria-expanded="false" aria-controls="FAQOne-alt" role="button">
+                <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                  Physiotherapy
+                  <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                </h3>
+              </div>
+            </div>
+            <div id="FAQOne-alt" class="collapse" aria-labelledby="FAQHeadingOne-alt" data-parent="#FAQCollapse">
+              <div class="card-body px-4">
+                We are proud to offer a variety of <a href="./service/physiotherapy">professional physiotherapy treatments</a> at our Yonge and Eglinton clinic. Physiotherapy is an effective means to assess, treat, manage and diagnose both chronic and acute conditions.<br><br>
+
+                By promoting physical activity and mobility, physiotherapy treatments can help to prevent injury and disability. This style of treatment is known to help various ailments and conditions not limited to back pain, sports injuries, sprains and strains, arthritis, and cardiovascular diseases.<br><br>
+
+                Our physiotherapists are equipped with the experience and resources necessary to effectively assess and treat various injuries, diseases and conditions. We offer a variety of physiotherapy treatments to suit the varying needs of our patients. These include exercise prescription, joint mobilization and more. Learn more today!
+              </div>
+            </div>
+          </div>
+          <!-- End Card -->
+
           <!-- More Expandable Card -->
           <div class="card mb-3 u-card-collapse" style="border:none;">
-            <div id="FAQLearnMoreExpand" class="collapse" aria-labelledby="FAQHeadingLearnMoreExpand" data-parent="#FAQHeadingLearnMoreExpand">
+            <div id="FAQAcupunctureExpand" class="collapse" aria-labelledby="FAQHeadingAcupunctureExpand" data-parent="#FAQHeadingAcupunctureExpand">
               <div class="card-body expand-card">
-
-                <!-- Card -->
-                <div class="card mb-3 u-card-collapse">
-                  <div class="card-header px-4" id="FAQHeadingThree">
-                    <div class="collapsed" data-toggle="collapse" data-target="#FAQThree" aria-expanded="false" aria-controls="FAQThree" role="button">
-                      <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                        Chiropractic Care
-                        <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                      </h3>
-                    </div>
-                  </div>
-                  <div id="FAQThree" class="collapse" aria-labelledby="FAQHeadingThree" data-parent="#FAQCollapse">
-                    <div class="card-body px-4">
-                      Chiropractors at our Yonge and Eglinton clinic are proficient in spinal adjustments and spinal manipulations, but their expertise in <a href="./service/chiropractic">Chiropractic care</a> precedes these abilities. Our professionals are experienced in exercise prescriptions, muscle release therapy and more.<br><br>
-
-                      Our chiropractors perform manual adjustments, muscle and joint manipulation, and hands-off techniques to help restore the functional and structural integrity of nerves, muscles, joints and the spine. Whether you are suffering from <a href="https://nexushealthclinic.com/community/5-common-reasons-you-are-experiencing-neck-pain/">neck pain</a> or chronic pain, you can make an appointment with a chiropractor on staff who will work with you one on one to help you create a personalized treatment plan to meet your specific needs.<br><br>
-
-                      We offer myofascial release, contemporary and medical acupuncture, exercise therapy and spinal manipulation therapy.  We are with you every step of the way and will listen to your concerns to ensure you are on the right track towards your health goals.
-                    </div>
-                  </div>
-                </div>
-                <!-- End Card -->
-              </div>
-
-              <!-- Card -->
-                <div class="card mb-3 u-card-collapse">
-                  <div class="card-header px-4" id="FAQHeadingOne-alt">
-                    <div class="collapsed" data-toggle="collapse" data-target="#FAQOne-alt" aria-expanded="false" aria-controls="FAQOne-alt" role="button">
-                      <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                        Physiotherapy
-                        <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                      </h3>
-                    </div>
-                  </div>
-                  <div id="FAQOne-alt" class="collapse" aria-labelledby="FAQHeadingOne-alt" data-parent="#FAQCollapse">
-                    <div class="card-body px-4">
-                      We are proud to offer a variety of <a href="./service/physiotherapy">professional physiotherapy treatments</a> at our Yonge and Eglinton clinic. Physiotherapy is an effective means to assess, treat, manage and diagnose both chronic and acute conditions.<br><br>
-
-                      By promoting physical activity and mobility, physiotherapy treatments can help to prevent injury and disability. This style of treatment is known to help various ailments and conditions not limited to back pain, sports injuries, sprains and strains, arthritis, and cardiovascular diseases.<br><br>
-
-                      Our physiotherapists are equipped with the experience and resources necessary to effectively assess and treat various injuries, diseases and conditions. We offer a variety of physiotherapy treatments to suit the varying needs of our patients. These include exercise prescription, joint mobilization and more. Learn more today!
-                    </div>
-                  </div>
-                </div>
-                <!-- End Card -->
 
                 <!-- Card -->
                 <div class="card mb-3 u-card-collapse">
@@ -851,8 +851,8 @@
                 <!-- End Card -->
                 </div>
               </div>
-              <div class="card-header px-4" id="FAQHeadingLearnMoreExpand" style="border-bottom:none;">
-                <h3 class="h5 LessMoreCollapse collapsed text-center justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0" data-toggle="collapse" data-target="#FAQLearnMoreExpand" aria-expanded="false" aria-controls="FAQLearnMoreExpand" role="button">
+              <div class="card-header px-4" id="FAQHeadingAcupunctureExpand" style="border-bottom:none;">
+                <h3 class="h5 LessMoreCollapse collapsed text-center justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0" data-toggle="collapse" data-target="#FAQAcupunctureExpand" aria-expanded="false" aria-controls="FAQAcupunctureExpand" role="button">
                   <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
                 </h3>
               </div>
