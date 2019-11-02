@@ -28,6 +28,26 @@
     li.dropdown-item a.nav-link {
       padding-left: 1.375rem;
     }
+
+    h3.LessMoreCollapse.collapsed:before
+    {
+        content:'More ' ;
+    }
+    h3.LessMoreCollapse:before
+    {
+        content:'Less ' ;
+    }
+    div.expand-card
+    {
+      padding:0rem;
+    }
+    div.scrolltag
+    {
+      display: block;
+      position: relative;
+      top: -75px;
+      visibility: hidden;
+    }
   </style>
 
 </head>
@@ -154,6 +174,7 @@
       </div>
     <!-- End Images Carousel Section -->
 
+    <!-- 
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
@@ -161,6 +182,7 @@
         </span>
       </div>
     </div>
+    -->
 
     <!-- Steps Section -->
     <div class="container u-space-1-top">
@@ -180,8 +202,8 @@
                   <a href="service/chiropractic"><p class="mb-md-0 text-white">Chiropractic</p></a>
                   <a href="service/physiotherapy"><p class="mb-md-0 text-white">Physiotherapy</p></a>
                   <p class="mb-md-0 text-white">Acupuncture</p>
-                  <a href="service/orthotics"><p class="mb-md-0 text-white">Custom Orthotics</p></a>
                   <p class="mb-md-0 text-white">Osteopathy</p>
+                  <a href="service/orthotics"><p class="mb-md-0 text-white">Custom Orthotics</p></a>
                 </div>  
               </div>
             </div>
@@ -563,6 +585,286 @@
     <div class="u-space-1-top">
       <iframe width="100%" height="500" id="maps-nexus" src=""></iframe>
     </div>
+
+    <!-- Pricing FAQ Section -->
+    <div class="container u-space-1">
+      <!-- Title -->
+      <div class="w-md-80 w-lg-50 text-center mx-auto mb-5">
+        <h2 class="text-primary"><span class="font-weight-bold">Learn more about Nexus Massage & Rehab and our Services</span></h2>
+      </div>
+      <!-- End Title -->
+
+      <div class="row">
+        <div class="col-sm-1"></div>
+        <div class="col-sm-10">
+          <div id="FAQCollapse">
+
+          <!-- Card -->
+          <div class="card mb-3 u-card-collapse">
+            <div class="card-header px-4" id="FAQHeadingZero">
+              <div class="collapsed" data-toggle="collapse" data-target="#FAQZero" aria-expanded="false" aria-controls="FAQZero" role="button">
+                <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                  Certified Healthcare Practitioners
+                  <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                </h3>
+              </div>
+            </div>
+            <div id="FAQZero" class="collapse" aria-labelledby="FAQHeadingZero" data-parent="#FAQCollapse">
+              <div class="card-body px-4">
+                Nexus Massage & Rehab Clinic is staffed with a team of <a href="./team">healthcare practitioners</a> who are experienced and educated in a variety of fields. On our team, we have registered massage therapists, chiropractors, acupuncturists, physiotherapists and osteopaths ready to help you.<br><br>
+
+                Before you get started with us, you will meet with one of our certified health experts who will perform an assessment to identify your body’s unique needs.<br><br>
+
+                Our fully licensed staff will work one on one with you to create a treatment plan that is personalized and customized to suit your body’s unique needs.<br><br>
+
+                Together we will identify your health goals and put the steps in motion to help you restore your body. Learn more about our certified team today.
+              </div>
+            </div>
+          </div>
+          <!-- End Card -->
+
+          <!-- Card -->
+          <div class="card mb-3 u-card-collapse">
+            <div class="card-header px-4" id="FAQHeadingOne">
+              <div class="collapsed" data-toggle="collapse" data-target="#FAQOne" aria-expanded="false" aria-controls="FAQOne" role="button">
+                <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                  About Our Professional Services
+                  <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                </h3>
+              </div>
+            </div>
+            <div id="FAQOne" class="collapse" aria-labelledby="FAQHeadingOne" data-parent="#FAQCollapse">
+              <div class="card-body px-4">
+                Pain and discomfort can come from an injury, condition, disease, tension from stress and more. We provide treatments that can help you achieve comfort and relief.<br><br>
+
+                No one experiences pain the same way, which is why we work personally with our patients to connect them to the right service to help them achieve their health goals.<br><br>
+
+                Our Yonge & Eglinton clinic offers a variety of <a href="./services">treatments and services</a> to help our patients become their optimal selves so that they can live a life of comfort and wellness.
+              </div>
+            </div>
+          </div>
+          <!-- End Card -->
+
+          <!-- Card -->
+          <div class="card mb-3 u-card-collapse">
+            <div class="card-header px-4" id="FAQHeadingTwo">
+              <div class="collapsed" data-toggle="collapse" data-target="#FAQTwo" aria-expanded="false" aria-controls="FAQTwo" role="button">
+                <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                  Registered Massage Therapy (RMT)
+                  <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                </h3>
+              </div>
+            </div>
+            <div id="FAQTwo" class="collapse" aria-labelledby="FAQHeadingTwo" data-parent="#FAQCollapse">
+              <div class="card-body px-4">
+                Massage therapy treats the muscles and soft tissue in your body to release tension. This manual manipulation helps to improve your body's circulation, decrease tension in muscles, and heal strained muscles.<br><br>
+
+                As everybody’s body is different, we offer a variety of therapeutic massage styles to suit the unique needs of our patients. Our registered massage therapists are well versed in various massage techniques.<br><br>
+
+                Massage therapy options at our Yonge & Eglinton Clinic include deep tissue, hot stone and Swedish massages. We will provide an assessment to help you identify which of our <a href="./service/massage">massage techniques</a> is best suited to your body’s unique needs.<br><br>
+
+                Give your loved one the gift of massage therapy from an RMT! We offer <a href="./gift-cards">gift cards</a> that can be used for treatments at our Yonge & Eglinton clinic.
+              </div>
+            </div>
+          </div>
+          <!-- End Card -->
+
+          <!-- More Expandable Card -->
+          <div class="card mb-3 u-card-collapse" style="border:none;">
+            <div id="FAQLearnMoreExpand" class="collapse" aria-labelledby="FAQHeadingLearnMoreExpand" data-parent="#FAQHeadingLearnMoreExpand">
+              <div class="card-body expand-card">
+
+                <!-- Card -->
+                <div class="card mb-3 u-card-collapse">
+                  <div class="card-header px-4" id="FAQHeadingThree">
+                    <div class="collapsed" data-toggle="collapse" data-target="#FAQThree" aria-expanded="false" aria-controls="FAQThree" role="button">
+                      <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                        Chiropractic Care
+                        <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                      </h3>
+                    </div>
+                  </div>
+                  <div id="FAQThree" class="collapse" aria-labelledby="FAQHeadingThree" data-parent="#FAQCollapse">
+                    <div class="card-body px-4">
+                      Chiropractors at our Yonge and Eglinton clinic are proficient in spinal adjustments and spinal manipulations, but their expertise in <a href="./service/chiropractic">Chiropractic care</a> precedes these abilities. Our professionals are experienced in exercise prescriptions, muscle release therapy and more.<br><br>
+
+                      Our chiropractors perform manual adjustments, muscle and joint manipulation, and hands-off techniques to help restore the functional and structural integrity of nerves, muscles, joints and the spine. Whether you are suffering from <a href="https://nexushealthclinic.com/community/5-common-reasons-you-are-experiencing-neck-pain/">neck pain</a> or chronic pain, you can make an appointment with a chiropractor on staff who will work with you one on one to help you create a personalized treatment plan to meet your specific needs.<br><br>
+
+                      We offer myofascial release, contemporary and medical acupuncture, exercise therapy and spinal manipulation therapy.  We are with you every step of the way and will listen to your concerns to ensure you are on the right track towards your health goals.
+                    </div>
+                  </div>
+                </div>
+                <!-- End Card -->
+              </div>
+
+              <!-- Card -->
+                <div class="card mb-3 u-card-collapse">
+                  <div class="card-header px-4" id="FAQHeadingOne-alt">
+                    <div class="collapsed" data-toggle="collapse" data-target="#FAQOne-alt" aria-expanded="false" aria-controls="FAQOne-alt" role="button">
+                      <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                        Physiotherapy
+                        <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                      </h3>
+                    </div>
+                  </div>
+                  <div id="FAQOne-alt" class="collapse" aria-labelledby="FAQHeadingOne-alt" data-parent="#FAQCollapse">
+                    <div class="card-body px-4">
+                      We are proud to offer a variety of <a href="./service/physiotherapy">professional physiotherapy treatments</a> at our Yonge and Eglinton clinic. Physiotherapy is an effective means to assess, treat, manage and diagnose both chronic and acute conditions.<br><br>
+
+                      By promoting physical activity and mobility, physiotherapy treatments can help to prevent injury and disability. This style of treatment is known to help various ailments and conditions not limited to back pain, sports injuries, sprains and strains, arthritis, and cardiovascular diseases.<br><br>
+
+                      Our physiotherapists are equipped with the experience and resources necessary to effectively assess and treat various injuries, diseases and conditions. We offer a variety of physiotherapy treatments to suit the varying needs of our patients. These include exercise prescription, joint mobilization and more. Learn more today!
+                    </div>
+                  </div>
+                </div>
+                <!-- End Card -->
+
+                <!-- Card -->
+                <div class="card mb-3 u-card-collapse">
+                  <div class="card-header px-4" id="FAQHeadingTwo-alt">
+                    <div class="collapsed" data-toggle="collapse" data-target="#FAQTwo-alt" aria-expanded="false" aria-controls="FAQTwo-alt" role="button">
+                      <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                        Acupuncture
+                        <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                      </h3>
+                    </div>
+                  </div>
+                  <div id="FAQTwo-alt" class="collapse" aria-labelledby="FAQHeadingTwo-alt" data-parent="#FAQCollapse">
+                    <div class="card-body px-4">
+                      Acupuncture is an alternative medical technique used to treat a variety of health conditions. A common strategy used in Chinese medicine, acupuncture involves the insertion of fine needles (acupuncture needles) into targeted anatomic sites to balance an individual's energy and stimulate the nervous system. This process helps to restore blood circulation and promote natural self-healing.<br><br>
+
+                      We are proud to offer professional acupuncture treatments at our Yonge and Eglington clinic. We use acupuncture to help treat a variety of conditions including nausea, headaches and pain.<br><br>
+
+                      In the same vein, acupressure is a massage therapy technique that targets the same areas as acupuncture, just with a different means of targeting pressure points; specifically, manual pressure and devices as opposed to needles.<br><br>
+
+                      Book an appointment with an acupuncturist at our Yonge and Eglinton clinic today.
+                    </div>
+                  </div>
+                </div>
+                <!-- End Card -->
+
+                <!-- Card -->
+                <div class="card mb-3 u-card-collapse">
+                  <div class="card-header px-4" id="FAQHeadingThree-alt">
+                    <div class="collapsed" data-toggle="collapse" data-target="#FAQThree-alt" aria-expanded="false" aria-controls="FAQThree-alt" role="button">
+                      <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                        Osteopathy
+                        <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                      </h3>
+                    </div>
+                  </div>
+                  <div id="FAQThree-alt" class="collapse" aria-labelledby="FAQHeadingThree-alt" data-parent="#FAQCollapse">
+                    <div class="card-body px-4">
+                      Osteopathy addresses your body as a whole to identify the root of a problem like pain or discomfort. The manual therapy treats the joints, spine, muscles, central nervous system, circulatory system and lymphatic system to maximize all of your body’s systems. This treatment is typically used to treat muscle, spin and joint conditions like <a href="https://nexushealthclinic.com/community/knee-pain/">osteoarthritis</a>.
+                    </div>
+                  </div>
+                </div>
+                <!-- End Card -->
+
+                <!-- Card -->
+                <div class="card mb-3 u-card-collapse">
+                  <div class="card-header px-4" id="FAQHeadingFour">
+                    <div class="collapsed" data-toggle="collapse" data-target="#FAQFour" aria-expanded="false" aria-controls="FAQFour" role="button">
+                      <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                        Custom Orthotics
+                        <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                      </h3>
+                    </div>
+                  </div>
+                  <div id="FAQFour" class="collapse" aria-labelledby="FAQHeadingFour" data-parent="#FAQCollapse">
+                    <div class="card-body px-4">
+                      <a href="./service/orthotics">Custom orthotics</a> are medical footwear devices designed to equally distribute pressure across your feet for improved gait (manner of walking). Specifically tailored to the unique needs of an individual, our orthotics align your foot and ankle in an optimal anatomical efficient position to reduce strain and prevent injury caused by poor walking habits.<br><br>
+
+                      At Nexus Massage & Rehab Clinic, we design our custom orthotics with a 3D infrared structured light scanner that allows us to accurately capture an individual’s precise foot structure. This allows us to create footwear that will support your feet in all the right areas through your entire gait cycle.<br><br>
+
+                      Our orthotics are made with Ethylene-Vinyl Acetate (EVA), a choc attenuating material that is made with air-filled encapsulated foam sells commonly found in high-performance running shoes.<br><br>
+
+                      Orthotic footwear is typically designed for people suffering from conditions not limited to bunions, flat feet, high arches, leg or knee pain, foot arthritis and plantar fasciitis to help them improve comfort while walking.  With the right footwear, you can finally walk with comfort and confidence.
+                    </div>
+                  </div>
+                </div>
+                <!-- End Card -->
+
+                <!-- Card -->
+                <div class="card mb-3 u-card-collapse">
+                  <div class="card-header px-4" id="FAQHeadingFive">
+                    <div class="collapsed" data-toggle="collapse" data-target="#FAQFive" aria-expanded="false" aria-controls="FAQFive" role="button">
+                      <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                        Our Yonge & Eglinton Facilities
+                        <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                      </h3>
+                    </div>
+                  </div>
+                  <div id="FAQFive" class="collapse" aria-labelledby="FAQHeadingFive" data-parent="#FAQCollapse">
+                    <div class="card-body px-4">
+                      Our newly renovated state-of-the-art facility is centrally located at Yonge & Eglinton. Our modern facility includes 11 treatment rooms and a multi-use rehabilitation studio.<br><br>
+
+                      Getting to and from our clinic is quick and easy. We are a two minute walk from the Subway station and are located nearby shopping and restaurants. With the addition of the LRT, getting to our clinic will be a breeze.
+                    </div>
+                  </div>
+                </div>
+                <!-- End Card -->
+
+                <!-- Card -->
+                <div class="card mb-3 u-card-collapse">
+                  <div class="card-header px-4" id="FAQHeadingSix">
+                    <div class="collapsed" data-toggle="collapse" data-target="#FAQSix" aria-expanded="false" aria-controls="FAQSix" role="button">
+                      <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                        About Nexus Health Clinic
+                        <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                      </h3>
+                    </div>
+                  </div>
+                  <div id="FAQSix" class="collapse" aria-labelledby="FAQHeadingSix" data-parent="#FAQCollapse">
+                    <div class="card-body px-4">
+                      At Nexus Massage & Rehab Clinic, we are committed to helping you improve and strengthen your body to become your optimal self.<br><br>
+
+
+                      We offer various treatment options to help relieve our patients of pain and discomfort. Our modern and professional facilities at Yonge and Eglinton boasts modern equipment to support the varying needs of our patients.<br><br>
+
+                      We offer a results-driven treatment approach, which is why we work with patients to identify their health goals in order to create treatment plans that are customized and personalized to their needs.<br><br>
+
+                      Learn more about our different services and <a href="./pricing">pricing options</a> today! <a href="https://nexusclinic.clinicsense.com/book/" target="blank">Book your appointment</a> now to get started on your road to wellness.
+                    </div>
+                  </div>
+                </div>
+                <!-- End Card -->
+
+                <!-- Card -->
+                <div class="card mb-3 u-card-collapse">
+                  <div class="card-header px-4" id="FAQHeadingSeven">
+                    <div class="collapsed" data-toggle="collapse" data-target="#FAQSeven" aria-expanded="false" aria-controls="FAQSeven" role="button">
+                      <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                        Booking Your Appointment
+                        <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                      </h3>
+                    </div>
+                  </div>
+                  <div id="FAQSeven" class="collapse" aria-labelledby="FAQHeadingSeven" data-parent="#FAQCollapse">
+                    <div class="card-body px-4">
+                      At Nexus Health Massage & Rehab we offer a wide variety of treatments to suit the varying needs of our patients. When you choose to book an appointment at our clinic, you first book an initial appointment for assessment.<br><br>
+
+                      For a massage appointment an initial appointment is not needed, but our pricing will be based on the length of your session. We offer direct billing for some of our services for certain insurance providers. Book your appointment today.
+                    </div>
+                  </div>
+                </div>
+                <!-- End Card -->
+                </div>
+              </div>
+              <div class="card-header px-4" id="FAQHeadingLearnMoreExpand" style="border-bottom:none;">
+                <h3 class="h5 LessMoreCollapse collapsed text-center justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0" data-toggle="collapse" data-target="#FAQLearnMoreExpand" aria-expanded="false" aria-controls="FAQLearnMoreExpand" role="button">
+                  <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                </h3>
+              </div>
+            </div>
+            <!-- End More Expandable Card -->
+
+      </div>
+
+      <div class="col-sm-1"></div>
+      
+    </div>
+    <!-- End Pricing FAQ Section -->
 
   </main>
   <!-- ========== END MAIN ========== -->
