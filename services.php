@@ -14,11 +14,11 @@
   <style>
       h3.LessMoreCollapse.collapsed:before
       {
-          content:'More . . .' ;
+          content:'More ' ;
       }
       h3.LessMoreCollapse:before
       {
-          content:'Less . . .' ;
+          content:'Less ' ;
       }
       div.expand-card
       {
@@ -32,10 +32,6 @@
         visibility: hidden;
       }
   </style>
-
-  <!-- Leadquizzes 3 tracking script -->
-  <script src='https://lq3-production.s3.amazonaws.com/lead_quizzes_3.0/tracking/js/properties/gj5g0_uomg7ueq.js'></script>
-  <!-- End of Leadquizzes 3 script -->
 
 </head>
 
