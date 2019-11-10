@@ -229,8 +229,8 @@
                 </h2>
                 <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" alt="Nexus Message & Rehab - Mon to Fri - 10am* - 8pm, Sat & Sun - 10am* - 5pm, massage near me, chiro, physio, acupuncture, rehab, clinic" title="Nexus Message & Rehab - Mon to Fri - 10am* - 8pm, Sat & Sun - 10am* - 5pm - massage near me, chiro, physio, acupuncture, rehab, clinic"  style="width: 200px;">
                 <div class="u-space-1-top">
-                  <p class="mb-md-0 font-weight-bold text-white">Mon to Fri - 10am* - 8pm</p>
-                  <p class="mb-md-0 font-weight-bold text-white">Sat & Sun - 10am* - 5pm</p><br>
+                  <p class="mb-md-0 font-weight-bold text-white">Mon to Fri - 10am* - 9pm</p>
+                  <p class="mb-md-0 font-weight-bold text-white">Sat & Sun - 10am* - 7pm</p><br>
                   <p class="small mb-md-0 text-white font-weight-bold"><span class="small fa fa-asterisk mr-1"></span><em>By Appointment only - 8am to 10am.</em></p>
                   <p class="small mb-md-0 text-white font-weight-bold"><em>Hours may vary by individual practitioner.</em></p>
                 </div>  
