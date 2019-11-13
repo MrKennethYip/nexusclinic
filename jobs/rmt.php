@@ -599,7 +599,7 @@
     <!-- Copyright -->
     <div class="container text-center u-space-1">
       <!-- Logo -->
-      <a class="d-inline-block mb-1" href="index.html" aria-label="Front">
+      <a class="d-inline-block mb-1" href="index" aria-label="Front">
         <img src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/logo.svg" alt="Nexus Massage & Rehab - Yonge & Eglinton - Logo" style="width: 200px;">
       </a>
       <!-- End Logo -->
