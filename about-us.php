@@ -53,7 +53,7 @@
               <h2 class="text-dark"> 
                 <span class="font-weight-bold">Our Mission</span>
               </h2><br>
-              <h2><em>Taking care of your body lets you be your <span class="text-primary"><strong><u>Optimal Self</u></strong></span></em></h2>
+              <h3><em>To <strong>optimize</strong> the <strong>health and performance</strong> of <strong>busy, working professionals</strong> by providing a <strong>personalized</strong> and <strong>results-driven</strong> approach to <strong>achieving their health goals</strong>.</em></h3>
             </div>
           </div>
 
