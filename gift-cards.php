@@ -25,7 +25,7 @@
     <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll"
          data-options='{direction: "normal"}'>
       <!-- Apply your Parallax background image here -->
-      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Yonge & Eglinton - Parking Available - Community" style="height: 120%; background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/gift-card.jpg);"></div>
+      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Yonge & Eglinton - Gift Card or Certificate" style="height: 120%; background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/gift-card.jpg);"></div>
 
       <div class="animated bounceIn">
       <!-- Content -->
@@ -62,7 +62,7 @@
 
           <div class="col-lg-6 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 3px solid;"src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/Mother-Day-Candles.png" alt="Mother's Day - Gift Card and Candle Promotion">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 3px solid;"src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/gift-cards/gift-card-promo.jpg" alt="Holiday - Gift Card and Candle Promotion">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
