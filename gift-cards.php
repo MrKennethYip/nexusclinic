@@ -39,6 +39,51 @@
     </div>
     <!-- End Hero Section -->
 
+    <!-- Service Item Start -->
+     <div class="scrolltag" id="rmt"></div>
+     <div class="position-relative">
+      <div class="container u-space-2-top">
+        <div class="row align-items-center">
+          <div class="col-lg-6 mb-9 mb-lg-0">
+            <div class="pr-lg-4 mb-7">
+              <h2 class="text-danger"> 
+                <span class="font-weight-bold">Nexus Holiday Promotion!</span>
+              </h2>
+              <p>Gift Card or Gift Certificate purchases of <strong>$100</strong> or more will receive a <strong>FREE</strong> scented candle. Makes a perfect gift for this Holiday season (while supplies last).</p>
+
+              <h5 class="text-danger">How to receive my free gift?</h5>
+              <p>Promotional gifts are only available in store for pick up. Please email us at <a href="mailto:contact@nexushealthclinic.com">contact@nexushealthclinic.com</a> or call <a href="tel:647-557-6267">647-557-6267</a> to reserve your candle today!</p>
+
+              <h5 class="text-danger">Scents to choose from:</h5>
+              <p>Sage & Citrus, Fresh Cut Roses, Seaside Woods, Lemon Lavender, Wildflower Blooms</p>
+              <p>Get yours today and pick up your favourite scent before they are all gone! Promotional offer ends <strong>Dec 31, 2019</strong>!</p>
+            </div>
+          </div>
+
+          <div class="col-lg-6 position-relative">
+            <div id="video" class="u-video-player">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 3px solid;"src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/Mother-Day-Candles.png" alt="Mother's Day - Gift Card and Candle Promotion">
+
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe id="youTubeVideo" class="embed-responsive-item"
+                        data-src="//www.youtube.com/embed/0qisGSwZym4?autoplay=1&showinfo=0&rel=0">
+                </iframe>
+              </div>
+            </div>
+
+            <figure class="w-100 u-content-centered">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 1109.8 797.1" style="enable-background:new 0 0 1109.8 797.1;" xml:space="preserve">
+              <path class="u-fill-primary" opacity=".1" d="M105.1,267.1C35.5,331.5-3.5,423,0.3,517.7c5.8,145.3,110.7,314.2,588,273.1c753-64.7,481.3-358.3,440.4-398.3
+                c-4-3.9-7.9-7.9-11.7-12L761.9,104.8C639.4-27.6,432.5-35.6,299.9,87L105.1,267.1z"/>
+            </svg>
+            </figure>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Service Item End -->
+
     <!-- Payment Providers -->
     <div class="position-relative">
       <div class="container u-space-1">
