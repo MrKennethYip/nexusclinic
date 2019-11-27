@@ -916,7 +916,7 @@
       "name": "Is Massage Therapy a regulated health profession?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The practice of massage therapy is regulated under the Regulated Health Professions Act, 1991 (RHPA) and is therefore a Regulated Health Profession.  Only individuals who have completed the requisite training and have met the strict competency requirements of the College of Massage Therapists of Ontario (CMTO) can call themselves a "Massage Therapist" or a "Registered Massage Therapist"."
+        "text": "The practice of massage therapy is regulated under the Regulated Health Professions Act, 1991 (RHPA) and is therefore a Regulated Health Profession.  Only individuals who have completed the requisite training and have met the strict competency requirements of the College of Massage Therapists of Ontario (CMTO) can call themselves a 'Massage Therapist' or a 'Registered Massage Therapist'."
       }
     }, {
       "@type": "Question",
