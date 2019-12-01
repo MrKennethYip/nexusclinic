@@ -284,33 +284,38 @@
     <!-- Start Partners Section -->
     <div class="row text-white text-center" style="background-color:#002A3A;">
       <div class="container u-space-0-top">
+
+        <div class="row justify-content-center" style="margin-top:20px">
+          <font size="4">
+            <strong>Trusted in our community</strong>
+          </font>
+        </div>
+
         <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-0">
-          
           <div class="card mb-3" style="background-color:#002A3A; border:0px">
             <div class="card-body p-3">
               <div class="text-center">
-                  <figure class="figure" style="margin-top:25px">
+                  <figure class="figure" style="margin-top:20px">
                     <a href="https://www.instagram.com/p/Bxc65WjBZTn/" target="blank"><img width="150" height="92" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/partnerships/goodlife_white.png" class="figure-img img-fluid rounded" alt="Goodlife Outreach"></a>
                   </figure>
               </div>
             </div>
           </div>
 
-          <div class="card mb-3" style="background-color:#002A3A; border:0px">
-            <div class="card-body p-3">
-              <div class="text-center">
-                <div class="media-body p-3">
-                  <div class="row justify-content-center" style="margin-top:0px">
-                    <font size="4">
-                      <strong>Trusted in our community</strong>
-                    </font>
-                  </div>
-                  <div class="row justify-content-center" style="margin-top:20px">
-                    <a class="btn btn-sm btn-outline-light" href="./partnerships">
-                      <span class="fa fa-handshake font-size-13 mr-2"></span>
-                      Partner with us
-                    </a>
-                  </div>
+          <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-0">
+            <div class="card mb-3" style="background-color:#002A3A; border:0px">
+              <div class="card-body p-3">
+                <div class="text-center">
+                    <figure class="figure" style="margin-top:0px">
+                      <a href="https://www.instagram.com/p/B0q4Q19BuQj/" target="blank"><img width="150" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/vrtu_muay_thai_white.png" class="figure-img img-fluid rounded" alt="VRTU Mauy Thai Outreach"></a>
+                    </figure>
+
+                    <div class="row justify-content-center" style="margin-top:15px">
+                      <a class="btn btn-sm btn-outline-light" href="./partnerships">
+                        <span class="fa fa-handshake font-size-13 mr-2"></span>
+                        Partner with us
+                      </a>
+                    </div>
                 </div>
               </div>
             </div>
@@ -319,7 +324,7 @@
           <div class="card mb-3" style="background-color:#002A3A; border:0px">
             <div class="card-body p-3">
               <div class="text-center">
-                  <figure class="figure" style="margin-top:20px">
+                  <figure class="figure" style="margin-top:5px">
                     <a href="https://www.instagram.com/p/Bv17zsNBVKK/" target="blank"><img width="150" height="118" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/partnerships/yoga_logo_white.png" class="figure-img img-fluid rounded" alt="Yoga Tree Outreach"></a>
                   </figure>
               </div>
