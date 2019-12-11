@@ -652,7 +652,7 @@
                   <h4 class="h6 text-dark mb-0">Pierre Garnier</h4>
                 </a>
                 <p class="small mb-0">
-                   Coming Soon...<br>
+                   I am really interested in neck and low back pain. As a therapist, I have two main objectives: ﬁrst is to improve my patient’s condition during the sessions and second is to give the best advice so my patients can keep improving his mobility on their own between sessions.<br>
                 </p>
               </div>
           </div>
