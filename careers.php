@@ -280,35 +280,20 @@
 				<li class="my-2">
 					<!-- Job -->
 					<a class="u-info-v1 p-4" href="/jobs/rmt">
-            <span class="row justify-content-sm-between align-items-sm-center">
-              <span class="col-sm-6 mb-2 mb-sm-0">
-                <strong>Registered Massage Therapist</strong>
-              </span>
-              <span class="col-sm-6 text-primary text-sm-right">
-                Full Time / Part Time
-                <span class="fa fa-arrow-right small ml-2"></span>
-              </span>
-            </span>
-					</a>
-					<!-- End Job -->
-				</li>
-
-				<li class="my-2">
-					<!-- Job -->
-					<a class="u-info-v1 p-4" href="/jobs/physio">
-            <span class="row justify-content-sm-between align-items-sm-center">
-              <span class="col-sm-6 mb-2 mb-sm-0">
-                <strong>Physiotherapist</strong>
-              </span>
-              <span class="col-sm-6 text-primary text-sm-right">
-                Part Time
-                <span class="fa fa-arrow-right small ml-2"></span>
-              </span>
-            </span>
+			            <span class="row justify-content-sm-between align-items-sm-center">
+			              <span class="col-sm-6 mb-2 mb-sm-0">
+			                <strong>Registered Massage Therapist</strong>
+			              </span>
+			              <span class="col-sm-6 text-primary text-sm-right">
+			                Full Time / Part Time
+			                <span class="fa fa-arrow-right small ml-2"></span>
+			              </span>
+			            </span>
 					</a>
 					<!-- End Job -->
 				</li>
 			</ul>
+			
 		</div>
 		<!-- End List of Job Positions -->
 
