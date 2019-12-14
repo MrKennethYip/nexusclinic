@@ -201,7 +201,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Sometimes people fix things like machines, machines perform specific function. If you can’t fix it, you can throw it out. I take proud of fixing and treating the human body because it is life, if it more important, you can’t just throw it out. I feel proud in helping people bring back a higher quality of life and keeping the body functioning stronger and healthier.</p>
+              <p>Sometimes people fix things like machines, machines perform specific function. If you can’t fix it, you can throw it out. I take pride in fixing and treating the human body because it is life, if it more important, you can’t just throw it out. I feel proud in helping people bring back a higher quality of life and keeping the body functioning stronger and healthier.</p>
               <!-- End Text -->
 
               <!-- Title -->
