@@ -272,6 +272,7 @@
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>Free</strong></li>
                           <li class="u-pricing-v2__list-item py-1">Initial Appointment - <strong>$120</strong></li>
                           <li class="u-pricing-v2__list-item py-1">45 Min Follow Up - <strong>$99</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Follow Up - <strong>$120</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="small text-muted py-1"><strong>**Osteopathy does not qualify for <br>direct billing**</strong><br><br>Please refer to your insurance provider for coverage. Please note that we are unable to accept insurance coverage from <u>Great West Life</u> and <u>Group Health</u> at this time.</li>
                         </ul>
