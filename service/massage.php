@@ -670,7 +670,23 @@
                   <h4 class="h6 text-dark mb-0">Mackenzie Deluca</h4>
                 </a>
                 <p class="small mb-0">
-                  As every patient and every injury is different, I believe in the importance of listening to my patient's goals and creating a unique and specialized treatment plan for each individual. I focus our treatments on returning you to your full function and movement.<br>
+                  As every patient and every injury is different, I believe in the importance of listening to my patient's goals and creating a unique and specialized treatment plan for each individual. I focus our treatments on returning you to your full function and movement.<br><br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/lucia_suarez_castro">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lucia_suarez_castro.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lucia_suarez_castro.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lucia_suarez_castro.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/lucia_suarez_castro.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Mackenzie Deluca - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/lucia_suarez_castro">
+                  <h4 class="h6 text-dark mb-0">Lucia Suarez Castro</h4>
+                </a>
+                <p class="small mb-0">
+                  My knowledge and experience in different areas of alternative medicine such as Shiatsu, Acupuncture, Ayurvedic, and Reflexology allows me to find the root cause in many different conditions. I find that having these tools, I am better able to help solve the problem and bring the client back to health, back to homeostasis.<br>
                 </p>
               </div>
           </div>
