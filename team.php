@@ -125,22 +125,6 @@
           <!-- End Item -->
 
           <!-- Item -->
-          <div class="cbp-item physio">
-            <a class="cbp-caption" href="profiles/mai_hoang">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mai_hoang.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mai_hoang.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mai_hoang.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/mai_hoang.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Mai Hoang - Physiotherapist">
-            </a>
-              <div class="py-3">
-                <a href="profiles/mai_hoang">
-                  <h4 class="h6 text-dark mb-0">Mai Hoang</h4>
-                </a>
-                <p class="small mb-0">
-                  Physiotherapist<br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
           <div class="cbp-item acupuncture">
             <a class="cbp-caption" href="profiles/daniel_thrush">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/daniel_thrush.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/daniel_thrush.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/daniel_thrush.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/daniel_thrush.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Daniel Thrush - Acupuncture">
@@ -343,6 +327,22 @@
                 </a>
                 <p class="small mb-0">
                   Registered Massage Therapist<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item physio">
+            <a class="cbp-caption" href="profiles/yathaven_gopalasingam">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yathaven_gopalasingam.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yathaven_gopalasingam.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yathaven_gopalasingam.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/yathaven_gopalasingam.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Yathaven Gopalasingam - Physiotherapist">
+            </a>
+              <div class="py-3">
+                <a href="profiles/pierre_garnier">
+                  <h4 class="h6 text-dark mb-0">Yathaven Gopalasingam</h4>
+                </a>
+                <p class="small mb-0">
+                  Resident Physiotherapist<br><br>
                 </p>
               </div>
           </div>

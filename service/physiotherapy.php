@@ -628,22 +628,6 @@
 
           <!-- Item -->
           <div class="cbp-item physio">
-            <a class="cbp-caption" href="../profiles/mai_hoang">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mai_hoang.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mai_hoang.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mai_hoang.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/mai_hoang.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Mai Hoang - Physiotherapist">
-            </a>
-              <div class="py-3">
-                <a href="../profiles/mai_hoang">
-                  <h4 class="h6 text-dark mb-0">Mai Hoang</h4>
-                </a>
-                <p class="small mb-0">
-                   I take a holistic and patient centered approach towards my clients. Given my background in psychology and health promotion, I consider not only the physical dysfunction at present but also psychological aspects, individual values and goals.<br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
-          <div class="cbp-item physio">
             <a class="cbp-caption" href="../profiles/pierre_garnier">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/pierre_garnier.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/pierre_garnier.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/pierre_garnier.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/pierre_garnier.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Pierre Garnier - Physiotherapist">
             </a>
@@ -653,6 +637,22 @@
                 </a>
                 <p class="small mb-0">
                    I am really interested in neck and low back pain. As a therapist, I have two main objectives: ﬁrst is to improve my patient’s condition during the sessions and second is to give the best advice so my patients can keep improving his mobility on their own between sessions.<br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item physio">
+            <a class="cbp-caption" href="../profiles/yathaven_gopalasingam">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yathaven_gopalasingam.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yathaven_gopalasingam.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yathaven_gopalasingam.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/yathaven_gopalasingam.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Yathaven Gopalasingam - Physiotherapist">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/pierre_garnier">
+                  <h4 class="h6 text-dark mb-0">Yathaven Gopalasingam</h4>
+                </a>
+                <p class="small mb-0">
+                   My experience in various settings, including critical care, transplant and stroke units has helped me create a patient-first approach to physiotherapy. My individualized treatment plans work around you, as the patient, and your short-term and long-term goals. I use a holistic approach and work with the you to achieve your goals.<br>
                 </p>
               </div>
           </div>
