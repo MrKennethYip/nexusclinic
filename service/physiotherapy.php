@@ -668,7 +668,7 @@
                   <h4 class="h6 text-dark mb-0">Victoria Kwong</h4>
                 </a>
                 <p class="small mb-0">
-                   Coming Soon<br>
+                   Your goals, are my goals too! I will help you determine the ‘bigger picture goal’ for your treatment, break down your overarching goal into measurable milestones and help you overcome obstacles. In this way, I enjoy going above and beyond to meet and exceed your expectations for physiotherapy.<br>
                 </p>
               </div>
           </div>

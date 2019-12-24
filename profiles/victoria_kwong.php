@@ -160,7 +160,11 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>My passion for physiotherapy started with my love for teaching movement as a high school swim instructor. I went on to complete my Bachelor of Science degree in Kinesiology at York University, where I took off with my physiotherapy volunteering at various hospitals, private clinics, and aquatic therapy. I received various awards for excellence in patient care, and I truly enjoyed making an impact for patients’ quality of life. These experiences cemented my pursuit for physiotherapy as a career.</p>
+
+              <p>Then, I completed my Master of Science in Physical Therapy at Western University, where I built my foundation and explored specialities in physiotherapy. I am interested in continuing education courses in the McKenzie Method of Mechanical Diagnosis and Therapy to address lower back pain.</p>
+
+              <p>In my spare time, you can find me trying new workouts like cardio-kickboxing and Zumba, exploring local Toronto food events, and spending time with family and friends playing board games.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -170,7 +174,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>I enjoy collaborating with patients who are thinking about making a change towards a more active lifestyle or are ready to make that change. I like working with you as a team, so I can be your coach in optimizing the way your body moves. Ultimately, I want to empower you to be independent and feel confident in leading a healthy active lifestyle, so you can continue doing what you love.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -180,7 +184,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>I specialize in treating lower back pain, upper back pain, and shoulder impingement. Through a combination of manual therapy, strengthening and stretching exercises and incorporating different modalities, I can help return you to your daily activities!</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -190,7 +194,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>I am proud of the way I am able to build open-communication and trust with patients and design treatment plans according to their unique needs. One of my favourite aspects of my practice is having patients share their personal stories on how physiotherapy has impacted their lives.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -200,7 +204,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>Your goals, are my goals too! I will help you determine the ‘bigger picture goal’ for your treatment, break down your overarching goal into measurable milestones and help you overcome obstacles. In this way, I enjoy going above and beyond to meet and exceed your expectations for physiotherapy.</p>
               <!-- End Text -->
 
           </div>
