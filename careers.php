@@ -498,7 +498,7 @@
       <HR>
 
       <span class="small text-muted">&copy; 2020 - Nexus Massage & Rehab. All rights reserved.<br></span>
-      <span class="small text-muted"><em>40 Eglinton Ave E, Suite 603, Toronto, ON M4P 3A2</em></span>
+      <span class="small text-muted"><em>40 Eglinton Ave E Suite 603, Toronto, ON M4P 3A2</em></span>
 
       <div class="list-unstyled mt-3">
         <p class="small text-muted"><a class="u-link-muted" href="./terms">Terms of Use</a> &nbsp;/&nbsp; <a class="u-link-muted" href="./privacy">Privacy Policy</a></p>
