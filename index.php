@@ -174,15 +174,13 @@
       </div>
     <!-- End Images Carousel Section -->
 
-    <!-- 
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           $30 OFF Initial Physiotherapy Appointment until Dec 31, 2019! <a class="text-white" href="https://www.instagram.com/p/B5qOzoulAOn/" target="blank"><u>Click Here</u> to learn more.
+           NEW! FREE 15 Min Physiotherapy Consultation! <a class="text-white" href="https://nexusclinic.clinicsense.com/book/" target="blank"><u>Click Here</u> to book your appointment today.
         </span>
       </div>
     </div>
-    -->
 
     <!-- Steps Section -->
     <div class="container u-space-1-top">
