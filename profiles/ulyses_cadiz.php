@@ -139,7 +139,7 @@
 
                   <div class="ml-2">
                     <p class="text-dark"><strong>Fri:</strong><span class="ml-3"></span>10am - 9pm</p>
-                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>10am - 7pm</p>
+                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>10am - 7pm</p>
                   </div>
                 </span>
                 <!-- End User -->
