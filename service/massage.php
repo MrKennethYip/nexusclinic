@@ -702,7 +702,7 @@
                   <h4 class="h6 text-dark mb-0">Ulyses Cadiz</h4>
                 </a>
                 <p class="small mb-0">
-                  Coming Soon<br>
+                  With finding the root cause, my goal in every treatment is to educate my clients as I want them to take away something through the session besides the treatment. This will let my patients go back to living their best.<br><br><br><br>
                 </p>
               </div>
           </div>

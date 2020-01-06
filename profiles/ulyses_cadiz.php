@@ -158,7 +158,9 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>I have always had the belief that no man/woman is an island and that we are here for each other. Prior to getting into Massage Therapy, I had always worked in the community services field as a Child and Youth Worker for 6 years helping our youth with different circumstances in their lives. To balance my lifestyle, I have always been active, going to the gym three times a week and participating in recreational sports climbing. When it was time to branch out from the community services field, I had to look at how I can combine my active lifestyle with a profession that lets me work together with people, and this is how I discovered Massage Therapy. I am a strong believer in a collaborative approach, working together as a team, and in educating clients in working on their issues.</p>
+
+              <p>When I’m not treating, you can find me either in a climbing gym, hiking, or finding the best food spot in the city (or outside of the city).</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -168,7 +170,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>There is always something rewarding in treating each and every single case, from the everyday people in for wellness, people with varying conditions, or athletes. I do particularly enjoy working on issues stemming from neck tension, as well as low back pathologies. I also enjoy working on overuse strains and issues brought by everyday activity, or athletic pursuits.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -178,7 +180,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>I believe that the body is made to and likes to move. That’s why I incorporate movement through my treatment. I use Rhythmic and Joint mobilization, as well as passive movement and stretches. I also use myofascial techniques as well as trigger point techniques to address those stubborn pains that seems never to go away.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -188,7 +190,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>I am most proud in my practice whenever a client reports an improvement in their condition. The pinnacle of this type of situation is when it’s a client who have experienced their pain and issue for a long time and had resigned to thinking they should just live with it in their life. When they an improvement in their quality of life, that’s something that makes me thankful I went to all the years of studying and educating myself. It’s definitely those moments.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -198,7 +200,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>If you’re looking for a provider that is sincerely interested in your story and in working together to find the best solution for you, then you should choose me. I believe the best way to address any issue is through finding the root cause of the problem, and sometimes all it takes is to actually listen to your patients. With finding the root cause, my goal in every treatment is to educate my clients as I want them to take away something through the session besides the treatment. This will let my patients go back to living their best.</p>
               <!-- End Text -->
 
           </div>
