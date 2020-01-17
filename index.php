@@ -921,7 +921,7 @@
           "Friday"
         ],
         "opens": "10:00",
-        "closes": "20:00"
+        "closes": "21:00"
       }, {
         "@type": "OpeningHoursSpecification",
         "dayOfWeek": [
@@ -929,7 +929,7 @@
           "Saturday"
         ],
         "opens": "10:00",
-        "closes": "17:00"
+        "closes": "19:00"
       }
       ],
       "@id": "https://nexushealthclinic.com",
@@ -1115,7 +1115,7 @@
                 "@type": "Offer",
                 "itemOffered": {
                   "@type": "Service",
-                  "name": "60 Mi  n Follow Up"
+                  "name": "60 Min Follow Up"
                 }
               }
             ]
@@ -1136,6 +1136,53 @@
                 "itemOffered": {
                   "@type": "Service",
                   "name": "Orthotics Fitting & Pickup"
+                }
+              }
+            ]
+          }
+          {
+            "@type": "OfferCatalog",
+            "name": "OSTEOPATHY",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Initial Appointment"
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "45 Min Follow Up"
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "60 Min Follow Up"
+                }
+              }
+            ]
+          }
+          {
+            "@type": "OfferCatalog",
+            "name": "OSTEOPATHY: CRANIAL SACRAL THERAPY",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "45 Min Follow Up"
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "60 Min Follow Up"
                 }
               }
             ]
