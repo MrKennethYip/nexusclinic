@@ -94,12 +94,6 @@
                     <span class="fa fa-angle-right u-header__sub-menu-nav-link-icon"></span>
                   </a>
                 </li>
-                <li class="dropdown-item">
-                  <a class="nav-link u-header__sub-menu-nav-link u-list__link py-2" href="/classes">
-                    CLASSES
-                    <span class="fa fa-angle-right u-header__sub-menu-nav-link-icon"></span>
-                  </a>
-                </li>
               </ul>
             </li>
 
