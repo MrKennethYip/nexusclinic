@@ -195,9 +195,9 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>Free</strong></li>
                           <li class="u-pricing-v2__list-item py-1">Initial Appointment - <strong>$120</strong></li>
                           <li class="u-pricing-v2__list-item py-1">60 Min Follow Up - <strong>$90</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
