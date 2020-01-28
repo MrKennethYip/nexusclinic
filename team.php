@@ -342,7 +342,7 @@
                   <h4 class="h6 text-dark mb-0">Yathaven Gopalasingam</h4>
                 </a>
                 <p class="small mb-0">
-                  Resident Physiotherapist<br><br>
+                  Physiotherapist<br><br>
                 </p>
               </div>
           </div>
@@ -358,7 +358,7 @@
                   <h4 class="h6 text-dark mb-0">Victoria Kwong</h4>
                 </a>
                 <p class="small mb-0">
-                  Resident Physiotherapist<br><br>
+                  Physiotherapist<br><br>
                 </p>
               </div>
           </div>
