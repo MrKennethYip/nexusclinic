@@ -1077,20 +1077,6 @@
 
               <!-- Card -->
               <div class="card u-info-v2 mb-3" style="border: #00A6CE 2px solid;">
-                <a class="card-body p-3" href="profiles/daniel_thrush">
-                  <div class="media align-items-center">
-                    <img class="u-md-avatar rounded-circle mr-3" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/sml/daniel_thrush.jpg" alt="Daniel Thrush - Acupuncture">
-                    <div class="media-body">
-                      <span class="text-dark">Daniel Thrush</span>
-                      <small class="d-block text-secondary">View Profile</small>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card u-info-v2 mb-3" style="border: #00A6CE 2px solid;">
                 <a class="card-body p-3" href="profiles/ellen_zhang">
                   <div class="media align-items-center">
                     <img class="u-md-avatar rounded-circle mr-3" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/sml/ellen_zhang.jpg" alt="Ellen Zhang - Acupuncture">
