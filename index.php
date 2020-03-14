@@ -177,7 +177,7 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           NEW! FREE 15 Min Physiotherapy Consultation! <a class="text-white" href="https://nexusclinic.clinicsense.com/book/" target="blank"><u>Click Here</u> to book your appointment today.
+           Nexus is open at this time! For our COVID-19 update, please <a class="text-white" href=#COVID-19_Modal data-modal-target="#COVID-19_Modal"><u>Click Here</u>.
         </span>
       </div>
     </div>
@@ -875,6 +875,37 @@
   <!-- ========== FOOTER ========== -->
   <?php include('includes/footer.php') ?>
   <!-- ========== END FOOTER ========== -->
+
+  <!-- ========== SECONDARY CONTENTS ========== -->
+
+  <div id="COVID-19_Modal" class="js-shopping-cart-window u-modal-window u-modal-window--shopping-cart" style="width: 750px;">
+    <button class="btn btn-xs u-btn--icon u-btn-text-secondary u-modal-window__close" type="button" onclick="Custombox.modal.close();">
+      <span class="fas fa-times"></span>
+    </button>
+
+
+
+    <div class="u-shopping-cart-title-wrapper">
+
+      <h3><strong>COVID-19 UPDATE</strong></h3>
+
+      <p>Our team at Nexus Massage & Rehab understands the seriousness and concerns regarding COVID-19. We are committed to providing you a clean and safe environment as you continue your visits here at Nexus. For your health and safety, we have implemented <strong>screening protocols for booking appointments and upon entry to premise, frequent sanitization of all contact surfaces and equipments, and reinforcement of hand and respiratory hygiene</strong>.<p>
+
+      <p>If you are feeling unwell, we ask that you contact us at <a href="tel:647-557-6267">647-557-6267</a> or <a href="mailto:contact@nexushealthclinic.com">contact@nexushealthclinic.com</a> as soon as possible and we will be <strong>happy to reschedule your appointment</strong> for when you are no longer symptomatic and/or outside the 14 days period. <strong>Fees associated with late cancellations due to feeling unwell are waived at this point in time.</strong> Please kindly give us as much notice as possible to make room for other patients that require the care they need.</p>
+
+      <p>We thank you for your trust in us as we ensure <strong>your health and safety as our number one priority</strong>. If you have any questions or concerns, please don’t hesitate to reach out.</p>
+
+      <p>Sincerely, Team Nexus</p>
+    </div>
+
+    </style>
+
+    <div class="u-shopping-cart-subtotal-bg">
+      <a class="btn btn-sm btn-secondary transition-3d-hover" href="javascript:;" role="button" onclick="Custombox.modal.close();">Close</a>
+    </div>
+  </div>
+
+  <!-- ========== END SECONDARY CONTENTS ========== -->
 
   <!-- Common Footer -->
   <?php include('includes/common-footer.php') ?>
