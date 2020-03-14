@@ -912,7 +912,7 @@
 
   <!-- ========== SECONDARY CONTENTS ========== -->
 
-  <div id="COVID-19_Modal" class="js-shopping-cart-window u-modal-window u-modal-window--shopping-cart" style="width: 750px;">
+  <div id="COVID-19_Modal" class="js-shopping-cart-window u-modal-window u-modal-window--shopping-cart" style="width: 750px; overflow: scroll;">
     <button class="btn btn-xs u-btn--icon u-btn-text-secondary u-modal-window__close" type="button" onclick="Custombox.modal.close();">
       <span class="fas fa-times"></span>
     </button>
