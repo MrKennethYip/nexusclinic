@@ -177,7 +177,7 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-            Nexus is open at this time! For our COVID-19 update, please <a class="text-white" href=#COVID-19_Modal data-modal-target="#COVID-19_Modal"><u>Click Here</u>.
+            Nexus is open at this time! For our COVID-19 update, please <a class="text-white" href=#COVID-19_Modal data-modal-target="#COVID-19_Modal"><u>Click Here</u></a>.
         </span>
       </div>
     </div>
