@@ -204,7 +204,7 @@
 
         <p>We thank you for your trust in us as we ensure <strong>your health and safety as our number one priority</strong>. If you have any questions or concerns, please don’t hesitate to reach out.</p>
 
-        <p>Sincerely, Team Nexus</p>
+        <p>Sincerely,<br> Team Nexus</p>
 
       </div>
     </div>
