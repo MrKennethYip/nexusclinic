@@ -198,7 +198,9 @@
 
         <h5><strong>Nexus is OPEN and operating at regular hours.</strong></h5>
 
-        <p>Our team at Nexus Massage & Rehab understands the seriousness and concerns regarding COVID-19. We are committed to providing you a clean and safe environment as you continue your visits here at Nexus. For your health and safety, we have implemented <strong>screening protocols for booking appointments and upon entry to premise, frequent sanitization of all contact surfaces and equipments, and reinforcement of hand and respiratory hygiene</strong>.<p>
+        <p>Our team at Nexus Massage & Rehab understands the seriousness and concerns regarding COVID-19. We are committed to providing you a clean and safe environment as you continue your visits here at Nexus. For your health and safety, we have implemented <strong>screening protocols for booking appointments and upon entry to premise, frequent sanitization of all contact surfaces and equipments, and reinforcement of hand and respiratory hygiene</strong>.</p>
+
+        <p>We are closely monitoring the situation as it develops, and are following all recommendations by the <strong>WHO</strong> and <strong>Ontario Ministry of Health</strong>.</p>
 
         <p>If you are feeling unwell, we ask that you contact us at <a href="tel:647-557-6267"><strong>647-557-6267</strong></a> or <a href="mailto:contact@nexushealthclinic.com"><strong>contact@nexushealthclinic.com</strong></a> as soon as possible and we will be <strong>happy to reschedule your appointment</strong> for when you are no longer symptomatic and/or outside the 14 days period. <strong>Fees associated with late cancellations due to feeling unwell are waived at this point in time.</strong> Please kindly give us as much notice as possible to make room for other patients that require the care they need.</p>
 
