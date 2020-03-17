@@ -178,7 +178,7 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           Your health is our #1 priority! For our COVID-19 update, please read below.
+           NEXUS is temporarily closed (March 18-31)! For our COVID-19 update, please read below.
         </span>
       </div>
     </div>
@@ -191,20 +191,14 @@
 
           <div class="mb-4">
             <h2 class="text-primary">
-              <strong class="font-weight-bold">COVID-19 Update</strong>
+              <strong class="font-weight-bold">COVID-19 Temporary Closure</strong>
             </h2>
           </div>
         </div>
 
-        <h5><strong>Nexus is OPEN and operating at regular hours.</strong></h5>
+        <p>In light of the changing events with Covid-19 and for the safety of the public and our staff, Nexus Massage & Rehab will be <strong>closing our doors on March 18 - 31</strong>, and will tentatively <strong>re-open on April 1st</strong>.</p> 
 
-        <p>Our team at Nexus Massage & Rehab understands the seriousness and concerns regarding COVID-19. We are committed to providing you a clean and safe environment as you continue your visits here at Nexus. For your health and safety, we have implemented <strong>screening protocols for booking appointments and upon entry to premise, frequent sanitization of all contact surfaces and equipments, and reinforcement of hand and respiratory hygiene</strong>.</p>
-
-        <p>We are closely monitoring the situation as it develops, and are following all recommendations by the <strong>WHO</strong> and <strong>Ontario Ministry of Health</strong>.</p>
-
-        <p>If you are feeling unwell, we ask that you contact us at <a href="tel:647-557-6267"><strong>647-557-6267</strong></a> or <a href="mailto:contact@nexushealthclinic.com"><strong>contact@nexushealthclinic.com</strong></a> as soon as possible and we will be <strong>happy to reschedule your appointment</strong> for when you are no longer symptomatic and/or outside the 14 days period. <strong>Fees associated with late cancellations due to feeling unwell are waived at this point in time.</strong> Please kindly give us as much notice as possible to make room for other patients that require the care they need.</p>
-
-        <p>We thank you for your trust in us as we ensure <strong>your health and safety as our number one priority</strong>. If you have any questions or concerns, please don’t hesitate to reach out.</p>
+        <p>Your health and safety is our number one priority and it is our social responsibility as healthcare professionals to limit the spread of the virus. We will be monitoring updates from the Ministry of Health, the World Health Organization, and the Government of Ontario, and will keep you posted on any changes. We appreciate your understanding and your support and hope you all stay safe through this challenging time. We know will get through this safely together!</p>
 
         <p>Sincerely,<br> Team Nexus</p>
 
