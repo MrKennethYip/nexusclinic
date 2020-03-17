@@ -902,6 +902,28 @@
 
   <!-- ========== SECONDARY CONTENTS ========== -->
 
+  <!-- After some time Modal -->
+  <div id="aftersometimeModal" class="js-autonomous-popup u-modal-window p-5" style="display: none;"
+       data-modal-type="aftersometime"
+       data-open-effect="zoomIn"
+       data-close-effect="zoomOut"
+       data-delay="500"
+       data-speed="500">
+    <button class="btn btn-xs u-btn--icon u-btn-text-secondary u-modal-window__close" type="button" onclick="Custombox.modal.close();">
+      <span class="fas fa-times"></span>
+    </button>
+
+    <h4>COVID-19 Temporary Closure</h4>
+    <p>In light of the changing events with Covid-19 and for the safety of the public and our staff, Nexus Massage & Rehab will be <strong>closing our doors on March 18 - 31</strong>, and will tentatively <strong>re-open on April 1st</strong>.</p> 
+
+    <p>Your health and safety is our number one priority and it is our social responsibility as healthcare professionals to limit the spread of the virus. We will be monitoring updates from the Ministry of Health, the World Health Organization, and the Government of Ontario, and will keep you posted on any changes. We appreciate your understanding and your support and hope you all stay safe through this challenging time. We know will get through this safely together!</p>
+
+    <p>Sincerely,<br> Team Nexus</p>
+
+    <button type="button" class="btn btn-secondary align-items-center" role="button" onclick="Custombox.modal.close();">Close</button>
+  </div>
+  <!-- End After some time Modal -->
+
   <!-- ========== END SECONDARY CONTENTS ========== -->
 
   <!-- Common Footer -->
@@ -916,6 +938,15 @@
         $('iframe#maps-nexus').attr('src', 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8682.701534121301!2d-79.40139737083489!3d43.70751239672543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b33bb783e569b%3A0xfe369432193e0cf0!2sNexus+Massage+%26+Rehab!5e0!3m2!1sen!2sca!4v1536630500759');
         $('iframe#maps-parking').attr('src', 'https://www.google.com/maps/d/embed?mid=1PjWGMmbmn5xl1MAHthYeM_M7-bFl3q7Z');
       });
+  </script>
+
+  <script>
+    $(document).on('ready', function () {
+      // initialization of autonomous popups
+      $.HSCore.components.HSModalWindow.init('.js-autonomous-popup', {
+        autonomous: true
+      });
+    });
   </script>
 
   <script async defer
