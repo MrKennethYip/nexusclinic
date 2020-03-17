@@ -74,9 +74,6 @@
     // initialization of popups
     $.HSCore.components.HSFancyBox.init('.js-fancybox');
 
-    // initialization of popups
-    $.HSCore.components.HSPopup.init('.js-fancybox');
-
     // initialization of autonomous popups
     $.HSCore.components.HSModalWindow.init('[data-modal-target]', '.js-shopping-cart-window', {
       autonomous: true

@@ -17,7 +17,7 @@
   <!-- Common Header -->
   <?php include('includes/common-header.php') ?>
   <!-- End Common Header -->
-  
+
   <style>
     @media (max-width: 768px) {
       .full-text { display: none; }
@@ -109,7 +109,7 @@
 
         </div>
         <div class="js-slide divimage u-space-3-top height-is-based-on-content" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-physio.jpg);">
-          
+
           <div class="animated bounceIn">
           <!-- Content -->
           <div class="container position-relative u-space-3-top u-space-3-bottom z-index-2">
@@ -129,7 +129,7 @@
         </div>
 
         <div class="js-slide divimage u-space-3-top height-is-based-on-content" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-acupuncture.jpg);">
-          
+
           <div class="animated bounceIn">
           <!-- Content -->
           <div class="container position-relative u-space-3-top u-space-3-bottom z-index-2">
@@ -149,7 +149,7 @@
         </div>
 
         <div class="js-slide divimage u-space-3-top height-is-based-on-content" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-orthotics.jpg);">
-          
+
           <div class="animated bounceIn">
           <!-- Content -->
           <div class="container position-relative u-space-3-top u-space-3-bottom z-index-2">
@@ -196,7 +196,7 @@
           </div>
         </div>
 
-        <p>In light of the changing events with Covid-19 and for the safety of the public and our staff, Nexus Massage & Rehab will be <strong>closing our doors on March 18 - 31</strong>, and will tentatively <strong>re-open on April 1st</strong>.</p> 
+        <p>In light of the changing events with Covid-19 and for the safety of the public and our staff, Nexus Massage & Rehab will be <strong>closing our doors on March 18 - 31</strong>, and will tentatively <strong>re-open on April 1st</strong>.</p>
 
         <p>Your health and safety is our number one priority and it is our social responsibility as healthcare professionals to limit the spread of the virus. We will be monitoring updates from the Ministry of Health, the World Health Organization, and the Government of Ontario, and will keep you posted on any changes. We appreciate your understanding and your support and hope you all stay safe through this challenging time. We know will get through this safely together!</p>
 
@@ -226,7 +226,7 @@
                   <p class="mb-md-0 text-white">Acupuncture</p>
                   <p class="mb-md-0 text-white">Osteopathy</p>
                   <a href="service/orthotics"><p class="mb-md-0 text-white">Custom Orthotics</p></a>
-                </div>  
+                </div>
               </div>
             </div>
           </div>
@@ -255,7 +255,7 @@
                   <p class="mb-md-0 font-weight-bold text-white">Sat & Sun - 10am* - 7pm</p><br>
                   <p class="small mb-md-0 text-white font-weight-bold"><span class="small fa fa-asterisk mr-1"></span><em>By Appointment only - 8am to 10am.</em></p>
                   <p class="small mb-md-0 text-white font-weight-bold"><em>Hours may vary by individual practitioner.</em></p>
-                </div>  
+                </div>
               </div>
             </div>
           </div>
@@ -281,7 +281,7 @@
                 <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png"  alt="Nexus Message & Rehab - Contact us - massage near me, chiro, physio, acupuncture, rehab, clinic" title="Nexus Massage & Rehab - Contact us -massage near me, chiro, physio, acupuncture, rehab, clinic"   style="width: 200px;">
                 <div class="u-space-1-top">
                   <p class="mb-md-0 text-white font-weight-bold">Located at 40 Eglinton Ave E, <br>Suite 603, Toronto, ON M4P 3A2</p>
-                </div>  
+                </div>
               </div>
             </div>
           </div>
@@ -422,7 +422,7 @@
                    data-fancybox="lightbox-gallery-hidden"
                    data-caption="Foot Massage"
                    data-speed="700">
-                  
+
                     <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/sml/Foot_Massage-Square.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/sml/Foot_Massage-Square.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Foot_Massage-Square.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="two finger pressing deep for quality foot Massage" title="Yonge & Eglinton - Nexus Massage & Rehab - Deep Foot Massage - Square" style="border: 1px solid #898A8D">
 
                     <span class="u-media-viewer__container">
@@ -439,7 +439,7 @@
                    data-fancybox="lightbox-gallery-hidden"
                    data-caption="Chiropractic Treatment"
                    data-speed="700">
-                  
+
                     <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/sml/Karen-Chiro-Square.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/sml/Karen-Chiro-Square.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Karen-Chiro-Square.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Karen Ngo chiropractic lower back treatment on patient" title="Karen Ngo chiropractic lower back treatment on patient" style="border: 1px solid #898A8D">
 
                     <span class="u-media-viewer__container">
@@ -456,7 +456,7 @@
                    data-fancybox="lightbox-gallery-hidden"
                    data-caption="Modern Facilities"
                    data-speed="700">
-                  
+
                     <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/sml/Nexus-Square.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/sml/Nexus-Square.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Nexus-Square.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Modern facilities, newly renovated" title="Modern Facilities"  style="border: 1px solid #898A8D">
 
                     <span class="u-media-viewer__container">
@@ -473,7 +473,7 @@
                    data-fancybox="lightbox-gallery-hidden"
                    data-caption="Acupuncture Treatment"
                    data-speed="700">
-                  
+
                     <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/sml/Acupuncture-Square.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/sml/Acupuncture-Square.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Acupuncture-Square.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="best dry needling acupuncture" title="Best dry needling acupuncture" style="border: 1px solid #898A8D">
 
                     <span class="u-media-viewer__container">
@@ -519,7 +519,7 @@
 
         <!-- Friends List -->
         <div class="card u-info-v2 mb-3">
-          <a href="https://www.yelp.ca/biz/nexus-massage-and-rehab-toronto" target="blank"> 
+          <a href="https://www.yelp.ca/biz/nexus-massage-and-rehab-toronto" target="blank">
             <div class="card-body p-3">
               <div class="text-center">
                 <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/social/yelp_logo.svg" alt="Nexus Massage & Rehab 5 star review Yelp" title="Nexus Massage & Rehab 5 star review Yelp" style="width: 200px;">
@@ -889,7 +889,7 @@
       </div>
 
       <div class="col-sm-1"></div>
-      
+
     </div>
     <!-- End Pricing FAQ Section -->
 
@@ -901,29 +901,29 @@
   <!-- ========== END FOOTER ========== -->
 
   <!-- ========== SECONDARY CONTENTS ========== -->
+    <!-- Modal -->
+    <div id="myModal" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title" style="text-align: center;" >COVID-19 Temporary Closure</h4>
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+          </div>
+          <div class="modal-body">
+                <p>In light of the changing events with COVID-19 and for the safety of the public and our staff, Nexus Massage & Rehab will be <strong>closing our doors on March 18 - 31</strong>, and will tentatively <strong>re-open on April 1st</strong>.</p>
 
-  <!-- After some time Modal -->
-  <div id="aftersometimeModal" class="js-autonomous-popup u-modal-window p-5" style="display: none;"
-       data-modal-type="aftersometime"
-       data-open-effect="zoomIn"
-       data-close-effect="zoomOut"
-       data-delay="500"
-       data-speed="500">
-    <button class="btn btn-xs u-btn--icon u-btn-text-secondary u-modal-window__close" type="button" onclick="Custombox.modal.close();">
-      <span class="fas fa-times"></span>
-    </button>
+                <p>Your health and safety is our number one priority and it is our social responsibility as healthcare professionals to limit the spread of the virus. We will be monitoring updates from the Ministry of Health, the World Health Organization, and the Government of Ontario, and will keep you posted on any changes. We appreciate your understanding and your support and hope you all stay safe through this challenging time. We know will get through this safely together!</p>
 
-    <h4>COVID-19 Temporary Closure</h4>
-    <p>In light of the changing events with Covid-19 and for the safety of the public and our staff, Nexus Massage & Rehab will be <strong>closing our doors on March 18 - 31</strong>, and will tentatively <strong>re-open on April 1st</strong>.</p> 
+                <p>Sincerely,<br> Team Nexus</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
 
-    <p>Your health and safety is our number one priority and it is our social responsibility as healthcare professionals to limit the spread of the virus. We will be monitoring updates from the Ministry of Health, the World Health Organization, and the Government of Ontario, and will keep you posted on any changes. We appreciate your understanding and your support and hope you all stay safe through this challenging time. We know will get through this safely together!</p>
-
-    <p>Sincerely,<br> Team Nexus</p>
-
-    <button type="button" class="btn btn-secondary align-items-center" role="button" onclick="Custombox.modal.close();">Close</button>
-  </div>
-  <!-- End After some time Modal -->
-
+      </div>
+    </div>
   <!-- ========== END SECONDARY CONTENTS ========== -->
 
   <!-- Common Footer -->
@@ -941,12 +941,16 @@
   </script>
 
   <script>
-    $(document).on('ready', function () {
-      // initialization of autonomous popups
-      $.HSCore.components.HSModalWindow.init('.js-autonomous-popup', {
-        autonomous: true
-      });
-    });
+  $( document ).ready(function() {
+        $('#myModal').modal({show:true});
+
+    if (document.cookie.indexOf('visited=true') == -1){
+      // load the overlay
+      var year = 1000*60*60*24*365;
+      var expires = new Date((new Date()).valueOf() + year);
+      document.cookie = "visited=true;expires=" + expires.toUTCString();
+    }
+  });
   </script>
 
   <script async defer
@@ -1267,6 +1271,6 @@
       }
     }
   </script>
-  
+
 </body>
 </html>
