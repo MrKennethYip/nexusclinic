@@ -198,7 +198,9 @@
 
         <p>In light of the changing events with Covid-19 and for the safety of the public and our staff, Nexus Massage & Rehab will be <strong>closing our doors on March 18 - 31</strong>, and will tentatively <strong>re-open on April 1st</strong>.</p>
 
-        <p>Your health and safety is our number one priority and it is our social responsibility as healthcare professionals to limit the spread of the virus. We will be monitoring updates from the Ministry of Health, the World Health Organization, and the Government of Ontario, and will keep you posted on any changes. We appreciate your understanding and your support and hope you all stay safe through this challenging time. We know will get through this safely together!</p>
+        <p>Your health and safety is our number one priority and it is our social responsibility as healthcare professionals to limit the spread of the virus. We will be monitoring updates from the Ministry of Health, the World Health Organization, and the Government of Ontario, and will keep you posted on any changes.</p> 
+
+        <p>We appreciate your understanding and your support and hope you all stay safe through this challenging time. We know will get through this safely together!</p>
 
         <p>Sincerely,<br> Team Nexus</p>
 
@@ -906,19 +908,21 @@
       <div class="modal-dialog">
         <!-- Modal content-->
         <div class="modal-content">
-          <div class="modal-header">
-            <h4 class="modal-title" style="text-align: center;" >COVID-19 Temporary Closure</h4>
+          <div class="modal-header ">
+            <h4 class="modal-title">COVID-19 Temporary Closure</h4>
             <button type="button" class="close" data-dismiss="modal">&times;</button>
           </div>
-          <div class="modal-body">
+          <div class="modal-body text-center">
                 <p>In light of the changing events with COVID-19 and for the safety of the public and our staff, Nexus Massage & Rehab will be <strong>closing our doors on March 18 - 31</strong>, and will tentatively <strong>re-open on April 1st</strong>.</p>
 
-                <p>Your health and safety is our number one priority and it is our social responsibility as healthcare professionals to limit the spread of the virus. We will be monitoring updates from the Ministry of Health, the World Health Organization, and the Government of Ontario, and will keep you posted on any changes. We appreciate your understanding and your support and hope you all stay safe through this challenging time. We know will get through this safely together!</p>
+                <p>Your health and safety is our number one priority and it is our social responsibility as healthcare professionals to limit the spread of the virus. We will be monitoring updates from the Ministry of Health, the World Health Organization, and the Government of Ontario, and will keep you posted on any changes.</p> 
+
+                <p>We appreciate your understanding and your support and hope you all stay safe through this challenging time. We know we will get through this safely together!</p>
 
                 <p>Sincerely,<br> Team Nexus</p>
           </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <div class="text-center u-space-1-bottom">
+              <button type="button" class="btn btn-primary u-btn-primary transition-3d-hover" data-dismiss="modal">OK</button>
           </div>
         </div>
 
