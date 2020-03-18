@@ -702,7 +702,7 @@
                   <h4 class="h6 text-dark mb-0">Ulyses Cadiz</h4>
                 </a>
                 <p class="small mb-0">
-                  With finding the root cause, my goal in every treatment is to educate my clients as I want them to take away something through the session besides the treatment. This will let my patients go back to living their best.<br><br><br><br>
+                  With finding the root cause, my goal in every treatment is to educate my clients as I want them to take away something through the session besides the treatment. This will let my patients go back to living their best.<br><br><br>
                 </p>
               </div>
           </div>
@@ -718,7 +718,7 @@
                   <h4 class="h6 text-dark mb-0">Kyle Ngo</h4>
                 </a>
                 <p class="small mb-0">
-                  Coming Soon...<br><br><br><br>
+                  My goal with every client is to help them better understand their bodies and provide them the tools necessary to achieve their treatment goals. Client education is an important part of my practice and I feel proud when a client tells me that my work has made a difference in their life.<br><br>
                 </p>
               </div>
           </div>
