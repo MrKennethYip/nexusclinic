@@ -203,7 +203,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>My experience in various settings, including critical care, transplant and stroke units has helped me create a patient-first approach to physiotherapy. My individualized treatment plans work around you, as the patient, and your short-term and long-term goals. I use a holistic approach and work with the you to achieve your goals.</p>
+              <p>My experience in various settings, including critical care, transplant and stroke units has helped me create a patient-first approach to physiotherapy. My individualized treatment plans work around you, as the patient, and your short-term and long-term goals. I use a holistic approach and work with you to achieve your goals.</p>
               <!-- End Text -->
 
           </div>
