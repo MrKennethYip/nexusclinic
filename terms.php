@@ -113,7 +113,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>The following terms of use apply to any type of Gift Card or Gift Certificate, whether issued in electronic, plastic or any other format (collectivelly, "Gift Card(s)").</p>
+              <p>The following terms of use apply to any type of Gift Card or Gift Certificate, whether issued in electronic, plastic or any other format (collectively, "Gift Card(s)").</p>
               <p>1) <strong>Redemption.</strong> Gift Cards are redeemable only for Services which are offered by Nexus Massage & Rehab at the time of use. Gift Cards have no cash value and may not be redeemed for cash. Gift Cards are not redeemable to purchase another Gift Card, or towards previously purchased goods or services.</p>
               <p>2) <strong>Expiration/Deactivation.</strong> 
 
