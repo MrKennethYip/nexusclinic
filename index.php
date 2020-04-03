@@ -916,7 +916,7 @@
           <div class="modal-body text-center">
                 <p>Our clinic is currently closed until further notice due to the unprecedented events of COVID-19. At this time, we will be offering a <strong>FREE Trial</strong> for <strong>Virtual Follow-Up</strong> sessions with our existing Chiropractic, Physiotherapist, and Osteopathic patients until April 18. In addition, we are also offering <strong>Free Virtual Acupuncture Consultations</strong> for all new and existing patients.</p>
 
-                <p>These session can support you to continue your health journey in the comfort of your home and help decrease stress during the current situation. Unfortunately we are unable to offer massage services at this time. We will keep you posted on all updates and changes on our website.</p> 
+                <p>These sessions can support you to continue your health journey in the comfort of your home and help decrease stress during the current situation. Unfortunately we are unable to offer massage services at this time. We will keep you posted on all updates and changes on our website.</p> 
 
                 <p>We hope you all stay safe and healthy and we look forward to seeing you at the clinic when we reopen.</p>
 
