@@ -48,7 +48,7 @@
     <div style="border-top: 2px solid #898A8D">
       <div class="container u-space-1">
         <h2 class="text-dark font-weight-normal u-space-1-bottom"><span class="font-weight-bold">Virtual Telehealth Services</span></h2>
-        <p>We are currently offering all <strong>existing patients</strong> a complimentary Nexus Virtual Session with our chiropractors, physiotherapist, osteopaths and acupuncturists until April 18th. These session can support you to continue your health journey in the comfort of your home and help decrease stress during these unprecedented times.</p>
+        <p>We are currently offering all <strong>existing patients</strong> complimentary Nexus Virtual Session with our chiropractors, physiotherapist, osteopaths and acupuncturists until April 18th. These session can support you to continue your health journey in the comfort of your home and help decrease stress during these unprecedented times.</p>
       </div>
     </div>
     <!-- End Why Choose Nexus -->
@@ -104,7 +104,6 @@
 
                 <ul> 
                   <li>Telehealth is the use of technology to provide real-time remote access to healthcare order.</li><br>
-                  <li>It complies with all regulations of the College of Physiotherapists of Ontario and the College of Chiropractors of Ontario.</li><br>
                   <li>It complies with all regulations of the College of Physiotherapists of Ontario and the College of Chiropractors of Ontario.</li><br>
                   <li>Nexus Massage & Rehab utilizes Phzio Telehealth platform to provide secured private healthcare in the comfort of your home.</li><br>
                   <li>Phzio is <a href="https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html" target="blank">HIPAA</a>, <a href="https://www.ipc.on.ca/wp-content/uploads/Resources/hguide-e.pdf" target="blank">PHIPA</a>, and <a href="https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/" target="blank">PIPEDA</a> compliant.</li>

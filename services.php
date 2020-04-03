@@ -67,29 +67,60 @@
     </div>
     <!-- End Hero Section -->
 
-    <!-- Shopping Cart Modal Window -->
-    <div id="treatmentQuizModal" class="js-modal-window u-modal-window" style="width:60%;">
-      <div class="card">
-        
-        <!-- Header -->
-        <header class="card-header bg-light py-3 px-5">
-          <div class="d-flex justify-content-between align-items-center">
-            <h3 class="h6 mb-0">Nexus Massage & Rehab - Quiz!</h3>
+    <div style="background-color:#E7E8E8; border-bottom: 1px solid #898A8D">
+    <!-- Services Section -->
+      <div class="container u-space-1" style="background:url( https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
+        <!-- Title -->
+        <div class="w-md-80 w-lg-50 text-center mx-auto mb-9">
+          <h2 class="text-dark font-weight-normal"><span class="font-weight-bold">COVID-19 Telehealth Services</span>&nbsp;<span class="badge badge-success">New</span></h2>
+        </div>
+        <!-- End Title -->
 
-            <button type="button" class="close" aria-label="Close" onclick="Custombox.modal.close();">
-              <span aria-hidden="true">×</span>
-            </button>
+        <!-- Service Item Start -->
+         <div class="scrolltag" id="telehealth"></div>
+         <div class="position-relative">
+          <div class="container u-space-1-bottom">
+            <div class="row align-items-center">
+              <div class="col-lg-5 mb-9 mb-lg-0">
+                <div class="pr-lg-4 mb-7">
+                  <h2 class="text-primary"> 
+                    <span class="font-weight-bold">Virtual Telehealth</span>
+                  </h2>
+                  <p>Telehealth is the use of technology to provide real-time remote access to healthcare order. It complies with all regulations of the College of Physiotherapists of Ontario and the College of Chiropractors of Ontario. Available through <strong>April 18 (Free)</strong>.</p><br>
+
+                  <p><strong>Existing Patients:</strong> Physio, Chiro and Osteo Virtual Follow Up</p>
+
+                  <p><strong>New/Existing Patients:</strong> Virtual Acupuncture Consultation</p>
+
+                  <a href="telehealth"><button type="button" class="btn btn-sm btn-block u-btn-primary--air u-btn-primary transition-3d-hover">Learn about Telehealth<span class="fa fa-angle-right ml-2"></span></button></a>
+
+                  <br>
+
+                  <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookServiceBtn');"><button type="button" class="btn btn-sm btn-block u-btn-danger--air u-btn-danger transition-3d-hover">Book Virtual Appointment<span class="fa fa-angle-right ml-2"></span></button></a>
+                  
+                </div>
+              </div>
+
+              <div class="col-lg-7 position-relative">
+                <div id="video" class="u-video-player">
+                  <img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-telehealth.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-telehealth.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-telehealth.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/lrg/services-telehealth.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Telehealth Services - Virtual Appointment">
+
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe id="youTubeVideo" class="embed-responsive-item"
+                            data-src="//www.youtube.com/embed/0qisGSwZym4?autoplay=1&showinfo=0&rel=0">
+                    </iframe>
+                  </div>
+                </div>
+
+              </div>
+            </div>
           </div>
-        </header>
-        <!-- End Header -->
-
-        <!-- Body -->
-        <div id='inline-embed-iframe' class='inline-embed-responsive' style='border-radius:5px; overflow:hidden;'><iframe src='https://content.leadquizzes.com/lp/ALw9cXng0w?embed=1' frameborder='0' style='width:100%; float:left;'></iframe></div>
-        <!-- End Body -->
-
+        </div>
+        <!-- Service Item End -->
+        
       </div>
+    <!-- End Services Section -->
     </div>
-    <!-- End Shopping Cart Modal Window -->
 
     <!-- Service Item Start -->
      <div class="scrolltag" id="rmt"></div>
