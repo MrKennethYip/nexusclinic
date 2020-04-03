@@ -178,7 +178,7 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           NEXUS is temporarily closed March 18 - April 7! For our COVID-19 update, please read below.
+           NEXUS is closed until further notice! <a class="text-white" href="./telehealth"><u>Click Here</u></a> to learn about our Telehealth Services.
         </span>
       </div>
     </div>
@@ -192,12 +192,12 @@
           <div class="mb-4">
             <h2 class="text-primary">
               <strong class="font-weight-bold">COVID-19 Temporary Closure</strong>
-              <p>Updated March 24, 2020</p>
+              <p>Updated April 2, 2020</p>
             </h2>
           </div>
         </div>
 
-        <p>In light of the changing events with Covid-19 and for the safety of the public and our staff, Nexus Massage & Rehab will be closing our doors on <strong>March 18 - April 7</strong>, and will tentatively <strong>re-open on April 8</strong>.</p>
+        <p>In light of the changing events with Covid-19 and for the safety of the public and our staff, Nexus Massage & Rehab will be closing our doors <strong>until further notice</strong>.</p>
 
         <p>Your health and safety is our number one priority and it is our social responsibility as healthcare professionals to limit the spread of the virus. We will be monitoring updates from the Ministry of Health, the World Health Organization, and the Government of Ontario, and will keep you posted on any changes.</p> 
 
@@ -910,20 +910,20 @@
         <!-- Modal content-->
         <div class="modal-content">
           <div class="modal-header ">
-            <h4 class="modal-title">COVID-19 Temporary Closure (3/24)</h4>
+            <h4 class="modal-title">COVID-19 Temporary Closure (4/2)</h4>
             <button type="button" class="close" data-dismiss="modal">&times;</button>
           </div>
           <div class="modal-body text-center">
-                <p>In light of the changing events with COVID-19 and for the safety of the public and our staff, Nexus Massage & Rehab will be <strong>closing our doors on March 18 - April 7</strong>, and will tentatively <strong>re-open on April 8</strong>.</p>
+                <p>Our clinic is currently closed until further notice due to the unprecedented events of COVID-19. At this time, we will be offering a <strong>FREE Trial</strong> for <strong>Virtual Follow-Up</strong> sessions with our existing Chiropractic, Physiotherapist, and Osteopathic patients until April 18. In addition, we are also offering <strong>Free Virtual Acupuncture Consultations</strong> for all new and existing patients.</p>
 
-                <p>Your health and safety is our number one priority and it is our social responsibility as healthcare professionals to limit the spread of the virus. We will be monitoring updates from the Ministry of Health, the World Health Organization, and the Government of Ontario, and will keep you posted on any changes.</p> 
+                <p>These session can support you to continue your health journey in the comfort of your home and help decrease stress during the current situation. Unfortunately we are unable to offer massage services at this time. We will keep you posted on all updates and changes on our website.</p> 
 
-                <p>We appreciate your understanding and your support and hope you all stay safe through this challenging time. We know we will get through this safely together!</p>
+                <p>We hope you all stay safe and healthy and we look forward to seeing you at the clinic when we reopen.</p>
 
                 <p>Sincerely,<br> Team Nexus</p>
           </div>
           <div class="text-center u-space-1-bottom">
-              <button type="button" class="btn btn-primary u-btn-primary transition-3d-hover" data-dismiss="modal">OK</button>
+              <a class="btn btn-primary u-btn-primary u-btn-wide transition-3d-hover" href="./telehealth">Learn More<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
           </div>
         </div>
 
