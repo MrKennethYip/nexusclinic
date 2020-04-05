@@ -92,7 +92,7 @@
 
                   <p><strong>New/Existing Patients:</strong> Virtual Acupuncture Consultation</p>
 
-                  <a href="telehealth"><button type="button" class="btn btn-sm btn-block u-btn-primary--air u-btn-primary transition-3d-hover">Learn about Telehealth<span class="fa fa-angle-right ml-2"></span></button></a>
+                  <a href="service/telehealth"><button type="button" class="btn btn-sm btn-block u-btn-primary--air u-btn-primary transition-3d-hover">Learn about Telehealth<span class="fa fa-angle-right ml-2"></span></button></a>
 
                   <br>
 

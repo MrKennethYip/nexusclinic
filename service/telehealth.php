@@ -94,7 +94,7 @@
     <div style="border-top: 1px solid #898A8D">
       <div class="container u-space-1">
         <h2 class="text-dark font-weight-normal u-space-1-bottom"><span class="font-weight-bold">Who is Eligible?</span></h2>
-        <p><strong>Virtual Follow Up</strong> appointments are only for existing patients of rehab practitioners offering Telehealth services (full list below).</p>
+        <p><strong>Virtual Follow-Up</strong> appointments are only for existing patients of rehab practitioners offering Telehealth services (full list below).</p>
 
         <p><strong>Virtual Acupuncture Consultations</strong> are available for both NEW and EXISTING patients.</p>
 
@@ -117,7 +117,7 @@
           <div class="col-lg-7 mb-9 mb-lg-0">
             <div class="pr-lg-4 mb-7">
               <h2 class="text-primary"> 
-                <span class="font-weight-bold">Virtual Follow-Up Appointment</span>
+                <span class="font-weight-bold">Virtual Follow-Up Appointments</span>
               </h2>
               <p>​Virtual Follow-Up Appointments are only with Chiropractors, Physiotherapists and Osteopaths.</p>
               <p>These appointments are <strong>20 minutes</strong> long and will be video-based.</p>
@@ -225,11 +225,11 @@
             ]'>
           <!-- Item -->
           <div class="cbp-item rmt chiro">
-            <a class="cbp-caption" href="profiles/karen_ngo">
+            <a class="cbp-caption" href="./profiles/karen_ngo">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/karen_ngo.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Karen Ngo - Chiropractor, Registered Massage Therapist">
             </a>
               <div class="py-3">
-                <a href="profiles/karen_ngo">
+                <a href="./profiles/karen_ngo">
                   <h4 class="h6 text-dark mb-0">Dr. Karen Ngo</h4>
                 </a>
                 <p class="small mb-0">
@@ -241,11 +241,11 @@
 
           <!-- Item -->
           <div class="cbp-item chiro">
-            <a class="cbp-caption" href="profiles/natalie_ng">
+            <a class="cbp-caption" href="./profiles/natalie_ng">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/natalie_ng.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/natalie_ng.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/natalie_ng.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/natalie_ng.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Natalie Ng - Chiropractor">
             </a>
               <div class="py-3">
-                <a href="profiles/natalie_ng">
+                <a href="./profiles/natalie_ng">
                   <h4 class="h6 text-dark mb-0">Dr. Natalie Ng</h4>
                 </a>
                 <p class="small mb-0">
@@ -257,11 +257,11 @@
 
           <!-- Item -->
           <div class="cbp-item physio">
-            <a class="cbp-caption" href="profiles/victoria_kwong">
+            <a class="cbp-caption" href="./profiles/victoria_kwong">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/victoria_kwong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Victoria Kwong - Physiotherapist">
             </a>
               <div class="py-3">
-                <a href="profiles/victoria_kwong">
+                <a href="./profiles/victoria_kwong">
                   <h4 class="h6 text-dark mb-0">Victoria Kwong</h4>
                 </a>
                 <p class="small mb-0">
@@ -273,11 +273,11 @@
 
           <!-- Item -->
           <div class="cbp-item physio">
-            <a class="cbp-caption" href="profiles/yathaven_gopalasingam">
+            <a class="cbp-caption" href="./profiles/yathaven_gopalasingam">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yathaven_gopalasingam.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yathaven_gopalasingam.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yathaven_gopalasingam.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/yathaven_gopalasingam.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Yathaven Gopalasingam - Physiotherapist">
             </a>
               <div class="py-3">
-                <a href="profiles/yathaven_gopalasingam">
+                <a href="./profiles/yathaven_gopalasingam">
                   <h4 class="h6 text-dark mb-0">Yathaven Gopalasingam</h4>
                 </a>
                 <p class="small mb-0">
@@ -289,11 +289,11 @@
 
           <!-- Item -->
           <div class="cbp-item osteopath">
-            <a class="cbp-caption" href="profiles/irnes_barak">
+            <a class="cbp-caption" href="./profiles/irnes_barak">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/irnes_barak.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/irnes_barak.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/irnes_barak.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/irnes_barak.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Irnes Barak - Registered Manual Osteopath">
             </a>
               <div class="py-3">
-                <a href="profiles/mackenzie_deluca">
+                <a href="./profiles/mackenzie_deluca">
                   <h4 class="h6 text-dark mb-0">Irnes Barak</h4>
                 </a>
                 <p class="small mb-0">
@@ -305,11 +305,11 @@
 
           <!-- Item -->
           <div class="cbp-item acupuncture">
-            <a class="cbp-caption" href="profiles/matt_walton">
+            <a class="cbp-caption" href="./profiles/matt_walton">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/matt_walton.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Matt Walton - Registered Massage Therapy">
             </a>
               <div class="py-3">
-                <a href="profiles/matt_walton">
+                <a href="./profiles/matt_walton">
                   <h4 class="h6 text-dark mb-0">Matt Walton</h4>
                 </a>
                 <p class="small mb-0">
@@ -321,11 +321,11 @@
 
           <!-- Item -->
           <div class="cbp-item acupuncture">
-            <a class="cbp-caption" href="profiles/kelsey_cunningham">
+            <a class="cbp-caption" href="./profiles/kelsey_cunningham">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kelsey_cunningham.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kelsey_cunningham.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kelsey_cunningham.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/kelsey_cunningham.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Kelsey Cunningham - Registered Massage Therapy">
             </a>
               <div class="py-3">
-                <a href="profiles/kelsey_cunningham">
+                <a href="./profiles/kelsey_cunningham">
                   <h4 class="h6 text-dark mb-0">Kelsey Cunningham</h4>
                 </a>
                 <p class="small mb-0">
@@ -362,13 +362,13 @@
                   <div class="text-black">
         
                     <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle"><span class="u-icon__inner font-weight-bold">1</span></span>
-                    &nbsp;Book your Virtual appointments with your current practitioner on our website.<br><br>
+                    &nbsp;Book your virtual appointments with your current practitioner on our website.<br><br>
 
                     <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle"><span class="u-icon__inner font-weight-bold">2</span></span>
-                    &nbsp;Your appointment request will be screened for eligibility for Telehealth Appointments.<br><br></span>
+                    &nbsp;Your appointment request will be screened for eligibility for Telehealth appointments.<br><br></span>
 
                     <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle"><span class="u-icon__inner font-weight-bold">3</span></span>
-                    &nbsp;If your Telehealth Appointment is confirmed, you will be emailed a link to join a secured video call with your practitioner.<br><br></span>
+                    &nbsp;If your Telehealth appointment is confirmed, you will be emailed a link to join a secured video call with your practitioner.<br><br></span>
 
                     <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle"><span class="u-icon__inner font-weight-bold">4</span></span>
                     &nbsp;Once you click the link, it will open up a screen where you can see your practitioner face to face and start your session.<br><br></span>
@@ -447,6 +447,46 @@
             <div id="FAQOne" class="collapse" aria-labelledby="FAQHeadingOne" data-parent="#FAQCollapse">
               <div class="card-body px-4">
                 No, our Virtual Follow-Up appointments are for patients who have had an Initial Assessment with a specific practitioner in order to encourage selfcare at home and continue on-going treatment plans.<br><br>
+
+                If you have not had an Initial Appointment with a practitioner who is offering Telehealth services in the past, you would not be eligible for Virtual Follow-Up sessions.<br><br>
+
+                All rehab services at Nexus Massage & Rehab requires a proper Initial Assessment session where we perform a full assessment prior to providing a treatment plan. At this time, we are not offering Initial Assessments through Telehealth.
+              </div>
+            </div>
+          </div>
+          <!-- End Card -->
+
+          <!-- Card -->
+          <div class="card mb-3 u-card-collapse">
+            <div class="card-header px-4" id="FAQHeadingFive">
+              <div class="collapsed" data-toggle="collapse" data-target="#FAQFive" aria-expanded="false" aria-controls="FAQFive" role="button">
+                <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                  Why can’t I book a Virtual Appointment with my Registered Massage Therapist?
+                  <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                </h3>
+              </div>
+            </div>
+            <div id="FAQFive" class="collapse" aria-labelledby="FAQHeadingFive" data-parent="#FAQCollapse">
+              <div class="card-body px-4">
+                Massage services are not available on Telehealth as it is difficult to offer this type of treatment virtually.
+              </div>
+            </div>
+          </div>
+          <!-- End Card -->
+
+          <!-- Card -->
+          <div class="card mb-3 u-card-collapse">
+            <div class="card-header px-4" id="FAQHeadingSix">
+              <div class="collapsed" data-toggle="collapse" data-target="#FAQSix" aria-expanded="false" aria-controls="FAQSix" role="button">
+                <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                  I am an existing Acupuncture patient, why would I book for a Virtual Acupuncture Consultation?
+                  <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                </h3>
+              </div>
+            </div>
+            <div id="FAQSix" class="collapse" aria-labelledby="FAQHeadingSix" data-parent="#FAQCollapse">
+              <div class="card-body px-4">
+                We currently have two new and amazing acupuncturists who are very passionate in helping people improve their lives in a very wholesome way. This is a great way to meet our new practitioners and learn how you can achieve better health from your own home!<br><br>
 
                 As this is a challenging time for everyone, our acupuncturists are offering free advice on how to boost your immune system, relieve a cold with herbs and nutrition, decrease stress and how to stay healthy during the pandemic.<br><br>
 
@@ -543,11 +583,11 @@
   <!-- ========== END MAIN ========== -->
 
   <!-- ========== FOOTER ========== -->
-  <?php include('includes/footer.php') ?>
+  <?php include('../includes/footer.php') ?>
   <!-- ========== END FOOTER ========== -->
 
   <!-- Common Footer -->
-  <?php include('includes/common-footer.php') ?>
+  <?php include('../includes/common-footer.php') ?>
   <!-- End Common Footer -->
 
 </body>

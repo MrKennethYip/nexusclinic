@@ -178,7 +178,7 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           NEXUS is closed until further notice! <a class="text-white" href="./telehealth"><u>Click Here</u></a> to learn about our Telehealth Services.
+           NEXUS is closed until further notice! <a class="text-white" href="service/telehealth"><u>Click Here</u></a> to learn about our Telehealth Services.
         </span>
       </div>
     </div>
@@ -923,7 +923,7 @@
                 <p>Sincerely,<br> Team Nexus</p>
           </div>
           <div class="text-center u-space-1-bottom">
-              <a class="btn btn-primary u-btn-primary u-btn-wide transition-3d-hover" href="./telehealth">Learn More<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
+              <a class="btn btn-primary u-btn-primary u-btn-wide transition-3d-hover" href="service/telehealth">Learn More<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
           </div>
         </div>
 
