@@ -186,7 +186,7 @@
     <div style="border-bottom: 2px solid #898A8D">
     <div class="container u-space-2-top">
       <!-- Title -->
-      <h2 class="text-dark font-weight-normal u-space-1-bottom"><span class="font-weight-bold">What to Expect in Your Chiropractic Appointment?<br></span></h2>
+      <h2 class="text-dark font-weight-normal u-space-1-bottom"><span class="font-weight-bold">What to Expect for Your Initial Chiropractic Appointment?<br></span></h2>
       <!-- End Title -->
     </div>
 
