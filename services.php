@@ -86,7 +86,7 @@
                   <h2 class="text-primary"> 
                     <span class="font-weight-bold">Virtual Telehealth</span>
                   </h2>
-                  <p>Telehealth is the use of technology to provide real-time remote access to healthcare order. It complies with all regulations of the College of Physiotherapists of Ontario and the College of Chiropractors of Ontario. Available through <strong>April 18 (Free)</strong>.</p><br>
+                  <p>Telehealth is the use of technology to provide real-time remote access to healthcare order. It complies with all regulations of the College of Physiotherapists of Ontario and the College of Chiropractors of Ontario.</p><br>
 
                   <p><strong>Existing Patients:</strong> Physio, Chiro and Osteo Virtual Follow Up</p>
 

@@ -46,7 +46,7 @@
 
     <!-- Telehealth Intro Section -->
     <div class="container u-space-2">  
-      <h4>We are currently offering our <strong class="text-primary"><u>existing patients</u></strong> complimentary <strong class="text-primary"><u>Virtual Telehealth Sessions</u></strong>  with our Chiropractors, Physiotherapist, Osteopaths and Acupuncturists until <strong class="text-primary"><u> April 18th</u></strong>.<br><br> These sessions can support you to continue your health journey in the comfort of your home and help decrease stress during these challenging times.</h4>
+      <h4>We are currently offering our <strong class="text-primary"><u>existing patients</u></strong> $20 OFF our <strong class="text-primary"><u>Virtual Telehealth Sessions</u></strong> with our Chiropractors, Physiotherapist, Osteopaths and Acupuncturists while our clinic is closed due to COVID-19.<br><br> These sessions can support you to continue your health journey in the comfort of your home and help decrease stress during these challenging times.</h4>
     </div>
     <!-- End Telehealth Intro Section -->
 
@@ -191,6 +191,154 @@
     </div>
     <!-- Service Item End -->
     </div>
+
+    <!-- Hero Section -->
+    <div class="position-relative">
+      <div class="u-bg-img-hero-bottom" style="background-color:#FFFFFF; border-bottom: 1px solid #898A8D">
+        <div class="container" style="background:url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:100% 100%;">
+
+          <!-- Pricing 1 Section -->
+          <div class="container">
+            <!-- Conditions Section -->
+            <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-2-bottom">
+
+              <!-- Friends List -->
+              <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
+                <div class="card-body p-3">
+                  <div class="text-center">
+                    <div class="media-body p-1">
+                      <h2 class="p-1" style="color:#002A3A;">
+                        <strong class="font-weight-bold text-white">CHIROPRACTIC</strong>
+                      </h2>
+                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                      <!-- Content -->
+                      <div class="u-space-1-top">
+                        <ul class="list-unstyled">
+                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <del>$65</del> <strong>($45)</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <del>$80</del> <strong>($60)</strong></li>
+                        </ul>
+                      </div>
+                      <!-- End Content --> 
+                    </div>
+                  </div>
+
+                  <HR>
+
+                  <div class="media-body p-3 text-center">
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Chiro<span class="fa fa-angle-right ml-2"></span></button></a>
+                  </div>
+
+                </div>
+              </div>
+              <!-- End Friends List -->
+
+              <!-- Friends List -->
+              <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
+                <div class="card-body p-3">
+                  <div class="text-center">
+                    <div class="media-body p-1">
+                      <h2 class="p-1" style="color:#002A3A;">
+                        <strong class="font-weight-bold text-white">PHYSIOTHERAPY</strong>
+                      </h2>
+                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                      <!-- Content -->
+                      <div class="u-space-1-top">
+                        <ul class="list-unstyled">
+                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <del>$65</del> <strong>($45)</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <del>$80</del> <strong>($60)</strong></li>
+                        </ul>
+                      </div>
+                      <!-- End Content --> 
+                    </div>
+                  </div>
+
+                  <HR>
+
+                  <div class="media-body p-3 text-center">
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Physio<span class="fa fa-angle-right ml-2"></span></button></a>
+                  </div>
+
+                </div>
+              </div>
+              <!-- End Friends List -->
+
+              <!-- Friends List -->
+              <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
+                <div class="card-body p-3">
+                  <div class="text-center">
+                    <div class="media-body p-1">
+                      <h2 class="p-1" style="color:#002A3A;">
+                        <strong class="font-weight-bold text-white">OSTEOPATH</strong>
+                      </h2>
+                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                      <!-- Content -->
+                      <div class="u-space-1-top">
+                        <ul class="list-unstyled">
+                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <del>$65</del> <strong>($45)</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <del>$80</del> <strong>($60)</strong></li>
+                        </ul>
+                      </div>
+                      <!-- End Content --> 
+                    </div>
+                  </div>
+
+                  <HR>
+
+                  <div class="media-body p-3 text-center">
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Osteopath<span class="fa fa-angle-right ml-2"></span></button></a>
+                  </div>
+
+                </div>
+              </div>
+              <!-- End Friends List -->
+
+            </div>
+          </div>
+          <!-- End Pricing 1 Section -->
+
+          <!-- Pricing 1 Section -->
+          <div class="container">
+            <!-- Conditions Section -->
+            <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-2-bottom">
+
+              <!-- Friends List -->
+              <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
+                <div class="card-body p-3">
+                  <div class="text-center">
+                    <div class="media-body p-1">
+                      <h2 class="p-1" style="color:#002A3A;">
+                        <strong class="font-weight-bold text-white">ACUPUNCTURE</strong>
+                      </h2>
+                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                      <!-- Content -->
+                      <div class="u-space-1-top">
+                        <ul class="list-unstyled">
+                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Appointment - <strong>FREE</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                        </ul>
+                      </div>
+                      <!-- End Content --> 
+                    </div>
+                  </div>
+
+                  <HR>
+
+                  <div class="media-body p-3 text-center">
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Acupuncture<span class="fa fa-angle-right ml-2"></span></button></a>
+                  </div>
+
+                </div>
+              </div>
+              <!-- End Friends List -->
+
+            </div>
+          </div>
+          <!-- End Pricing 1 Section -->
+
+        </div>
+      </div>
+    </div>
+    <!-- End Hero Section -->
 
     <div style="border-top: 1px solid #898A8D">
     <!-- Portfolio 1 Section -->
@@ -491,24 +639,6 @@
                 As this is a challenging time for everyone, our acupuncturists are offering free advice on how to boost your immune system, relieve a cold with herbs and nutrition, decrease stress and how to stay healthy during the pandemic.<br><br>
 
                 We currently do not offer follow-up sessions with our new acupuncturists because they have not completed a full assessment with you, thus cannot give you a comprehensive recommendation based on your health needs.
-              </div>
-            </div>
-          </div>
-          <!-- End Card -->
-
-          <!-- Card -->
-          <div class="card mb-3 u-card-collapse">
-            <div class="card-header px-4" id="FAQHeadingTwo">
-              <div class="collapsed" data-toggle="collapse" data-target="#FAQTwo" aria-expanded="false" aria-controls="FAQTwo" role="button">
-                <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                  How much does it cost?
-                  <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                </h3>
-              </div>
-            </div>
-            <div id="FAQTwo" class="collapse" aria-labelledby="FAQHeadingTwo" data-parent="#FAQCollapse">
-              <div class="card-body px-4">
-                Our new <strong>Trial for Nexus Virtual Appointments are FREE until April 18th</strong>. It is a service setup to support our patients during the COVID-19 crisis when our clinic is closed.
               </div>
             </div>
           </div>
