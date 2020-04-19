@@ -54,8 +54,8 @@
                           <li class="u-pricing-v2__list-item py-1">20 Min Follow-Up - <strong>$65</strong></li>
                           <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$80</strong></li>
                           <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <del>$65</del> <strong>($45)</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <del>$80</del> <strong>($60)</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <strong>$65</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <strong>$80</strong></li>
                         </ul>
                       </div>
                       <!-- End Content -->
@@ -166,8 +166,9 @@
                           <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$80</strong></li>
                           <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$100</strong></li>
                           <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <del>$65</del> <strong>($45)</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <del>$80</del> <strong>($60)</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Appointment - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <strong>$65</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <strong>$80</strong></li>
                         </ul>
                       </div>
                       <!-- End Content -->  
@@ -200,7 +201,9 @@
                           <li class="u-pricing-v2__list-item py-1">Initial Appointment - <strong>$120</strong></li>
                           <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$90</strong></li>
                           <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
-                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Appointment - <strong>FREE</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 15 Min Consultation - <strong>FREE</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
@@ -237,6 +240,7 @@
                           <li class="small text-muted py-1"><strong>Ask your insurance provider the following:</strong></li>
                           <li class="small text-muted py-1">(1) Do I need a medical prescription for reimbursement? (2) Can a chiropractor dispense my orthotics?</li>
                           <li class="small text-muted py-1"><em>**Orthotics do not qualify for direct billing**</em></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -279,8 +283,9 @@
                           <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$100</strong></li>
                           <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$120</strong></li>
                           <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <del>$65</del> <strong>($45)</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <del>$80</del> <strong>($60)</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Appointment - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <strong>$65</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 45 min Follow-Up - <strong>$100</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="small text-muted py-1"><strong>**Osteopathy does not qualify for <br>direct billing**</strong><br><br>Please refer to your insurance provider for coverage. Please note that we are unable to accept insurance coverage from <u>Great West Life</u> and <u>Group Health</u> at this time.</li>
                         </ul>
@@ -316,6 +321,7 @@
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$100</strong></li>
                           <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>

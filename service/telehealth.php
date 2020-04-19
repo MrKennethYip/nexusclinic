@@ -46,7 +46,7 @@
 
     <!-- Telehealth Intro Section -->
     <div class="container u-space-2">  
-      <h4>We are currently offering our <strong class="text-primary"><u>existing patients</u></strong> $20 OFF our <strong class="text-primary"><u>Virtual Telehealth Sessions</u></strong> with our Chiropractors, Physiotherapist, Osteopaths and Acupuncturists while our clinic is closed due to COVID-19.<br><br> These sessions can support you to continue your health journey in the comfort of your home and help decrease stress during these challenging times.</h4>
+      <h4>We are currently offering <strong class="text-primary"><u>Virtual Telehealth Sessions</u></strong> with our Chiropractors, Physiotherapists, Osteopaths and Acupuncturists.<br><br> These sessions can support you to continue your health journey in the comfort of your home and help decrease stress during these challenging times.</h4>
     </div>
     <!-- End Telehealth Intro Section -->
 
@@ -90,18 +90,6 @@
     </div>
     <!-- What is Telehealth End -->
 
-    <!-- Who is Eligible Start -->
-    <div style="border-top: 1px solid #898A8D">
-      <div class="container u-space-1">
-        <h2 class="text-dark font-weight-normal u-space-1-bottom"><span class="font-weight-bold">Who is Eligible?</span></h2>
-        <p><strong>Virtual Follow-Up</strong> appointments are only for existing patients of rehab practitioners offering Telehealth services (full list below).</p>
-
-        <p><strong>Virtual Acupuncture Consultations</strong> are available for both NEW and EXISTING patients.</p>
-
-      </div>
-    </div>
-    <!-- Who is Eligible Nexus -->
-
     <div style="border-top: 1px solid #898A8D">
     <div class="container u-space-2-top">
       <!-- Title -->
@@ -117,12 +105,12 @@
           <div class="col-lg-7 mb-9 mb-lg-0">
             <div class="pr-lg-4 mb-7">
               <h2 class="text-primary"> 
-                <span class="font-weight-bold">Virtual Follow-Up Appointments</span>
+                <span class="font-weight-bold">Virtual Telehealth Appointments</span>
               </h2>
-              <p>​Virtual Follow-Up Appointments are only with Chiropractors, Physiotherapists and Osteopaths.</p>
-              <p>These appointments are <strong>20 minutes</strong> long and will be video-based.</p>
-              <p>During these sessions, your practitioner will be following up with you on your progress from your existing treatment plan and may recommend necessary self-care routines and exercises, advance your exercise progression and/or guide you through your exercises.</p>
-              <p>Your practitioner may also provide you with additional home care to help increase your recovery.</p><br>
+              <p>During virtual Telehealth appointments, your practitioner will be following up with you on your progress from your existing treatment plan and may recommend necessary self-care routines and exercises, advance your exercise progression and/or guide you through your exercises.</p>
+              <p>Your practitioner may also provide you with additional home care to help increase your recovery.</p>
+              <p>* <strong>Chiropractic appointments</strong> must be with your existing practitioner and is for Follow-Up treatments only.</p>
+              <p>* Please note that Telehealth sessions has its limitations in physical assessment and testing.</p><br>
 
             </div>
           </div>
@@ -214,8 +202,9 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <del>$65</del> <strong>($45)</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <del>$80</del> <strong>($60)</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <strong>$65</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <strong>$80</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -244,8 +233,9 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <del>$65</del> <strong>($45)</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <del>$80</del> <strong>($60)</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Appointment - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <strong>$65</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <strong>$80</strong></li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -274,8 +264,9 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <del>$65</del> <strong>($45)</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <del>$80</del> <strong>($60)</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Appointment - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <strong>$65</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 45 min Follow-Up - <strong>$100</strong></li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -313,7 +304,8 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Appointment - <strong>FREE</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 15 Min Consultation - <strong>FREE</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
@@ -510,7 +502,7 @@
                   <div class="text-black">
         
                     <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle"><span class="u-icon__inner font-weight-bold">1</span></span>
-                    &nbsp;Book your virtual appointments with your current practitioner on our website.<br><br>
+                    &nbsp;Book your virtual appointments with your practitioner on our website.<br><br>
 
                     <span class="u-icon u-icon-primary--air u-icon--sm rounded-circle"><span class="u-icon__inner font-weight-bold">2</span></span>
                     &nbsp;Your appointment request will be screened for eligibility for Telehealth appointments.<br><br></span>
@@ -574,31 +566,11 @@
             </div>
             <div id="FAQZero" class="collapse" aria-labelledby="FAQHeadingZero" data-parent="#FAQCollapse">
               <div class="card-body px-4">
-                At this time, not all of Nexus Massage & Rehab practitioners are offering telehealth services. If your practitioner who you normally see is not available, you will not be eligible for the Virtual Follow-Up Appointments.<br><br>
+                At this time, not all of Nexus Massage & Rehab practitioners are offering telehealth services.<br><br>
+                <strong>Chiropractic Service:</strong> If your practitioner who you normally see is not available, you will not be eligible for the Virtual Follow-Up Appointments due to Chiropractic College restrictions.<br><br>
+                <strong>Physiotherapy Service:</strong> If your practitioner who you normally see is not available, you can book in to see another physiotherapist.<br><br>  
                 
                 If you have specific questions for your practitioner, please email your practitioner about any specific concerns or issues.
-              </div>
-            </div>
-          </div>
-          <!-- End Card -->
-
-          <!-- Card -->
-          <div class="card mb-3 u-card-collapse">
-            <div class="card-header px-4" id="FAQHeadingOne">
-              <div class="collapsed" data-toggle="collapse" data-target="#FAQOne" aria-expanded="false" aria-controls="FAQOne" role="button">
-                <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                  Can I book a Virtual Follow-Up Appointment with a practitioner I have not seen previously?
-                  <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                </h3>
-              </div>
-            </div>
-            <div id="FAQOne" class="collapse" aria-labelledby="FAQHeadingOne" data-parent="#FAQCollapse">
-              <div class="card-body px-4">
-                No, our Virtual Follow-Up appointments are for patients who have had an Initial Assessment with a specific practitioner in order to encourage selfcare at home and continue on-going treatment plans.<br><br>
-
-                If you have not had an Initial Appointment with a practitioner who is offering Telehealth services in the past, you would not be eligible for Virtual Follow-Up sessions.<br><br>
-
-                All rehab services at Nexus Massage & Rehab requires a proper Initial Assessment session where we perform a full assessment prior to providing a treatment plan. At this time, we are not offering Initial Assessments through Telehealth.
               </div>
             </div>
           </div>
@@ -656,10 +628,43 @@
             </div>
             <div id="FAQThree" class="collapse" aria-labelledby="FAQHeadingThree" data-parent="#FAQCollapse">
               <div class="card-body px-4">
-                You can book online through our website and select: <strong>Virtual Follow-Up</strong> or <strong>Virtual Acupuncture Consultation</strong>.<br><br>
+                You can book your virtual appointments online through our website.<br><br>
+              </div>
+            </div>
+          </div>
+          <!-- End Card -->
 
-                Please book with practitioners who you are <strong><u>currently receiving treatment</u></strong> with as they will be the only ones who will able to continue their existing treatment plan with you.
+          <!-- Card -->
+          <div class="card mb-3 u-card-collapse">
+            <div class="card-header px-4" id="FAQHeadingOne">
+              <div class="collapsed" data-toggle="collapse" data-target="#FAQOne" aria-expanded="false" aria-controls="FAQOne" role="button">
+                <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                  What payment methods do you accept?
+                  <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                </h3>
+              </div>
+            </div>
+            <div id="FAQOne" class="collapse" aria-labelledby="FAQHeadingOne" data-parent="#FAQCollapse">
+              <div class="card-body px-4">
+                We accept credit card payments and e-transfers. An invoice will be sent to you via email for credit card payment collection. If you are unable to pay with credit card, you can pay with e-transfer. 
+              </div>
+            </div>
+          </div>
+          <!-- End Card -->
 
+          <!-- Card -->
+          <div class="card mb-3 u-card-collapse">
+            <div class="card-header px-4" id="FAQHeadingFive">
+              <div class="collapsed" data-toggle="collapse" data-target="#FAQFive" aria-expanded="false" aria-controls="FAQFive" role="button">
+                <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                  Do you offer Direct Billing for Telehealth?
+                  <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                </h3>
+              </div>
+            </div>
+            <div id="FAQFive" class="collapse" aria-labelledby="FAQHeadingFive" data-parent="#FAQCollapse">
+              <div class="card-body px-4">
+                Not all insurance providers currently accept Telehealth billings. We can only offer direct billing to insurance providers who do accept Telehealth. Please call your insurance provider to confirm your coverage prior to making an appointment. 
               </div>
             </div>
           </div>

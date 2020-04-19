@@ -910,11 +910,11 @@
         <!-- Modal content-->
         <div class="modal-content">
           <div class="modal-header ">
-            <h4 class="modal-title">COVID-19 Temporary Closure (4/15)</h4>
+            <h4 class="modal-title">COVID-19 Temporary Closure (4/17)</h4>
             <button type="button" class="close" data-dismiss="modal">&times;</button>
           </div>
           <div class="modal-body text-center">
-                <p>Our clinic is currently closed until further notice due to the unprecedented events of COVID-19. At this time, we will be offering <strong>Virtual Telehealth Appointments</strong> with our existing Chiropractic, Physiotherapist, and Osteopathic patients. In addition, we are also offering <strong>Free Virtual Acupuncture Consultations</strong> for all new and existing patients.</p>
+                <p>Our clinic is currently closed until further notice due to the unprecedented events of COVID-19. At this time, we will be offering <strong>Virtual Telehealth Appointments</strong> for Chiropractic, Physiotherapist, and Osteopathic patients. In addition, we are also offering <strong>Free Virtual Acupuncture Consultations</strong> for all new and existing patients.</p>
 
                 <p>These sessions can support you to continue your health journey in the comfort of your home and help decrease stress during the current situation. Unfortunately we are unable to offer massage services at this time. We will keep you posted on all updates and changes on our website.</p> 
 
