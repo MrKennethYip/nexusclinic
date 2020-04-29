@@ -54,6 +54,7 @@
                           <li class="u-pricing-v2__list-item py-1">20 Min Follow-Up - <strong>$65</strong></li>
                           <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$80</strong></li>
                           <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
+                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Appointment - <strong>$120</strong></li>
                           <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <strong>$65</strong></li>
                           <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <strong>$80</strong></li>
                         </ul>
@@ -90,6 +91,7 @@
                           <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$115 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$140 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$200 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -124,6 +126,7 @@
                           <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$160 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$185 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$260 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content -->

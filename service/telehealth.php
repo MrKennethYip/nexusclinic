@@ -109,7 +109,6 @@
               </h2>
               <p>During virtual Telehealth appointments, your practitioner will be following up with you on your progress from your existing treatment plan and may recommend necessary self-care routines and exercises, advance your exercise progression and/or guide you through your exercises.</p>
               <p>Your practitioner may also provide you with additional home care to help increase your recovery.</p>
-              <p>* <strong>Chiropractic appointments</strong> must be with your existing practitioner and is for Follow-Up treatments only.</p>
               <p>* Please note that Telehealth sessions has its limitations in physical assessment and testing.</p><br>
 
             </div>
@@ -202,9 +201,9 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
+                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Appointment - <strong>$120</strong></li>
                           <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <strong>$65</strong></li>
                           <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <strong>$80</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -567,8 +566,7 @@
             <div id="FAQZero" class="collapse" aria-labelledby="FAQHeadingZero" data-parent="#FAQCollapse">
               <div class="card-body px-4">
                 At this time, not all of Nexus Massage & Rehab practitioners are offering telehealth services.<br><br>
-                <strong>Chiropractic Service:</strong> If your practitioner who you normally see is not available, you will not be eligible for the Virtual Follow-Up Appointments due to Chiropractic College restrictions.<br><br>
-                <strong>Physiotherapy Service:</strong> If your practitioner who you normally see is not available, you can book in to see another physiotherapist.<br><br>  
+                <strong>Chiropractic & Physiotherapy Service:</strong> If your practitioner who you normally see is not available, you can book in to see another physiotherapist or chiropractor.<br><br>
                 
                 If you have specific questions for your practitioner, please email your practitioner about any specific concerns or issues.
               </div>
