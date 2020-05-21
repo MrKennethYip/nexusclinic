@@ -629,15 +629,15 @@
 
           <!-- Item -->
           <div class="cbp-item physio">
-            <a class="cbp-caption" href="../profiles/pierre_garnier">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/pierre_garnier.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/pierre_garnier.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/pierre_garnier.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/pierre_garnier.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Pierre Garnier - Physiotherapist">
+            <a class="cbp-caption" href="../profiles/victoria_kwong">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/victoria_kwong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Victoria Kwong - Physiotherapist">
             </a>
               <div class="py-3">
-                <a href="../profiles/pierre_garnier">
-                  <h4 class="h6 text-dark mb-0">Pierre Garnier</h4>
+                <a href="../profiles/victoria_kwong">
+                  <h4 class="h6 text-dark mb-0">Victoria Kwong</h4>
                 </a>
                 <p class="small mb-0">
-                   I am really interested in neck and low back pain. As a therapist, I have two main objectives: ﬁrst is to improve my patient’s condition during the sessions and second is to give the best advice so my patients can keep improving his mobility on their own between sessions.<br>
+                   Your goals, are my goals too! I will help you determine the ‘bigger picture goal’ for your treatment, break down your overarching goal into measurable milestones and help you overcome obstacles. In this way, I enjoy going above and beyond to meet and exceed your expectations for physiotherapy.<br>
                 </p>
               </div>
           </div>
@@ -649,27 +649,11 @@
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yathaven_gopalasingam.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yathaven_gopalasingam.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yathaven_gopalasingam.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/yathaven_gopalasingam.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Yathaven Gopalasingam - Physiotherapist">
             </a>
               <div class="py-3">
-                <a href="../profiles/pierre_garnier">
+                <a href="../profiles/yathaven_gopalasingam">
                   <h4 class="h6 text-dark mb-0">Yathaven Gopalasingam</h4>
                 </a>
                 <p class="small mb-0">
                    My experience in various settings, including critical care, transplant and stroke units has helped me create a patient-first approach to physiotherapy. My individualized treatment plans work around you, as the patient, and your short-term and long-term goals. I use a holistic approach and work with the you to achieve your goals.<br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
-          <div class="cbp-item physio">
-            <a class="cbp-caption" href="../profiles/victoria_kwong">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/victoria_kwong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Victoria Kwong - Physiotherapist">
-            </a>
-              <div class="py-3">
-                <a href="../profiles/pierre_garnier">
-                  <h4 class="h6 text-dark mb-0">Victoria Kwong</h4>
-                </a>
-                <p class="small mb-0">
-                   Your goals, are my goals too! I will help you determine the ‘bigger picture goal’ for your treatment, break down your overarching goal into measurable milestones and help you overcome obstacles. In this way, I enjoy going above and beyond to meet and exceed your expectations for physiotherapy.<br>
                 </p>
               </div>
           </div>
