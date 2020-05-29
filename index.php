@@ -178,7 +178,7 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           NEXUS is closed until further notice! <a class="text-white" href="service/telehealth"><u>Click Here</u></a> to learn about our Telehealth Services.
+           We are currently preparing our space & team for re-opening! Hope to see everyone soon!
         </span>
       </div>
     </div>
@@ -191,19 +191,17 @@
 
           <div class="mb-4">
             <h2 class="text-primary">
-              <strong class="font-weight-bold">COVID-19 Temporary Closure</strong>
-              <p>Updated April 2, 2020</p>
+              <strong class="font-weight-bold">COVID-19 UPDATE</strong>
+              <p>May 27, 2020</p>
             </h2>
           </div>
         </div>
 
-        <p>In light of the changing events with Covid-19 and for the safety of the public and our staff, Nexus Massage & Rehab will be closing our doors <strong>until further notice</strong>.</p>
+        <p>We have been given the directive to gradually return to work and are working diligently on preparing the clinic to ensure all safeguards and protocols are in place for everyone’s safety.</p>
 
-        <p>Your health and safety is our number one priority and it is our social responsibility as healthcare professionals to limit the spread of the virus. We will be monitoring updates from the Ministry of Health, the World Health Organization, and the Government of Ontario, and will keep you posted on any changes.</p> 
+        <p>We are excited to be able to continue our in-clinic treatments with you and help get you back on track with your health goals. Our re-opening date will be posted here, in our newsletters (sign up below) and on our social media. Thank you for all your support during our closure.</p> 
 
-        <p>We appreciate your understanding and your support and hope you all stay safe through this challenging time. We know will get through this safely together!</p>
-
-        <p>Sincerely,<br> Team Nexus</p>
+        <p>We look forward to seeing you all again soon!</p>
 
       </div>
     </div>
@@ -945,6 +943,7 @@
       });
   </script>
 
+  <!-- 
   <script>
   $( document ).ready(function() {
         $('#myModal').modal({show:true});
@@ -957,6 +956,7 @@
     }
   });
   </script>
+  -->
 
   <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtt1z99GtrHZt_IcnK-wryNsQ30A112J0&callback">
