@@ -178,7 +178,7 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           We are currently preparing our space & team for re-opening! Hope to see everyone soon!
+           We will be reopening on June 4th, with additional health protols in place!
         </span>
       </div>
     </div>
@@ -192,16 +192,28 @@
           <div class="mb-4">
             <h2 class="text-primary">
               <strong class="font-weight-bold">COVID-19 UPDATE</strong>
-              <p>May 27, 2020</p>
+              <p>May 31, 2020</p>
             </h2>
           </div>
         </div>
 
-        <p>We have been given the directive to gradually return to work and are working diligently on preparing the clinic to ensure all safeguards and protocols are in place for everyone’s safety.</p>
+        <p>We are excited to be able to continue our in-clinic treatments with you and help get you back on track with your health goals. We have implemented new changes in the clinic to ensure everyone’s safety.</p>
 
-        <p>We are excited to be able to continue our in-clinic treatments with you and help get you back on track with your health goals. Our re-opening date will be posted here, in our newsletters (sign up below) and on our social media. Thank you for all your support during our closure.</p> 
+        <ul>
+          <li>Plexiglass installed</li>
+          <li>Increased sanitization of all high use areas</li>
+          <li>Masks are worn by everyone at the clinic (if you don’t have one you can purchase one for $2)</li>
+          <li>Washing hands before and after coming to the clinic</li>
+          <li>Sanitization of each room after each patient</li>
+          <li>Arriving a few minutes early to do a pre-screening check before your treatment</li>
+          <li>And much more!</li>
+        </ul> 
 
-        <p>We look forward to seeing you all again soon!</p>
+        <p>We will be posting all COVID policies on the website soon! Thank you for all your support during the pandemic.</p>
+
+        <p>We look forward seeing you!</p>
+
+        <p>Team Nexus</p>
 
       </div>
     </div>
