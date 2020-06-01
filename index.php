@@ -178,7 +178,7 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           We will be reopening on June 4th, with additional health protols in place!
+           We will be reopening on June 4th, with additional health protocols in place!
         </span>
       </div>
     </div>
@@ -211,7 +211,7 @@
 
         <p>We will be posting all COVID policies on the website soon! Thank you for all your support during the pandemic.</p>
 
-        <p>We look forward seeing you!</p>
+        <p>We look forward to seeing you!</p>
 
         <p>Team Nexus</p>
 
