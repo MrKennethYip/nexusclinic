@@ -178,14 +178,14 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           We will be reopening on June 4th, with additional health protocols in place!
+           The clinic will reopen on June 4th with additional safety protocols - <a class="text-white" href="COVID-19"><u>Learn More</u></a>!
         </span>
       </div>
     </div>
     <!-- End Red Promo Banner -->
 
     <!-- How did Nexus Massage & Rehab Start -->
-    <div class="position-relative" style="border: 2px solid #898A8D">
+    <div class="position-relative" style="border: 1px solid #898A8D">
       <div class="container u-space-1">
         <div class="w-md-80 w-lg-50 text-center mx-auto">
 

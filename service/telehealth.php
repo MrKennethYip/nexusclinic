@@ -610,7 +610,7 @@
             </div>
             <div id="FAQThree" class="collapse" aria-labelledby="FAQHeadingThree" data-parent="#FAQCollapse">
               <div class="card-body px-4">
-                You can book your virtual appointments online through our website.<br><br>
+                You can book your virtual appointments online through our website.
               </div>
             </div>
           </div>
