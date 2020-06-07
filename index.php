@@ -178,7 +178,7 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           The clinic will reopen on June 4th with additional safety protocols - <a class="text-white" href="COVID-19"><u>Learn More</u></a>!
+           Nexus Clinic is now <u>OPEN</u> with additional safety protocols in place!<span class="ml-5"><a class="btn btn-light transition-3d-hover btn-sml" href="COVID-19" role="button">Learn More <span class="fa fa-angle-right font-size-18 ml-2"></span></a>
         </span>
       </div>
     </div>
@@ -192,8 +192,10 @@
           <div class="mb-4">
             <h2 class="text-primary">
               <strong class="font-weight-bold">COVID-19 UPDATE</strong>
-              <p>May 31, 2020</p>
             </h2>
+            <h5>
+              <p>May 31, 2020</p>
+            </h5>
           </div>
         </div>
 
@@ -209,7 +211,7 @@
           <li>And much more!</li>
         </ul> 
 
-        <p>We will be posting all COVID policies on the website soon! Thank you for all your support during the pandemic.</p>
+        <p>Thank you for all your support during the pandemic.</p>
 
         <p>We look forward to seeing you!</p>
 

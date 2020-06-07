@@ -473,7 +473,7 @@
 
     <div style="border-top: 1px solid #898A8D;">
     <!-- Services FAQ Section -->
-      <div class="container u-space-1">
+      <div class="container u-space-2">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-auto mb-6">
           <h2 class="text-primary"><span class="font-weight-bold">Frequently Answered Questions</span></h2>
