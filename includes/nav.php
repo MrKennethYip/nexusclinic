@@ -108,7 +108,7 @@
             <!-- End Community - Link -->
 
             <!-- Button -->
-            <li class="nav-item d-none d-md-inline-block pl-3 pr-0">
+            <li class="nav-item">
               <a class="btn btn-sm btn-danger u-btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('menuBar');">
                 BOOK NOW
               </a>

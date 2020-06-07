@@ -3131,6 +3131,9 @@ input[type="button"].btn-block {
   white-space: nowrap;
   background-color: transparent;
   border: 0;
+  border-left-color: #1FC2DE;
+  border-left-style: solid;
+  border-left-width: 0.1875rem;
 }
 
 .dropdown-item:hover, .dropdown-item:focus {

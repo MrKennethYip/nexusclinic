@@ -1354,7 +1354,7 @@ svg {
 .navbar-expand .navbar-nav .u-header__sub-menu {
   border-top-width: 0.1875rem;
   border-top-style: solid;
-  border-top-color: #1FC2DE;
+  border-top-color: #FFFFFF;
   border-bottom-right-radius: 0.25rem;
   border-bottom-left-radius: 0.25rem;
   box-shadow: 0 8px 20px rgba(55, 125, 255, 0.075);
@@ -1408,7 +1408,7 @@ svg {
   .navbar-expand-sm .navbar-nav .u-header__sub-menu {
     border-top-width: 0.1875rem;
     border-top-style: solid;
-    border-top-color: #1FC2DE;
+    border-top-color: #FFFFFF;
     border-bottom-right-radius: 0.25rem;
     border-bottom-left-radius: 0.25rem;
     box-shadow: 0 8px 20px rgba(55, 125, 255, 0.075);
@@ -1458,7 +1458,7 @@ svg {
   .navbar-expand-md .navbar-nav .u-header__sub-menu {
     border-top-width: 0.1875rem;
     border-top-style: solid;
-    border-top-color: #1FC2DE;
+    border-top-color: #FFFFFF;
     border-bottom-right-radius: 0.25rem;
     border-bottom-left-radius: 0.25rem;
     box-shadow: 0 8px 20px rgba(55, 125, 255, 0.075);
@@ -1508,7 +1508,7 @@ svg {
   .navbar-expand-lg .navbar-nav .u-header__sub-menu {
     border-top-width: 0.1875rem;
     border-top-style: solid;
-    border-top-color: #1FC2DE;
+    border-top-color: #FFFFFF;
     border-bottom-right-radius: 0.25rem;
     border-bottom-left-radius: 0.25rem;
     box-shadow: 0 8px 20px rgba(55, 125, 255, 0.075);
@@ -1558,7 +1558,7 @@ svg {
   .navbar-expand-xl .navbar-nav .u-header__sub-menu {
     border-top-width: 0.1875rem;
     border-top-style: solid;
-    border-top-color: #1FC2DE;
+    border-top-color: #FFFFFF;
     border-bottom-right-radius: 0.25rem;
     border-bottom-left-radius: 0.25rem;
     box-shadow: 0 8px 20px rgba(55, 125, 255, 0.075);
@@ -1606,7 +1606,7 @@ svg {
   .navbar-expand-sm .u-header__sub-menu {
     border-left-width: 0.1875rem;
     border-left-style: solid;
-    border-left-color: #1FC2DE;
+    border-left-color: #FFFFFF;
   }
   .navbar-expand-sm .u-header__sub-menu .hs-has-sub-menu {
     padding-left: 1.5rem;
@@ -1642,7 +1642,7 @@ svg {
   .navbar-expand-md .u-header__sub-menu {
     border-left-width: 0.1875rem;
     border-left-style: solid;
-    border-left-color: #1FC2DE;
+    border-left-color: #FFFFFF;
   }
   .navbar-expand-md .u-header__sub-menu .hs-has-sub-menu {
     padding-left: 1.5rem;
@@ -1678,7 +1678,7 @@ svg {
   .navbar-expand-lg .u-header__sub-menu {
     border-left-width: 0.1875rem;
     border-left-style: solid;
-    border-left-color: #1FC2DE;
+    border-left-color: #FFFFFF;
   }
   .navbar-expand-lg .u-header__sub-menu .hs-has-sub-menu {
     padding-left: 1.5rem;
@@ -1714,7 +1714,7 @@ svg {
   .navbar-expand-xl .u-header__sub-menu {
     border-left-width: 0.1875rem;
     border-left-style: solid;
-    border-left-color: #1FC2DE;
+    border-left-color: #FFFFFF;
   }
   .navbar-expand-xl .u-header__sub-menu .hs-has-sub-menu {
     padding-left: 1.5rem;
@@ -1753,7 +1753,7 @@ svg {
 .navbar-expand .u-header__sub-menu {
   border-left-width: 0.1875rem;
   border-left-style: solid;
-  border-left-color: #1FC2DE;
+  border-left-color: #FFFFFF;
 }
 
 .navbar-expand .u-header__sub-menu .hs-has-sub-menu {
