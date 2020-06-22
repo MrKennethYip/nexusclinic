@@ -53,7 +53,7 @@
               <h2 class="text-dark"> 
                 <span class="font-weight-bold">Our Mission</span>
               </h2><br>
-              <h3><em>To <strong>optimize</strong> the <strong>health and performance</strong> of <strong>busy, working professionals</strong> by providing a <strong>personalized</strong> and <strong>results-driven</strong> approach to <strong>achieving their health goals</strong>.</em></h3>
+              <h3><em>To inspire and enhance the lives of health focused professionals by optimizing their performance through a results-driven approach.</em></h3>
             </div>
           </div>
 

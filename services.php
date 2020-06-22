@@ -130,7 +130,7 @@
               <h2 class="text-primary"> 
                 <span class="font-weight-bold">Registered Massage Therapy</span>
               </h2>
-              <p>Massage therapy can treat both acute and chronic conditions, optimizes health and well-being by acting on the muscular, nervous and circulatory systems. Treatments can help reduce or eliminate pain, improve joint mobility, circulation and reduce muscular tension.</p>
+              <p>With benefits ranging from pain relief, stress alleviation, increased joint mobility and heightened immune response, massage is a centuries-old technique based on the manipulation of soft tissue. Focused on the muscular, nervous and circulatory systems, Nexus therapists provide customized client-focused care during sessions to ensure we are working together to return clients to optimal health.</p>
 
               <a href="service/massage"><button type="button" class="btn btn-sm btn-block u-btn-primary--air u-btn-primary transition-3d-hover">Learn about Massage Therapy<span class="fa fa-angle-right ml-2"></span></button></a>
 
@@ -175,7 +175,7 @@
               <h2 class="text-primary"> 
                 <span class="font-weight-bold">Hot Stone Massage</span>
               </h2>
-              <p>Hot stone massage therapy promotes deeper muscle relaxation with the use of heated stones to massage the body, as well as being placed on key points of the spine. It helps increase blood flow and decreases muscle tension and pain.</p>
+              <p>Hot stone massage pairs traditional massage therapy with the use of smooth basalt stones that retain heat. Promoting muscle relaxation and increased blood flow, the heated stones are used by specially-trained Nexus therapists while massaging the body and placed on strategic points such as along the spine to increase the benefits of deep tissue work.</p>
 
               <a href="service/massage"><button type="button" class="btn btn-sm btn-block u-btn-primary--air u-btn-primary transition-3d-hover">Learn about Massage Therapy<span class="fa fa-angle-right ml-2"></span></button></a>
 
@@ -221,7 +221,7 @@
               <h2 class="text-primary"> 
                 <span class="font-weight-bold">Chiropractic</span>
               </h2>
-              <p>​Chiropractic care improves joint, neural and muscular health by assessing and targeting the root problem through manual adjustments and mobilizations. It is most effective for treating neuro-muscular injuries, reducing postural tension, restoring joint range of motion and decreasing pain.</p>
+              <p>​Nexus utilizes current evidence-based chiropractic methods to assist clients with neuro-muscular injury, postural tension, improved range of motion and pain reduction. After a thorough assessment, practitioners guide clients through a series of manual adjustments and mobilizations to address the root causes that are affecting joint, nerve and muscle health.</p>
 
               <a href="service/chiropractic"><button type="button" class="btn btn-sm btn-block u-btn-primary--air u-btn-primary transition-3d-hover">Learn about Chiropractic<span class="fa fa-angle-right ml-2"></span></button></a>
 
@@ -266,7 +266,7 @@
               <h2 class="text-primary"> 
                 <span class="font-weight-bold">Physiotherapy</span>
               </h2>
-              <p>Physiotherapy works with people to maximize their ability to move and function in their daily activities. It improves muscular and neural health by assessing and targeting the root problem through manual treatment and exercises. Physiotherapy is effective in increasing strength and co-ordination, improving cardio-respiratory functions, joint mobility and decreasing pain.</p>
+              <p>Physiotherapy treats muscular and neural health by combining manual physical therapy, strengthening and stretching exercises to facilitate ease in your daily activities. Nexus physiotherapists create custom treatment plans that match clients long-term goals for strength and conditioning, pain relief and increased mobility, and act as accountability partners in the journey to peak health.</p>
  
               <a href="service/physiotherapy"><button type="button" class="btn btn-sm btn-block u-btn-primary--air u-btn-primary transition-3d-hover">Learn about Physiotherapy<span class="fa fa-angle-right ml-2"></span></button></a>
 
@@ -311,7 +311,7 @@
               <h2 class="text-primary"> 
                 <span class="font-weight-bold">Acupuncture</span>
               </h2>
-              <p>Acupuncture treats various health conditions by inserting fine needles into a person's body with the aim of balancing their energy.  Acupuncture improves the body’s functions and promotes the natural self-healing process by stimulating specific anatomic sites - commonly referred to as acupuncture points, or acupoints. Acupuncture stimulates the nervous system, restore blood circulation to damaged tissues, alleviate nausea, headaches and pain.  Pressure, heat, or electrical stimulation may further enhance the effects.</p>
+              <p>Acupuncture promotes the body’s ability to heal itself by stimulating acupuncture points on the body that connect to our endocrine, immune, nervous, digestive and cardiovascular systems. During treatment, experienced practitioners use super-fine needles and at times pressure, heat or electrical stimulation. Treating a multitude of issues such as pain, sleep trouble, and digestion; acupuncture can help Nexus clients achieve a higher quality of life.</p>
 
               <a id="sidebarAccountInvoker" href="javascript:;" role="button" target="blank"
                  aria-controls="sidebarAcu"
@@ -368,7 +368,7 @@
               <h2 class="text-primary"> 
                 <span class="font-weight-bold">Osteopathy</span>
               </h2>
-              <p>Osteopathy is form of non-invasive manual therapy that works to maximize health across all systems of the body by treating the muscles, joints, spine as well as the central nervous system, lymphatic system and circulatory systems. Osteopaths look at the body as a whole function and focus on the root cause of the problem to bring your body back to balance. It is effective for treating postural alignment, muscle tension, arthritis, digestive and nervous issues and much more.</p>
+              <p>Osteopathy is an integrative manual therapy that works to align all components of the body including the nervous, lymphatic, and circulatory systems to restore health. At Nexus, osteopaths recognize clients' needs from a ‘whole body’ perspective and use various hands-on techniques to treat postural alignment, muscle tension, arthritis, digestive and nervous issues, among many others.</p>
 
               <a id="sidebarAccountInvoker" href="javascript:;" role="button" target="blank"
                  aria-controls="sidebarOsteo"
@@ -425,7 +425,7 @@
               <h2 class="text-primary"> 
                 <span class="font-weight-bold">Custom Orthotics</span>
               </h2>
-              <p>​Custom orthotics are designed to align the foot and ankle to the most anatomically efficient position to correct imbalances. Custom Orthotics are great for localized foot pain, bunions, hammer toes, arch/heel pain, leg/knee pain, and hip and back pain.<br><br>Ask our chiropractors for more information about custom orthotics today.</p>
+              <p>​Custom orthotics fit similar to a comfortable insole inside your footwear and lessen the stress and strains on your body by bringing your daily steps back into healthy balance and alignment. Ideal for clients experiencing foot pain, bunions, hammer toes, leg/knee pain, and hip/back pain.<br><br>Ask our chiropractors if custom orthotics may be right for you.</p>
 
               <a href="service/orthotics"><button type="button" class="btn btn-sm btn-block u-btn-primary--air u-btn-primary transition-3d-hover">Learn about Custom Orthotics<span class="fa fa-angle-right ml-2"></span></button></a>
 
