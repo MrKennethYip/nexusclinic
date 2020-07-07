@@ -60,14 +60,6 @@
             </li>
             <!-- End Services - Link -->
 
-            <!-- Telehealth - Link -->
-            <li class="nav-item">
-              <a class="nav-link u-header__nav-link font-weight-bold" href="../service/telehealth">
-                TELEHEALTH&nbsp;<span class="badge badge-success">New</span>
-              </a>
-            </li>
-            <!-- End Services - Link -->
-
             <!-- Pricing - Link -->
             <li class="nav-item">
               <a class="nav-link u-header__nav-link font-weight-bold" href="/pricing">
