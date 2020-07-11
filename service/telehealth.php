@@ -707,5 +707,68 @@
   <?php include('../includes/common-footer.php') ?>
   <!-- End Common Footer -->
 
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What if my practitioner is not available for Virtual Sessions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At this time, not all of Nexus Massage & Rehab practitioners are offering telehealth services.<br><br>
+                <strong>Chiropractic & Physiotherapy Service:</strong> If your practitioner who you normally see is not available, you can book in to see another physiotherapist or chiropractor.<br><br>
+                
+                If you have specific questions for your practitioner, please email your practitioner about any specific concerns or issues."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Why can’t I book a Virtual Appointment with my Registered Massage Therapist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Massage services are not available on Telehealth as it is difficult to offer this type of treatment virtually."
+      }
+    }, {
+      "@type": "Question",
+      "name": "I am an existing Acupuncture patient, why would I book for a Virtual Acupuncture Consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We currently have two new and amazing acupuncturists who are very passionate in helping people improve their lives in a very wholesome way. This is a great way to meet our new practitioners and learn how you can achieve better health from your own home!<br><br>
+
+        As this is a challenging time for everyone, our acupuncturists are offering free advice on how to boost your immune system, relieve a cold with herbs and nutrition, decrease stress and how to stay healthy during the pandemic.<br><br>
+
+        We currently do not offer follow-up sessions with our new acupuncturists because they have not completed a full assessment with you, thus cannot give you a comprehensive recommendation based on your health needs."
+      }
+    }, {
+      "@type": "Question",
+      "name": "How do I book an appointment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can book your virtual appointments online through our website."
+      }
+    }, {
+      "@type": "Question",
+      "name": "What payment methods do you accept?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"We accept credit card payments and e-transfers. An invoice will be sent to you via email for credit card payment collection. If you are unable to pay with credit card, you can pay with e-transfer."}
+      }, {
+      "@type": "Question",
+      "name": "What do I need to start my Virtual Session?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"Not all insurance providers currently accept Telehealth billings. We can only offer direct billing to insurance providers who do accept Telehealth. Please call your insurance provider to confirm your coverage prior to making an appointment."}
+      }, {
+      "@type": "Question",
+      "name": "Do I have to be referred by a doctor to get massage therapy treatments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"All you need is internet, a computer / laptop, or a phone that has a working camera!<br><br>
+
+        If you are doing exercises, you may need some open space, a yoga mat, and exercise equipment (depending on your current treatment plan)."}
+    }]
+  }
+</script>
+
 </body>
 </html>

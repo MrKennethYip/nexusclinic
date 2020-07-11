@@ -123,7 +123,7 @@
     <!-- Service Item Start -->
      <div class="scrolltag" id="rmt"></div>
      <div class="position-relative">
-      <div class="container u-space-2">
+      <div class="container u-space-2-top u-space-1-bottom">
         <div class="row align-items-center">
           <div class="col-lg-5 mb-9 mb-lg-0">
             <div class="pr-lg-4 mb-7">
@@ -304,7 +304,7 @@
     <!-- Service Item Start -->
      <div class="scrolltag" id="acupuncture"></div>
      <div class="position-relative">
-      <div class="container">
+      <div class="container u-space-2">
         <div class="row align-items-center">
           <div class="col-lg-5 mb-9 mb-lg-0">
             <div class="pr-lg-4 mb-7">
@@ -313,19 +313,7 @@
               </h2>
               <p>Acupuncture promotes the body’s ability to heal itself by stimulating acupuncture points on the body that connect to our endocrine, immune, nervous, digestive and cardiovascular systems. During treatment, experienced practitioners use super-fine needles and at times pressure, heat or electrical stimulation. Treating a multitude of issues such as pain, sleep trouble, and digestion; acupuncture can help Nexus clients achieve a higher quality of life.</p>
 
-              <a id="sidebarAccountInvoker" href="javascript:;" role="button" target="blank"
-                 aria-controls="sidebarAcu"
-                 aria-haspopup="true"
-                 aria-expanded="false"
-                 data-unfold-event="click"
-                 data-unfold-hide-on-scroll="false"
-                 data-unfold-target="#sidebarAcu"
-                 data-unfold-type="css-animation"
-                 data-unfold-animation-in="fadeInRight"
-                 data-unfold-animation-out="fadeOutRight"
-                 data-unfold-duration="500">
-                <button type="button" class="btn btn-sm btn-block u-btn-primary--air u-btn-primary transition-3d-hover">See Therapists who provide service<span class="fa fa-angle-right ml-2"></span></button>
-              </a> 
+              <a href="service/acupuncture"><button type="button" class="btn btn-sm btn-block u-btn-primary--air u-btn-primary transition-3d-hover">Learn about Acupuncture<span class="fa fa-angle-right ml-2"></span></button></a>
 
               <br>
 
@@ -361,7 +349,7 @@
     <!-- Service Item Start -->
      <div class="scrolltag" id="osteopath"></div>
      <div class="position-relative">
-      <div class="container">
+      <div class="container u-space-2">
         <div class="row align-items-center">
           <div class="col-lg-5 mb-9 mb-lg-0">
             <div class="pr-lg-4 mb-7">
@@ -370,19 +358,7 @@
               </h2>
               <p>Osteopathy is an integrative manual therapy that works to align all components of the body including the nervous, lymphatic, and circulatory systems to restore health. At Nexus, osteopaths recognize clients' needs from a ‘whole body’ perspective and use various hands-on techniques to treat postural alignment, muscle tension, arthritis, digestive and nervous issues, among many others.</p>
 
-              <a id="sidebarAccountInvoker" href="javascript:;" role="button" target="blank"
-                 aria-controls="sidebarOsteo"
-                 aria-haspopup="true"
-                 aria-expanded="false"
-                 data-unfold-event="click"
-                 data-unfold-hide-on-scroll="false"
-                 data-unfold-target="#sidebarOsteo"
-                 data-unfold-type="css-animation"
-                 data-unfold-animation-in="fadeInRight"
-                 data-unfold-animation-out="fadeOutRight"
-                 data-unfold-duration="500">
-                <button type="button" class="btn btn-sm btn-block u-btn-primary--air u-btn-primary transition-3d-hover">See Therapists who provide service<span class="fa fa-angle-right ml-2"></span></button>
-              </a> 
+              <a href="service/osteopathy"><button type="button" class="btn btn-sm btn-block u-btn-primary--air u-btn-primary transition-3d-hover">Learn about Osetopathy<span class="fa fa-angle-right ml-2"></span></button></a>
 
               <br>
 
@@ -493,6 +469,9 @@
           </li>
           <li class="nav-item">
             <a class="nav-link font-weight-bold" id="v-pills-acu-tab" data-toggle="pill" href="#v-pills-acu" role="tab" aria-controls="v-pills-acu" aria-selected="false">ACUPUNCTURE</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link font-weight-bold" id="v-pills-osteo-tab" data-toggle="pill" href="#v-pills-osteo" role="tab" aria-controls="v-pills-osteo" aria-selected="false">OSTEOPATHY</a>
           </li>
         </ul>
         <div class="tab-content" id="v-pills-tabContent">
@@ -877,178 +856,73 @@
               </div>
               <!-- End Card -->
 
-              <!-- More Expandable Card -->
-              <div class="card mb-3 u-card-collapse" style="border:none;">
+            </div>
 
-                <div id="FAQAcupunctureExpand" class="collapse" aria-labelledby="FAQHeadingAcupunctureExpand" data-parent="#FAQHeadingAcupunctureExpand">
-                  <div class="card-body expand-card">
-                    <!-- Card -->
-                    <div class="card mb-3 u-card-collapse">
-                      <div class="card-header px-4" id="FAQHeadingFour">
-                        <div class="collapsed" data-toggle="collapse" data-target="#FAQFour" aria-expanded="false" aria-controls="FAQFour" role="button">
-                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                            What should I do before an Acupuncture treatment?
-                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                          </h3>
-                        </div>
-                      </div>
-                      <div id="FAQFour" class="collapse" aria-labelledby="FAQHeadingFour" data-parent="#FAQCollapse">
-                        <div class="card-body px-4">
-                          Make sure you are well hydrated and have eaten within the last two hours. For convenience for yourself and the practitioner, it is best to wear loose and light clothing which will provide easier access to certain areas of the body for treatment.
-                        </div>
-                      </div>
-                    </div>
-                    <!-- End Card -->
+          </div>
+          <!-- End Acu Accordion -->
 
-                    <!-- Card -->
-                    <div class="card mb-3 u-card-collapse">
-                      <div class="card-header px-4" id="FAQHeadingFive">
-                        <div class="collapsed" data-toggle="collapse" data-target="#FAQFive" aria-expanded="false" aria-controls="FAQFive" role="button">
-                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                            What is a typical Acupuncture treatment like at Nexus Massage and Rehab?
-                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                          </h3>
-                        </div>
-                      </div>
-                      <div id="FAQFive" class="collapse" aria-labelledby="FAQHeadingFive" data-parent="#FAQCollapse">
-                        <div class="card-body px-4">
-                          A typical treatment here at Nexus Massage and Rehab consists of an initial appointment where the practitioner goes through an intake with you, asking you a series of questions, performs a tongue diagnosis and palpation of your pulse to understand your health status and constitution which will then guide the treatment plan. After the intake, your acupuncturist will put thin needles in certain areas of your body. The needles will remain in the body for 15 to 30 minutes. Additional treatment with tuina (Chinese massage) may be included if necessary.<br><br>
+          <!-- Osteo Accordion -->
+          <div class="tab-pane fade" id="v-pills-osteo" role="tabpanel" aria-labelledby="v-pills-osteo-tab">
 
-                          Subsequent treatments will involve a brief recap of the previous treatment and a quick analysis of the patient's current status followed by acupuncture.
-                        </div>
-                      </div>
-                    </div>
-                    <!-- End Card -->
-
-                    <!-- Card -->
-                    <div class="card mb-3 u-card-collapse">
-                      <div class="card-header px-4" id="FAQHeadingSix">
-                        <div class="collapsed" data-toggle="collapse" data-target="#FAQSix" aria-expanded="false" aria-controls="FAQFSix" role="button">
-                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                            Where does the Acupuncturist insert the needles?
-                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                          </h3>
-                        </div>
-                      </div>
-                      <div id="FAQSix" class="collapse" aria-labelledby="FAQHeadingSix" data-parent="#FAQCollapse">
-                        <div class="card-body px-4">
-                          The most common areas that will be needled during treatment will be on the limbs. The needles can potentially go in at other points on the body, depending on the individual and their health status.<br><br>
-
-                          If you are nervous or uncomfortable about a specific area being treated, do not hesitate to voice your concerns to the practitioner and he/she will take appropriate measures.
-                        </div>
-                      </div>
-                    </div>
-                    <!-- End Card -->
-
-                    <!-- Card -->
-                    <div class="card mb-3 u-card-collapse">
-                      <div class="card-header px-4" id="FAQHeadingOne-alt">
-                        <div class="collapsed" data-toggle="collapse" data-target="#FAQOne-alt" aria-expanded="false" aria-controls="FAQOne-alt" role="button">
-                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                            Does Acupuncture hurt?
-                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                          </h3>
-                        </div>
-                      </div>
-                      <div id="FAQOne-alt" class="collapse" aria-labelledby="FAQHeadingOne-alt" data-parent="#FAQCollapse">
-                        <div class="card-body px-4">
-                          Most people you ask will say no. If done properly, the sensation will be extremely mild. Some common sensations that are reported are pressure, warmth, pricking, twitching, or nothing at all.<br><br>
-
-                          Mild bruising or redness may occur at the needle site, but most of the time there will be no visible trace of the needle having been inserted.
-                        </div>
-                      </div>
-                    </div>
-                    <!-- End Card -->
-
-                    <!-- Card -->
-                    <div class="card mb-3 u-card-collapse">
-                      <div class="card-header px-4" id="FAQHeadingTwo-alt">
-                        <div class="collapsed" data-toggle="collapse" data-target="#FAQTwo-alt" aria-expanded="false" aria-controls="FAQTwo-alt" role="button">
-                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                            What are Acupuncture needles like?
-                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                          </h3>
-                        </div>
-                      </div>
-                      <div id="FAQTwo-alt" class="collapse" aria-labelledby="FAQHeadingTwo-alt" data-parent="#FAQCollapse">
-                        <div class="card-body px-4">
-                          Some individuals may be hesitant about trying acupuncture due to uncomfortable past experiences with needles. However, it is good to know that the needles used for acupuncture vary greatly from the ones that are used for injections, piercings or blood withdrawal.<br><br>
-
-                          Acupuncture needles are much thinner than those mentioned. Also acupuncture needles are solid, not hollow, so there is no removal of flesh upon insertion or removal – this drastically changes the feeling experienced.
-                        </div>
-                      </div>
-                    </div>
-                    <!-- End Card -->
-
-                    <!-- Card -->
-                    <div class="card mb-3 u-card-collapse">
-                      <div class="card-header px-4" id="FAQHeadingNine">
-                        <div class="collapsed" data-toggle="collapse" data-target="#FAQNine" aria-expanded="false" aria-controls="FAQNine" role="button">
-                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                            Are the needles re-used?
-                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                          </h3>
-                        </div>
-                      </div>
-                      <div id="FAQNine" class="collapse" aria-labelledby="FAQHeadingNine" data-parent="#FAQCollapse">
-                        <div class="card-body px-4">
-                          No, the needles used for acupuncture are sealed, sterilized, and used only once and discarded in a disposal hazard box after.
-                        </div>
-                      </div>
-                    </div>
-                    <!-- End Card -->
-
-                    <!-- Card -->
-                    <div class="card mb-3 u-card-collapse">
-                      <div class="card-header px-4" id="FAQHeadingTen">
-                        <div class="collapsed" data-toggle="collapse" data-target="#FAQTen" aria-expanded="false" aria-controls="FAQTen" role="button">
-                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                            What is the difference between TCM Acupuncture and Dry Needling?
-                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                          </h3>
-                        </div>
-                      </div>
-                      <div id="FAQTen" class="collapse" aria-labelledby="FAQHeadingTen" data-parent="#FAQCollapse">
-                        <div class="card-body px-4">
-                          The main difference would be the theory behind it. With TCM acupuncture the needles are inserted into specific points on the body that run along meridians. These meridians are where the vital energy (qi) of the body flows. Each specific point has its own unique function and can help aid in the flow of qi and balancing of the internal organs.<br><br>
-
-                          Acupuncture may be used for a wide variety of conditions. Dry needling is only for musculoskeletal conditions and involves the insertion of a needle into a trigger point (painful area) to relieve pain.
-                        </div>
-                      </div>
-                    </div>
-                    <!-- End Card -->
-
-                    <!-- Card -->
-                    <div class="card mb-3 u-card-collapse">
-                      <div class="card-header px-4" id="FAQHeadingEleven">
-                        <div class="collapsed" data-toggle="collapse" data-target="#FAQEleven" aria-expanded="false" aria-controls="FAQEleven" role="button">
-                          <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                            Does insurance cover Acupuncture?
-                            <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                          </h3>
-                        </div>
-                      </div>
-                      <div id="FAQEleven" class="collapse" aria-labelledby="FAQHeadingEleven" data-parent="#FAQCollapse">
-                        <div class="card-body px-4">
-                          Many insurance providers are now covering acupuncture only if it is done by a licensed Acupuncturist. Contact your insurance provider directly to find out if you are covered and the details of your coverage.
-                        </div>
-                      </div>
-                    </div>
-                    <!-- End Card -->
+            <div id="FAQCollapse">
+              <!-- Card -->
+              <div class="card mb-3 u-card-collapse">
+                <div class="card-header px-4" id="FAQHeadingOne">
+                  <div class="collapsed" data-toggle="collapse" data-target="#FAQOne" aria-expanded="false" aria-controls="FAQOne" role="button">
+                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                      What is Osteopathy?
+                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                    </h3>
                   </div>
                 </div>
-                <div class="card-header px-4" id="FAQHeadingAcupunctureExpand" style="border-bottom:none;">
-                  <h3 class="h5 LessMoreCollapse collapsed text-center justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0" data-toggle="collapse" data-target="#FAQAcupunctureExpand" aria-expanded="false" aria-controls="FAQAcupunctureExpand" role="button">
-                    <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                  </h3>
+                <div id="FAQOne" class="collapse" aria-labelledby="FAQHeadingOne" data-parent="#FAQCollapse">
+                  <div class="card-body px-4">
+                    A non-invasive practice, it works to align all components of the body including the nervous, lymphatic, and circulatory systems to maximize health by using hands-on manual therapy.
+                  </div>
                 </div>
               </div>
-              <!-- End More Expandable Card -->
+              <!-- End Card -->
+
+              <!-- Card -->
+              <div class="card mb-3 u-card-collapse">
+                <div class="card-header px-4" id="FAQHeadingTwo">
+                  <div class="collapsed" data-toggle="collapse" data-target="#FAQTwo" aria-expanded="false" aria-controls="FAQTwo" role="button">
+                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                      What types of issues can Osteopaths treat?
+                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                    </h3>
+                  </div>
+                </div>
+                <div id="FAQTwo" class="collapse" aria-labelledby="FAQHeadingTwo" data-parent="#FAQCollapse">
+                  <div class="card-body px-4">
+                    Osteopaths can treat countless issues ranging from muscle tension, injuries due to work strain, sleep apnea, digestive issues, and even emotional and psychological symptoms.
+                  </div>
+                </div>
+              </div>
+              <!-- End Card -->
+
+              <!-- Card -->
+              <div class="card mb-3 u-card-collapse">
+                <div class="card-header px-4" id="FAQHeadingThree">
+                  <div class="collapsed" data-toggle="collapse" data-target="#FAQThree" aria-expanded="false" aria-controls="FAQThree" role="button">
+                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                      What to expect in your first Osteopathic appointment at Nexus Massage and Rehab?
+                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                    </h3>
+                  </div>
+                </div>
+                <div id="FAQThree" class="collapse" aria-labelledby="FAQHeadingThree" data-parent="#FAQCollapse">
+                  <div class="card-body px-4">
+                    Your osteopath will conduct a thorough assessment to learn about your concerns and previous medical history, then proceed to a detailed physical examination before discussing a proposed treatment plan with you.
+                  </div>
+                </div>
+              </div>
+              <!-- End Card -->
 
             </div>
 
           </div>
-          <!-- End Physio Accordion -->
+          <!-- End Osteo Accordion -->
 
         </div>
 
@@ -1065,223 +939,12 @@
   <?php include('includes/footer.php') ?>
   <!-- ========== END FOOTER ========== -->
 
-  <!-- ========== SECONDARY CONTENTS ========== -->
-
-  <!-- Acupuncture Sidebar -->
-  <aside id="sidebarAcu" class="u-sidebar u-unfold--css-animation u-unfold--hidden" aria-labelledby="sidebarNavToggler">
-    <div class="u-sidebar__scroller">
-      <div class="u-sidebar__container">
-        <div class="u-header-sidebar__footer-offset">
-          <!-- Toggle Button -->
-          <div class="d-flex align-items-center pt-4 px-7">
-            <button type="button" class="close ml-auto"
-                    aria-controls="sidebarAcu"
-                    aria-haspopup="true"
-                    aria-expanded="false"
-                    data-unfold-event="click"
-                    data-unfold-hide-on-scroll="false"
-                    data-unfold-target="#sidebarAcu"
-                    data-unfold-type="css-animation"
-                    data-unfold-animation-in="fadeInRight"
-                    data-unfold-animation-out="fadeOutRight"
-                    data-unfold-duration="500">
-              <span aria-hidden="true">&times;</span>
-            </button>
-          </div>
-          <!-- End Toggle Button -->
-
-          <!-- Content -->
-          <div class="js-scrollbar u-sidebar__body">
-            <br>
-            <!-- CTA Section -->
-            <div class="bg-primary text-white text-center">
-              <div class="container u-space-1 p-2">
-                <span class="h6 d-block d-lg-inline-block font-weight-light mb-lg-0">
-                  <span class="font-weight-bold">Acupuncture</span>
-                </span>
-              </div>
-            </div>
-            <!-- End CTA Section -->
-            <div class="u-sidebar__content u-header-sidebar__content">
-
-              <!-- Card -->
-              <div class="card u-info-v2 mb-3" style="border: #00A6CE 2px solid;">
-                <a class="card-body p-3" href="profiles/matt_walton">
-                  <div class="media align-items-center">
-                    <img class="u-md-avatar rounded-circle mr-3" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/sml/matt_walton.jpg" alt="Matt Walton - Acupuncture">
-                    <div class="media-body">
-                      <span class="text-dark">Matt Walton</span>
-                      <small class="d-block text-secondary">View Profile</small>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card u-info-v2 mb-3" style="border: #00A6CE 2px solid;">
-                <a class="card-body p-3" href="profiles/ellen_zhang">
-                  <div class="media align-items-center">
-                    <img class="u-md-avatar rounded-circle mr-3" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/sml/ellen_zhang.jpg" alt="Ellen Zhang - Acupuncture">
-                    <div class="media-body">
-                      <span class="text-dark">Ellen Zhang</span>
-                      <small class="d-block text-secondary">View Profile</small>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <!-- End Card -->
-
-            </div>
-          </div>
-          <!-- End Content -->
-        </div>
-      </div>
-    </div>
-  </aside>
-  <!-- End Acupuncture Sidebar -->
-
-  <!-- Osteopath Sidebar -->
-  <aside id="sidebarOsteo" class="u-sidebar u-unfold--css-animation u-unfold--hidden" aria-labelledby="sidebarNavToggler">
-    <div class="u-sidebar__scroller">
-      <div class="u-sidebar__container">
-        <div class="u-header-sidebar__footer-offset">
-          <!-- Toggle Button -->
-          <div class="d-flex align-items-center pt-4 px-7">
-            <button type="button" class="close ml-auto"
-                    aria-controls="sidebarOsteo"
-                    aria-haspopup="true"
-                    aria-expanded="false"
-                    data-unfold-event="click"
-                    data-unfold-hide-on-scroll="false"
-                    data-unfold-target="#sidebarOsteo"
-                    data-unfold-type="css-animation"
-                    data-unfold-animation-in="fadeInRight"
-                    data-unfold-animation-out="fadeOutRight"
-                    data-unfold-duration="500">
-              <span aria-hidden="true">&times;</span>
-            </button>
-          </div>
-          <!-- End Toggle Button -->
-
-          <!-- Content -->
-          <div class="js-scrollbar u-sidebar__body">
-            <br>
-            <!-- CTA Section -->
-            <div class="bg-primary text-white text-center">
-              <div class="container u-space-1 p-2">
-                <span class="h6 d-block d-lg-inline-block font-weight-light mb-lg-0">
-                  <span class="font-weight-bold">Osteopathy</span>
-                </span>
-              </div>
-            </div>
-            <!-- End CTA Section -->
-            <div class="u-sidebar__content u-header-sidebar__content">
-
-              <!-- Card -->
-              <div class="card u-info-v2 mb-3" style="border: #00A6CE 2px solid;">
-                <a class="card-body p-3" href="profiles/irnes_barak">
-                  <div class="media align-items-center">
-                    <img class="u-md-avatar rounded-circle mr-3" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/sml/irnes_barak.jpg" alt="Irnes Barak - Registered Manual Osteopath">
-                    <div class="media-body">
-                      <span class="text-dark">Irnes Barak</span>
-                      <small class="d-block text-secondary">View Profile</small>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <!-- End Card -->
-
-            </div>
-          </div>
-          <!-- End Content -->
-        </div>
-      </div>
-    </div>
-  </aside>
-  <!-- End Osteopath Sidebar -->
-
-  <!-- ========== END SECONDARY CONTENTS ========== -->
-
-  <!-- Go to Top -->
-  <a class="js-go-to u-go-to" href="#"
-    data-position='{"bottom": 25, "left": 25 }'btn-danger u-btn-danger
-    data-type="fixed"
-    data-offset-top="400"
-    data-compensation="#header"
-    data-show-effect="slideInUp"
-    data-hide-effect="slideOutDown">
-    <span class="fa fa-arrow-up u-go-to__inner"></span>
-  </a>
-  <!-- End Go to Top -->
-
-  <!-- JS Global Compulsory -->
-  <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
-  <script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
-  <script src="assets/vendor/popper.js/dist/umd/popper.min.js"></script>
-  <script src="assets/vendor/bootstrap/bootstrap.min.js"></script>
-
-  <!-- JS Implementing Plugins -->
-  <script src="assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
-  <script src="assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
-  <script src="assets/vendor/appear.js"></script>
-  <script src="assets/vendor/responsively-lazy/responsivelyLazy.min.js"></script>
-  <script src="assets/vendor/custombox/dist/custombox.min.js"></script>
-
-  <!-- JS Front -->
-  <script src="assets/js/hs.core.js"></script>
-  <script src="assets/js/components/hs.header.js"></script>
-  <script src="assets/js/components/hs.unfold.js"></script>
-  <script src="assets/js/components/hs.go-to.js"></script>
-  <script src="assets/js/components/hs.modal-window.js"></script>
-
-  <!-- JS Plugins Init. -->
-  <script>
-    $(window).on('load', function () {
-      // initialization of HSMegaMenu component
-      $('.js-mega-menu').HSMegaMenu({
-        event: 'hover',
-        pageContainer: $('.container'),
-        breakpoint: 767,
-        hideTimeOut: 0
-      });
-
-      // initialization of autonomous popups
-      $.HSCore.components.HSModalWindow.init('[data-modal-target]', '.js-modal-window', {
-        autonomous: true
-      });
-
-    });
-
-    $(document).on('ready', function () {
-      // initialization of header
-      $.HSCore.components.HSHeader.init($('#header'));
-
-      // initialization of unfold component
-      $.HSCore.components.HSUnfold.init($('[data-unfold-target]'), {
-        afterOpen: function () {
-          $(this).find('input[type="search"]').focus();
-        }
-      });
-
-      // initialization of go to
-      $.HSCore.components.HSGoTo.init('.js-go-to');
-    });
-  </script>
-
-  <script src="assets/js/viewportchecker.js"></script>
-
-  <script>
-  jQuery(document).ready(function() {
-    jQuery('.post').addClass("hidden").viewportChecker({
-        classToAdd: 'visible animated bounceIn',
-        offset: 100
-       });
-  });
-  </script>
+  <!-- Common Footer -->
+  <?php include('includes/common-footer.php') ?>
+  <!-- End Common Footer -->
 
   <script type="application/ld+json">
-    {
+  {
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [{
@@ -1298,19 +961,19 @@
         "@type": "Answer",
         "text": "Massage therapy can be beneficial to people of all ages and can help alleviate pain and tension from  many conditions. Massage helps by increasing blood circulation in an area, decreasing muscle tension, improving tissue health, and increasing range of motion. Massage is a very non-invasive and safe treatment that can help improve the following conditions:<br><br>
 
-          <ul>
-            <li>Inflammatory conditions such as arthritis and tendinitis</li>
-            <li>Stress relief and associated conditions</li>
-            <li>Headaches and migraines</li>
-            <li>Muscle and related conditions such as spasms, strains and sprains</li>
-            <li>Back pain</li>
-            <li>Neck pain</li>
-            <li>Repetitive strain injury</li>
-            <li>Circulatory and Respiratory problems</li>
-            <li>Pregnancy and labour discomfort</li>
-            <li>Post-injury and post surgical rehabilitation</li>
-            <li>And many other conditions</li>
-          </ul>"
+        <ul>
+          <li>Inflammatory conditions such as arthritis and tendinitis</li>
+          <li>Stress relief and associated conditions</li>
+          <li>Headaches and migraines</li>
+          <li>Muscle and related conditions such as spasms, strains and sprains</li>
+          <li>Back pain</li>
+          <li>Neck pain</li>
+          <li>Repetitive strain injury</li>
+          <li>Circulatory and Respiratory problems</li>
+          <li>Pregnancy and labour discomfort</li>
+          <li>Post-injury and post surgical rehabilitation</li>
+          <li>And many other conditions</li>
+        </ul>"
       }
     }, {
       "@type": "Question",
@@ -1343,190 +1006,161 @@
 
         Here are some of the most common reasons why patients visit a chiropractor at Nexus Massage & Rehab:<br><br>
 
-          <ul>
-            <li>Back pain</li>
-            <li>Neck pain</li>
-            <li>Knee pain</li>
-            <li>Headaches</li>
-            <li>Strains and sprains from daily activities</li>
-            <li>Repetitive strain injuries</li>
-            <li>Work and sports-related injuries</li>
-            <li>Arthritis</li>
-            <li>Restricted movement in the back, shoulders, neck or limbs</li>
-          </ul>"}
-      }, {
+        <ul>
+          <li>Back pain</li>
+          <li>Neck pain</li>
+          <li>Knee pain</li>
+          <li>Headaches</li>
+          <li>Strains and sprains from daily activities</li>
+          <li>Repetitive strain injuries</li>
+          <li>Work and sports-related injuries</li>
+          <li>Arthritis</li>
+          <li>Restricted movement in the back, shoulders, neck or limbs</li>
+        </ul>"
+      }
+    }, {
       "@type": "Question",
       "name": "What are the benefits of Chiropractic care?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text":"Chiropractic treatment is skilled, hands-on health care that relieves pain and helps your body be its best. Here are some of its benefits:<br><br>
 
-          <ul>
-            <li>Improved movement in your neck, shoulders, back and torso</li>
-            <li>Better posture</li>
-            <li>Relief from headaches, neck and back pain</li>
-            <li>Prevention of work-related muscle and joint injuries</li>
-            <li>Enhanced athletic performance</li>
-            <li>Improved flexibility</li>
-            <li>Relief of pregnancy-related back ache</li>
-            <li>Correction of gait and foot problems</li>
-          </ul>"}
-      }, {
+        <ul>
+          <li>Improved movement in your neck, shoulders, back and torso</li>
+          <li>Better posture</li>
+          <li>Relief from headaches, neck and back pain</li>
+          <li>Prevention of work-related muscle and joint injuries</li>
+          <li>Enhanced athletic performance</li>
+          <li>Improved flexibility</li>
+          <li>Relief of pregnancy-related back ache</li>
+          <li>Correction of gait and foot problems</li>
+        </ul>"
+      }
+    }, {
       "@type": "Question",
       "name": "How can Chiropractors at Nexus Massage & Rehab help?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text":"Chiropractors at Nexus Massage & Rehab are extensively educated in the prevention, assessment, diagnosis and management of musculoskeletal (MSK) conditions and associated neurological system and will recommend a course of treatment to help relieve pain and improve function without surgery or pharmaceuticals. This includes<br><br>
 
-          <ul>
-            <li><strong><em>Manual therapy:</strong></em>  When a joint isn’t moving as well as it should, your chiropractor at Nexus Massage & Rehab may utilize this treatment technique to help regain motion within a joint.</li><br>
-            <li><strong><em>Soft tissue therapy:</strong></em>  This is where your chiropractor works to relax and treat tight and sore muscles.</li><br>
-            <li><strong><em>Exercise therapy/self-management:</strong></em>  Your chiropractor will be able to provide simple exercises that you can do at home to help with your pain and to help prevent re-injury.</li><br>
-            <li><strong><em>Modalities:</strong></em>  Although chiropractors use their hands for most treatments, they also use other methods such as heat, ultrasound, low-level laser therapy, electrotherapy, acupuncture and other physical therapy techniques.</li><br>
-            At Nexus Massage & Rehab, our chiropractors adopt an evidence-informed practice principle to guide clinical and treatment decisions while prioritizing our patient’s preferences and values.</li>
-          </ul>"}
-      }, {
+        <ul>
+          <li><strong><em>Manual therapy:</strong></em>  When a joint isn’t moving as well as it should, your chiropractor at Nexus Massage & Rehab may utilize this treatment technique to help regain motion within a joint.</li><br>
+          <li><strong><em>Soft tissue therapy:</strong></em>  This is where your chiropractor works to relax and treat tight and sore muscles.</li><br>
+          <li><strong><em>Exercise therapy/self-management:</strong></em>  Your chiropractor will be able to provide simple exercises that you can do at home to help with your pain and to help prevent re-injury.</li><br>
+          <li><strong><em>Modalities:</strong></em>  Although chiropractors use their hands for most treatments, they also use other methods such as heat, ultrasound, low-level laser therapy, electrotherapy, acupuncture and other physical therapy techniques.</li><br>
+          At Nexus Massage & Rehab, our chiropractors adopt an evidence-informed practice principle to guide clinical and treatment decisions while prioritizing our patient’s preferences and values.</li>
+        </ul>"
+      }
+    }, {
       "@type": "Question",
       "name": "What can I expect on my first appointment to a Chiropractor at Nexus Massage & Rehab?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text":"The initial chiropractic assessment consists of a thorough health history and focused physical examination that helps the chiropractor identify factors influencing a patient’s health. The chiropractor will then review therapies that may be used in the treatment plan. Chiropractic patients may ask their chiropractor any questions they have. A chiropractic treatment is also performed on the first visit, unless further diagnostic tests are needed. The typical chiropractic initial assessment takes between 40 and 60 minutes."}
-      }, {
+        "text":"The initial chiropractic assessment consists of a thorough health history and focused physical examination that helps the chiropractor identify factors influencing a patient’s health. The chiropractor will then review therapies that may be used in the treatment plan. Chiropractic patients may ask their chiropractor any questions they have. A chiropractic treatment is also performed on the first visit, unless further diagnostic tests are needed. The typical chiropractic initial assessment takes between 40 and 60 minutes."
+      }
+    }, {
       "@type": "Question",
       "name": "What is Physiotherapy?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text":"Physiotherapy is a profession that focuses on the science of movement in order to address injury, conditions, and diseases. Their aim is to restore, maintain, and optimize a patient’s function, mobility, and to prevent future injuries. Physiotherapists are important players in health promotion and disease prevention.<br><br>
 
-        Physiotherapists can assess, diagnose and treat disease conditions, and injuries."}
-      }, {
+        Physiotherapists can assess, diagnose and treat disease conditions, and injuries."
+      }
+    }, {
       "@type": "Question",
       "name": "What types of issues can Physiotherapists treat?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text":"Physiotherapy can help a wide range of physical ailments, from neurological, cardiorespiratory, to musculoskeletal issues, such as, (but not limited to):<br><br>
 
-          <ul>
-            <li>Back Pain</li>
-            <li>Sports Injuries; sprains and strains</li>
-            <li>Pelvic Health (i.e. pregnancy related, incontinence)</li>
-            <li>Neurological conditions (i.e. stroke, traumatic brain injuries, Parkinson’s, spinal cord injuries)</li>
-            <li>Fractures</li>
-            <li>Osteoporosis</li>
-            <li>Post-Surgery rehabilitation such as hip or knee replacement</li>
-            <li>Asthma</li>
-            <li>Chronic Obstructive Pulmonary Disease</li>
-            <li>Cardiovascular diseases</li>
-            <li>Falls Prevention</li>
-            <li>Concussion Management</li>
-            <li>Vestibular Rehabilitation</li>
-            <li>Arthritis</li>
-            <li>Amputation Rehabilitation</li>
-            <li>Pediatric Therapy</li>
-          </ul>
+        <ul>
+          <li>Back Pain</li>
+          <li>Sports Injuries; sprains and strains</li>
+          <li>Pelvic Health (i.e. pregnancy related, incontinence)</li>
+          <li>Neurological conditions (i.e. stroke, traumatic brain injuries, Parkinson’s, spinal cord injuries)</li>
+          <li>Fractures</li>
+          <li>Osteoporosis</li>
+          <li>Post-Surgery rehabilitation such as hip or knee replacement</li>
+          <li>Asthma</li>
+          <li>Chronic Obstructive Pulmonary Disease</li>
+          <li>Cardiovascular diseases</li>
+          <li>Falls Prevention</li>
+          <li>Concussion Management</li>
+          <li>Vestibular Rehabilitation</li>
+          <li>Arthritis</li>
+          <li>Amputation Rehabilitation</li>
+          <li>Pediatric Therapy</li>
+        </ul>
 
-        And much more!"}
-      }, {
+        And much more!"
+      }
+    }, {
       "@type": "Question",
       "name": "What to expect in your first Physiotherapy appointment at Nexus Massage and Rehab?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text":"Physiotherapy is a profession that focuses on the science of movement in order to address injury, conditions, and diseases. Their aim is to restore, maintain, and optimize a patient’s function, mobility, and to prevent future injuries. Physiotherapists are important players in health promotion and disease prevention.<br><br>
-
-        Physiotherapists can assess, diagnose and treat disease conditions, and injuries."}
-      }, {
-      "@type": "Question",
-      "name": "What is Physiotherapy?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text":"In the first physiotherapy appointment, your physiotherapist at Nexus Massage and Rehab will discuss with you the nature of your condition and pain. They will also probe into your medical history and any other treatments you had in the past. It is best to be honest with your physiotherapist regarding your health; this is a place free of judgement or embarrassment.<br><br>
 
         This is followed by a physical examination. Your physiotherapist will assess your movement, muscle strength, and perform other special tests to get a better understanding about how you move, and what may contribute to your pain. The premise is to look for areas of your pain. Please let your physiotherapist know what is, or isn’t aggravating it. Do not try to endure the pain!<br><br>
 
-        It is important for you to have a goal on what you want to achieve with physiotherapy."}
-      }, {
+        It is important for you to have a goal on what you want to achieve with physiotherapy."
+      }
+    }, {
       "@type": "Question",
       "name": "What is Acupuncture or TCM?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text":"Acupuncture is one of the few modalities that fall under the system of Traditional Chinese Medicine, or TCM. Its use can be found in artifacts dating back to 1000 BC. It involves the use of small needles inserted at specific points on the body, to help regulate the flow of energy or “qi”.<br><br>
 
-        Imbalance of qi in the body is at the root of all ailments and disease. By regulating the state of qi with the needles, we can help guide the body back into balance. Acupuncture can treat any conditions and is often a great compliment to other treatment programs as well."}
-      }, {
+        Imbalance of qi in the body is at the root of all ailments and disease. By regulating the state of qi with the needles, we can help guide the body back into balance. Acupuncture can treat any conditions and is often a great compliment to other treatment programs as well."
+  }
+    }, {
       "@type": "Question",
       "name": "What can Acupuncture be used for?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text":"Acupuncture may be used for a wide variety of health issues. According to the World Health Organization, acupuncture may be beneficial for, but not limited to, the following conditions:<br><br>
 
-          <ul>
-            <li><strong><em>Digestive</em></strong> – IBS, Constipation, Diarrhea, Indigestion</li>
-            <li><strong><em>Emotional</em></strong> – Anxiety, Depression, Insomnia, Addictions</li>
-            <li><strong><em>Gynecological</em></strong> – Infertility, Menopause, PMS</li>
-            <li><strong><em>Musculoskeletal</em></strong> – Back pain, Arthritis, Cramping, Muscle Pain/Weakness, Sciatica</li>
-            <li><strong><em>Neurological</em></strong> – Headaches, Migraines, Stroke Rehab</li>
-            <li><strong><em>Systemic</em></strong> – Stress, Chronic Fatigue, Fibromyalgia</li>
-          </ul>"}
-      }, {
+        <ul>
+          <li><strong><em>Digestive</em></strong> – IBS, Constipation, Diarrhea, Indigestion</li>
+          <li><strong><em>Emotional</em></strong> – Anxiety, Depression, Insomnia, Addictions</li>
+          <li><strong><em>Gynecological</em></strong> – Infertility, Menopause, PMS</li>
+          <li><strong><em>Musculoskeletal</em></strong> – Back pain, Arthritis, Cramping, Muscle Pain/Weakness, Sciatica</li>
+          <li><strong><em>Neurological</em></strong> – Headaches, Migraines, Stroke Rehab</li>
+          <li><strong><em>Systemic</em></strong> – Stress, Chronic Fatigue, Fibromyalgia</li>
+        </ul>"
+      }
+    }, {
       "@type": "Question",
-      "name": "What should I do before an Acupuncture treatment?",
+      "name": "How does Acupuncture work?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text":"Make sure you are well hydrated and have eaten within the last two hours. For convenience for yourself and the practitioner, it is best to wear loose and light clothing which will provide easier access to certain areas of the body for treatment."}
-      }, {
+        "text":"If we look at acupuncture through a scientific perspective, acupuncture works by modulating various biochemical and physiological pathways in the body, which can be supportive to the body’s innate healing mechanisms. From a traditional eastern perspective, acupuncture works by modulating the flow of qi or energy in the body. The needles are inserted at specific points on the body which lie along meridians (energy channels). The insertion of the needles can regulate the flow of energy not only at the specific point or channel but also in the organs themselves."
+      }
+    }, {
       "@type": "Question",
-      "name": "What is a typical Acupuncture treatment like at Nexus Massage and Rehab?",
+      "name": "What is Osteopathy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text":"A typical treatment here at Nexus Massage and Rehab consists of an initial appointment where the practitioner goes through an intake with you, asking you a series of questions, performs a tongue diagnosis and palpation of your pulse to understand your health status and constitution which will then guide the treatment plan. After the intake, your acupuncturist will put thin needles in certain areas of your body. The needles will remain in the body for 15 to 30 minutes. Additional treatment with tuina (Chinese massage) may be included if necessary.<br><br>
-
-        Subsequent treatments will involve a brief recap of the previous treatment and a quick analysis of the patient's current status followed by acupuncture."}
-      }, {
+        "text":"A non-invasive practice, it works to align all components of the body including the nervous, lymphatic, and circulatory systems to maximize health by using hands-on manual therapy."
+      }
+    }, {
       "@type": "Question",
-      "name": "Where does the Acupuncturist insert the needles?",
+      "name": "What types of issues can Osteopaths treat?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text":"The most common areas that will be needled during treatment will be on the limbs. The needles can potentially go in at other points on the body, depending on the individual and their health status.<br><br>
-
-        If you are nervous or uncomfortable about a specific area being treated, do not hesitate to voice your concerns to the practitioner and he/she will take appropriate measures."}
-      }, {
+        "text":"Osteopaths can treat countless issues ranging from muscle tension, injuries due to work strain, sleep apnea, digestive issues, and even emotional and psychological symptoms."
+      }
+    }, {
       "@type": "Question",
-      "name": "Does Acupuncture hurt?",
+      "name": "What to expect in your first Osteopathic appointment at Nexus Massage and Rehab?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text":"Most people you ask will say no. If done properly, the sensation will be extremely mild. Some common sensations that are reported are pressure, warmth, pricking, twitching, or nothing at all.<br><br>
-
-        Mild bruising or redness may occur at the needle site, but most of the time there will be no visible trace of the needle having been inserted."}
-      }, {
-      "@type": "Question",
-      "name": "What are Acupuncture needles like?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text":"Some individuals may be hesitant about trying acupuncture due to uncomfortable past experiences with needles. However, it is good to know that the needles used for acupuncture vary greatly from the ones that are used for injections, piercings or blood withdrawal.<br><br>
-
-        Acupuncture needles are much thinner than those mentioned. Also acupuncture needles are solid, not hollow, so there is no removal of flesh upon insertion or removal – this drastically changes the feeling experienced."}
-      }, {
-      "@type": "Question",
-      "name": "Are the needles re-used?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text":"No, the needles used for acupuncture are sealed, sterilized, and used only once and discarded in a disposal hazard box after."}
-      }, {
-      "@type": "Question",
-      "name": "What is the difference between TCM Acupuncture and Dry Needling?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text":"The main difference would be the theory behind it. With TCM acupuncture the needles are inserted into specific points on the body that run along meridians. These meridians are where the vital energy (qi) of the body flows. Each specific point has its own unique function and can help aid in the flow of qi and balancing of the internal organs.<br><br>
-
-        Acupuncture may be used for a wide variety of conditions. Dry needling is only for musculoskeletal conditions and involves the insertion of a needle into a trigger point (painful area) to relieve pain."}
-      }, {
-      "@type": "Question",
-      "name": "Does insurance cover Acupuncture?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text":"Many insurance providers are now covering acupuncture only if it is done by a licensed Acupuncturist. Contact your insurance provider directly to find out if you are covered and the details of your coverage."}
-      }]
-    }
+        "text":"Your osteopath will conduct a thorough assessment to learn about your concerns and previous medical history, then proceed to a detailed physical examination before discussing a proposed treatment plan with you."
+      }
+    }]
+  }
   </script>
 
 </body>
