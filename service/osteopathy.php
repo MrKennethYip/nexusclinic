@@ -32,7 +32,6 @@
       <div class="container position-relative u-space-5-top u-space-3-bottom z-index-2">
         <div class="w-lg-80 text-center mx-auto">
           <h1 class="display-3 font-size-48--md-down text-white font-weight-bold">OSTEOPATHY</h1>
-          <h4 class="text-white"><em>"MISSING!"</em></h4>
 
           <div class="u-space-1-top">
             <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bannerBtn');">Book Online<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
@@ -279,7 +278,7 @@
     <!-- Service Item Start -->
      <div class="scrolltag" id="myofascial_release"></div>
      <div class="position-relative">
-      <div class="container u-space-2">
+      <div class="container u-space-2-bottom u-space-3-top">
         <div class="row align-items-center">
           <div class="col-lg-7 mb-9 mb-lg-0">
             <div class="pr-lg-4 mb-7">
@@ -525,7 +524,7 @@
                   <h4 class="h6 text-dark mb-0">Irnes Barak</h4>
                 </a>
                 <p class="small mb-0">
-                  MISSING<br>
+                  I put 110% into every treatment and every individual I see. pride myself in thoroughly assessing the body as a whole and creating a customized treatment plan for each individual. My treatments are focussed on finding the root cause of the problem and not only dealing with just the symptoms, but to create a long lasting effect.<br>
                 </p>
               </div>
           </div>

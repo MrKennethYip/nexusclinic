@@ -32,7 +32,6 @@
       <div class="container position-relative u-space-5-top u-space-3-bottom z-index-2">
         <div class="w-lg-80 text-center mx-auto">
           <h1 class="display-3 font-size-48--md-down text-white font-weight-bold">ACUPUNCTURE</h1>
-          <h4 class="text-white"><em>"MISSING!"</em></h4>
 
           <div class="u-space-1-top">
             <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bannerBtn');">Book Online<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
@@ -269,7 +268,7 @@
     <!-- Hero Section -->
     <div class="position-relative">
       <div class="u-bg-img-hero-bottom" style="background-color:#FFFFFF; border-bottom: 1px solid #898A8D">
-        <div class="container" style="background:url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:100% 100%;">
+        <div class="container u-space-1-top" style="background:url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:100% 100%;">
 
           <!-- Pricing 1 Section -->
           <div class="container">
@@ -433,7 +432,7 @@
                   <h4 class="h6 text-dark mb-0">Matt Walton</h4>
                 </a>
                 <p class="small mb-0">
-                  MISSING<br>
+                  I specialize in treating conditions related to mental health. However, because we TCM practitioners treat you as a whole, I also focus on menstrual health, digestion, sleep/energy and pain concerns to help you enjoy living the healthy life you want. In my practice, I also coach my patients on herbal medicine and diagnosis-based nutrition to help you achieve a balanced and optimized body.<br>
                 </p>
               </div>
           </div>
