@@ -333,6 +333,38 @@
           <!-- End Item -->
 
           <!-- Item -->
+          <div class="cbp-item physio">
+            <a class="cbp-caption" href="profiles/patrick_dungao">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/patrick_dungao.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/patrick_dungao.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/patrick_dungao.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/patrick_dungao.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Patrick Dungao - Physiotherapist">
+            </a>
+              <div class="py-3">
+                <a href="profiles/patrick_dungao">
+                  <h4 class="h6 text-dark mb-0">Patrick Dungao</h4>
+                </a>
+                <p class="small mb-0">
+                  Physiotherapist<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="profiles/kenneth_huang">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kenneth_huang.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kenneth_huang.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kenneth_huang.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/kenneth_huang.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Kenneth Huang - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="profiles/kenneth_huang">
+                  <h4 class="h6 text-dark mb-0">Kenneth Huang</h4>
+                </a>
+                <p class="small mb-0">
+                  Registered Massage Therapist<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
           <div class="cbp-item">
             <a class="cbp-caption" href="careers">
               <img class="rounded p-2 responsively-lazy" style="border: #00C3DC 3px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/new_hire.png" alt="We are Hiring">

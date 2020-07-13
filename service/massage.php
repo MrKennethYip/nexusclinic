@@ -678,6 +678,22 @@
 
           <!-- Item -->
           <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/kenneth_huang">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kenneth_huang.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kenneth_huang.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kenneth_huang.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/kenneth_huang.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Kenneth Huang - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/kenneth_huang">
+                  <h4 class="h6 text-dark mb-0">Kenneth Huang</h4>
+                </a>
+                <p class="small mb-0">
+                  I believe that my background in kinesiology and massage therapy allows me to tackle any issue from both perspectives. With this approach, I can treat the symptoms as well as address the root cause of discomfort in a more holistic way. I am most proud when a returning client tells me when I see them that their pain was gone after the treatment and that it did not come back after doing the exercises that I gave them.<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/cassandra_kong">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/cassandra_kong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Cassandra Kong - Registered Massage Therapist">
             </a>
