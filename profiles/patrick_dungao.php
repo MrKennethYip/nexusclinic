@@ -168,7 +168,9 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>COMING SOON</p>
+              <p>I am an experienced physiotherapist who has focused my career on orthopaedics. In addition to my physiotherapy degree, I trained in the McKenzie Method of Mechanical Diagnosis and Treatment (MDT) allowing me to identify the root cause of your issue. I am also certified in Instrument Assisted Soft Tissue Mobilization (IASTM) and took post-graduate training on Kinetic Link Training and TMJ dysfunction management.</p>
+
+              <p>Outside of the clinic, you can find me rock climbing indoors or in my kitchen learning how to bake.</p>
 
               <!-- End Text -->
 
@@ -179,7 +181,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>COMING SOON</p>
+              <p>I enjoy meeting clients with different stories, backgrounds, and experiences. Whether you are an athlete with a sports-injury wanting to get back to your sport, or you are experiencing nagging pains from work that is making it difficult for you to do activities you love, I will work together with you to accomplish your personal goals.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -189,7 +191,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>COMING SOON</p>
+              <p>I will tailor your treatments to your individual needs and goals. I specialize in manual hands-on therapy to work on the muscles and joints of your spine and limbs. I am also passionate about empowering you with solutions to your roadblocks through education and exercise therapy so you can feel confident doing your daily activities.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -199,7 +201,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>COMING SOON</p>
+              <p>I take pride in collaborating with you to co-create your personalized plans of care that address your personal expectations and goals. I take a patient-centered approach to my practice, meaning that you and I are partners in your care that recognizes your needs, values, and preferences.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -209,7 +211,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>COMING SOON</p>
+              <p>Often times many therapists focus on relieving your symptoms without identifying the cause of your issue. But research has shown that your shoulder or arm pain can be coming from your neck, and your hip or leg pain can originate from your lower back. By identifying and focusing on the cause of your issue, I am able to control your symptoms faster so that you can focus on getting back to doing what makes you happy.</p>
               <!-- End Text -->
 
             </div>
