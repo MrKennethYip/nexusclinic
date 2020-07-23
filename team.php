@@ -142,22 +142,6 @@
 
           <!-- Item -->
           <div class="cbp-item rmt">
-            <a class="cbp-caption" href="profiles/eric_miraflor">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/eric_miraflor.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/eric_miraflor.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/eric_miraflor.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/eric_miraflor.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Eric Miraflor - Registered Massage Therapy">
-            </a>
-              <div class="py-3">
-                <a href="profiles/eric_miraflor">
-                  <h4 class="h6 text-dark mb-0">Eric Miraflor</h4>
-                </a>
-                <p class="small mb-0">
-                  Registered Massage Therapist<br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
-          <div class="cbp-item rmt">
             <a class="cbp-caption" href="profiles/lydia_giammartino">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lydia_giammartino.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lydia_giammartino.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lydia_giammartino.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/lydia_giammartino.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Lydia Giammartino - Registered Massage Therapy">
             </a>
@@ -435,18 +419,6 @@
             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/sharlene_castro.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/sharlene_castro.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/sharlene_castro.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/sharlene_castro.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Sharlene Castro - Nexus Massage and Rehab - Toronto">
             <div class="py-3">
               <h4 class="h6 text-dark mb-0">Sharlene Castro</h4>
-              <p class="small mb-0">
-                Clinic Administrator<br><br>
-              </p>
-            </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
-          <div class="cbp-item rmt chiro acupuncture physio osteopath">
-            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ronikah_mcIntosh.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ronikah_mcIntosh.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ronikah_mcIntosh.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/ronikah_mcIntosh.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Ronikah McIntosh - Nexus Massage and Rehab - Toronto">
-            <div class="py-3">
-              <h4 class="h6 text-dark mb-0">Ronikah McIntosh</h4>
               <p class="small mb-0">
                 Clinic Administrator<br><br>
               </p>

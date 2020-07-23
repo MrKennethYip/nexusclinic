@@ -582,22 +582,6 @@
 
           <!-- Item -->
           <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/eric_miraflor">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/eric_miraflor.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/eric_miraflor.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/eric_miraflor.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/eric_miraflor.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Eric Miraflor - Registered Massage Therapy">
-            </a>
-              <div class="py-3">
-                <a href="../profiles/eric_miraflor">
-                  <h4 class="h6 text-dark mb-0">Eric Miraflor</h4>
-                </a>
-                <p class="small mb-0">
-                  I use a collaborative approach by combining patient goals and preferences with my professional expertise in delivering a safe and effective individualized treatment. This integrative approach allows me to provide the highest quality of care.<br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
-          <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/lydia_giammartino">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lydia_giammartino.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lydia_giammartino.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lydia_giammartino.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/lydia_giammartino.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Lydia Giammartino - Registered Massage Therapy">
             </a>
@@ -622,7 +606,7 @@
                   <h4 class="h6 text-dark mb-0">Vithursun Yugadeva</h4>
                 </a>
                 <p class="small mb-0">
-                  I am a driven therapist whose goal is to figure out what the root cause of pain is from the patient’s concerns and forming an individualized treatment plan for every patient.<br><br><br><br>
+                  I am a driven therapist whose goal is to figure out what the root cause of pain is from the patient’s concerns and forming an individualized treatment plan for every patient.<br><br><br>
                 </p>
               </div>
           </div>
