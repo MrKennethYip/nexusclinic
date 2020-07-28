@@ -130,7 +130,7 @@
             <!-- Hours  -->
             <div class="card p-1 mb-4" style="min-width: 225px;">
               <div class="card-body">
-                <h4 class="h6 mb-0 font-weight-bold">HOURS OF AVAILABILTY:</h4>
+                <h4 class="h6 mb-0 font-weight-bold">HOURS OF AVAILABILITY:</h4>
 
                 <hr>
 
