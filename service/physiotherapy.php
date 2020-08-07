@@ -669,7 +669,7 @@
                   <h4 class="h6 text-dark mb-0">Patrick Dungao</h4>
                 </a>
                 <p class="small mb-0">
-                   COMING SOON<br>
+                   I take pride in collaborating with you to co-create your personalized plans of care that address your personal expectations and goals. I take a patient-centered approach to my practice, meaning that you and I are partners in your care that recognizes your needs, values, and preferences.<br>
                 </p>
               </div>
           </div>
