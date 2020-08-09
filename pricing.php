@@ -290,7 +290,7 @@
                           <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <strong>$65</strong></li>
                           <li class="u-pricing-v2__list-item py-1">Virtual 45 min Follow-Up - <strong>$100</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="small text-muted py-1"><strong>**Osteopathy does not qualify for <br>direct billing**</strong><br><br>Please refer to your insurance provider for coverage. Please note that we are unable to accept insurance coverage from <u>Great West Life</u> and <u>Group Health</u> at this time.</li>
+                          <li class="small text-muted py-1"><strong>**Osteopathy does not qualify for <br>direct billing**</strong><br><br>Please refer to your insurance provider for coverage. Please note that we are unable to accept insurance coverage from <u>Canada Life (formerly Great West Life)</u> and <u>Group Health</u> at this time.</li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -331,7 +331,7 @@
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="small text-muted py-1"><strong>**Osteopathy does not qualify for <br>direct billing**</strong><br><br>Please refer to your insurance provider for coverage. Please note that we are unable to accept insurance coverage from <u>Great West Life</u> and <u>Group Health</u> at this time.</li>
+                          <li class="small text-muted py-1"><strong>**Osteopathy does not qualify for <br>direct billing**</strong><br><br>Please refer to your insurance provider for coverage. Please note that we are unable to accept insurance coverage from <u>Canada Life (formerly Great West Life)</u> and <u>Group Health</u> at this time.</li>
                         </ul>
                       </div>
                       <!-- End Content --> 
