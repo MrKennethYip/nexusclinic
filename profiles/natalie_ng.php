@@ -156,9 +156,9 @@
                 <span class="d-flex align-items-start">
 
                   <div class="ml-2">
-                    <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>3pm - 8pm</p>
+                    <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>10am - 8pm</p>
                     <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>10am - 8pm</p>
-                    <p class="text-dark"><strong>Thurs:</strong><span class="ml-3"></span>10am - 8pm</p>
+                    <p class="text-dark"><strong>Thurs:</strong><span class="ml-3"></span>3pm - 8pm</p>
                     <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>10am - 5pm</p>
                   </div>
                 </span>
