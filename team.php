@@ -349,6 +349,22 @@
           <!-- End Item -->
 
           <!-- Item -->
+          <div class="cbp-item physio">
+            <a class="cbp-caption" href="profiles/nancy_lu">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/nancy_lu.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/nancy_lu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/nancy_lu.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/nancy_lu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Nancy Lu - Physiotherapist">
+            </a>
+              <div class="py-3">
+                <a href="profiles/nancy_lu">
+                  <h4 class="h6 text-dark mb-0">Nancy Lu</h4>
+                </a>
+                <p class="small mb-0">
+                  Physiotherapist<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
           <div class="cbp-item">
             <a class="cbp-caption" href="careers">
               <img class="rounded p-2 responsively-lazy" style="border: #00C3DC 3px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/new_hire.png" alt="We are Hiring">

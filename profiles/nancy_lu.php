@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Kevin Hong | Chiropractor | Nexus Massage & Rehab at Yonge & Eglinton</title>
+  <title>Nancy Lu (Physio) | Physiotherapist | Nexus Massage & Rehab at Yonge & Eglinton | (647) 557-6267</title>
 
-  <meta name="Description" content="Meet our team! Kevin Hong is a Chiropractor at our Yonge & Eglinton clinic who specializes in chiropractic care, rehabilitation exercises & acupuncture. ">
-  <meta name="keywords" content="Chiropractic, chiropractor, chiro, deep massage, rehabilitation, exercise, orthotics, acupuncture, doctor, trigger point, neck pain, back pain, headaches, adjustments, posture, alignment, spine alignment, proper posture, the best chiropractor at yonge and eglinton, expert in spine, pinched nerve, Chronic neck pain, chronic back pain, spine pain, best back pain relief, lower back pain relief, lumbar spine, back strain, herniated disc, neck problems, sore neck, backache, back injury">
+  <meta name="Description" content="Learn about the staff at Nexus Massage & Rehab. Nancy Lu specializes in physiotherapy, rehabilitation & more at our Yonge & Eglinton clinic. Learn more!">
+  <meta name="keywords" content="Patrick, Dungao, Physiotherapy, rehabilitation, strength, fitness, disability, injuries, exercise, frozen shoulder, knee pain, shoulder pain. shin splints, training, carpal tunnel, tennis elbow, meniscus tear, rotator cuff, strain, sprain, exercises, rehab, physio, endurance, recover, recovery, strengthening, physiotherapist, the best physiotherapist, physio at yonge and eglinton, rehab exercises, physio at yonge and eglinton">
 
   <!-- Common Header -->
   <?php include('../includes/common-header.php') ?>
@@ -44,21 +44,21 @@
           <div class="animated bounceIn">
           <!-- Info -->
           <div class="mb-4">
-            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">DR. KEVIN HONG</h1>
+            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">Nancy Lu</h1>
           </div>
 
           <ul class="list-inline">
             <li class="list-inline-item">
-              <a class="u-text-light" href="mailto:kevin@nexushealthclinic.com">
+              <a class="u-text-light" href="mailto:nancy@nexushealthclinic.com">
                 <span class="far fa-envelope mr-2"></span>
-                kevin@nexushealthclinic.com
+                nancy@nexushealthclinic.com
               </a>
             </li>
           </ul>
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kevin_hong.jpg" alt="Dr. Kevin Hong - Chiropractor">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/nancy_lu.jpg" alt="Nancy Lu - Physiotherapist">
           <!-- End Avatar -->
           </div>
         </div>
@@ -96,7 +96,7 @@
                   <a class="btn btn-block btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book/" target="_blank" onclick="handleClick('sidebarBtn');">Book Practitioner<span class="fa fa-angle-right ml-2"></span></a>
                   <br>
 
-                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:kevin@nexushealthclinic.com">
+                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:nancy@nexushealthclinic.com">
                     <span class="far fa-envelope mr-2"></span>
                     Send a Message
                   </a>
@@ -114,23 +114,15 @@
 
                 <!-- User -->
                 <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/chiro-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/physio-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                   <div>
-                    <a href="../service/chiropractic">
-                      <span class="d-block text-dark small font-weight-bold">Chiropractic Services</span>
+                    <a href="../service/physiotherapy">
+                      <span class="d-block text-dark small font-weight-bold">Physio Services</span>
                     </a>
                   </div>
                 </div>
                 <!-- End User -->
 
-                <!-- User -->
-                  <div class="card-header border-0 py-3 d-flex align-items-center">
-                    <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/acupuncture-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
-                    <div>
-                      <span class="d-block text-dark small font-weight-bold">Acupuncture</span>
-                    </div>
-                  </div>
-                <!-- End User -->
               </div>
             </div>
             <!-- End Contacts  -->
@@ -146,10 +138,7 @@
                 <span class="d-flex align-items-start">
 
                   <div class="ml-2">
-                    <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>10am - 8pm</p>
-                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>4pm - 8pm</p>
-                    <p class="text-dark"><strong>Fri:</strong><span class="ml-3"></span>10am - 8pm</p>
-                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>10am - 5pm</p>
+                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>10am - 7pm</p>
                   </div>
                 </span>
                 <!-- End User -->
@@ -161,15 +150,19 @@
           </div>
 
           <div class="col-lg-9">
-              <!-- Title -->
-              <div class="mb-3">
+            <!-- Title -->
+            <div class="mb-3">
                 <h5 class="text-primary font-weight-bold">Tell us about yourself?</h5>
               </div>
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am a licensed Chiropractor and acupuncture provider that graduated from the Canadian Memorial Chiropractic College (CMCC). Prior to my education at CMCC I majored in Health Sciences and minored in Psychology at Carleton University. Despite the long 9 years of education it took to become a chiropractor, I still love to learn new things both in and out of my field of expertise. I find that I’ve learned a lot through all of my conversations with my patients.</p>
-              <p>Outside of my education and love for healthcare, I am very passionate about music and sports. I’ve played guitar and a variety of other instruments for over 12 years now. I also spend my free time taking my dogs out to the dog park and playing a variety of racquet sports.</p>
+              <p>I graduated from Western University from the Masters of Physiotherapy program, where I focused my studies in orthopedics. I also graduated from the University of Toronto with an Honours Bachelor of Science degree, double majoring in Biological Sciences and Nutritional sciences. My strong background in Life Sciences has helped me elevate my clinical reasoning and develop a science-focused approach to my practice. I continued additional ongoing training in Manual Therapy, Soft Tissue Techniques, and Pelvic Floor Physiotherapy. </p>
+
+              <p>I am highly skilled in orthopedic assessment and treatment for all musculoskeletal conditions, with a focus on neck, low back, and shoulder injuries. I have a unique approach in assessment that allows me to find the root of the problem. My treatments are focused on hands-on therapy, one-on-one in clinic exercising, and customized home exercise program.</p>
+
+              <p>I am friendly, hardworking, and highly passionate about what I do. On my off hours, I like to garden and take care of my houseplants, go for long walks and discover new neighbourhoods, snowboard, and read about personal finances.</p>
+
               <!-- End Text -->
 
               <!-- Title -->
@@ -179,7 +172,9 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Although I enjoy treating all types of people and conditions, I enjoy treating office workers and athletes the most. Educating office workers how to optimally set up their work station to decrease the levels of muscle tension, headaches, neck pain, and back pain gives me a sense of fulfilment as I see these patients get better quickly. I also enjoy treating athletes because they are highly motivated to do the exercise programs I give them. Manual therapy is always a team effort between the patient and the manual therapist, so when I see patients sticking to their treatment plans, I know their recovery will go more smoothly.</p>
+              <p>The cases that I enjoy treating the most is low back dysfunction. I recognize that when my clients’ back issues are resolved, it significantly improves their quality of life. I love to educate my clients about the spine’s role as the scaffold and anchor for all movements of the body; without a stable base, movement cannot happen properly.</p>
+
+              <p>Additionally, I am an expert at addressing issues at the level of the spine as the primary cause of a lot of common conditions of the hip, knee and feet, even when my clients did not notice a problem with their back before.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -189,7 +184,11 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>The top 3 treatments I specialize in are, spinal and joint manual therapy, myofascial release therapy, and ergonomic assessments. In addition to these treatments, I also provide rehabilitative exercise programs and acupuncture treatments for those who require it.</p>
+              <p>Low back and pelvic pains, including chronic non-specific low back pain, disc injuries, sciatica type pains, acute back strains, postural dysfunctions, and SIJ dysfunctions.</p>
+
+              <p>Neck pain, including headaches caused by the neck, postural dysfunctions, whiplash disorders, torticollis, and concussion symptoms.</p>
+
+              <p>Pelvic floor dysfunction, including incontinence, painful intercourse, pelvic pain, pre-partum and post-partum rehab.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -199,7 +198,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Despite the fact that I usually see patients when they’re feeling their worst, I am proud of how I am able to make them feel better and happier by the time they leave the clinic. I am also proud of all of the patients who come back to tell me how much better they are doing after their treatments. That being said, please don’t hesitate to drop by to tell me how you’re doing.</p>
+              <p>I am most proud of continually challenging myself as a clinician. I continually reflect in my practice and strive to improve on my clinical reasoning and manual techniques. I am excellent in listening and responding to feedback from my clients. I am always seeking new opportunities to learn how to be better. I live by the saying, <em>“when something is becoming comfortable, make it uncomfortable.”</em></p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -209,25 +208,24 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>My greatest passion in life is to help people in pain get better. I continually research and learn new and effective techniques to help cure my patients of their pain. This way, I am able to provide every patient with a variety of treatment options that best suits them. Not only do I make your health my top priority, I also make great conversations along your journey to recovery.</p>
+              <p>Patients should choose me as their Physiotherapist instead of others in the Eglinton-Yonge area because I provide advanced hands-on care that is difficult to find anywhere else. I have adapted and transformed a unique set of manual skills that continues to be fine-tuned.</p>
+
+              <p>I am also a highly visual and kinesthetic individual by nature. This allows me to better analyze and understand movement maladaptations and deficiencies in my clients. Which in turn, allows me to accurately assess and fix the root of the problem, using advanced hands-on treatment techniques, and a highly personalized home exercise program.</p>
+
+              <p>Finally, I am a results-oriented clinician. I achieve this goal by actively listening and flexibly adapting to my client’s needs and goals. At the beginning of each session, I will ask my clients whether they are getting better, same or worse. I will then reassess and try to understand why they are progressing the way they are, and change the treatment plan accordingly. I provide my clients with a highly individualized progressive treatment plan that makes my clients feel like they will be able to achieve their goals in a timely manner.</p>
               <!-- End Text -->
 
-          </div>
+            </div>
 
-        </div>
+          </div>
 
       </div>
     </div>
     <!-- End Content Section -->
 
-    <!-- Social Section -->
     <div class="u-bg-light-blue-50 u-space-2-bottom">
       <div class="container">
-        <!-- Review Widget -->
-        <div class='embedsocial-reviews' data-ref="3a53103e4738465ac32ee7ef114eb17e91cddf05"></div>
-
-        <script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
-        <!-- End Review Widget -->
+        <div class='embedsocial-reviews' data-ref="8616e356b08e6e25abebf06af7a9addac1dc1397"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
       </div>
     </div>
 
