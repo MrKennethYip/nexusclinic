@@ -251,6 +251,15 @@
               </div>
               <!-- End Friends List -->
 
+            </div>
+          </div>
+          <!-- End Pricing 1 Section -->
+
+          <!-- Pricing 1 Section -->
+          <div class="container">
+            <!-- Conditions Section -->
+            <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-2-bottom">
+
               <!-- Friends List -->
               <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
                 <div class="card-body p-3">
@@ -281,15 +290,6 @@
                 </div>
               </div>
               <!-- End Friends List -->
-
-            </div>
-          </div>
-          <!-- End Pricing 1 Section -->
-
-          <!-- Pricing 1 Section -->
-          <div class="container">
-            <!-- Conditions Section -->
-            <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-2-bottom">
 
               <!-- Friends List -->
               <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
