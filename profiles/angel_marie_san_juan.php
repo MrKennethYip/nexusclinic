@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Kyle Ngo | Registered Massage Therapist | Nexus Massage</title>
+  <title>Angel Marie San Juan (RMT) | Nexus Massage & Rehab | (647) 557-6267</title>
 
-  <meta name="Description" content="Meet our team! Kyle Ngo is a massage therapist at our Yonge & Eglinton clinic who specializes in Myofascial release, deep tissue & exercise prescription.">
-  <meta name="keywords" content="Kyle Ngo, Kyle, Ngo, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
+  <meta name="Description" content="Learn about the team at Nexus Massage & Rehab. Angel Marie San Juan specializes in massage therapy & lower back pain at our Yonge & Eglinton clinic. Learn more!">
+  <meta name="keywords" content="Angel Marie San Juan, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
 
   <!-- Common Header -->
   <?php include('../includes/common-header.php') ?>
@@ -44,21 +44,21 @@
           <div class="animated bounceIn">
           <!-- Info -->
           <div class="mb-4">
-            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">KYLE NGO</h1>
+            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">ANGEL MARIE SAN JUAN</h1>
           </div>
 
           <ul class="list-inline">
             <li class="list-inline-item">
-              <a class="u-text-light" href="mailto:kyle@nexushealthclinic.com">
+              <a class="u-text-light" href="mailto:marie@nexushealthclinic.com">
                 <span class="far fa-envelope mr-2"></span>
-                kyle@nexushealthclinic.com
+                marie@nexushealthclinic.com
               </a>
             </li>
           </ul>
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kyle_ngo.jpg" alt="Kyle Ngo - Registered Massage Therapist">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/angel_marie_san_juan.jpg" alt="Angel Marie San Juan - Profile">
           <!-- End Avatar -->
           </div>
         </div>
@@ -83,6 +83,8 @@
     </div>
     <!-- End Author Section -->  
 
+
+
     <!-- Content Section -->
     <div class="u-bg-light-blue-50">
       <div class="container u-space-2">
@@ -96,7 +98,7 @@
                   <a class="btn btn-block btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book/" target="_blank" onclick="handleClick('sidebarBtn');">Book Practitioner<span class="fa fa-angle-right ml-2"></span></a>
                   <br>
 
-                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:kyle@nexushealthclinic.com">
+                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:marie@nexushealthclinic.com">
                     <span class="far fa-envelope mr-2"></span>
                     Send a Message
                   </a>
@@ -138,9 +140,7 @@
                 <span class="d-flex align-items-start">
 
                   <div class="ml-2">
-                    <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>11am - 8pm</p>
-                    <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>10am - 9pm</p>
-                    <p class="text-dark"><strong>Fri:</strong><span class="ml-3"></span>10am - 9pm</p>
+                    <p class="text-dark"><strong>Mon-Wed:</strong><span class="ml-3"></span>10am - 9pm</p>
                     <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>10am - 7pm</p>
                   </div>
                 </span>
@@ -160,9 +160,10 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am a Registered Massage Therapist from Sutherland-Chan School of Massage Therapy. I have always been interested in health care which led me to pursue my Bachelor of Arts in Kinesiology and Health Sciences from York University. Through being involved in various sports and learning about health and fitness and athletic injuries, I chose Massage Therapy as a career to better educate myself in helping others.</p>
+              <p>Before starting my journey into the world of massage therapy and rehabilitation, I obtained a degree in Human Biology: Health and Disease from the University of Toronto, with Distinction. After working in the corporate world for a few years, I took a big leap and followed my passion of helping people through movement and therapy. I graduated from Sutherland-Chan College of Massage Therapy and am currently a member in good standing with the CMTO. I am also a certified Fascial Stretch Therapist Level 1 with the Stretch to Win Institute.</p>
 
-              <p>Outside the clinic, I compete with my dragon boat team as well as coach my former university team. You can also find me working out at the gym, spending time with family and friends, and occasionally catching a Raptors or Leafs game.</p> 
+              <p>In my spare time, I am a recreational powerlifter, baker and an avid foodie. I enjoy learning Latin dance (salsa and bachata), playing pickup soccer and petting any and all dogs that pass within my vicinity.</p>
+
               <!-- End Text -->
 
               <!-- Title -->
@@ -172,7 +173,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Every case is a learning experience for me no matter if you are a regular athlete, weekend warrior, or someone who just needs maintenance for everyday tasks. I make sure I approach each case by targeting the root cause of the pain or limitation and educating my clients to ensure they are fully informed and have the tools necessary when leaving the clinic.</p>
+              <p>I enjoy treating musculoskeletal cases, in which patients have a movement or sport-related activity that they want to return to. I enjoy helping assess movement patterns and identify and treat muscular imbalances, so that patients can return to movement pain-free. In particular, I enjoy working with athletes, weight lifters, and patients who enjoy deeper pressure.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -182,8 +183,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I like to use myofascial release as well as trigger point therapy in my treatments. I find these methods helpful in reducing muscle resting tension, pain, and improving range of motion.</p>
-              <p>I also like incorporating dynamic release techniques in my treatments. Dynamic release uses active and passive movements to treat different muscles. These techniques can also be similarly replicated into self-care routines to ensure wellness outside of the clinic and prolong the effectiveness of each treatment.</p>
+              <p>Although I have many techniques in my toolkit, I often use myofascial release and trigger point therapy to help correct any imbalances and aberrant movement patterns. I also use static and dynamic cupping coupled with movement to help restore range of motion in restricted areas. During sports style treatments, I often use Fascial Stretch Therapy to increase range of motion when indicated.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -193,7 +193,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>My goal with every client is to help them better understand their bodies and provide them the tools necessary to achieve their treatment goals. Client education is an important part of my practice and I feel proud when a client tells me that my work has made a difference in their life.</p>
+              <p>I take pride when my global approach to assessment, therapy and recovery allows my patients to move and feel better. I am especially proud when my patients become actively involved in their well-being, through understanding the importance of movement and self-care, which are key in helping maintain progress gained from manual therapy.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -203,7 +203,9 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am always driven to finding the answer to any problem at hand. I make sure I listen to every detail and draw from my education and experience in healthcare to deliver an effective treatment plan for recovery and provide the resources for a healthy pain-free lifestyle.</p>
+              <p>Prior to entering the world of massage therapy and healing, I had a special appreciation for movement and healing through my love of powerlifting. Having sustained an injury in the past that prevented me from moving pain-free, both in the office and in the gym, I understand how intertwined physical and mental wellbeing can be.</p>
+
+              <p>Through my own journey in recovering, I discovered the power of healing through therapeutic manual treatments, and appropriate remedial exercises, coupled with a global approach to assessment rather than focusing on single joints or areas of pain. I developed a passion for rehabilitation and helping others attain pain-free movement, through therapeutic treatments and education, and I actively listen to patients to truly understand their goals and help them achieve them.</p>
               <!-- End Text -->
 
           </div>
@@ -218,9 +220,9 @@
     <div class="u-bg-light-blue-50 u-space-2-bottom">
       <div class="container">
         <!-- Review Widget -->
-        <div class='embedsocial-reviews' data-ref="f8d52c301e11304b7836b9e05d1add91f3158957"></div>
+        
+        <div class='embedsocial-reviews' data-ref="15f7425b8ff9801973e6e9246da9359d0412c2f9"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
 
-        <script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
         <!-- End Review Widget -->
       </div>
     </div>

@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Kyle Ngo | Registered Massage Therapist | Nexus Massage</title>
+  <title>Courtney Mahoney | Physiotherapist | Nexus Massage & Rehab at Yonge & Eglinton</title>
 
-  <meta name="Description" content="Meet our team! Kyle Ngo is a massage therapist at our Yonge & Eglinton clinic who specializes in Myofascial release, deep tissue & exercise prescription.">
-  <meta name="keywords" content="Kyle Ngo, Kyle, Ngo, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
+  <meta name="Description" content="Learn about the staff at Nexus Massage & Rehab. Courtney Mahoney specializes in physiotherapy, rehabilitation & more at our Yonge & Eglinton clinic. Learn more!">
+  <meta name="keywords" content="Courtney, Mahoney, Physiotherapy, rehabilitation, strength, fitness, disability, injuries, exercise, frozen shoulder, knee pain, shoulder pain. shin splints, training, carpal tunnel, tennis elbow, meniscus tear, rotator cuff, strain, sprain, exercises, rehab, physio, endurance, recover, recovery, strengthening, physiotherapist, the best physiotherapist, physio at yonge and eglinton, rehab exercises, physio at yonge and eglinton">
 
   <!-- Common Header -->
   <?php include('../includes/common-header.php') ?>
@@ -44,21 +44,21 @@
           <div class="animated bounceIn">
           <!-- Info -->
           <div class="mb-4">
-            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">KYLE NGO</h1>
+            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">COURTNEY MAHONEY</h1>
           </div>
 
           <ul class="list-inline">
             <li class="list-inline-item">
-              <a class="u-text-light" href="mailto:kyle@nexushealthclinic.com">
+              <a class="u-text-light" href="mailto:courtney@nexushealthclinic.com">
                 <span class="far fa-envelope mr-2"></span>
-                kyle@nexushealthclinic.com
+                courtney@nexushealthclinic.com
               </a>
             </li>
           </ul>
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kyle_ngo.jpg" alt="Kyle Ngo - Registered Massage Therapist">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/courtney_mahoney.jpg" alt="Courtney Mahoney - Physiotherapist">
           <!-- End Avatar -->
           </div>
         </div>
@@ -81,7 +81,7 @@
       </div>
 
     </div>
-    <!-- End Author Section -->  
+    <!-- End Author Section -->    
 
     <!-- Content Section -->
     <div class="u-bg-light-blue-50">
@@ -96,7 +96,7 @@
                   <a class="btn btn-block btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book/" target="_blank" onclick="handleClick('sidebarBtn');">Book Practitioner<span class="fa fa-angle-right ml-2"></span></a>
                   <br>
 
-                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:kyle@nexushealthclinic.com">
+                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:courtney@nexushealthclinic.com">
                     <span class="far fa-envelope mr-2"></span>
                     Send a Message
                   </a>
@@ -114,15 +114,15 @@
 
                 <!-- User -->
                 <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/massage-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/physio-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                   <div>
-                    <a href="../service/massage">
-                      <span class="d-block text-dark small font-weight-bold">Registered Massage Therapy</span>
+                    <a href="../service/physiotherapy">
+                      <span class="d-block text-dark small font-weight-bold">Physio Services</span>
                     </a>
                   </div>
                 </div>
                 <!-- End User -->
-                
+
               </div>
             </div>
             <!-- End Contacts  -->
@@ -138,10 +138,8 @@
                 <span class="d-flex align-items-start">
 
                   <div class="ml-2">
-                    <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>11am - 8pm</p>
-                    <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>10am - 9pm</p>
-                    <p class="text-dark"><strong>Fri:</strong><span class="ml-3"></span>10am - 9pm</p>
-                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>10am - 7pm</p>
+                    <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>11am - 9pm</p>
+                    <p class="text-dark"><strong>Thurs:</strong><span class="ml-3"></span>11am - 9pm</p>
                   </div>
                 </span>
                 <!-- End User -->
@@ -160,9 +158,11 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am a Registered Massage Therapist from Sutherland-Chan School of Massage Therapy. I have always been interested in health care which led me to pursue my Bachelor of Arts in Kinesiology and Health Sciences from York University. Through being involved in various sports and learning about health and fitness and athletic injuries, I chose Massage Therapy as a career to better educate myself in helping others.</p>
+              <p>I grew up in a small town in Nova Scotia and graduated from Dalhousie University, in 2018 with a Master of Science in Physiotherapy. Preceding my MScPT, I received a BSc in Human Kinetics from St. Francis Xavier University in 2015.</p>
 
-              <p>Outside the clinic, I compete with my dragon boat team as well as coach my former university team. You can also find me working out at the gym, spending time with family and friends, and occasionally catching a Raptors or Leafs game.</p> 
+              <p>I grew up playing a variety of competitive sports, which fostered an interest in the connection between the human body, physical function and human movement. This interest organically lead me to pursue a career in Physiotherapy. Today, I use my background in competitive sports to aid in building sport specific exercise programs. Whether you need to improve your speed, agility, power, flexibility, strength, balance, coordination, endurance or accuracy, I will ensure you are provided with sport specific programs personalized and tailored to improve your performance and prevent future injuries.</p>
+
+              <p>I have continued my passion for sports and I currently enjoy playing a variety of sports including soccer, softball and beach volleyball. I am an avid hockey player and a true Toronto sports fan.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -172,7 +172,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Every case is a learning experience for me no matter if you are a regular athlete, weekend warrior, or someone who just needs maintenance for everyday tasks. I make sure I approach each case by targeting the root cause of the pain or limitation and educating my clients to ensure they are fully informed and have the tools necessary when leaving the clinic.</p>
+              <p>I enjoy treating a variety of musculoskeletal, soft tissue and myofascial conditions. I have a true passion for treating athletic or activity-induced injuries but also enjoy treating many spinal conditions and shoulder pain due to ergonomic and postural issues. You can feel confident that I will do whatever I can to help you get back to your ultimate self.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -182,8 +182,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I like to use myofascial release as well as trigger point therapy in my treatments. I find these methods helpful in reducing muscle resting tension, pain, and improving range of motion.</p>
-              <p>I also like incorporating dynamic release techniques in my treatments. Dynamic release uses active and passive movements to treat different muscles. These techniques can also be similarly replicated into self-care routines to ensure wellness outside of the clinic and prolong the effectiveness of each treatment.</p>
+              <p>You can expect a combination of education, manual therapy (hands-on treatment) and individualized exercises during your rehabilitation. I also practice dry needling to treat a variety of musculoskeletal, myofascial syndromes and soft tissue injuries.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -193,7 +192,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>My goal with every client is to help them better understand their bodies and provide them the tools necessary to achieve their treatment goals. Client education is an important part of my practice and I feel proud when a client tells me that my work has made a difference in their life.</p>
+              <p>I am proud to be able to achieve real results with my patients. The key to this success has been my ability to build a strong relationship with patients. My background in competitive sports and experience with many injuries, allows me to empathize with my patients through these shared experiences. My goal is to make you feel comfortable and confident in my ability to treat your condition and your ability to manage your condition independently.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -203,7 +202,9 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am always driven to finding the answer to any problem at hand. I make sure I listen to every detail and draw from my education and experience in healthcare to deliver an effective treatment plan for recovery and provide the resources for a healthy pain-free lifestyle.</p>
+              <p>My treatment philosophy encourages patients to be active participants in their rehabilitation by providing them the knowledge, guidance and resources to ensure long term resolution of a wide array of injuries and conditions.</p>
+
+              <p>I am committed to furthering my clinical skills to provide the most accurate, up-to-date and advanced therapy for my patients with the goal of long term resolution of your condition.</p>
               <!-- End Text -->
 
           </div>
@@ -214,14 +215,11 @@
     </div>
     <!-- End Content Section -->
 
-    <!-- Social Section -->
     <div class="u-bg-light-blue-50 u-space-2-bottom">
       <div class="container">
-        <!-- Review Widget -->
-        <div class='embedsocial-reviews' data-ref="f8d52c301e11304b7836b9e05d1add91f3158957"></div>
+        
+        <div class='embedsocial-reviews' data-ref="ff9d7d005c598ce1de93bf2e40623d22d9d97c65"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
 
-        <script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
-        <!-- End Review Widget -->
       </div>
     </div>
 
@@ -235,6 +233,6 @@
   <!-- Common Footer -->
   <?php include('../includes/common-footer.php') ?>
   <!-- End Common Footer -->
-
+  
 </body>
 </html>
