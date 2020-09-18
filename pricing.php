@@ -57,6 +57,7 @@
                           <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$140 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$200 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -92,6 +93,7 @@
                           <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$185 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$260 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content -->
@@ -120,6 +122,7 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
+                          <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
                           <li class="u-pricing-v2__list-item py-1">Initial Appointment - <strong>$120</strong></li>
                           <li class="u-pricing-v2__list-item py-1">20 Min Follow-Up - <strong>$65</strong></li>
                           <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$80</strong></li>
@@ -283,13 +286,13 @@
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Initial Appointment - <strong>$120</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$100</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Appointment - <strong>$120 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$100 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$120 + HST</strong></li>
                           <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
-                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Appointment - <strong>$120</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <strong>$65</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 45 min Follow-Up - <strong>$100</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Appointment - <strong>$120 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <strong>$65 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual 45 min Follow-Up - <strong>$100 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="small text-muted py-1"><strong>**Osteopathy does not qualify for <br>direct billing**</strong><br><br>Please refer to your insurance provider for coverage. Please note that we are unable to accept insurance coverage from <u>Canada Life (formerly Great West Life)</u> and <u>Group Health</u> at this time.</li>
                         </ul>
