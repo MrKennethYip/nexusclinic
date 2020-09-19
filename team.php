@@ -456,7 +456,7 @@
             <div class="py-3">
               <h4 class="h6 text-dark mb-0">Ericha Regio</h4>
               <p class="small mb-0">
-                Clinic Administrator<br><br>
+                Community Manager<br><br>
               </p>
             </div>
           </div>
