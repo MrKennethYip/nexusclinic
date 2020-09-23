@@ -342,7 +342,7 @@
                   <h4 class="h6 text-dark mb-0">Kenneth Huang</h4>
                 </a>
                 <p class="small mb-0">
-                  Registered Massage Therapist<br><br>
+                  Registered Massage Therapist<br><br><br>
                 </p>
               </div>
           </div>
@@ -358,7 +358,7 @@
                   <h4 class="h6 text-dark mb-0">Nancy Lu</h4>
                 </a>
                 <p class="small mb-0">
-                  Physiotherapist<br><br>
+                  Physiotherapist<br>Pelvic Health Physiotherapist<br><br>
                 </p>
               </div>
           </div>
@@ -374,7 +374,7 @@
                   <h4 class="h6 text-dark mb-0">Courtney Mahoney</h4>
                 </a>
                 <p class="small mb-0">
-                  Physiotherapist<br><br>
+                  Physiotherapist<br><br><br>
                 </p>
               </div>
           </div>
@@ -390,7 +390,7 @@
                   <h4 class="h6 text-dark mb-0">Angel Marie San Juan</h4>
                 </a>
                 <p class="small mb-0">
-                  Registered Massage Therapist<br><br>
+                  Registered Massage Therapist<br><br><br>
                 </p>
               </div>
           </div>
