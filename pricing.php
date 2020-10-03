@@ -44,18 +44,18 @@
                   <div class="text-center">
                     <div class="media-body p-1">
                       <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold">RMT MASSAGE</strong><br><br>
+                        <strong class="font-weight-bold">RMT<br> MASSAGE</strong>
                       </h2>
                       <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$60 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$75 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$95 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$115 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$140 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$200 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$65 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$80 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$100 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$120 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$145 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$210 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
@@ -86,12 +86,12 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$90 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$105 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$125 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$160 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$185 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$260 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$95 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$110 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$130 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$165 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$190 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$270 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
@@ -123,13 +123,13 @@
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Initial Appointment - <strong>$120</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">20 Min Follow-Up - <strong>$65</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$80</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">20 Min Follow-Up - <strong>$70</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$90</strong></li>
                           <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
-                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Appointment - <strong>$120</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <strong>$65</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <strong>$80</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">20 Min Virtual Follow-Up - <strong>$70</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">40 Min Virtual Follow-Up - <strong>$90</strong></li>
                         </ul>
                       </div>
                       <!-- End Content -->
@@ -160,21 +160,21 @@
                   <div class="text-center">
                     <div class="media-body p-1">
                       <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold">PHYSIOTHERAPY</strong><br><br>
+                        <strong class="font-weight-bold">PHYSIOTHERAPY</strong>
                       </h2>
                       <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Initial Appointment - <strong>$120</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">20 Min Follow-Up - <strong>$65</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$80</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$100</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">20 Min Follow-Up - <strong>$70</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$90</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$120</strong></li>
                           <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
-                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Appointment - <strong>$120</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <strong>$65</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 40 min Follow-Up - <strong>$80</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">20 Min Virtual Follow-Up - <strong>$70</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">40 Min Virtual Follow-Up - <strong>$90</strong></li>
                         </ul>
                       </div>
                       <!-- End Content -->  
@@ -197,21 +197,20 @@
                   <div class="text-center">
                     <div class="media-body p-1">
                       <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold">ACUPUNCTURE</strong><br><br>
+                        <strong class="font-weight-bold">ACUPUNCTURE</strong>
                       </h2>
                       <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Initial Appointment - <strong>$120</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$90</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$100</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">75 Min Follow-Up - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">30 Min Herb & Nutrition<br> Appointment - <strong>$75</strong></li>
                           <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">30 Min Virtual Herb & Nutrition Appointment - <strong>$75</strong></li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -234,7 +233,7 @@
                   <div class="text-center">
                     <div class="media-body p-1">
                       <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold">CUSTOM ORTHOTICS</strong>
+                        <strong class="font-weight-bold">ORTHOTICS</strong>
                       </h2>
                       <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
@@ -242,12 +241,11 @@
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">Custom Orthotics - <strong>$500</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="small text-muted py-1"><strong>Ask your insurance provider the following:</strong></li>
                           <li class="small text-muted py-1">(1) Do I need a medical prescription for reimbursement? (2) Can a chiropractor dispense my orthotics?</li>
                           <li class="small text-muted py-1"><em>**Orthotics do not qualify for direct billing**</em></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-3">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -279,20 +277,19 @@
                   <div class="text-center">
                     <div class="media-body p-1">
                       <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold">OSTEOPATHY</strong><br><br>
+                        <strong class="font-weight-bold">OSTEOPATHY</strong>
                       </h2>
                       <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Initial Appointment - <strong>$120 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$120 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$100 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$120 + HST</strong></li>
                           <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
-                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Appointment - <strong>$120 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 20 min Follow-Up - <strong>$65 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Virtual 45 min Follow-Up - <strong>$100 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$120 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Virtual Follow-Up - <strong>$100 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="small text-muted py-1"><strong>**Osteopathy does not qualify for <br>direct billing**</strong><br><br>Please refer to your insurance provider for coverage. Please note that we are unable to accept insurance coverage from <u>Canada Life (formerly Great West Life)</u> and <u>Group Health</u> at this time.</li>
                         </ul>

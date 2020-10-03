@@ -393,12 +393,12 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$60 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$75 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$95 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$115 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$140 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$200 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$65 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$80 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$100 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$120 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$145 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$210 + HST</strong></li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -427,12 +427,12 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$90 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$105 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$125 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$160 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$185 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$260 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$95 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$110 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$130 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$165 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$190 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$270 + HST</strong></li>
                         </ul>
                       </div>
                       <!-- End Content -->

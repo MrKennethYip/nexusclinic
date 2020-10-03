@@ -376,7 +376,7 @@
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Initial Appointment - <strong>$120 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$120 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$100 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$120 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
@@ -397,39 +397,6 @@
               </div>
               <!-- End Friends List -->
 
-              <!-- Friends List -->
-              <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
-                <div class="card-body p-3">
-                  <div class="text-center">
-                    <div class="media-body p-1">
-                      <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold text-white">CRANIAL SACRAL<br>THERAPY</strong><br>
-                      </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
-                      <!-- Content -->
-                      <div class="u-space-1-top">
-                        <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$100</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$120</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="small py-1 text-white"><strong>**Osteopathy does not qualify for <br>direct billing**</strong><br><br>Please refer to your insurance provider for coverage. Please note that we are unable to accept insurance coverage from <u>Great West Life</u> and <u>Group Health</u> at this time.</li>
-                        </ul>
-                      </div>
-                      <!-- End Content -->
-                    </div>
-                  </div>
-
-                  <HR>
-
-                  <div class="media-body p-3 text-center">
-                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Osteopath<span class="fa fa-angle-right ml-2"></span></button></a>
-                  </div>
-
-                </div>
-              </div>
-              <!-- End Friends List -->
             </div>
           </div>
           <!-- End Pricing 1 Section -->

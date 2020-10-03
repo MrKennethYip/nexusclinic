@@ -354,14 +354,17 @@
                   <div class="text-center">
                     <div class="media-body p-1">
                       <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold text-white">CUSTOM ORTHOTICS</strong>
+                        <strong class="font-weight-bold text-white">ORTHOTICS</strong>
                       </h2>
                       <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">Custom Orthotics Assessment - <strong>$250</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Orthotics Fitting & Pickup - <strong>$250</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Custom Orthotics - <strong>$500</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="small text-white py-1"><strong>Ask your insurance provider the following:</strong></li>
+                          <li class="small text-white py-1">(1) Do I need a medical prescription for reimbursement? (2) Can a chiropractor dispense my orthotics?</li>
+                          <li class="small text-white py-1"><em>**Orthotics do not qualify for direct billing**</em></li>
                         </ul>
                       </div>
                       <!-- End Content --> 
