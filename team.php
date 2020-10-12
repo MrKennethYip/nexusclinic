@@ -44,6 +44,16 @@
 
     </div>
     <!-- End Hero Section -->
+      
+    <!-- Red Promo Banner -->
+    <div class="text-white text-center" style="background-color:#FC4237">
+      <div class="container p-3 post">
+        <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
+           Join our <u>BUSY</u> clinic - Learn about our team and perks!<span class="ml-5"><a class="btn btn-light transition-3d-hover btn-sml" href="careers" role="button">Learn More <span class="fa fa-angle-right font-size-18 ml-2"></span></a>
+        </span>
+      </div>
+    </div>
+    <!-- End Red Promo Banner -->
     
     <!-- Portfolio 1 Section -->
     <div class="container u-space-2">
