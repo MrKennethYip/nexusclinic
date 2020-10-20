@@ -1255,7 +1255,7 @@
                 }
               }
             ]
-          }
+          },
           {
             "@type": "OfferCatalog",
             "name": "OSTEOPATHY: CRANIAL SACRAL THERAPY",
