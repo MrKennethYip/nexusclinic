@@ -101,7 +101,7 @@
 
               <div class="col-lg-7 position-relative">
                 <div id="video" class="u-video-player">
-                  <img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-telehealth.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-telehealth.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-telehealth.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/lrg/services-telehealth.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Telehealth Services - Virtual Appointment">
+                  <a href="service/telehealth"><img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-telehealth.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-telehealth.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-telehealth.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/lrg/services-telehealth.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Telehealth Services - Virtual Appointment"></a>
 
                   <div class="embed-responsive embed-responsive-16by9">
                     <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -143,7 +143,7 @@
 
           <div class="col-lg-7 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-massage.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-massage.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-massage.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/lrg/services-massage.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Deep Tissue - Registered Massage Therapist - Neck and Shoulders">
+              <a href="service/massage"><img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-massage.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-massage.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-massage.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/lrg/services-massage.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Deep Tissue - Registered Massage Therapist - Neck and Shoulders"></a>
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -189,7 +189,7 @@
 
           <div class="col-lg-7 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-hot_stone.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-hot_stone.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-hot_stone.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/lrg/services-hot_stone.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Hot Stone - Massage - Relaxation and Tension Release">
+              <a href="service/massage"><img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-hot_stone.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-hot_stone.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-hot_stone.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/lrg/services-hot_stone.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Hot Stone - Massage - Relaxation and Tension Release"></a>
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -234,7 +234,7 @@
 
           <div class="col-lg-7 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-chiro.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-chiro.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-chiro.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/lrg/services-chiro.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Chiropractic Treatment - Back and Shoulders - Adjustment">
+              <a href="service/chiropractic"><img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-chiro.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-chiro.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-chiro.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/lrg/services-chiro.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Chiropractic Treatment - Back and Shoulders - Adjustment"></a>
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -279,7 +279,7 @@
 
           <div class="col-lg-7 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-physio.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-physio.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-physio.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/lrg/services-physio.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Physiotherapist adjusts patients knee, rehabilitates patient body">
+              <a href="service/physiotherapy"><img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-physio.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-physio.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-physio.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/lrg/services-physio.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Physiotherapist adjusts patients knee, rehabilitates patient body"></a>
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -324,7 +324,7 @@
 
           <div class="col-lg-7 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-acupuncture.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-acupuncture.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-acupuncture.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/lrg/services-acupuncture.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Acupuncture - Improved Health - Needles - Back Treatment">
+              <a href="service/acupuncture"><img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-acupuncture.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-acupuncture.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-acupuncture.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/lrg/services-acupuncture.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Acupuncture - Improved Health - Needles - Back Treatment"></a>
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -369,7 +369,7 @@
 
           <div class="col-lg-7 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-osteopathy.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-osteopathy.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-osteopathy.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/lrg/services-osteopathy.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Osteopathy - Stomach Treatment">
+              <a href="service/osteopathy"><img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-osteopathy.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-osteopathy.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-osteopathy.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/lrg/services-osteopathy.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Osteopathy - Stomach Treatment"></a>
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -414,7 +414,7 @@
 
           <div class="col-lg-7 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-custom_orthotics.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-custom_orthotics.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-custom_orthotics.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/services/lrg/services-custom_orthotics.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Chiropractic Treatment - Back and Shoulders - Adjustment">
+              <a href="service/orthotics"><img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-custom_orthotics.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-custom_orthotics.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-custom_orthotics.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/services/lrg/services-custom_orthotics.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Chiropractic Treatment - Back and Shoulders - Adjustment"></a>
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
