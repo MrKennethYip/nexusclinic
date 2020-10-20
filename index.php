@@ -1049,7 +1049,14 @@
                   "@type": "Service",
                   "name": "40 Min Follow Up"
                 }
-              }
+              },
+             {
+               "@type": "Offer",
+               "itemOffered": {
+                 "@type": "Service",
+                 "name": "60 Min Follow Up"
+               }
+             }
             ]
           },
           {
@@ -1199,7 +1206,14 @@
                   "@type": "Service",
                   "name": "60 Min Follow Up"
                 }
-              }
+              },
+             {
+               "@type": "Offer",
+               "itemOffered": {
+                 "@type": "Service",
+                 "name": "75 Min Follow Up"
+               }
+             }
             ]
           },
           {
@@ -1210,18 +1224,11 @@
                 "@type": "Offer",
                 "itemOffered": {
                   "@type": "Service",
-                  "name": "Custom Orthotics Assessment"
-                }
-              },
-              {
-                "@type": "Offer",
-                "itemOffered": {
-                  "@type": "Service",
-                  "name": "Orthotics Fitting & Pickup"
+                  "name": "Custom Orthotics"
                 }
               }
             ]
-          }
+          },
           {
             "@type": "OfferCatalog",
             "name": "OSTEOPATHY",
