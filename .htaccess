@@ -5,14 +5,29 @@ RewriteEngine On
 RewriteCond %{SERVER_PORT} 80
 RewriteRule ^(.*)$ https://nexushealthclinic.com/$1 [R=301,L]
 
-<IfModule mod_rewrite.c> 
+# ----------------------------------------------------------------------
+# Webfont access
+# ----------------------------------------------------------------------
+# Allow access from all domains for webfonts.
+# Alternatively you could only whitelist your
+# subdomains like "subdomain.example.com".
+<IfModule mod_headers.c>
+  <FilesMatch "\.(ttf|ttc|otf|eot|woff|woff2|font.css|css|js)$">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+</IfModule>
+# ----------------------------------------------------------------------
+# Webfont access end
+# ----------------------------------------------------------------------
+
+<IfModule mod_rewrite.c>
 Options +FollowSymLinks -MultiViews
 
-RewriteEngine On 
+RewriteEngine On
 RewriteBase /
 
 #removing trailing slash
-RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
 RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
 RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
@@ -28,16 +43,16 @@ RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ 
 RewriteRule .? http://%1%{REQUEST_URI} [R=301,L]
 
 #php
-RewriteCond %{REQUEST_FILENAME} !-f 
-RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
 RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
 RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
 RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
-#index redirect 
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/ 
+#index redirect
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/
 RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
 RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
 RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
@@ -48,5 +63,17 @@ RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
 RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
 RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
 RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
-RewriteRule ^(.*)\.php$ /$1 [R=301,L] 
+RewriteRule ^(.*)\.php$ /$1 [R=301,L]
 </IfModule>
+
+RewriteCond %{HTTP_HOST} ^nexushealthclinic\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nexushealthclinic\.com$
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^telehealth\/?(.*)$ "http\:\/\/nexushealthclinic\.com\/service\/telehealth$1" [R=301,L]
+RewriteCond %{HTTP_HOST} ^nexushealthclinic\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.nexushealthclinic\.com$
+RewriteRule ^TCMFoods\/?(.*)$ "https\:\/\/nexushealthclinic\.com\/community\/foods\-for\-your\-tcm\-diagnoses" [R=301,L]
+
