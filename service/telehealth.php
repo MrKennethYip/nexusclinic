@@ -252,16 +252,7 @@
                 </div>
               </div>
               <!-- End Friends List -->
-
-            </div>
-          </div>
-          <!-- End Pricing 1 Section -->
-
-          <!-- Pricing 1 Section -->
-          <div class="container">
-            <!-- Conditions Section -->
-            <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-2-bottom">
-
+                
               <!-- Friends List -->
               <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
                 <div class="card-body p-3">
@@ -293,20 +284,31 @@
               </div>
               <!-- End Friends List -->
 
+            </div>
+          </div>
+          <!-- End Pricing 1 Section -->
+
+          <!-- Pricing 1 Section -->
+          <div class="container">
+            <!-- Conditions Section -->
+            <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-2-bottom">
+
               <!-- Friends List -->
               <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
                 <div class="card-body p-3">
                   <div class="text-center">
                     <div class="media-body p-1">
                       <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold text-white">ACUPUNCTURE</strong>
+                        <strong class="font-weight-bold text-white">ACUPUNCTURE</strong><br><br>
                       </h2>
                       <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">30 Min Virtual Herb and Nutrition Appointment - <strong>$75</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-3">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -317,6 +319,39 @@
 
                   <div class="media-body p-3 text-center">
                     <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Acupuncture<span class="fa fa-angle-right ml-2"></span></button></a>
+                  </div>
+
+                </div>
+              </div>
+              <!-- End Friends List -->
+                
+              <!-- Friends List -->
+              <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
+                <div class="card-body p-3">
+                  <div class="text-center">
+                    <div class="media-body p-1">
+                      <h2 class="p-1" style="color:#002A3A;">
+                        <strong class="font-weight-bold text-white">HERB & NUTRITION</strong>
+                      </h2>
+                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                      <!-- Content -->
+                      <div class="u-space-1-top">
+                        <ul class="list-unstyled">
+                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$90</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">30 Min Virtual Follow-Up - <strong>$75</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="small text-white py-1"><em>**Cannot be claimed under Acupuncture Insurance**</em></li>
+                          
+                        </ul>
+                      </div>
+                      <!-- End Content --> 
+                    </div>
+                  </div>
+
+                  <HR>
+
+                  <div class="media-body p-3 text-center">
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Nutrition Apt<span class="fa fa-angle-right ml-2"></span></button></a>
                   </div>
 
                 </div>
