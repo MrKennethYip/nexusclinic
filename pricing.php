@@ -285,7 +285,7 @@
                   <div class="text-center">
                     <div class="media-body p-1">
                       <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold">HERB & NUTRITION</strong>
+                        <strong class="font-weight-bold">HERBS & NUTRITION</strong>
                       </h2>
                       <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->

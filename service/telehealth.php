@@ -331,7 +331,7 @@
                   <div class="text-center">
                     <div class="media-body p-1">
                       <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold text-white">HERB & NUTRITION</strong>
+                        <strong class="font-weight-bold text-white">HERBS & NUTRITION</strong>
                       </h2>
                       <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
                       <!-- Content -->
@@ -341,7 +341,6 @@
                           <li class="u-pricing-v2__list-item py-1">30 Min Virtual Follow-Up - <strong>$75</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="small text-white py-1"><em>**Cannot be claimed under Acupuncture Insurance**</em></li>
-                          
                         </ul>
                       </div>
                       <!-- End Content --> 
