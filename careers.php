@@ -291,6 +291,20 @@
 			            </span>
 					</a>
 					<!-- End Job -->
+					<br>
+					<!-- Job -->
+					<a class="u-info-v1 p-4" href="/jobs/chiro">
+						<span class="row justify-content-sm-between align-items-sm-center">
+						  <span class="col-sm-6 mb-2 mb-sm-0">
+							<strong>Chiropractor</strong>
+						  </span>
+						  <span class="col-sm-6 text-primary text-sm-right">
+							Full Time / Part Time
+							<span class="fa fa-arrow-right small ml-2"></span>
+						  </span>
+						</span>
+					</a>
+					<!-- End Job -->
 				</li>
 			</ul>
 			
