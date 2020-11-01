@@ -37,6 +37,7 @@
 <script src="../assets/js/components/hs.show-animation.js"></script>
 <script src="../assets/js/components/hs.onscroll-animation.js"></script>
 <script src="../assets/js/components/hs.modal-window.js"></script>
+<script src="../assets/js/components/hs.unfold.js"></script>
 
 <!-- JS Plugins Init. -->
 <script>
