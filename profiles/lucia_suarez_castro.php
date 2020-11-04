@@ -158,7 +158,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I have more than 15 years of experience in alternative medicine in Mexico and Canada. I have studied and practiced massage therapy and homeopathy in both countries. In Mexico I also practiced herbal medicine, nutrition, biological medicine and acupuncture. In massage therapy I use different techniques from East and West to tailor each massage to the needs of the client. I am a good listener and I like to find the best way to help each patient to reach their goals in terms of health and happiness. I combine different techniques in each treatment to suit needs of my clients. I use a combination of Western techniques (like Swedish massage, deep tissue and fascial release) with Easter techniques (Shiatsu, accupressor, Ayurevedic, Shantala massage and reflexology).</p>
+              <p>I have more than 15 years of experience in alternative medicine in Mexico and Canada. I have studied and practiced massage therapy and homeopathy in both countries. In Mexico I also practiced herbal medicine, nutrition, biological medicine and acupuncture. In massage therapy I use different techniques from East and West to tailor each massage to the needs of the client. I am a good listener and I like to find the best way to help each patient to reach their goals in terms of health and happiness. I combine different techniques in each treatment to suit needs of my clients. In my tool box of massage, I incorporate techniques such as Shiatsu, acupressure, Ayurevedic, Shantala massage, reflexology Swedish, deep tissue, fascial release and Access Bars.</p>
 
               <p>I am also a mom, I do kung fu with my kids and read and cook a lot with them.</p> 
               <!-- End Text -->
@@ -170,7 +170,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Pregnancy issues, shoulder and lower back pain. I enjoy treating these cases because I have experienced the pain and hardship of these types of conditions and that gives me a better understanding on how to help others who are going through similar issues. For me, is an honour to be able to use my knowledge and experience to help people to feel better and live a better life.</p>
+              <p>Stress, anxiety, depression. On top of all the physical benefits of massage techniques, the emotional component of it is the part that I enjoy the most. Being able to help someone to release stress, find balance and feel more in ease with life is something I really appreciate and value. Particularly the techniques of Access Bars and Shitasu help with gentle pressure points to bring the body and mind to balance, facilitating better sleep, faster healing and a general sensation of wellbeing.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -180,9 +180,9 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Shiatsu, which is a Japanese technique that uses pressure in acupuncture points. It is a powerful technique though very soothing at the same time. I find it is particularly effective for migraines.</p>
-              <p>Shoulder pain. The shoulder is such a complex joint in which several things can go wrong, finding the exact problem in each case and helping the client to reduce pain and recover mobility is one of the areas in which I have a lot of experience.</p>
-              <p>Pregnancy and motherhood related back pain and issues. I have been there, I will do anything to support my clients to recover as fast as possible; to enjoy the wonderful and challenging process of becoming and being a mom.</p>
+              <p>Anxiety, stress, depression. Massage is a great way to feel better, deal and cope with the challenges that life brings on. Massage helps to reconnect with your body, to find a space of peace and tranquility in yourself and feel the care of another human being. Particularly the technique of Access Bars helps to relieve the stress and all those burdens we feel in our life in a soft and relaxing manner, through soft pressure points in the head.</p>
+              <p>Shoulder pain. The shoulder is such a complex joint in which several things can go wrong, finding the exact problem in each case and helping the client to reduce pain and recover mobility is one of the areas in which I have a lot of experience in.</p>
+              <p>Pregnancy and motherhood related back pain and issues. I have been there! I will do anything to support my clients to recover as fast as possible; to enjoy the wonderful and challenging process of becoming and being a mom: with techniques to relieve the pains and aches and the stress coming for motherhood.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -202,7 +202,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>My knowledge and experience in different areas of alternative medicine allows me to find the root cause in many different conditions. I find that having these tools, I am better able to help solve the problem and bring the client back to health, back to homeostasis.</p>
+              <p>My knowledge and experience in different areas of alternative medicine allows me to find the root cause in many different conditions. With the tools, background and experience that I have, I am able to help solve the problem and bring the client back to health and happiness in a faster way.</p>
               <!-- End Text -->
 
           </div>
