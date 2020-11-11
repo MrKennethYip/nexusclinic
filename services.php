@@ -435,6 +435,47 @@
       </div>
     </div>
     <!-- Service Item End -->
+      
+    <!-- Service Item Start -->
+    <div class="scrolltag" id="nutrition"></div>
+     <div class="position-relative">
+      <div class="container u-space-1 u-space-3-bottom">
+        <div class="row align-items-center">
+          <div class="col-lg-5 mb-9 mb-lg-0">
+            <div class="pr-lg-4 mb-7">
+              <h2 class="text-primary"> 
+                <span class="font-weight-bold">Herbs & Nutrition</span>
+              </h2>
+              <p>​Many chronic health concerns (eg. diabetes, heart disease, cancers, etc.) society face today are often influenced by the lack of vital whole foods coupled with an unbalanced lifestyle. Nexus Traditional Chinese Medicine Practitioners take a deep dive into the client's body-mind ecosystem to determine what foods matches their composition and diagnosis to nourish themselves properly through Eastern Medicine.</p>
+
+              <a href="https://nexusclinic.clinicsense.com/book" target="blank" target="blank" onclick="handleClick('bookServiceBtn');"><button type="button" class="btn btn-sm btn-block u-btn-danger--air u-btn-danger transition-3d-hover">Book Herbs & Nutrition<span class="fa fa-angle-right ml-2"></span></button></a>
+              
+            </div>
+          </div>
+
+          <div class="col-lg-7 position-relative">
+            <div id="video" class="u-video-player">
+              <a href="service/orthotics"><img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-custom_orthotics.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/services/med/services-nutrition.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-nutrition.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/services/lrg/services-nutrition.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Herbs & Nutrition"></a>
+
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe id="youTubeVideo" class="embed-responsive-item"
+                        data-src="//www.youtube.com/embed/0qisGSwZym4?autoplay=1&showinfo=0&rel=0">
+                </iframe>
+              </div>
+            </div>
+
+            <figure class="w-100 u-content-centered">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 1109.8 797.1" style="enable-background:new 0 0 1109.8 797.1;" xml:space="preserve">
+              <path class="u-fill-primary" opacity=".1" d="M105.1,267.1C35.5,331.5-3.5,423,0.3,517.7c5.8,145.3,110.7,314.2,588,273.1c753-64.7,481.3-358.3,440.4-398.3
+                c-4-3.9-7.9-7.9-11.7-12L761.9,104.8C639.4-27.6,432.5-35.6,299.9,87L105.1,267.1z"/>
+            </svg>
+            </figure>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Service Item End -->
 
     <!-- CTA Section -->
     <div class="text-white text-center" style="background-color:#002A3A">
