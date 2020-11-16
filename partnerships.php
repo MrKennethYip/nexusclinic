@@ -250,9 +250,23 @@
                     </div>
                     <div class="media-body">
                       <h3 class="h5"><strong><a class="text-dark" href="https://www.instagram.com/p/B0q4Q19BuQj/" target="blank"><u>VRTU Muay Thai</u></a></strong></h3>
-                      <p class="text-dark">- <strong>FREE</strong> Trial Class</strong>, and</p>
+                      <p class="text-dark">- <strong>FREE</strong> Trial Class, and</p>
                       <p class="text-dark">- <strong>$20 off</strong> first purchase</strong></p>
                       <p class="text-dark">To receive discount, please show your invoice from Nexus.</p>
+                    </div>
+                  </div>
+                  
+                  <div class="media mb-3 u-space-2-top">
+                    <div class="d-flex mt-1 mr-3">
+                      <span class="u-icon u-icon-dark u-icon--xs rounded-circle">
+                        <span class="fa fa-check u-icon__inner"></span>
+                      </span>
+                    </div>
+                    <div class="media-body">
+                      <h3 class="h5"><strong><a class="text-dark" href="#" target="blank"><u>6ix Dental Eglinton</u></a></strong></h3>
+                      <p class="text-dark">- <strong>FREE Osteopathic Initial Assessment</strong> (valued at <strong>$120</strong>) at Nexus Massage & Rehab, if you book a <strong>New Patient Exam & Dental Cleaning</strong> with 6ix Eglinton Dental.</p>
+                      <p class="text-dark"></p>
+                      <p class="text-dark">Call <a href="tel:647-557-6267">647-537-6453</a> to book your appointment. To receive your Nexus promotional offer, please show your invoice or receipt from 6ix Dental.</p>
                     </div>
                   </div>
 
@@ -278,6 +292,12 @@
                 <div class="col-9 align-self-end px-2 mb-3 u-space-1-top">
                   <a class="text-dark" href="https://www.instagram.com/p/B0q4Q19BuQj/" target="blank">
                     <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/vrtu_muay_thai.png" alt="VRTU Muay Thai - Logo" title="VRTU Muay Thai - Logo"  style="border: 1px solid #898A8D">
+                  </a>
+                </div>
+                
+                <div class="col-9 align-self-end px-2 mb-3 u-space-1-top">
+                  <a class="text-dark" href="#" target="blank">
+                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/6ixdental.png" alt="6ix Dental Eglinton - Logo" title="6ix Dental Eglinton - Logo"  style="border: 1px solid #898A8D">
                   </a>
                 </div>
 
