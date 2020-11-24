@@ -277,7 +277,7 @@
 
             <div class="col-lg-4 position-relative">
               <div class="row mx-gutters-5 p-5">
-                <div class="col-9 align-self-end px-2 mb-3">
+                <div class="col-9 align-self-end px-2 mb-3 u-space-1-bottom">
                   <a class="text-dark" href="https://www.instagram.com/p/Bv17zsNBVKK/" target="blank">
                     <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/partnerships/yoga_tree.png" alt="Yoga Tree - Logo" title="Yoga Tree - Logo" style="border: 1px solid #898A8D">
                   </a>
@@ -289,13 +289,13 @@
                   </a>
                 </div>
 
-                <div class="col-9 align-self-end px-2 mb-3 u-space-1-top">
+                <div class="col-9 align-self-end px-2 mb-3 u-space-2-top u-space-1-bottom">
                   <a class="text-dark" href="https://www.instagram.com/p/B0q4Q19BuQj/" target="blank">
                     <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/vrtu_muay_thai.png" alt="VRTU Muay Thai - Logo" title="VRTU Muay Thai - Logo"  style="border: 1px solid #898A8D">
                   </a>
                 </div>
                 
-                <div class="col-9 align-self-end px-2 mb-3 u-space-1-top">
+                <div class="col-9 align-self-end px-2 mb-3 u-space-1-top u-space-1-bottom">
                   <a class="text-dark" href="#" target="blank">
                     <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/6ixdental.png" alt="6ix Dental Eglinton - Logo" title="6ix Dental Eglinton - Logo"  style="border: 1px solid #898A8D">
                   </a>
