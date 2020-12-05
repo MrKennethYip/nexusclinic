@@ -263,7 +263,7 @@
                       </span>
                     </div>
                     <div class="media-body">
-                      <h3 class="h5"><strong><a class="text-dark" href="#" target="blank"><u>6ix Dental Eglinton</u></a></strong></h3>
+                      <h3 class="h5"><strong><a class="text-dark" href="https://www.instagram.com/p/CIZBKiMLHuw/" target="blank"><u>6ix Dental Eglinton</u></a></strong></h3>
                       <p class="text-dark">- <strong>FREE Osteopathic Initial Assessment</strong> (valued at <strong>$120</strong>) at Nexus Massage & Rehab, if you book a <strong>New Patient Exam & Dental Cleaning</strong> with 6ix Eglinton Dental.</p>
                       <p class="text-dark"></p>
                       <p class="text-dark">Call <a href="tel:647-557-6267">647-537-6453</a> to book your appointment. To receive your Nexus promotional offer, please show your invoice or receipt from 6ix Dental.</p>
@@ -296,7 +296,7 @@
                 </div>
                 
                 <div class="col-9 align-self-end px-2 mb-3 u-space-1-top u-space-1-bottom">
-                  <a class="text-dark" href="#" target="blank">
+                  <a class="text-dark" href="https://www.instagram.com/p/CIZBKiMLHuw/" target="blank">
                     <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/6ixdental.png" alt="6ix Dental Eglinton - Logo" title="6ix Dental Eglinton - Logo"  style="border: 1px solid #898A8D">
                   </a>
                 </div>

@@ -567,7 +567,7 @@
           <a href="https://www.thestar.com/readerschoice-toronto/categories/health-wellness-fitness-beauty/subcategories/chiropractic-clinic" target="blank">
             <div class="card-body p-3">
               <div class="text-center">
-                <img src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/social/Toronto_Star-Platinum-2020.png" alt="Nexus Massage & Rehab - Reader Choice Award - Platnium - 2020" title="Nexus Massage & Rehab - Reader Choice Award - Platnium - 2020" style="width: 275px;">
+                <img src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/social/Toronto_Star-Platinum-2020.png" alt="Nexus Massage & Rehab - Reader Choice Award - Platnium - 2020" title="Nexus Massage & Rehab - Reader Choice Award - Platnium - 2020" style="width: 225px;">
               </div>
             </div>
           </a>
