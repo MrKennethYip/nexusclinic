@@ -323,14 +323,15 @@
     <div class="row text-white text-center" style="background-color:#002A3A;">
       <div class="container u-space-0-top">
 
-        <div class="row justify-content-center" style="margin-top:20px">
-          <font size="4">
+        <div class="row justify-content-center u-space-1-top mb-1">
+          <font size="5">
             <strong>Trusted in our community</strong>
           </font>
         </div>
 
-        <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-0">
-          <div class="card mb-3" style="background-color:#002A3A; border:0px">
+        <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-0-top">
+          
+          <div class="card mb-1" style="background-color:#002A3A; border:0px">
             <div class="card-body p-3">
               <div class="text-center">
                   <figure class="figure" style="margin-top:20px">
@@ -339,27 +340,8 @@
               </div>
             </div>
           </div>
-
-          <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-0">
-            <div class="card mb-3" style="background-color:#002A3A; border:0px">
-              <div class="card-body p-3">
-                <div class="text-center">
-                    <figure class="figure" style="margin-top:0px">
-                      <a href="https://www.instagram.com/p/B0q4Q19BuQj/" target="blank"><img width="150" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/vrtu_muay_thai_white.png" class="figure-img img-fluid rounded" alt="VRTU Mauy Thai Outreach"></a>
-                    </figure>
-
-                    <div class="row justify-content-center" style="margin-top:15px">
-                      <a class="btn btn-sm btn-outline-light" href="./partnerships">
-                        <span class="fa fa-handshake font-size-13 mr-2"></span>
-                        Partner with us
-                      </a>
-                    </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="card mb-3" style="background-color:#002A3A; border:0px">
+          
+          <div class="card mb-1" style="background-color:#002A3A; border:0px">
             <div class="card-body p-3">
               <div class="text-center">
                   <figure class="figure" style="margin-top:5px">
@@ -368,7 +350,42 @@
               </div>
             </div>
           </div>
+          
+          <div class="card mb-1 u-space-1-top" style="background-color:#002A3A; border:0px">
+            <div class="card-body p-3">
+              <div class="text-center">
+                  <div class="row justify-content-center u-space-1-bottom">
+                    <a class="btn btn-sm btn-outline-light" href="./partnerships">
+                      <span class="fa fa-handshake font-size-13 mr-2"></span>
+                      Partner with us
+                    </a>
+                  </div>
+              </div>
+            </div>
+          </div>
+          
+          <div class="card mb-1" style="background-color:#002A3A; border:0px">
+            <div class="card-body p-3">
+              <div class="text-center">
+                  <figure class="figure" style="margin-top:0px">
+                    <a href="https://www.instagram.com/p/CIZBKiMLHuw/" target="blank"><img width="110" height="80" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/6ixdental_white.png" class="figure-img img-fluid rounded" alt="6ix Dental - Eglinton"></a>
+                  </figure>
+              </div>
+            </div>
+          </div>
+
+          <div class="card mb-1" style="background-color:#002A3A; border:0px">
+            <div class="card-body p-3">
+              <div class="text-center">
+                  <figure class="figure" style="margin-top:0px">
+                    <a href="https://www.instagram.com/p/B0q4Q19BuQj/" target="blank"><img width="150" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/vrtu_muay_thai_white.png" class="figure-img img-fluid rounded" alt="VRTU Mauy Thai Outreach"></a>
+                  </figure>
+              </div>
+            </div>
+          </div>
+          
         </div>
+        
       </div>
     </div>
     <!-- End Partners Section -->
