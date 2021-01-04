@@ -63,6 +63,7 @@
 
     <!-- Images Carousel Section -->
       <div class="js-slick-carousel u-slick"
+           data-adaptive-height="true"
            data-autoplay="true"
            data-speed="5000"
            data-pagi-classes="text-center u-slick__pagination u-slick__pagination--white position-absolute-bottom-15">
