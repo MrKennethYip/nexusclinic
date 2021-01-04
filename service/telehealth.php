@@ -446,22 +446,6 @@
           <!-- End Item -->
 
           <!-- Item -->
-          <div class="cbp-item physio">
-            <a class="cbp-caption" href="../profiles/yathaven_gopalasingam">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yathaven_gopalasingam.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yathaven_gopalasingam.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yathaven_gopalasingam.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/yathaven_gopalasingam.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Yathaven Gopalasingam - Physiotherapist">
-            </a>
-              <div class="py-3">
-                <a href="../profiles/yathaven_gopalasingam">
-                  <h4 class="h6 text-dark mb-0">Yathaven Gopalasingam</h4>
-                </a>
-                <p class="small mb-0">
-                  Physiotherapist<br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
           <div class="cbp-item osteopath">
             <a class="cbp-caption" href="../profiles/irnes_barak">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/irnes_barak.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/irnes_barak.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/irnes_barak.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/irnes_barak.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Irnes Barak - Registered Manual Osteopath">

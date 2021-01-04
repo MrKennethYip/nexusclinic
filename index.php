@@ -178,7 +178,7 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           Nexus Clinic is now <u>OPEN</u> with additional safety protocols in place!<span class="ml-5"><a class="btn btn-light transition-3d-hover btn-sml" href="COVID-19" role="button">Learn More <span class="fa fa-angle-right font-size-18 ml-2"></span></a>
+           Nexus Clinic is <u>OPEN</u> with additional safety protocols in place!<span class="ml-5"><a class="btn btn-light transition-3d-hover btn-sml" href="COVID-19" role="button">Learn More <span class="fa fa-angle-right font-size-18 ml-2"></span></a>
         </span>
       </div>
     </div>
@@ -194,28 +194,27 @@
               <strong class="font-weight-bold">COVID-19 UPDATE</strong>
             </h2>
             <h5>
-              <p>May 31, 2020</p>
+              <p>Dec 21, 2020</p>
             </h5>
           </div>
         </div>
 
-        <p>We are excited to be able to continue our in-clinic treatments with you and help get you back on track with your health goals. We have implemented new changes in the clinic to ensure everyone’s safety.</p>
+        <p class="text-dark">Your health and safety is our top priority. We are continuing to keep our high standards of screening processes, social distancing, as well as following governmental and Professional College Regulations as of Dec 21st, 2020. We will continue to monitor the status of the prevalence of COVID-19 in our region and keep our community informed of updates.</p>
+        
+        <p class="text-dark">As a reminder, the following safety protocols are in place at the clinic:</p>
 
-        <ul>
+        <ul class="text-dark">
           <li>Plexiglass installed</li>
           <li>Increased sanitization of all high use areas</li>
           <li>Masks are worn by everyone at the clinic (if you don’t have one you can purchase one for $2)</li>
           <li>Washing hands before and after coming to the clinic</li>
           <li>Sanitization of each room after each patient</li>
           <li>Arriving a few minutes early to do a pre-screening check before your treatment</li>
-          <li>And much more!</li>
         </ul> 
 
-        <p>Thank you for all your support during the pandemic.</p>
+        <p class="text-dark">Thank you for all your support during the pandemic. We look forward to seeing you!</p>
 
-        <p>We look forward to seeing you!</p>
-
-        <p>Team Nexus</p>
+        <p class="text-dark">Your Nexus Health Team</p>
 
       </div>
     </div>
@@ -324,14 +323,15 @@
     <div class="row text-white text-center" style="background-color:#002A3A;">
       <div class="container u-space-0-top">
 
-        <div class="row justify-content-center" style="margin-top:20px">
-          <font size="4">
+        <div class="row justify-content-center u-space-1-top mb-1">
+          <font size="5">
             <strong>Trusted in our community</strong>
           </font>
         </div>
 
-        <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-0">
-          <div class="card mb-3" style="background-color:#002A3A; border:0px">
+        <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-0-top">
+          
+          <div class="card mb-1" style="background-color:#002A3A; border:0px">
             <div class="card-body p-3">
               <div class="text-center">
                   <figure class="figure" style="margin-top:20px">
@@ -340,27 +340,8 @@
               </div>
             </div>
           </div>
-
-          <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-0">
-            <div class="card mb-3" style="background-color:#002A3A; border:0px">
-              <div class="card-body p-3">
-                <div class="text-center">
-                    <figure class="figure" style="margin-top:0px">
-                      <a href="https://www.instagram.com/p/B0q4Q19BuQj/" target="blank"><img width="150" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/vrtu_muay_thai_white.png" class="figure-img img-fluid rounded" alt="VRTU Mauy Thai Outreach"></a>
-                    </figure>
-
-                    <div class="row justify-content-center" style="margin-top:15px">
-                      <a class="btn btn-sm btn-outline-light" href="./partnerships">
-                        <span class="fa fa-handshake font-size-13 mr-2"></span>
-                        Partner with us
-                      </a>
-                    </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="card mb-3" style="background-color:#002A3A; border:0px">
+          
+          <div class="card mb-1" style="background-color:#002A3A; border:0px">
             <div class="card-body p-3">
               <div class="text-center">
                   <figure class="figure" style="margin-top:5px">
@@ -369,7 +350,42 @@
               </div>
             </div>
           </div>
+          
+          <div class="card mb-1 u-space-1-top" style="background-color:#002A3A; border:0px">
+            <div class="card-body p-3">
+              <div class="text-center">
+                  <div class="row justify-content-center u-space-1-bottom">
+                    <a class="btn btn-sm btn-outline-light" href="./partnerships">
+                      <span class="fa fa-handshake font-size-13 mr-2"></span>
+                      Partner with us
+                    </a>
+                  </div>
+              </div>
+            </div>
+          </div>
+          
+          <div class="card mb-1" style="background-color:#002A3A; border:0px">
+            <div class="card-body p-3">
+              <div class="text-center">
+                  <figure class="figure" style="margin-top:0px">
+                    <a href="https://www.instagram.com/p/CIZBKiMLHuw/" target="blank"><img width="110" height="80" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/6ixdental_white.png" class="figure-img img-fluid rounded" alt="6ix Dental - Eglinton"></a>
+                  </figure>
+              </div>
+            </div>
+          </div>
+
+          <div class="card mb-1" style="background-color:#002A3A; border:0px">
+            <div class="card-body p-3">
+              <div class="text-center">
+                  <figure class="figure" style="margin-top:0px">
+                    <a href="https://www.instagram.com/p/B0q4Q19BuQj/" target="blank"><img width="150" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/vrtu_muay_thai_white.png" class="figure-img img-fluid rounded" alt="VRTU Mauy Thai Outreach"></a>
+                  </figure>
+              </div>
+            </div>
+          </div>
+          
         </div>
+        
       </div>
     </div>
     <!-- End Partners Section -->
@@ -557,6 +573,24 @@
           </a>
         </div>
         <!-- End Friends List -->
+        
+      </div>
+      
+      <!-- Conditions Section -->
+      <div class="d-flex justify-content-center card-deck d-block d-md-flex">
+
+        <!-- Friends List -->
+        <div class="mb-3">
+          <a href="https://www.thestar.com/readerschoice-toronto/categories/health-wellness-fitness-beauty/subcategories/chiropractic-clinic" target="blank">
+            <div class="card-body p-3">
+              <div class="text-center">
+                <img src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/social/Toronto_Star-Platinum-2020.png" alt="Nexus Massage & Rehab - Reader Choice Award - Platnium - 2020" title="Nexus Massage & Rehab - Reader Choice Award - Platnium - 2020" style="width: 225px;">
+              </div>
+            </div>
+          </a>
+        </div>
+        <!-- End Friends List -->
+        
       </div>
 
     </div>

@@ -638,7 +638,7 @@
                   <h4 class="h6 text-dark mb-0">Lucia Suarez Castro</h4>
                 </a>
                 <p class="small mb-0">
-                  My knowledge and experience in different areas of alternative medicine such as Shiatsu, Acupuncture, Ayurvedic, and Reflexology allows me to find the root cause in many different conditions. I find that having these tools, I am better able to help solve the problem and bring the client back to health, back to homeostasis.<br>
+                  My knowledge and experience in different areas of alternative medicine such as Shiatsu, Acupuncture, Ayurvedic, Reflexology and Access Bars allows me to find the root cause in many different conditions and being able to help in a faster and more effective way each of my clients. On top of treating all the physical complaints, some of these tools help to relive stress, anxiety and depression.<br>
                 </p>
               </div>
           </div>

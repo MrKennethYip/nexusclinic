@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Angel Marie San Juan (RMT) | Nexus Massage & Rehab | (647) 557-6267</title>
+  <title>Jessica Tsang | Chiropractor | Nexus Massage & Rehab at Yonge & Eglinton</title>
 
-  <meta name="Description" content="Learn about the team at Nexus Massage & Rehab. Angel Marie San Juan specializes in massage therapy & lower back pain at our Yonge & Eglinton clinic. Learn more!">
-  <meta name="keywords" content="Angel Marie San Juan, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
+  <meta name="Description" content="Jessica Tsang is a chiropractor at Nexus Massage & Rehab at Yonge  & Eglinton who specializes in rehabilitation & acupuncture. Book an appointment now!">
+  <meta name="keywords" content="Chiropractic, chiropractor, chiro, deep massage, rehabilitation, exercise, orthotics, acupuncture, doctor, trigger point, neck pain, back pain, headaches, adjustments, posture, alignment, spine alignment, proper posture, the best chiropractor at yonge and eglinton, expert in spine, pinched nerve, Chronic neck pain, chronic back pain, spine pain, best back pain relief, lower back pain relief, lumbar spine, back strain, herniated disc, neck problems, sore neck, backache, back injury">
 
   <!-- Common Header -->
   <?php include('../includes/common-header.php') ?>
@@ -44,21 +44,21 @@
           <div class="animated bounceIn">
           <!-- Info -->
           <div class="mb-4">
-            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">ANGEL MARIE SAN JUAN</h1>
+            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">DR. JESSICA TSANG</h1>
           </div>
 
           <ul class="list-inline">
             <li class="list-inline-item">
-              <a class="u-text-light" href="mailto:marie@nexushealthclinic.com">
+              <a class="u-text-light" href="mailto:jessica@nexushealthclinic.com">
                 <span class="far fa-envelope mr-2"></span>
-                marie@nexushealthclinic.com
+                jessica@nexushealthclinic.com
               </a>
             </li>
           </ul>
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/angel_marie_san_juan.jpg" alt="Angel Marie San Juan - Profile">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jessica_tsang.jpg" alt="Dr. Jessica Tsang - Chiropractor">
           <!-- End Avatar -->
           </div>
         </div>
@@ -81,9 +81,7 @@
       </div>
 
     </div>
-    <!-- End Author Section -->  
-
-
+    <!-- End Author Section -->    
 
     <!-- Content Section -->
     <div class="u-bg-light-blue-50">
@@ -98,7 +96,7 @@
                   <a class="btn btn-block btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book/" target="_blank" onclick="handleClick('sidebarBtn');">Book Practitioner<span class="fa fa-angle-right ml-2"></span></a>
                   <br>
 
-                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:marie@nexushealthclinic.com">
+                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:jessica@nexushealthclinic.com">
                     <span class="far fa-envelope mr-2"></span>
                     Send a Message
                   </a>
@@ -116,13 +114,22 @@
 
                 <!-- User -->
                 <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/massage-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/chiro-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                   <div>
-                    <a href="../service/massage">
-                      <span class="d-block text-dark small font-weight-bold">Registered Massage Therapy</span>
+                    <a href="../service/chiropractic">
+                      <span class="d-block text-dark small font-weight-bold">Chiropractic Services</span>
                     </a>
                   </div>
                 </div>
+                <!-- End User -->
+
+                <!-- User -->
+                  <div class="card-header border-0 py-3 d-flex align-items-center">
+                    <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/acupuncture-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                    <div>
+                      <span class="d-block text-dark small font-weight-bold">Acupuncture</span>
+                    </div>
+                  </div>
                 <!-- End User -->
                 
               </div>
@@ -140,8 +147,8 @@
                 <span class="d-flex align-items-start">
 
                   <div class="ml-2">
-                    <p class="text-dark"><strong>Mon-Thurs:</strong><span class="ml-3"></span>11am - 8pm</p>
-                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>11am - 7pm</p>
+                    <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>10am - 9pm</p>
+                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>10am - 7pm</p>
                   </div>
                 </span>
                 <!-- End User -->
@@ -160,10 +167,8 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Before starting my journey into the world of massage therapy and rehabilitation, I obtained a degree in Human Biology: Health and Disease from the University of Toronto, with Distinction. After working in the corporate world for a few years, I took a big leap and followed my passion of helping people through movement and therapy. I graduated from Sutherland-Chan College of Massage Therapy and am currently a member in good standing with the CMTO. I am also a certified Fascial Stretch Therapist Level 1 with the Stretch to Win Institute.</p>
-
-              <p>In my spare time, I am a recreational powerlifter, baker and an avid foodie. I enjoy learning Latin dance (salsa and bachata), playing pickup soccer and petting any and all dogs that pass within my vicinity.</p>
-
+              <p>I am a licenced chiropractor and medical acupuncture provider with a focus on optimizing my patient’s function and well-being. Prior to receiving my chiropractic degree at the Canadian Memorial Chiropractic College, I received my undergraduate degree in BSc Honours Kinesiology at McMaster University. My treatments are individualized to the patient’s needs, consisting of rehabilitative exercises, manual and instrument assisted soft tissue therapy, diversified adjusting techniques, acupuncture, and more.</p>
+              <p>Since specializing in visual arts in high school, I love spending my free time combining my passion for the arts with my interest in the human body through medical illustration. I use social media to showcase my art but also to educate my viewers on ways to optimize their health. You can also find me playing badminton and volleyball with friends on my days off and finding new places to eat in the city!</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -173,7 +178,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I enjoy treating musculoskeletal cases, in which patients have a movement or sport-related activity that they want to return to. I enjoy helping assess movement patterns and identify and treat muscular imbalances, so that patients can return to movement pain-free. In particular, I enjoy working with athletes, weight lifters, and patients who enjoy deeper pressure.</p>
+              <p>Every case is unique, which challenges me as a practitioner. While I enjoy working with all patients and ailments, I am particularly interested in treating headaches, mid-back pain, and shoulder pain because I have previously experienced symptoms in these areas myself. Throughout my career, I’ve also developed a special interest in geriatric care, leading to my involvement with many programs and outreaches involved with this population. Overall, helping my patients live an optimal life and create positive changes in their day to day is what I strive to achieve with every treatment.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -183,7 +188,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Although I have many techniques in my toolkit, I often use myofascial release and trigger point therapy to help correct any imbalances and aberrant movement patterns. I also use static and dynamic cupping coupled with movement to help restore range of motion in restricted areas. During sports style treatments, I often use Fascial Stretch Therapy to increase range of motion when indicated.</p>
+              <p>I specialize in manual therapy, including myofascial release therapy and spinal/joint manipulation, and medical acupuncture. In addition to being very hands-on with my patients through these therapeutic techniques, I am a strong believer in introducing rehabilitative exercises concurrently to maximize treatment effectiveness and prevent future injury.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -193,7 +198,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I take pride when my global approach to assessment, therapy and recovery allows my patients to move and feel better. I am especially proud when my patients become actively involved in their well-being, through understanding the importance of movement and self-care, which are key in helping maintain progress gained from manual therapy.</p>
+              <p>I chose this profession because it brings me a sense of fulfillment that I am able to make a positive impact on the community, not only physically, but emotionally with each individual I encounter. I am proud of being able to take part in my patient’s recovery process and to celebrate their successes together, whether it be big or small.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -203,9 +208,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Prior to entering the world of massage therapy and healing, I had a special appreciation for movement and healing through my love of powerlifting. Having sustained an injury in the past that prevented me from moving pain-free, both in the office and in the gym, I understand how intertwined physical and mental wellbeing can be.</p>
-
-              <p>Through my own journey in recovering, I discovered the power of healing through therapeutic manual treatments, and appropriate remedial exercises, coupled with a global approach to assessment rather than focusing on single joints or areas of pain. I developed a passion for rehabilitation and helping others attain pain-free movement, through therapeutic treatments and education, and I actively listen to patients to truly understand their goals and help them achieve them.</p>
+              <p>I’ve worked with a variety of different people in my life, from children to geriatrics, from desk job workers to athletes, as well as stroke recovery and spinal cord injury patients. I’m well versed in different conditions, but I always continue to improve my skills in the field by taking more courses and by staying up to date on current research. I pride myself on having a great relationship with my patients and give them a safe space to be open and honest with their doctor. I hope to be able to continue doing this for all my future patients.</p>
               <!-- End Text -->
 
           </div>
@@ -220,9 +223,9 @@
     <div class="u-bg-light-blue-50 u-space-2-bottom">
       <div class="container">
         <!-- Review Widget -->
+        <div class='embedsocial-reviews' data-ref="17be11d56d91eb6c8e7de310fbcce8d04b1c3dd3"></div>
         
-        <div class='embedsocial-reviews' data-ref="15f7425b8ff9801973e6e9246da9359d0412c2f9"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
-
+        <script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
         <!-- End Review Widget -->
       </div>
     </div>
@@ -237,6 +240,6 @@
   <!-- Common Footer -->
   <?php include('../includes/common-footer.php') ?>
   <!-- End Common Footer -->
-
+  
 </body>
 </html>
