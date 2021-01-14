@@ -195,12 +195,16 @@
               <strong class="font-weight-bold">COVID-19 UPDATE</strong>
             </h2>
             <h5>
-              <p>Dec 21, 2020</p>
+              <p>Jan 14, 2021</p>
             </h5>
           </div>
         </div>
 
-        <p class="text-dark">Your health and safety is our top priority. We are continuing to keep our high standards of screening processes, social distancing, as well as following governmental and Professional College Regulations as of Dec 21st, 2020. We will continue to monitor the status of the prevalence of COVID-19 in our region and keep our community informed of updates.</p>
+        <p class="text-dark">Your health and safety continues to be our top priority. As we move to the new lockdown rules, we continue to operate with our full range of services (Massage, Chiro, Physio, Acupuncture, Osteopath) tailored for your needs while encouraging all our patients to follow government safety protocols.</p>
+        
+        <p class="text-dark">We remain vigilant in keeping up-to-date and our high standards of screening processes, social distancing, as well as following governmental and all Professional Institution Regulations. The prevalence of COVID-19 in our region will continue to be closely monitored and status updates regularly provided to our community.</p>
+        
+        <p class="text-dark">Concerned about the limit on essential travel? Your health comes first - our practitioners are ready to help via virtual telehealth appointments. Try booking our free 15 min consultations to speak to one of our healthcare providers today!</p>
         
         <p class="text-dark">As a reminder, the following safety protocols are in place at the clinic:</p>
 
