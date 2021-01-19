@@ -123,17 +123,6 @@
                 </div>
                 <!-- End User -->
 
-                <!-- User -->
-                <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/physio-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
-                  <div>
-                    <a href="../service/physiotherapy">
-                      <span class="d-block text-dark small font-weight-bold">Pelvic Health Services</span>
-                    </a>
-                  </div>
-                </div>
-                <!-- End User -->
-
               </div>
             </div>
             <!-- End Contacts  -->
