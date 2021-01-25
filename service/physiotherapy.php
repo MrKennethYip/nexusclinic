@@ -367,6 +367,45 @@
       </div>
     </div>
     <!-- Service Item End -->
+      
+    <!-- Service Item Start -->
+    <div class="scrolltag" id="acupuncture"></div>
+    <div class="position-relative">
+    <div class="container u-space-1">
+      <div class="row align-items-center">
+        <div class="col-lg-7 mb-9 mb-lg-0">
+          <div class="pr-lg-4 mb-7">
+            <h2 class="text-primary"> 
+              <span class="font-weight-bold">Medical / Contemporary Acupuncture</span>
+            </h2>
+            <p>Our physiotherapists use acupuncture as a way to stimulate blood flow and neural activation to promote tissue healing. This is accomplished by inserting fine needles into anatomically defined neurofunctional sites and activated manually or with electricity.</p>
+            <p>Acupuncture can treat headaches, neck pain, low back pain, frozen shoulder, knee arthritis, hip pain, plantarfasciitis, muscle tension and much more.</p>
+          </div>
+        </div>
+    
+        <div class="col-lg-5 position-relative">
+          <div id="video" class="u-video-player">
+            <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/chiro/med/acupuncture.jpg" alt="Chiro - Acupuncture">
+    
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe id="youTubeVideo" class="embed-responsive-item"
+                      data-src="//www.youtube.com/embed/0qisGSwZym4?autoplay=1&showinfo=0&rel=0">
+              </iframe>
+            </div>
+          </div>
+    
+          <figure class="w-100 u-content-centered">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+               viewBox="0 0 1109.8 797.1" style="enable-background:new 0 0 1109.8 797.1;" xml:space="preserve">
+            <path class="u-fill-primary" opacity=".1" d="M105.1,267.1C35.5,331.5-3.5,423,0.3,517.7c5.8,145.3,110.7,314.2,588,273.1c753-64.7,481.3-358.3,440.4-398.3
+              c-4-3.9-7.9-7.9-11.7-12L761.9,104.8C639.4-27.6,432.5-35.6,299.9,87L105.1,267.1z"/>
+          </svg>
+          </figure>
+        </div>
+      </div>
+    </div>
+    </div>
+    <!-- Service Item End -->
 
     <!-- Hero Section -->
     <div class="position-relative">
@@ -630,7 +669,7 @@
           <!-- Item -->
           <div class="cbp-item physio">
             <a class="cbp-caption" href="../profiles/victoria_kwong">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/victoria_kwong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Victoria Kwong - Physiotherapist">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/victoria_kwong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Victoria Kwong - Physiotherapist">
             </a>
               <div class="py-3">
                 <a href="../profiles/victoria_kwong">
@@ -646,7 +685,7 @@
           <!-- Item -->
           <div class="cbp-item physio">
             <a class="cbp-caption" href="../profiles/patrick_dungao">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/patrick_dungao.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/patrick_dungao.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/patrick_dungao.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/patrick_dungao.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Patrick Dungao - Physiotherapist">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/patrick_dungao.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Patrick Dungao - Physiotherapist">
             </a>
               <div class="py-3">
                 <a href="../profiles/patrick_dungao">
@@ -662,7 +701,7 @@
           <!-- Item -->
           <div class="cbp-item physio">
             <a class="cbp-caption" href="../profiles/courtney_mahoney">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/courtney_mahoney.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/courtney_mahoney.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/courtney_mahoney.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/courtney_mahoney.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Courtney Mahoney - Physiotherapist">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/courtney_mahoney.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/courtney_mahoney.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/courtney_mahoney.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/courtney_mahoney.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Courtney Mahoney - Physiotherapist">
             </a>
               <div class="py-3">
                 <a href="../profiles/courtney_mahoney">
