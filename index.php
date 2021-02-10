@@ -179,7 +179,7 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           Gift the Gift of Health - $20 off gift cards ($100 Value) - Limited time only!<span class="ml-5"><a class="btn btn-light transition-3d-hover btn-sml" href="gift-cards" role="button">Learn More <span class="fa fa-angle-right font-size-18 ml-2"></span></a>
+           Give the Gift of Health - $20 off gift cards ($100 Value) - Limited time only!<span class="ml-5"><a class="btn btn-light transition-3d-hover btn-sml" href="gift-cards" role="button">Learn More <span class="fa fa-angle-right font-size-18 ml-2"></span></a>
         </span>
       </div>
     </div>
