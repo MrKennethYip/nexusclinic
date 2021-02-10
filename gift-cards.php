@@ -38,6 +38,53 @@
       </div>
     </div>
     <!-- End Hero Section -->
+      
+    <!-- Service Item Start -->
+    <div class="scrolltag" id="rmt"></div>
+    <div class="position-relative">
+    <div class="container u-space-2-top">
+      <div class="row align-items-center">
+        <div class="col-lg-6 mb-9 mb-lg-0">
+          <div class="pr-lg-4 mb-7">
+            <h2 class="text-danger"> 
+              <span class="font-weight-bold">Give the Gift of Health!</span>
+            </h2>
+            <p>Gift Card or Gift Certificate purchases of <strong>$100</strong> or more will receive <strong>$20 OFF</strong>. Makes a perfect gift for someone special!</p>
+    
+            <h5 class="text-danger">How does it work?</h5>
+            <p>- $20 off of gift card/certificate purchase (minimum value $100)</p>
+            <p>- Promo Code = FAMILY20 (online purchases)</p>
+            <p>- Limited Time = Expires Feb 28, 2021</p>
+    
+            <h5 class="text-danger">Terms & Conditions:</h5>
+            <p>- Gift Cards/Certificates purchased with the discount cannot be used the same day as purchase</p>
+            <p>- Limited to 3 gift card/certificate purchases per client</p>
+          </div>
+        </div>
+    
+        <div class="col-lg-6 position-relative">
+          <div id="video" class="u-video-player">
+            <img class="img-fluid u-video-player__preview" style="border: #636569 3px solid;"src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/gift-cards/gift-card-promo-feb.jpg" alt="February - Gift Card Promotion">
+    
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe id="youTubeVideo" class="embed-responsive-item"
+                      data-src="//www.youtube.com/embed/0qisGSwZym4?autoplay=1&showinfo=0&rel=0">
+              </iframe>
+            </div>
+          </div>
+    
+          <figure class="w-100 u-content-centered">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+               viewBox="0 0 1109.8 797.1" style="enable-background:new 0 0 1109.8 797.1;" xml:space="preserve">
+            <path class="u-fill-primary" opacity=".1" d="M105.1,267.1C35.5,331.5-3.5,423,0.3,517.7c5.8,145.3,110.7,314.2,588,273.1c753-64.7,481.3-358.3,440.4-398.3
+              c-4-3.9-7.9-7.9-11.7-12L761.9,104.8C639.4-27.6,432.5-35.6,299.9,87L105.1,267.1z"/>
+          </svg>
+          </figure>
+        </div>
+      </div>
+    </div>
+    </div>
+    <!-- Service Item End -->
 
     <!-- Payment Providers -->
     <div class="position-relative">
