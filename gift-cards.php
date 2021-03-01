@@ -39,7 +39,7 @@
     </div>
     <!-- End Hero Section -->
       
-    <!-- Service Item Start -->
+    <!-- Service Item Start
     <div class="scrolltag" id="rmt"></div>
     <div class="position-relative">
     <div class="container u-space-2-top">
@@ -84,7 +84,7 @@
       </div>
     </div>
     </div>
-    <!-- Service Item End -->
+    Service Item End -->
 
     <!-- Payment Providers -->
     <div class="position-relative">
