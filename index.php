@@ -175,15 +175,15 @@
       </div>
     <!-- End Images Carousel Section -->
 
-    <!-- Red Promo Banner
+    <!-- Red Promo Banner -->
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           Give the Gift of Health - $20 off gift cards ($100 Value) - Limited time only!<span class="ml-5"><a class="btn btn-light transition-3d-hover btn-sml" href="gift-cards" role="button">Learn More <span class="fa fa-angle-right font-size-18 ml-2"></span></a>
+           Osteopathy service is now available for booking starting April 12<span class="ml-5"><a class="btn btn-light transition-3d-hover btn-sml" href="https://nexusclinic.clinicsense.com/book/" role="button">Book Today <span class="fa fa-angle-right font-size-18 ml-2"></span></a>
         </span>
       </div>
     </div>
-    End Red Promo Banner -->
+    <!-- End Red Promo Banner -->
 
     <!-- How did Nexus Massage & Rehab Start -->
     <div class="position-relative" style="border: 1px solid #898A8D">
@@ -195,14 +195,12 @@
               <strong class="font-weight-bold">COVID-19 UPDATE</strong>
             </h2>
             <h5>
-              <p>Jan 14, 2021</p>
+              <p>March 28, 2021</p>
             </h5>
           </div>
         </div>
 
-        <p class="text-dark">Your health and safety continues to be our top priority. As we move to the new lockdown rules, we continue to operate with services which fall under Ontario's Regulated Healthcare services (Massage, Chiro, Physio, Acupuncture), with additional health protocols in place.</p>
-        
-        <p class="text-dark"><strong>At this time, we are unable to offer Osteopathy In-person services during the stay-at-home order. However, Osteopathy is offered virtually, but will NOT be covered by extended health benefits.</strong></p>
+        <p class="text-dark">Your health and safety continues to be our top priority. As we move to the new lockdown rules, we continue to operate with services which fall under Ontario's Regulated Healthcare services (Massage, Chiro, Physio, Acupuncture) - as well as Osteopathic services - with additional health protocols in place.</p>
         
         <p class="text-dark">We remain vigilant in keeping up-to-date and our high standards of screening processes, social distancing, as well as following governmental and all Professional Institution Regulations. The prevalence of COVID-19 in our region will continue to be closely monitored and status updates regularly provided to our community.</p>
         
