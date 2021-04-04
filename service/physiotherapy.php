@@ -668,22 +668,6 @@
 
           <!-- Item -->
           <div class="cbp-item physio">
-            <a class="cbp-caption" href="../profiles/victoria_kwong">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/victoria_kwong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Victoria Kwong - Physiotherapist">
-            </a>
-              <div class="py-3">
-                <a href="../profiles/victoria_kwong">
-                  <h4 class="h6 text-dark mb-0">Victoria Kwong</h4>
-                </a>
-                <p class="small mb-0">
-                   Your goals, are my goals too! I will help you determine the ‘bigger picture goal’ for your treatment, break down your overarching goal into measurable milestones and help you overcome obstacles. In this way, I enjoy going above and beyond to meet and exceed your expectations for physiotherapy.<br><br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
-          <div class="cbp-item physio">
             <a class="cbp-caption" href="../profiles/patrick_dungao">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/patrick_dungao.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Patrick Dungao - Physiotherapist">
             </a>
@@ -700,19 +684,19 @@
 
           <!-- Item -->
           <div class="cbp-item physio">
-            <a class="cbp-caption" href="../profiles/courtney_mahoney">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/courtney_mahoney.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/courtney_mahoney.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/courtney_mahoney.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/courtney_mahoney.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Courtney Mahoney - Physiotherapist">
+            <a class="cbp-caption" href="../profiles/victoria_kwong">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/victoria_kwong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Victoria Kwong - Physiotherapist">
             </a>
               <div class="py-3">
-                <a href="../profiles/courtney_mahoney">
-                  <h4 class="h6 text-dark mb-0">Courtney Mahoney</h4>
+                <a href="../profiles/victoria_kwong">
+                  <h4 class="h6 text-dark mb-0">Victoria Kwong</h4>
                 </a>
                 <p class="small mb-0">
-                   I use my background in competitive sports to aid in building sport specific exercise programs. Whether you need to improve your speed, agility, power, flexibility, strength, balance, coordination, endurance or accuracy, My treatment philosophy encourages patients to be active participants in their rehabilitation by providing them the knowledge, guidance and resources to ensure long term resolution of a wide array of injuries and conditions.<br>
+                   Your goals, are my goals too! I will help you determine the ‘bigger picture goal’ for your treatment, break down your overarching goal into measurable milestones and help you overcome obstacles. In this way, I enjoy going above and beyond to meet and exceed your expectations for physiotherapy.<br><br><br>
                 </p>
               </div>
-          </div>
-          <!-- End Item -->
+            </div>
+            <!-- End Item -->
 
         </div>
         <!-- End Content -->
