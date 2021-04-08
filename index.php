@@ -195,7 +195,7 @@
               <strong class="font-weight-bold">COVID-19 UPDATE</strong>
             </h2>
             <h5>
-              <p>April 1, 2021</p>
+              <p>April 7, 2021</p>
             </h5>
           </div>
         </div>
