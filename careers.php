@@ -296,6 +296,28 @@
 			
 		</div>
 		<!-- End List of Job Positions -->
+			
+		<!-- List of Job Positions -->
+			<ul class="list-unstyled mb-0">
+				<li class="my-2">
+					<!-- Job -->
+					<a class="u-info-v1 p-4" href="/jobs/physio">
+						<span class="row justify-content-sm-between align-items-sm-center">
+						  <span class="col-sm-6 mb-2 mb-sm-0">
+							<strong>Physiotherapist</strong>
+						  </span>
+						  <span class="col-sm-6 text-primary text-sm-right">
+							Full Time
+							<span class="fa fa-arrow-right small ml-2"></span>
+						  </span>
+						</span>
+					</a>
+					<!-- End Job -->
+				</li>
+			</ul>
+			
+		</div>
+		<!-- End List of Job Positions -->
 
 	</div>
 	<!-- End Job Positions -->
