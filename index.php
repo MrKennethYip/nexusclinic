@@ -49,7 +49,7 @@
       visibility: hidden;
     }
   </style>
-
+  <link rel="canonical" href="https://nexushealthclinic.com/" />
 </head>
 
 <body>
