@@ -4,7 +4,7 @@
   <!-- Title -->
   <title>Acupuncture Services at Yonge & Eglinton | Nexus Massage & Rehab</title>
 
-  <meta name="Description" content="">
+  <meta name="Description" content="Curious about Acupuncture? Read more to see how you can benefit from our acupuncture services today.">
   <meta name="keywords" content=""> 
 
   <!-- Common Header -->

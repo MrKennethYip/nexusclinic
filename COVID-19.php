@@ -4,7 +4,7 @@
   <!-- Title -->
   <title>COVID-19 Health & Safety | Midtown Massage, Chiro & Physio Clinic | Nexus Massage</title>
 
-  <meta name="Description" content="">
+  <meta name="Description" content="Check out our updated COVID-19 health and safety protocols to ensure your safety as well as the safety of our staff members.">
   <meta name="keywords" content=""> 
 
   <!-- Common Header -->

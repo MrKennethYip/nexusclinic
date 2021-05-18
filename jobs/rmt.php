@@ -4,7 +4,7 @@
   <!-- Title -->
   <title>Hiring Today! Registered Massage Therapist (RMT) - Nexus Massage & Rehab</title>
 
-  <meta name="Description" content="">
+  <meta name="Description" content="We're hiring! Looking for a Registered Massage Therapist who wants to work at the fastest growing clinic in the Yonge and Eglinton area.">
   <meta name="keywords" content="">  
 
   <!-- Common Header -->

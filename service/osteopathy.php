@@ -4,7 +4,7 @@
   <!-- Title -->
   <title>Osteopathy Services at Yonge & Eglinton | Nexus Massage & Rehab</title>
 
-  <meta name="Description" content="">
+  <meta name="Description" content="Interested in Osteopathy? Read more and see how you can benefit from our osteopathy services today.">
   <meta name="keywords" content="">  
 
   <!-- Common Header -->

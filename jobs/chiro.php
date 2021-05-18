@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Hiring Today! Physiotherapist - Nexus Massage & Rehab</title>
+  <title>Hiring Today! Chiropractor - Nexus Massage & Rehab</title>
 
-  <meta name="Description" content="We're hiring! Looking for a self-motivated Physiotherapist to work at our top-rated multi-disciplinary clinic located at Yonge and Eglinton.">
+  <meta name="Description" content="We're hiring! Looking for a self-motivated Chiropractor to work at our top-rated multi-disciplinary clinic located at Yonge and Eglinton.">
   <meta name="keywords" content="">  
 
   <!-- Common Header -->
@@ -37,8 +37,8 @@
         <!-- Title -->
         <div class="row justify-content-md-between align-items-md-center mb-7">
           <div class="col-md-9 mb-7 mb-md-0">
-            <h1 class="h3 font-weight-bold">Physiotherapist</h1>
-            <p class="mb-0"><strong>Toronto, ON</strong> - <strong>Part Time</strong></p>
+            <h1 class="h3 font-weight-bold">Chiropractor</h1>
+            <p class="mb-0"><strong>Toronto, ON</strong> - <strong>Full Time or Part Time</strong></p>
           </div>
 
           <div class="col-md-3 text-md-right">
@@ -53,28 +53,13 @@
         <!-- End Title -->
 
         <!-- Info -->
-        <p>Top Rated <strong>Multi-disciplinary Clinic</strong> at Yonge and Eglinton with over 130 5-star Google reviews.</p>
+        <p><em>"To inspire and enhance the lives of health focused professionals by optimizing their performance through a results-driven approach."</em></p>
 
-        <p><strong>Nexus Massage & Rehab</strong> is a multi-disciplinary clinic that specializes in <strong>massage therapy, chiropractic, physiotherapy, acupuncture</strong> and has a multi-purpose studio for <strong>dance and fitness</strong>. The clinic was started by two charismatic female practitioners, a Chiropractor and Registered Massage Therapist whom are both passionate about delivering a holistic health experience to the community.</p>
-
-        <p>We are conveniently located a 2 min walk from the Eglinton subway station. Our clinic is seeking Physiotherapists who fit well with the Nexus team of driven, self-motivated, dynamic, passionate, friendly and outgoing practitioners. We are focused on providing excellent patient care and we inspire practitioners to reach both their personal and professional goals.</p>
-
-        <p>We work as a team and bring out the best in all our practitioners by providing guidance on areas such as:</p>
-
-        <ul>
-          <li><p>Building a strong client base</p></li>
-          <li><p>In-depth knowledge of health care treatments and modalities</p></li>
-          <li><p>Improving skills and techniques from complementary professionals</p></li>
-          <li><p>One-on-One coaching on technical skills</p></li>
-          <li><p>Business and marketing initiatives to grow your own client base</p></li>
-        </ul>
-
-        <p>If you are <strong>self-motivated</strong> and looking for a place to grow into a strong physiotherapist with the Nexus team, then we are looking for YOU!</p>
-
-        <p>** Must be able to work <strong>evenings</strong> and <strong>weekends</strong>. <strong>Immediate start date</strong>.</p>
-
-        <p>What our patients say about us: <a href="https://goo.gl/maps/T2znGMLyXCu" target="blank">https://goo.gl/maps/T2znGMLyXCu</a></p>
-
+        <p>We are the FASTEST growing clinic in the busy and booming Yonge and Eglinton area. Our new, modern and clean clinic is located at the intersection of Yonge and Eglinton area with over 300+ 5-Star Google Reviews.</p>
+        
+        <p>Nexus Massage & Rehab is a multi-disciplinary clinic that offers massage therapy, chiropractic, physiotherapy, acupuncture, osteopathy and has a multi-purpose studio for rehab and fitness.</p>
+        
+        <p>Our clinic is founded by a Chiropractor and a RMT who understands the hard work that you do. We are a dynamic, fun, loving Team who is looking for a Chiropractor to join our family!</p>
         <!-- End Info -->
       </div>
 
@@ -102,9 +87,9 @@
                "centerPadding": "50px"
              }
            }]'>
-        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers-jobs/lrg/physio-ball.jpg);"></div>
-        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers-jobs/lrg/physio-weights.jpg);"></div>
-        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers-jobs/lrg/physio-tape.jpg);"></div>
+        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers-jobs/Chiropractic-Treatments-Spinal-Manipluation.jpg);"></div>
+        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers-jobs/GettyImages-645777264-650x428.jpg);"></div>
+        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers-jobs/chiropractor-working-on-woman-s-back.jpg);"></div>
       </div>
       <!-- End Images Carousel -->
 
@@ -112,7 +97,7 @@
         <div class="u-space-1-bottom">
           <!-- Title -->
           <div class="mb-4">
-            <h3 class="h5">Responsibilities:</h3>
+            <h3 class="h5">WE OFFER OUR CHIROPRACTORS:</h3>
           </div>
           <!-- End Title -->
 
@@ -126,7 +111,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Perform clinical assessments, set goals and provide treatment plans for clients, initiate appropriate treatment intervention based on clinical assessment
+                  You will experience monthly clinic rounds where practitioners learn and teach diagnostic and treatment techniques.
                 </div>
               </div>
             </li>
@@ -138,7 +123,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Provide on-going evaluation of client progress
+                  On-going training and one-on-one mentorship with the clinic owners who focus on YOUR GROWTH as a healthcare professional and entrepreneur. You will experience enhancement of your technical skills and learning to build a strong caseload.
                 </div>
               </div>
             </li>
@@ -150,7 +135,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Participate in community & promotional events to represent the clinic
+                  You can focus on being a Clinician or take part in the growth of the business by moving into leadership roles through our career pathway opportunities with NEXUS.
                 </div>
               </div>
             </li>
@@ -162,7 +147,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Maintain a strong working relationship with other practitioners in the clinic with the goal of providing the patients with a multi-disciplinary approach
+                  Opportunity to be a part of an external Practice Acceleration Program with top Canadian practitioners to grow your caseload and generate better patient outcomes.
                 </div>
               </div>
             </li>
@@ -174,7 +159,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Complete and maintain and accurate medical records, and SOAP notes
+                  We have amazing Community Partners with awesome perks and strong client referral network.
                 </div>
               </div>
             </li>
@@ -186,7 +171,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Maintain clean treatment rooms and common use areas
+                  We love to learn from each other's techniques and as a bonus, you will have an opportunity to do exchange treatments with each other.
                 </div>
               </div>
             </li>
@@ -198,7 +183,19 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Present a professional manner and appearance at all times
+                  You will receive Health Allowances so you can get treated and take care of your own body. (*subject to approval)
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-success--air u-icon--xs rounded-circle">
+                    <span class="fa fa-arrow-right u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  We have FUN together! We have quarterly team building events to encourage practitioners to de-stress and let loose!
                 </div>
               </div>
             </li>
@@ -209,7 +206,7 @@
         <div class="u-space-2-bottom">
           <!-- Title -->
           <div class="mb-4">
-            <h3 class="h5">Requirements:</h3>
+            <h3 class="h5">ADDITIONAL PERKS:</h3>
           </div>
           <!-- End Title -->
 
@@ -223,7 +220,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Good standing with your respective college
+                  A welcoming location at Yonge and Eglinton, thriving with new condos, and close to shops and restaurants.
                 </div>
               </div>
             </li>
@@ -235,7 +232,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Professional liability insurance
+                  Collaboration with many other professionals in your field.
                 </div>
               </div>
             </li>
@@ -247,7 +244,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Availability to work evening/weekend shifts
+                  Growing partnerships in the community with staff perks
                 </div>
               </div>
             </li>
@@ -259,7 +256,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Fluency in English, with strong verbal communication and interpersonal skills
+                  Regular support in building your caseload
                 </div>
               </div>
             </li>
@@ -271,7 +268,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Critical thinking and problem-solving skills
+                  Flexible schedules and hours.
                 </div>
               </div>
             </li>
@@ -283,7 +280,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Extensive knowledge in clinical treatments and assessments
+                  Private Assessment Rooms
                 </div>
               </div>
             </li>
@@ -295,7 +292,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Ability to build and maintain a strong relationship with patients
+                  No double booked treatment sessions
                 </div>
               </div>
             </li>
@@ -307,7 +304,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Motivated and driven to learn, succeed and to build a loyal client base
+                  Laundry service
                 </div>
               </div>
             </li>
@@ -319,7 +316,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Ability to work independently and as part of a multi-disciplinary team
+                  Electronic medical records (paperless).
                 </div>
               </div>
             </li>
@@ -331,7 +328,19 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Ability to work in a fast-paced, dynamic environment with excellent time management and organizational skills
+                  Remote access to documentation
+                </div>
+              </div>
+            </li>
+            <li class="py-3">
+              <div class="media">
+                <div class="d-flex mr-3">
+                  <span class="u-icon u-icon-primary--air u-icon--xs rounded-circle">
+                    <span class="fa fa-check u-icon__inner"></span>
+                  </span>
+                </div>
+                <div class="media-body text-secondary">
+                  State of the art equipment and supplies provided
                 </div>
               </div>
             </li>
@@ -342,7 +351,7 @@
         <div class="u-space-2-bottom">
           <!-- Title -->
           <div class="mb-4">
-            <h3 class="h5">What we provide:</h3>
+            <h3 class="h5">ADDITIONAL DETAILS:</h3>
           </div>
           <!-- End Title -->
 
@@ -356,7 +365,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Competitive splits and rates
+                  ** Must be available Evenings and Weekends. Immediate start date.
                 </div>
               </div>
             </li>
@@ -368,7 +377,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  A great location at Yonge and Eglinton, thriving with new condos, close to shops and restaurants
+                  New Grads are Welcome!
                 </div>
               </div>
             </li>
@@ -380,7 +389,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Newly renovated, clean and modern space and equipment
+                  Contract length: 12 months
                 </div>
               </div>
             </li>
@@ -392,7 +401,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Collaboration with many other professionals in your field
+                  Part-time hours: 30-40 per week
                 </div>
               </div>
             </li>
@@ -404,7 +413,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Opportunity to build a strong client base
+                  See what our patients are saying - <a href="https://goo.gl/maps/7EKy5TrVUNt">https://goo.gl/maps/7EKy5TrVUNt</a>
                 </div>
               </div>
             </li>
@@ -416,7 +425,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Flexible schedules and hours
+                  Check out our Team - <a href="https://nexushealthclinic.com/team">https://nexushealthclinic.com/team</a>
                 </div>
               </div>
             </li>
@@ -428,79 +437,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Electronic medical records (paperless)
-                </div>
-              </div>
-            </li>
-            <li class="py-3">
-              <div class="media">
-                <div class="d-flex mr-3">
-                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
-                    <span class="fa fa-plus u-icon__inner"></span>
-                  </span>
-                </div>
-                <div class="media-body text-secondary">
-                  Online booking and ability to check your schedule from your phone
-                </div>
-              </div>
-            </li>
-            <li class="py-3">
-              <div class="media">
-                <div class="d-flex mr-3">
-                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
-                    <span class="fa fa-plus u-icon__inner"></span>
-                  </span>
-                </div>
-                <div class="media-body text-secondary">
-                  Supplies and equipment (linens, towels, electronic modalities)
-                </div>
-              </div>
-            </li>
-            <li class="py-3">
-              <div class="media">
-                <div class="d-flex mr-3">
-                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
-                    <span class="fa fa-plus u-icon__inner"></span>
-                  </span>
-                </div>
-                <div class="media-body text-secondary">
-                  Front desk support who will check patients in/out and handle your financial transactions
-                </div>
-              </div>
-            </li>
-            <li class="py-3">
-              <div class="media">
-                <div class="d-flex mr-3">
-                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
-                    <span class="fa fa-plus u-icon__inner"></span>
-                  </span>
-                </div>
-                <div class="media-body text-secondary">
-                  Monthly clinic rounds where practitioners learn and teach diagnostic and treatment techniques
-                </div>
-              </div>
-            </li>
-            <li class="py-3">
-              <div class="media">
-                <div class="d-flex mr-3">
-                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
-                    <span class="fa fa-plus u-icon__inner"></span>
-                  </span>
-                </div>
-                <div class="media-body text-secondary">
-                  A strong team-based environment where everyone can practice and grow together
-                </div>
-              </div>
-            </li>
-            <li class="py-3">
-              <div class="media">
-                <div class="d-flex mr-3">
-                  <span class="u-icon u-icon-warning--air u-icon--xs rounded-circle">
-                    <span class="fa fa-plus u-icon__inner"></span>
-                  </span>
-                </div>
-                <div class="media-body text-secondary">
-                  Private health spending account (if applicable)
+                  Learn about our story - <a href="https://nexushealthclinic.com/about-us">https://nexushealthclinic.com/about-us</a>
                 </div>
               </div>
             </li>
@@ -636,11 +573,11 @@
     {
       "@context" : "https://schema.org/",
       "@type" : "JobPosting",
-      "title" : "Physiotherapist",
-      "description" : "<p>Nexus Massage & Rehab is a multi-disciplinary clinic that specializes in massage therapy, chiropractic, physiotherapy, acupuncture and has a multi-purpose studio for dance and fitness. Nexus physiotherapists are responsible for developing treatment plans, performing high-quality treatments and maintaining accurate client records.</p>",
-      "datePosted" : "2019-08-01",
-      "validThrough" : "2019-12-31",
-      "employmentType" : ["CONTRACTOR", "PART_TIME"],
+      "title" : "Chiropractor",
+      "description" : "<p>Nexus Massage & Rehab is a multi-disciplinary clinic that specializes in massage therapy, chiropractic, physiotherapy, acupuncture and has a multi-purpose studio for dance and fitness. Nexus RMT's are responsible for performing clinical assessments, providing treatment plans and performing delivering high quality treatment sessions.</p>",
+      "datePosted" : "2020-10-22",
+      "validThrough" : "2022-12-31",
+      "employmentType" : ["CONTRACTOR", "FULL_TIME", "PART_TIME"],
       "hiringOrganization" : {
         "@type" : "Organization",
         "name" : "Nexus Massage & Rehab",
@@ -663,8 +600,8 @@
         "currency": "CAD",
         "value": {
           "@type": "QuantitativeValue",
-          "minValue": 1500.00,
-          "maxValue": 3000.00,
+          "minValue": 2500.00,
+          "maxValue": 10000.00,
           "unitText": "MONTH"
         }
       }

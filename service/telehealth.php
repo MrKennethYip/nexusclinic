@@ -4,7 +4,7 @@
   <!-- Title -->
   <title>Telehealth | Midtown Massage, Chiro & Physio Clinic | Nexus Massage</title>
 
-  <meta name="Description" content="">
+  <meta name="Description" content="Continue your health journey from home with our Virtual Telehealth Sessions. Learn more and book today.">
   <meta name="keywords" content=""> 
 
   <!-- Common Header -->
