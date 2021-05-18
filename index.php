@@ -10,7 +10,7 @@
 
   <meta property="og:image" content="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Nexus-Square.jpg"/>
   <meta property="og:type" content="website"/>
-  <meta property="og:url" content="http://www.nexushealthclinic.com"/>
+  <meta property="og:url" content="https://nexushealthclinic.com"/>
   <meta property="og:title" content="Nexus Massage & Rehab - Online Booking - Open 7 Days - CHIRO | MASSAGE | PHYSIO"/>
   <meta property="og:description" content="Best Midtown RMT Massage, Chiro, Physio and Acupuncture services - Located at Yonge & Eglinton - Open 7 Days - Online Booking and Direct Billing."/>
 
@@ -49,7 +49,7 @@
       visibility: hidden;
     }
   </style>
-
+  <link rel="canonical" href="https://nexushealthclinic.com/" />
 </head>
 
 <body>
