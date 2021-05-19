@@ -39,7 +39,7 @@
 <script async>
 "use strict";
 
-!function() {
+function LoadDriftWidget() {
 var t = window.driftt = window.drift = window.driftt || [];
 if (!t.init) {
     if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
@@ -61,6 +61,10 @@ if (!t.init) {
 }();
 drift.SNIPPET_VERSION = '0.3.1';
 drift.load('zcrncp4tbrsb');
+
+setTimeout(function(){
+     LoadDriftWidget()
+}, 5000)
 </script>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124593606-2"></script>
