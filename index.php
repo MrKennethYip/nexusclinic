@@ -988,7 +988,7 @@
   <?php include('includes/common-footer.php') ?>
   <!-- End Common Footer -->
 
-  <script defer>
+  <script async defer>
     $(document).ready(function(){
         $('iframe#google-social').attr('src', 'https://embedsocial.com/api/reviews_source_badges/badge-6/en/google/4705');
         $('iframe#yelp-social').attr('src', 'https://embedsocial.com/api/reviews_source_badges/badge-6/en/custom/13034');
