@@ -68,26 +68,26 @@
   <div class="container text-center u-space-1">
     <!-- Logo -->
     <a class="d-inline-block mb-1" href="../index" aria-label="Front">
-      <img src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/logo.svg" alt="Nexus Massage & Rehab - Yonge & Eglinton - Logo" style="width: 200px;">
+      <img loading="lazy" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/logo.svg" alt="Nexus Massage & Rehab - Yonge & Eglinton - Logo" style="width: 200px;">
     </a>
     <!-- End Logo -->
 
     <!-- Social Section -->
     <div class="d-flex justify-content-center p-3">
       <div class="mx-2">
-        <a href="https://facebook.com/nexushealthclinic" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/fb_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Facebook" width="30" height="30"></a>
+        <a href="https://facebook.com/nexushealthclinic" target="blank"><img loading="lazy" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/fb_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Facebook" width="30" height="30"></a>
       </div>
       <div class="mx-2">
-        <a href="https://twitter.com/Nexus_MnR" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/twitter_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Twitter" width="30" height="30"></a>
+        <a href="https://twitter.com/Nexus_MnR" target="blank"><img loading="lazy" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/twitter_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Twitter" width="30" height="30"></a>
       </div>
       <div class="mx-2">
-        <a href="https://www.instagram.com/nexus.clinic" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/instagram_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Instagram" width="30" height="30"></a>
+        <a href="https://www.instagram.com/nexus.clinic" target="blank"><img loading="lazy" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/instagram_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Instagram" width="30" height="30"></a>
       </div>
       <div class="mx-2">
-        <a href="https://www.yelp.ca/biz/nexus-massage-and-rehab-toronto" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/yelp_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Yelp" width="30" height="30"></a>
+        <a href="https://www.yelp.ca/biz/nexus-massage-and-rehab-toronto" target="blank"><img loading="lazy" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/yelp_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Yelp" width="30" height="30"></a>
       </div>
       <div class="mx-2">
-        <a href="https://www.opencare.com/clinic/nexus-massage-rehab-toronto-on-24630728802/" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/opencare_square_color.png" alt="Massage Clinic - Yonge & Eglinton - OpenCare" width="30" height="30"></a>
+        <a href="https://www.opencare.com/clinic/nexus-massage-rehab-toronto-on-24630728802/" target="blank"><img loading="lazy" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/opencare_square_color.png" alt="Massage Clinic - Yonge & Eglinton - OpenCare" width="30" height="30"></a>
       </div>
     </div>
     <!-- End Social Section --> 
