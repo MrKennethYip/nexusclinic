@@ -988,7 +988,8 @@
   <?php include('includes/common-footer.php') ?>
   <!-- End Common Footer -->
 
-  <script async defer>
+  <script>
+  function loadNexusIframes() {
     $(document).ready(function(){
         $('iframe#google-social').attr('src', 'https://embedsocial.com/api/reviews_source_badges/badge-6/en/google/4705');
         $('iframe#yelp-social').attr('src', 'https://embedsocial.com/api/reviews_source_badges/badge-6/en/custom/13034');
@@ -996,6 +997,10 @@
         $('iframe#maps-nexus').attr('src', 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8682.701534121301!2d-79.40139737083489!3d43.70751239672543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b33bb783e569b%3A0xfe369432193e0cf0!2sNexus+Massage+%26+Rehab!5e0!3m2!1sen!2sca!4v1536630500759');
         $('iframe#maps-parking').attr('src', 'https://www.google.com/maps/d/embed?mid=1PjWGMmbmn5xl1MAHthYeM_M7-bFl3q7Z');
       });
+  }
+  setTimeout(function(){
+       loadNexusIframes()
+  }, 3000)
   </script>
 
   <!-- 
