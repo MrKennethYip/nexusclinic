@@ -5,7 +5,7 @@
       <!-- Nav -->
       <nav class="js-mega-menu navbar navbar-expand-md u-header__navbar">
         <!-- Logo -->
-        <a class="navbar-brand u-header__navbar-brand u-header__navbar-brand-top-space" href="../index" aria-label="Nexus Clinic Logo">
+        <a class="navbar-brand u-header__navbar-brand u-header__navbar-brand-top-space" href="../" aria-label="Nexus Clinic Logo">
           <img src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/logo.svg" alt="Nexus Massage & Rehab - Yonge & Eglinton - Logo - Chiropractor | Physio | Registered Massage Therapist" title="Nexus Massage & Rehab - Yonge & Eglinton - Chiropractor | Physio | Registered Massage Therapist" style="width: 200px;">
         </a>
         <!-- End Logo -->
