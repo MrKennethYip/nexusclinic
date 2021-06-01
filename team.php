@@ -231,22 +231,6 @@
           <!-- End Item -->
 
           <!-- Item -->
-          <div class="cbp-item physio">
-            <a class="cbp-caption" href="profiles/victoria_kwong">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/victoria_kwong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Victoria Kwong - Physiotherapist">
-            </a>
-              <div class="py-3">
-                <a href="profiles/victoria_kwong">
-                  <h4 class="h6 text-dark mb-0">Victoria Kwong</h4>
-                </a>
-                <p class="small mb-0">
-                  Physiotherapist<br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="profiles/kyle_ngo">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kyle_ngo.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kyle_ngo.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kyle_ngo.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/kyle_ngo.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Kyle Ngo - Registered Massage Therapy">
@@ -320,7 +304,7 @@
                   <h4 class="h6 text-dark mb-0">Angel Marie San Juan</h4>
                 </a>
                 <p class="small mb-0">
-                  Registered Massage Therapist<br><br><br>
+                  Registered Massage Therapist<br><br>
                 </p>
               </div>
           </div>
@@ -336,7 +320,55 @@
                   <h4 class="h6 text-dark mb-0">Dr. Jessica Tsang</h4>
                 </a>
                 <p class="small mb-0">
-                  Chiropractor, Acupuncture Provider<br><br><br>
+                  Chiropractor, Acupuncture Provider<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+            <div class="cbp-item physio">
+              <a class="cbp-caption" href="profiles/kashmita_poojary">
+                <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/default.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/default.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/default.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/default.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Kashmita Poojary - Physiotherapy Resident">
+              </a>
+                <div class="py-3">
+                  <a href="profiles/kashmita_poojary">
+                    <h4 class="h6 text-dark mb-0">Kashmita Poojary</h4>
+                  </a>
+                  <p class="small mb-0">
+                    Physiotherapy Resident<br><br>
+                  </p>
+                </div>
+            </div>
+          <!-- End Item -->
+              
+          <!-- Item -->
+            <div class="cbp-item physio">
+              <a class="cbp-caption" href="profiles/taral_shah">
+                <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/taral_shah.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/taral_shah.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/taral_shah.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/taral_shah.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Taral Shah - Physiotherapy Resident">
+              </a>
+                <div class="py-3">
+                  <a href="profiles/taral_shah">
+                    <h4 class="h6 text-dark mb-0">Taral Shah</h4>
+                  </a>
+                  <p class="small mb-0">
+                    Physiotherapy Resident<br><br>
+                  </p>
+                </div>
+            </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item physio">
+            <a class="cbp-caption" href="profiles/victoria_kwong">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/victoria_kwong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Victoria Kwong - Physiotherapist">
+            </a>
+              <div class="py-3">
+                <a href="profiles/victoria_kwong">
+                  <h4 class="h6 text-dark mb-0">Victoria Kwong</h4>
+                </a>
+                <p class="small mb-0">
+                  Physiotherapist<br><br>
                 </p>
               </div>
           </div>
