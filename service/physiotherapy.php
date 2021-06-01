@@ -685,7 +685,7 @@
           <!-- Item -->
             <div class="cbp-item physio">
               <a class="cbp-caption" href="../profiles/kashmita_poojary">
-                <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/default.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/default.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/default.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/default.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Kashmita Poojary - Physiotherapy Resident">
+                <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/kashmita_poojary.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/kashmita_poojary.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/kashmita_poojary.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/kashmita_poojary.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Kashmita Poojary - Physiotherapy Resident">
               </a>
                 <div class="py-3">
                   <a href="../profiles/kashmita_poojary">
