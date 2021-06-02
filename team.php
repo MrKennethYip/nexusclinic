@@ -368,7 +368,7 @@
                   <h4 class="h6 text-dark mb-0">Victoria Kwong</h4>
                 </a>
                 <p class="small mb-0">
-                  Physiotherapist<br><br>
+                  Physiotherapist (Virtual)<br><br>
                 </p>
               </div>
           </div>
