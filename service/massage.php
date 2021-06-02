@@ -574,23 +574,7 @@
                   <h4 class="h6 text-dark mb-0">Phil Kim</h4>
                 </a>
                 <p class="small mb-0">
-                  There are many great RMTs in the area however as a dual-registered provider, RMT/R.Kin, I look at problems from two distinct points of view; one being the pain relief aspect and another being the preventative aspect. Therefore, I believe that I have the advantage when it comes to a more holistic therapy.<br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
-          <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/lydia_giammartino">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lydia_giammartino.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lydia_giammartino.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lydia_giammartino.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/lydia_giammartino.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Lydia Giammartino - Registered Massage Therapy">
-            </a>
-              <div class="py-3">
-                <a href="../profiles/lydia_giammartino">
-                  <h4 class="h6 text-dark mb-0">Lydia Giammartino</h4>
-                </a>
-                <p class="small mb-0">
-                  I have a passion for the healthcare field and for seeing my patient’s treatment through to the end. I recognize that each person is an individual with specific needs and time constraints in today’s busy world, so I finds a way to partner and work with my patients in order to meet their healthcare goals.<br>
+                  There are many great RMTs in the area however as a dual-registered provider, RMT/R.Kin, I look at problems from two distinct points of view; one being the pain relief aspect and another being the preventative aspect. Therefore, I believe that I have the advantage when it comes to a more holistic therapy.<br><br><br>
                 </p>
               </div>
           </div>
@@ -606,7 +590,7 @@
                   <h4 class="h6 text-dark mb-0">Vithursun Yugadeva</h4>
                 </a>
                 <p class="small mb-0">
-                  I am a driven therapist whose goal is to figure out what the root cause of pain is from the patient’s concerns and forming an individualized treatment plan for every patient.<br><br><br>
+                  I am a driven therapist whose goal is to figure out what the root cause of pain is from the patient’s concerns and forming an individualized treatment plan for every patient.<br><br><br><br><br>
                 </p>
               </div>
           </div>
@@ -622,7 +606,7 @@
                   <h4 class="h6 text-dark mb-0">Lucia Suarez Castro</h4>
                 </a>
                 <p class="small mb-0">
-                  My knowledge and experience in different areas of alternative medicine such as Shiatsu, Acupuncture, Ayurvedic, Reflexology and Access Bars allows me to find the root cause in many different conditions and being able to help in a faster and more effective way each of my clients. On top of treating all the physical complaints, some of these tools help to relive stress, anxiety and depression.<br><br>
+                  My knowledge and experience in different areas of alternative medicine such as Shiatsu, Acupuncture, Ayurvedic, Reflexology and Access Bars allows me to find the root cause in many different conditions and being able to help in a faster and more effective way each of my clients. On top of treating all the physical complaints, some of these tools help to relive stress, anxiety and depression.<br>
                 </p>
               </div>
           </div>

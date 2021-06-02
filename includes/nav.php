@@ -43,12 +43,34 @@
               </a>
             </li>
             <!-- End About Us - Link -->
-
+              
             <!-- Team - Link -->
-            <li class="nav-item">
-              <a class="nav-link u-header__nav-link font-weight-bold" href="/team">
-                TEAM
+            <li class="nav-item hs-has-sub-menu u-header__nav-item"
+                data-event="click"
+                data-animation-in="fadeInUp"
+                data-animation-out="fadeOut">
+              <a id="pagesMegaMenu" class="nav-link u-header__nav-link font-weight-bold" href="javascript:;"
+                 aria-haspopup="true"
+                 aria-expanded="false"
+                 aria-labelledby="communitySubMenu">
+                TEAM&nbsp;<span class="fa fa-angle-down"></span>
               </a>
+
+              <ul id="pagesSubMenu" class="list-inline hs-sub-menu u-header__sub-menu py-3 mb-0" style="min-width: 140px;"
+                  aria-labelledby="pagesMegaMenu">
+                <li class="dropdown-item">
+                  <a class="nav-link u-header__sub-menu-nav-link u-list__link py-2" href="/team">
+                    STAFF
+                    <span class="fa fa-angle-right u-header__sub-menu-nav-link-icon"></span>
+                  </a>
+                </li>
+                <li class="dropdown-item">
+                  <a class="nav-link u-header__sub-menu-nav-link u-list__link py-2" href="/careers">
+                    CAREERS
+                    <span class="fa fa-angle-right u-header__sub-menu-nav-link-icon"></span>
+                  </a>
+                </li>
+              </ul>
             </li>
             <!-- End Team - Link -->
 
@@ -96,7 +118,6 @@
                 </li>
               </ul>
             </li>
-
             <!-- End Community - Link -->
 
             <!-- Button -->
