@@ -119,7 +119,7 @@
           <!-- End Item -->
 
           <!-- Item -->
-          <div class="cbp-item chiro">
+          <div class="cbp-item chiro rmt">
             <a class="cbp-caption" href="profiles/felix_chu">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/felix_chu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Felix Chu - Chiropractor">
             </a>
@@ -128,7 +128,7 @@
                   <h4 class="h6 text-dark mb-0">Dr. Felix Chu</h4>
                 </a>
                 <p class="small mb-0">
-                  Chiropractor, Acupuncture Provider<br><br>
+                  Chiropractor, Registered Massage Therapist, Acupuncture Provider<br>
                 </p>
               </div>
           </div>
@@ -325,6 +325,22 @@
               </div>
           </div>
           <!-- End Item -->
+          
+          <!-- Item -->
+            <div class="cbp-item physio">
+              <a class="cbp-caption" href="profiles/taral_shah">
+                <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/taral_shah.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/taral_shah.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/taral_shah.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/taral_shah.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Taral Shah - Physiotherapy Resident">
+              </a>
+                <div class="py-3">
+                  <a href="profiles/taral_shah">
+                    <h4 class="h6 text-dark mb-0">Taral Shah</h4>
+                  </a>
+                  <p class="small mb-0">
+                    Physiotherapy Resident<br><br>
+                  </p>
+                </div>
+            </div>
+          <!-- End Item -->
             
           <!-- Item -->
             <div class="cbp-item physio">
@@ -334,22 +350,6 @@
                 <div class="py-3">
                   <a href="profiles/kashmita_poojary">
                     <h4 class="h6 text-dark mb-0">Kashmita Poojary</h4>
-                  </a>
-                  <p class="small mb-0">
-                    Physiotherapy Resident<br><br>
-                  </p>
-                </div>
-            </div>
-          <!-- End Item -->
-              
-          <!-- Item -->
-            <div class="cbp-item physio">
-              <a class="cbp-caption" href="profiles/taral_shah">
-                <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/taral_shah.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/taral_shah.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/taral_shah.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/taral_shah.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Taral Shah - Physiotherapy Resident">
-              </a>
-                <div class="py-3">
-                  <a href="profiles/taral_shah">
-                    <h4 class="h6 text-dark mb-0">Taral Shah</h4>
                   </a>
                   <p class="small mb-0">
                     Physiotherapy Resident<br><br>

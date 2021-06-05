@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Felix Chu | Chiropractor | Nexus Massage & Rehab at Yonge & Eglinton</title>
+  <title>Felix Chu | Chiropractor & RMT | Nexus Massage & Rehab at Yonge & Eglinton</title>
 
   <meta name="Description" content="Dr. Felix Chu is a chiropractor at Nexus Massage & Rehab at Yonge  & Eglinton who specializes in rehabilitation & acupuncture. Book an appointment now!">
   <meta name="keywords" content="Chiropractic, chiropractor, chiro, deep massage, rehabilitation, exercise, orthotics, acupuncture, doctor, trigger point, neck pain, back pain, headaches, adjustments, posture, alignment, spine alignment, proper posture, the best chiropractor at yonge and eglinton, expert in spine, pinched nerve, Chronic neck pain, chronic back pain, spine pain, best back pain relief, lower back pain relief, lumbar spine, back strain, herniated disc, neck problems, sore neck, backache, back injury">
@@ -118,6 +118,17 @@
                   <div>
                     <a href="../service/chiropractic">
                       <span class="d-block text-dark small font-weight-bold">Chiropractic Services</span>
+                    </a>
+                  </div>
+                </div>
+                <!-- End User -->
+                  
+                <!-- User -->
+                <div class="card-header border-0 py-3 d-flex align-items-center">
+                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/massage-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                  <div>
+                    <a href="../service/massage">
+                      <span class="d-block text-dark small font-weight-bold">Registered Massage Therapy</span>
                     </a>
                   </div>
                 </div>
