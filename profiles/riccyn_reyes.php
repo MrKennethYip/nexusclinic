@@ -140,10 +140,10 @@
                 <span class="d-flex align-items-start">
 
                   <div class="ml-2">
-                    <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>11am - 8pm</p>
-                    <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>11am - 8pm</p>
-                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>11am - 8pm</p>
-                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>11am - 7pm</p>
+                    <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>10am - 9pm</p>
+                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>10am - 9pm</p>
+                    <p class="text-dark"><strong>Thurs:</strong><span class="ml-3"></span>10am - 9pm</p>
+                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>10am - 7pm</p>
                   </div>
                 </span>
                 <!-- End User -->
