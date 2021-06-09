@@ -662,6 +662,54 @@
             
           <!-- Item -->
           <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/sharlene_castro">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/sharlene_castro.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/sharlene_castro.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/sharlene_castro.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/sharlene_castro.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Sharlene Castro - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/sharlene_castro">
+                  <h4 class="h6 text-dark mb-0">Sharlene Castro</h4>
+                </a>
+                <p class="small mb-0">
+                  I have a strong passion for patient education. With my patients, I walk them through what I find during assessment and treatment. I want my patients to understand their concerns, what structures are affected and potentially why issues occur, rather than just acknowledge it as pain. MY ultimate goal is to kickstart my patient’s inner drive to resolve their concerns and reach THEIR goals together.<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/gloria_tran">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gloria_tran.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gloria_tran.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gloria_tran.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/gloria_tran.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Gloria Tran - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/gloria_tran">
+                  <h4 class="h6 text-dark mb-0">Gloria Tran</h4>
+                </a>
+                <p class="small mb-0">
+                  I am a healthcare provider who is invested in my patient's ongoing health and well-being. I tailor all my treatments to my patient's needs, listen to their goals and concerns, and provide personalized treatment plans to achieve those goals. I enjoy seeing results in my clients and being able to help them find relief in their discomfort, not just physically but mentally. It makes me feel like I am positively contributing to someone's life.<br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/desciree_lyog">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_lyog.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_lyog.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_lyog.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/desciree_lyog.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Desciree Lyog - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/desciree_lyog">
+                  <h4 class="h6 text-dark mb-0">Desciree Lyog</h4>
+                </a>
+                <p class="small mb-0">
+                  I am proud of becoming a part of the reason that someone will be able to function better in their everyday life. Creating an impact for the better to increase their quality of living. I am an approachable individual that will prioritize the well-being of my patients with goals that I curate for you to understand what is necessary to attain the required results.<br><br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/riccyn_reyes">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/riccyn_reyes.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/riccyn_reyes.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/riccyn_reyes.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/riccyn_reyes.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Riccyn Reyes - Registered Massage Therapy">
             </a>
