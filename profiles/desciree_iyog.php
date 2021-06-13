@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Desciree Lyog (RMT) | Nexus Massage & Rehab | (647) 557-6267</title>
+  <title>Desciree Iyog (RMT) | Nexus Massage & Rehab | (647) 557-6267</title>
 
-  <meta name="Description" content="Learn about the team at Nexus Massage & Rehab. Desciree Lyog specializes in massage therapy & lower back pain at our Yonge & Eglinton clinic. Learn more!">
-  <meta name="keywords" content="Desciree Lyog, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
+  <meta name="Description" content="Learn about the team at Nexus Massage & Rehab. Desciree Iyog specializes in massage therapy & lower back pain at our Yonge & Eglinton clinic. Learn more!">
+  <meta name="keywords" content="Desciree Iyog, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
 
   <!-- Common Header -->
   <?php include('../includes/common-header.php') ?>
@@ -44,7 +44,7 @@
           <div class="animated bounceIn">
           <!-- Info -->
           <div class="mb-4">
-            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">DESCIREE LYOG</h1>
+            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">DESCIREE IYOG</h1>
           </div>
 
           <ul class="list-inline">
@@ -58,7 +58,7 @@
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_lyog.jpg" alt="Desciree Lyog - Profile">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_iyog.jpg" alt="Desciree Iyog - Profile">
           <!-- End Avatar -->
           </div>
         </div>

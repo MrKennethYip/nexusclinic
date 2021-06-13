@@ -694,12 +694,12 @@
             
           <!-- Item -->
           <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/desciree_lyog">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_lyog.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_lyog.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_lyog.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/desciree_lyog.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Desciree Lyog - Registered Massage Therapy">
+            <a class="cbp-caption" href="../profiles/desciree_iyog">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_iyog.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_iyog.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_iyog.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/desciree_iyog.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Desciree iyog - Registered Massage Therapy">
             </a>
               <div class="py-3">
-                <a href="../profiles/desciree_lyog">
-                  <h4 class="h6 text-dark mb-0">Desciree Lyog</h4>
+                <a href="../profiles/desciree_iyog">
+                  <h4 class="h6 text-dark mb-0">Desciree Iyog</h4>
                 </a>
                 <p class="small mb-0">
                   I am proud of becoming a part of the reason that someone will be able to function better in their everyday life. Creating an impact for the better to increase their quality of living. I am an approachable individual that will prioritize the well-being of my patients with goals that I curate for you to understand what is necessary to attain the required results.<br><br><br>
