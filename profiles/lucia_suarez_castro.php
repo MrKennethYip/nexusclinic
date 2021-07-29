@@ -138,6 +138,7 @@
                 <span class="d-flex align-items-start">
 
                   <div class="ml-2">
+                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>9am - 2pm</p>
                     <p class="text-dark"><strong>Thurs:</strong><span class="ml-3"></span>10am - 5pm</p>
                     <p class="text-dark"><strong>Fri:</strong><span class="ml-3"></span>11am - 5pm</p>
                   </div>

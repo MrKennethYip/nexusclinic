@@ -69,12 +69,7 @@
 
     <div style="background-color:#E7E8E8; border-bottom: 1px solid #898A8D">
     <!-- Services Section -->
-      <div class="container u-space-1" style="background:url( https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
-        <!-- Title -->
-        <div class="w-md-80 w-lg-50 text-center mx-auto mb-9">
-          <h2 class="text-dark font-weight-normal"><span class="font-weight-bold">COVID-19 TELEHEALTH</span>&nbsp;<span class="badge badge-success">New</span></h2>
-        </div>
-        <!-- End Title -->
+      <div class="container u-space-2-top container u-space-1-bottom" style="background:url( https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
 
         <!-- Service Item Start -->
          <div class="scrolltag" id="telehealth"></div>

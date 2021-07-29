@@ -707,22 +707,6 @@
               </div>
           </div>
           <!-- End Item -->
-            
-          <!-- Item -->
-          <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/riccyn_reyes">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/riccyn_reyes.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/riccyn_reyes.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/riccyn_reyes.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/riccyn_reyes.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Riccyn Reyes - Registered Massage Therapy">
-            </a>
-              <div class="py-3">
-                <a href="../profiles/riccyn_reyes">
-                  <h4 class="h6 text-dark mb-0">Riccyn Reyes</h4>
-                </a>
-                <p class="small mb-0">
-                  I give my best to make sure that I am able to improve my client's quality of life. I am very passionate with what I do as an RMT. I always try my best to find a way to improve myself so in return, I am able to help my clients better. I will make sure that I listen to my client's concern every single time that they come to see me. As a therapist, I am very determined to help my clients in every way I can. <br><br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
 
           <!-- Item -->
           <div class="cbp-item rmt">
