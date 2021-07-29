@@ -179,7 +179,7 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           Nexus Clinic is <u>OPEN</u> with additional safety protocols in place!<span class="ml-5"><a class="btn btn-light transition-3d-hover btn-sml" href="COVID-19" role="button">Learn More <span class="fa fa-angle-right font-size-18 ml-2"></span></a>
+           JULY PROMO: $30 OFF INITIAL PHYSIOTHERAPY APPOINTMENT
         </span>
       </div>
     </div>
