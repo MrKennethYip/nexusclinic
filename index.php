@@ -179,7 +179,10 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           JULY PROMO: $30 OFF INITIAL PHYSIOTHERAPY APPOINTMENT
+           <?php
+           $promocode = $_GET['promocode'];
+           if(isset($promocode)) echo 'PROMO CODE: Mention "' .$promocode. '" to save $25 on your First Visit* <br><h6>*Conditions May Apply. Please check with Receptionist on payment.</h6>'
+           ?>
         </span>
       </div>
     </div>
