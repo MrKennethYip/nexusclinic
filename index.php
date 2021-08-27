@@ -175,15 +175,15 @@
       </div>
     <!-- End Images Carousel Section -->
 
-    <!-- Red Promo Banner
+    <!-- Red Promo Banner -->
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           JULY PROMO: $30 OFF INITIAL PHYSIOTHERAPY APPOINTMENT
+           Have a good experience at Nexus? Vote for us in the 2021 Toronto Star Awards! <a class="btn btn-light transition-3d-hover btn-sml" href="https://bit.ly/3Dl4toW" target="blank">Vote Today<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
         </span>
       </div>
     </div>
-    End Red Promo Banner -->
+    <!-- End Red Promo Banner -->
 
     <!-- How did Nexus Massage & Rehab Start -->
     <div class="position-relative" style="border: 1px solid #898A8D">
@@ -588,13 +588,11 @@
 
         <!-- Friends List -->
         <div class="mb-3">
-          <a href="https://www.thestar.com/readerschoice-toronto/categories/health-wellness-fitness-beauty/subcategories/chiropractic-clinic" target="blank">
-            <div class="card-body p-3">
-              <div class="text-center">
-                <img loading="lazy" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/social/Toronto_Star-Platinum-2020.png" alt="Nexus Massage & Rehab - Reader Choice Award - Platnium - 2020" title="Nexus Massage & Rehab - Reader Choice Award - Platnium - 2020" style="width: 225px;">
-              </div>
+          <div class="card-body p-3">
+            <div class="text-center">
+              <img loading="lazy" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/social/Toronto_Star-Platinum-2020.png" alt="Nexus Massage & Rehab - Reader Choice Award - Platnium - 2020" title="Nexus Massage & Rehab - Reader Choice Award - Platnium - 2020" style="width: 225px;">
             </div>
-          </a>
+          </div>
         </div>
         <!-- End Friends List -->
         
