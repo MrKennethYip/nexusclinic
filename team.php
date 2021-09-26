@@ -486,9 +486,9 @@
             
           <!-- Item -->
           <div class="cbp-item rmt chiro acupuncture physio osteopath">
-            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/anthony_tse.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/anthony_tse.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/anthony_tse.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/anthony_tse.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Anthony Tse - Nexus Massage and Rehab - Toronto">
+            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/olivia_embry.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/olivia_embry.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/olivia_embry.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/olivia_embry.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Olivia Embry - Nexus Massage and Rehab - Toronto">
             <div class="py-3">
-              <h4 class="h6 text-dark mb-0">Anthony Tse</h4>
+              <h4 class="h6 text-dark mb-0">Olivia Embry</h4>
               <p class="small mb-0">
                 Clinic Administrator<br><br>
               </p>
