@@ -151,22 +151,6 @@
           <!-- End Item -->
 
           <!-- Item -->
-          <div class="cbp-item chiro">
-            <a class="cbp-caption" href="profiles/kevin_hong">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kevin_hong.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kevin_hong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kevin_hong.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/kevin_hong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Kevin Hong - Chiropractor">
-            </a>
-              <div class="py-3">
-                <a href="profiles/kevin_hong">
-                  <h4 class="h6 text-dark mb-0">Dr. Kevin Hong</h4>
-                </a>
-                <p class="small mb-0">
-                  Chiropractor, Acupuncture Provider<br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="profiles/vithursun_yugadeva">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/vithursun_yugadeva.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/vithursun_yugadeva.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/vithursun_yugadeva.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/vithursun_yugadeva.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Vithursun Yugadeva - Registered Massage Therapy">
@@ -462,18 +446,6 @@
             
           <!-- Item -->
           <div class="cbp-item rmt chiro acupuncture physio osteopath">
-            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/sarita_vaz.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/sarita_vaz.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/sarita_vaz.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/sarita_vaz.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Sarita Vaz - Nexus Massage and Rehab - Toronto">
-            <div class="py-3">
-              <h4 class="h6 text-dark mb-0">Sarita Vaz</h4>
-              <p class="small mb-0">
-                Clinic Administrator<br><br>
-              </p>
-            </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
-          <div class="cbp-item rmt chiro acupuncture physio osteopath">
             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gorma_jekula.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gorma_jekula.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gorma_jekula.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/gorma_jekula.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px"  alt="Gorma Jekula - Nexus Massage and Rehab - Toronto">
             <div class="py-3">
               <h4 class="h6 text-dark mb-0">Gorma Jekula</h4>
@@ -486,9 +458,33 @@
             
           <!-- Item -->
           <div class="cbp-item rmt chiro acupuncture physio osteopath">
+            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/sarita_vaz.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/sarita_vaz.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/sarita_vaz.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/sarita_vaz.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Sarita Vaz - Nexus Massage and Rehab - Toronto">
+            <div class="py-3">
+              <h4 class="h6 text-dark mb-0">Sarita Vaz</h4>
+              <p class="small mb-0">
+                Clinic Administrator<br><br>
+              </p>
+            </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt chiro acupuncture physio osteopath">
             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/olivia_embry.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/olivia_embry.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/olivia_embry.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/olivia_embry.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Olivia Embry - Nexus Massage and Rehab - Toronto">
             <div class="py-3">
               <h4 class="h6 text-dark mb-0">Olivia Embry</h4>
+              <p class="small mb-0">
+                Clinic Administrator<br><br>
+              </p>
+            </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt chiro acupuncture physio osteopath">
+            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/rovana_adjodhaa.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/rovana_adjodhaa.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/rovana_adjodhaa.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/rovana_adjodhaa.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Rovana Adjodhaa - Nexus Massage and Rehab - Toronto">
+            <div class="py-3">
+              <h4 class="h6 text-dark mb-0">Rovana Adjodhaa</h4>
               <p class="small mb-0">
                 Clinic Administrator<br><br>
               </p>
