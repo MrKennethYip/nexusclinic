@@ -167,11 +167,11 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Dr. David Tam is an evidence-based chiropractor based out of Toronto that focuses on assessment and patient-centered care. His interest in healthcare began after sustaining a number of injuries as a student-athlete. Dr. David went on to pursue an Honours Bachelors of Science in Kinesiology with a minor in Gerontology at the University of Waterloo. He then furthered his education at the Canadian Memorial Chiropractic College where he obtained his Doctor of Chiropractic degree.</p>
+              <p>I am an evidence-based chiropractor based out of Toronto that focuses on assessment and patient-centered care. My interest in healthcare began after sustaining a number of injuries as a student-athlete. I went on to pursue an Honours Bachelors of Science in Kinesiology with a minor in Gerontology at the University of Waterloo, then furthered my education at the Canadian Memorial Chiropractic College where I obtained my Doctor of Chiropractic degree.</p>
               
-              <p>During his undergraduate studies, Dr. David provided on-field care as a student therapist for the University of Waterloo Men’s Volleyball and Varsity Badminton teams. As a personal trainer and former paddler for the University of Waterloo’s Dragon Boat Club, he went on to co-lead Dryland strength and conditioning practices. He has worked alongside his co-operative education employers, providing ergonomic insights and recommendations for desk workers. Dr. David has a soft spot when working with the elderly: providing musculoskeletal care at South Riverdale Community Health Centre, organizing programs at Carefirst Seniors’ Adult Day Program, and leading virtual exercises classes for seniors during the pandemic.</p>
+              <p>During my undergraduate studies, I provided on-field care as a student therapist for the University of Waterloo Men’s Volleyball and Varsity Badminton teams. As a personal trainer and former paddler for the University of Waterloo’s Dragon Boat Club, I went on to co-lead Dryland strength and conditioning practices. I have worked alongside my co-operative education employers, providing ergonomic insights and recommendations for desk workers. I gave a soft spot when working with the elderly: providing musculoskeletal care at South Riverdale Community Health Centre, organizing programs at Carefirst Seniors’ Adult Day Program, and leading virtual exercises classes for seniors during the pandemic.</p>
               
-              <p>When Dr. David is not in the clinic, you can find him on the badminton/volleyball courts, hiking a trail, or documenting his adventures through photography.</p>
+              <p>When I am not in the clinic, you can find me on the badminton/volleyball courts, hiking a trail, or documenting my adventures through photography.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -181,7 +181,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>As a working professional and weekend warrior himself. Dr. David understands the occupational demands and stresses on the body during the working week. He enjoys treating neck pain, back pain, and sports-related injuries. His treatment philosophy focuses on the assessment to identify the root cause of the aches and pains.</p>
+              <p>As a working professional and weekend warrior himself. I understand the occupational demands and stresses on the body during the working week. I enjoy treating neck pain, back pain, and sports-related injuries. My treatment philosophy focuses on the assessment to identify the root cause of the aches and pains.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -191,7 +191,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Dr. David’s treatment methodology is a multi-modal approach utilizing different tools in his tool belt to maximize the recovery process. His treatments of choice are manual therapy (soft tissue therapy, joint mobilization, and/or manipulation), injury prevention & education, and prescribing individualized rehabilitation programs tailored towards your goals.</p>
+              <p>My treatment methodology is a multi-modal approach utilizing different tools in my tool-belt to maximize the recovery process. My treatments of choice are manual therapy (soft tissue therapy, joint mobilization, and/or manipulation), injury prevention & education, and prescribing individualized rehabilitation programs tailored towards my patient's goals.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -201,7 +201,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Dr. David takes pride in being able to help patients understand their own bodies better. His role is to simplify the complex understanding of the human body and to guide you towards your goals. Whether that is to decrease pain, restore range of motion, or returning back to the sport. He is there to motivate, empower and educate you through the process.</p>
+              <p>I take pride in being able to help patients understand their own bodies better. My role is to simplify the complex understanding of the human body and to guide you towards your goals. Whether that is to decrease pain, restore range of motion, or returning back to the sport. I am there to motivate, empower and educate you through the process.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -211,7 +211,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Dr. David has worked with athletes, office workers, children, the elderly, and individuals from all walks of life with different musculoskeletal concerns. He focuses on the assessment and treats every condition that walks into his office with a high degree of care. Dr. David takes pride in being able to create a safe and open environment for his patients. He strives to constantly improve his assessment, diagnosis, and treatments through continuing education and stays up-to-date with the research.</p>
+              <p>I have worked with athletes, office workers, children, the elderly, and individuals from all walks of life with different musculoskeletal concerns. I focus on the assessment and treats every condition that walks into my office with a high degree of care. I take pride in being able to create a safe and open environment for my patients. I strive to constantly improve my assessment, diagnosis, and treatments through continuing education and stays up-to-date with the research.</p>
               <!-- End Text -->
 
           </div>

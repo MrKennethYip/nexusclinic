@@ -702,7 +702,7 @@
                   <h4 class="h6 text-dark mb-0">Thomas Murphy</h4>
                 </a>
                 <p class="small mb-0">
-                  Coming Soon...<br><br><br><br><br><br><br><br><br>
+                  As a RMT, I work with patients to manage stress, pain, and injury, and provide the education and motivation to live life to the fullest. I am always in the process of learning and developing my practice to meet my patient’s needs. Each new patient I take on is a journey of discovery and exploration, and I am committed to helping patient’s achieve their goals.<br><br><br>
                 </p>
               </div>
           </div>

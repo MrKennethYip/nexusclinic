@@ -705,7 +705,7 @@
                   <h4 class="h6 text-dark mb-0">Dr. David Tam</h4>
                 </a>
                 <p class="small mb-0">
-                  Coming Soon...<br><br><br><br>
+                  I have worked with athletes, office workers, children, the elderly, and individuals from all walks of life with different musculoskeletal concerns. I focus on the assessment and treats every condition that walks into my office with a high degree of care. I take pride in being able to create a safe and open environment for my patients.<br><br><br><br>
                 </p>
               </div>
           </div>

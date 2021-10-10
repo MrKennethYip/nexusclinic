@@ -161,9 +161,9 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Thomas Murphy is a RMT and chiropractor-in-training with a passion for human biomechanics, performance and health optimization. With an undergraduate degree in mechanical engineering, Thomas has developed a unique, analytical and evidence-based treatment approach to help his patients achieve their personal health goals.</p>
+              <p>I am a RMT and chiropractor-in-training with a passion for human biomechanics, performance and health optimization. With an undergraduate degree in mechanical engineering, I have developed a unique, analytical and evidence-based treatment approach to help my patients achieve their personal health goals.</p>
 
-              <p>Thomas has experience treating athletes, seniors, hospital patients, and individuals with neurological conditions. As an avid runner, rock-climber and outdoor enthusiast, he is a big advocate of getting physically active, and understands well the strain the body takes on in the midst of a busy life.  As a RMT, Thomas works with patients to manage stress, pain, and injury, and provides the education and motivation to live life to the fullest.</p>
+              <p>I have experience treating athletes, seniors, hospital patients, and individuals with neurological conditions. As an avid runner, rock-climber and outdoor enthusiast, I am a big advocate of getting physically active, and understand well the strain the body takes on in the midst of a busy life.  As a RMT, I work with patients to manage stress, pain, and injury, and provide the education and motivation to live life to the fullest.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -193,7 +193,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am proud of the results of my patients.</p>
+              <p>I am proud of the results that both my patient and I achieve together.</p>
               <!-- End Text -->
 
               <!-- Title -->
