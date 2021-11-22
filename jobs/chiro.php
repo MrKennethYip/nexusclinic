@@ -55,7 +55,7 @@
         <!-- Info -->
         <p><em>"To inspire and enhance the lives of health focused professionals by optimizing their performance through a results-driven approach."</em></p>
 
-        <p>We are the FASTEST growing clinic in the busy and booming Yonge and Eglinton area. Our new, modern and clean clinic is located at the intersection of Yonge and Eglinton area with over 300+ 5-Star Google Reviews.</p>
+        <p>We are the FASTEST growing clinic in the busy and booming Yonge and Eglinton area. Our new, modern and clean clinic is located at the intersection of Yonge and Eglinton area with over 500+ Google 5-Star Reviews.</p>
         
         <p>Nexus Massage & Rehab is a multi-disciplinary clinic that offers massage therapy, chiropractic, physiotherapy, acupuncture, osteopathy and has a multi-purpose studio for rehab and fitness.</p>
         

@@ -58,10 +58,8 @@
         <p>Our clinic is founded by a Chiropractor and a RMT who understands the hard work that you do. We are a dynamic, fun, loving team who are looking for an RMT to join our family!</p>
         
         <p>Nexus Massage & Rehab is a multi-disciplinary clinic that offers <strong>massage therapy, chiropractic, physiotherapy, acupuncture, osteopathy</strong> and has a multi-purpose studio for rehab and fitness.</p>
-        
-        <p>Award winning clinic by Toronto Star Readers' Choice Platinum Award for 2020 Best Chiropractic Clinic. Read more here: <a href="https://bit.ly/torontostar-nexus" target="blank">https://bit.ly/torontostar-nexus</a></p>
-        
-        <p>We are the FASTEST growing clinic in the busy and booming Yonge and Eglinton area. Our new, modern and clean clinic has over 420+ 5-Star Google Reviews!</p>
+
+        <p>We are the FASTEST growing clinic in the busy and booming Yonge and Eglinton area. Our new, modern and clean clinic has over 500+ Google 5-Star Reviews!</p>
 
         <ul>
           <li><p>What our patients say about us: <a href="https://bit.ly/torontostar-nexus" target="blank">https://bit.ly/torontostar-nexus</a></p></li>
