@@ -61,7 +61,7 @@
 
         <p>Check out our team here! <a href="https://nexushealthclinic.com/team" target="blank">https://nexushealthclinic.com/team</a></p>
 
-        <p>What our patients say about us: <a href="https://goo.gl/maps/T2znGMLyXCu" target="blank">https://goo.gl/maps/T2znGMLyXCu</a></p>
+        <p>What our patients say about us: <a href="http://bit.ly/nexusreviews" target="blank">http://bit.ly/nexusreviews</a></p>
 
         <p><strong>**Start Date: Immediate**</strong><p>
         <!-- End Info -->
