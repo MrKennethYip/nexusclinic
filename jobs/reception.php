@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Hiring Today! Part Time Receptionist - Nexus Massage & Rehab</title>
+  <title>Hiring Today! PT / FT Receptionist - Nexus Massage & Rehab</title>
 
-  <meta name="Description" content="We're hiring! Looking for a part time receptionist to work at our top-rated multi-disciplinary clinic located at Yonge and Eglinton.">
+  <meta name="Description" content="We're hiring! Looking for a part time or full time receptionist to work at our top-rated multi-disciplinary clinic located at Yonge and Eglinton.">
   <meta name="keywords" content="">  
 
   <!-- Common Header -->
@@ -37,8 +37,8 @@
         <!-- Title -->
         <div class="row justify-content-md-between align-items-md-center mb-7">
           <div class="col-md-9 mb-7 mb-md-0">
-            <h1 class="h3 font-weight-bold">Part Time Receptionist</h1>
-            <p class="mb-0"><strong>Toronto, ON</strong> - <strong>Part Time</strong></p>
+            <h1 class="h3 font-weight-bold">Clinic Administrator</h1>
+            <p class="mb-0"><strong>Toronto, ON</strong> - <strong>Full Time / Part Time</strong></p>
           </div>
 
           <div class="col-md-3 text-md-right">
@@ -91,9 +91,9 @@
                "centerPadding": "50px"
              }
            }]'>
-        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-us/lrg/founder_story_alt.jpg);"></div>
-        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/reception_desk.jpg);"></div>
-        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/reception.jpg);"></div>
+        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers-jobs/lrg/staff-studio.jpg);"></div>
+        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers-jobs/lrg/staff-event.jpg);"></div>
+        <div class="js-slide rounded u-bg-img-hero min-height-450" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers-jobs/lrg/staff-rounds.jpg);"></div>
       </div>
       <!-- End Images Carousel -->
 
@@ -521,9 +521,6 @@
         <div class="mx-2">
           <a href="https://www.yelp.ca/biz/nexus-massage-and-rehab-toronto" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/yelp_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Yelp" width="30" height="30"></a>
         </div>
-        <div class="mx-2">
-          <a href="https://www.opencare.com/clinic/nexus-massage-rehab-toronto-on-24630728802/" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/opencare_square_color.png" alt="Massage Clinic - Yonge & Eglinton - OpenCare" width="30" height="30"></a>
-        </div>
       </div>
       <!-- End Social Section --> 
 
@@ -535,7 +532,7 @@
 
       <HR>
 
-      <span class="small text-muted">&copy; 2019 - Nexus Massage & Rehab. All rights reserved.<br></span>
+      <span class="small text-muted">&copy; 2021 - Nexus Massage & Rehab. All rights reserved.<br></span>
       <span class="small text-muted"><em>40 Eglinton Ave E, Suite 603, Toronto, ON M4P 3A2</em></span>
 
       <div class="list-unstyled mt-3">

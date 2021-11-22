@@ -436,9 +436,6 @@
         <div class="mx-2">
           <a href="https://www.yelp.ca/biz/nexus-massage-and-rehab-toronto" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/yelp_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Yelp" width="30" height="30"></a>
         </div>
-        <div class="mx-2">
-          <a href="https://www.opencare.com/clinic/nexus-massage-rehab-toronto-on-24630728802/" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/opencare_square_color.png" alt="Massage Clinic - Yonge & Eglinton - OpenCare" width="30" height="30"></a>
-        </div>
       </div>
       <!-- End Social Section --> 
 
@@ -450,7 +447,7 @@
 
       <HR>
 
-      <span class="small text-muted">&copy; 2019 - Nexus Massage & Rehab. All rights reserved.<br></span>
+      <span class="small text-muted">&copy; 2021 - Nexus Massage & Rehab. All rights reserved.<br></span>
       <span class="small text-muted"><em>40 Eglinton Ave E, Suite 603, Toronto, ON M4P 3A2</em></span>
 
       <div class="list-unstyled mt-3">
