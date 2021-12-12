@@ -382,7 +382,7 @@
                   </span>
                 </div>
                 <div class="media-body text-secondary">
-                  Salary Compensation of $16.00+ per hour
+                  Salary Compensation of $16.00-$18.00 per hour
                 </div>
               </div>
             </li>
@@ -577,10 +577,11 @@
          "@type": "MonetaryAmount",
          "currency": "CAD",
          "value": {
-           "@type": "QuantitativeValue",
-           "value": 16.00,
-           "unitText": "HOUR"
-         }
+          "@type": "QuantitativeValue",
+          "minValue": 16.00,
+          "maxValue": 18.00,
+          "unitText": "HOUR"
+        }
        }
     }
   </script>
