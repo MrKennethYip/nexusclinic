@@ -405,6 +405,22 @@
               </div>
           </div>
           <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="profiles/alessandro_ramones">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/alessandro_ramones.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/alessandro_ramones.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/alessandro_ramones.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/alessandro_ramones.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Alessandro Ramones - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="profiles/alessandro_ramones">
+                  <h4 class="h6 text-dark mb-0">Alessandro Ramones</h4>
+                </a>
+                <p class="small mb-0">
+                  Registered Massage Therapist<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
 
           <!-- Item
           <div class="cbp-item">
@@ -477,18 +493,6 @@
             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/olivia_embry.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/olivia_embry.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/olivia_embry.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/olivia_embry.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Olivia Embry - Nexus Massage and Rehab - Toronto">
             <div class="py-3">
               <h4 class="h6 text-dark mb-0">Olivia Embry</h4>
-              <p class="small mb-0">
-                Clinic Administrator<br><br>
-              </p>
-            </div>
-          </div>
-          <!-- End Item -->
-            
-          <!-- Item -->
-          <div class="cbp-item rmt chiro acupuncture physio osteopath">
-            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/rovana_adjodhaa.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/rovana_adjodhaa.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/rovana_adjodhaa.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/rovana_adjodhaa.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Rovana Adjodhaa - Nexus Massage and Rehab - Toronto">
-            <div class="py-3">
-              <h4 class="h6 text-dark mb-0">Rovana Adjodhaa</h4>
               <p class="small mb-0">
                 Clinic Administrator<br><br>
               </p>

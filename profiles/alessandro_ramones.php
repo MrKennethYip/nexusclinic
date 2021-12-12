@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Desciree Iyog (RMT) | Nexus Massage & Rehab | (647) 557-6267</title>
+  <title>Alessandro Ramones (RMT) | Nexus Massage & Rehab | (647) 557-6267</title>
 
-  <meta name="Description" content="Learn about the team at Nexus Massage & Rehab. Desciree Iyog specializes in massage therapy & lower back pain at our Yonge & Eglinton clinic. Learn more!">
-  <meta name="keywords" content="Desciree Iyog, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
+  <meta name="Description" content="Learn about the team at Nexus Massage & Rehab. Alessandro Ramones specializes in massage therapy & lower back pain at our Yonge & Eglinton clinic. Learn more!">
+  <meta name="keywords" content="Alessandro Ramones, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
 
   <!-- Common Header -->
   <?php include('../includes/common-header.php') ?>
@@ -44,21 +44,21 @@
           <div class="animated bounceIn">
           <!-- Info -->
           <div class="mb-4">
-            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">DESCIREE IYOG</h1>
+            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">ALESSANDRO RAMONES</h1>
           </div>
 
           <ul class="list-inline">
             <li class="list-inline-item">
-              <a class="u-text-light" href="mailto:desciree@nexushealthclinic.com">
+              <a class="u-text-light" href="mailto:alessandro@nexushealthclinic.com">
                 <span class="far fa-envelope mr-2"></span>
-                desciree@nexushealthclinic.com
+                alessandro@nexushealthclinic.com
               </a>
             </li>
           </ul>
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_iyog.jpg" alt="Desciree Iyog - Profile">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/alessandro_ramones.php.jpg" alt="Alessandro Ramones - Profile">
           <!-- End Avatar -->
           </div>
         </div>
@@ -98,7 +98,7 @@
                   <a class="btn btn-block btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book/" target="_blank" onclick="handleClick('sidebarBtn');">Book Practitioner<span class="fa fa-angle-right ml-2"></span></a>
                   <br>
 
-                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:desciree@nexushealthclinic.com">
+                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:alessandro@nexushealthclinic.com">
                     <span class="far fa-envelope mr-2"></span>
                     Send a Message
                   </a>
@@ -140,8 +140,9 @@
                 <span class="d-flex align-items-start">
 
                   <div class="ml-2">
-                    <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>1pm - 9pm</p>
-                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>10am - 7pm</p>
+                    <p class="text-dark"><strong>Thurs:</strong><span class="ml-3"></span>10am - 9pm</p>
+                    <p class="text-dark"><strong>Fri:</strong><span class="ml-3"></span>10am - 9pm</p>
+                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>10am - 7pm</p>
                     <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>10am - 7pm</p>
                   </div>
                 </span>
@@ -161,12 +162,9 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Hello! My name is Desciree Iyog, a graduate from the Canadian College of Massage and Hydrotherapy. I became interested in pursuing Massage Therapy as a profession after a few personal treatments, as I was frequently involved in physical extracurricular activities that had caused injuries. I found that massage therapy was very pivotal to my recovery and is a very rewarding profession that can help others feel pain relief, and other benefits. I became very aware of this when I was working with rehabilitation patients while operating alongside the UHN Network in different units of Toronto Rehab and Bickle Centre—with clients ranging from MSK and Geriatrics to Stroke and Acquired Brain Injury units. The effectiveness of massage therapy within clients who have experienced varying extremes of pain or discomforts is a reward like no other. Being able to help relieve or maintain progress with any patient is something that I thoroughly enjoy, and I am honoured to become an aid towards optimizing rehabilitation, self-care, and wellness.</p>
+              <p>I am a Registered Massage Therapist with a Bachelor of Health Sciences in Kinesiology (Exercise Science stream) from the University of Ontario Institute of Technology. I am excited to hone my skills and continually grow as a therapist.</p>
 
-              <p>I am an active individual who grew up playing volleyball all throughout my teenage years. I also indulge in dance classes at the Underground Dance Studio, and I am also another typical workout/gym junkie. I am very familiar with what these activities can do to—and for—your body. Consequently, I am aware of what structures can be affected with these activities with repetitive use, progressive overload, and what injuries may come about.</p>
-              
-              <p>Growing up in the Philippines in my primitive years, I was always surrounded by beautiful landscapes which grew my affinity for nature. I enjoy picnics, hiking, swimming, long walks with my dog, visiting beautiful locations, and taking photographs of picture-perfect sceneries. I am very keen on traveling more once the pandemic is over, and love hearing about hidden gems around the world.</p>
-
+              <p>My interests include lifting weights, playing video games, eating, and playing with my dog Milo.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -176,7 +174,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I like to treat different cases because I take every case as an opportunity to expand my knowledge and skills. In each condition, I give my best to make sure that I am able to improve my client's quality of life.</p>
+              <p>I enjoy treating the general population because I feel like I am able to learn more from a bigger variety of clients. I feel that I am able to apply the new things that I learn to future treatments.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -186,7 +184,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I encounter all sorts of people as an RMT which have helped me widen my spectrum and variations in treatment. I find myself seeing many patients with sciatic nerve pain which has helped me gain a better understanding of the particular condition. I find that I am helpful in their rehab, which gives me more confidence to apply what I learn to each applicable patient.</p>
+              <p>Three types of treatments that I excel in include Trigger Point Therapy, Myofascial Release Techniques, and Therapeutic Exercise. The treatment itself is a great way to help manage the client’s pain, but I believe that the client must also be taught how they can improve their active daily life to create lasting change.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -196,7 +194,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am proud of becoming a part of the reason that someone will be able to function better in their everyday life. Creating an impact for the better to increase their quality of living.</p>
+              <p>I am proud of helping my clients decrease or relieve their aches and pains and increase their range of motion. I take pride in helping my clients improve or return to their daily activities.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -206,9 +204,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am adaptable to the individual needs of any patient who comes under my care. With my training I am be able to help any person that I meet—if it is within my means and scope of practice. I will dutifully assess, treat, and reassess in every treatment to ensure that progress or maintenance is achieved under my care. I am an approachable individual that will prioritize the well-being of my patients with goals that I curate for you to understand what is necessary to attain the required results.</p>
-              
-              <p>At Nexus we pride ourselves in being reputable for our principles in treatment. This became the ideal clinic for me, since, I love to get to the root cause of one’s concern so that it’s lingering effects will soon subside. I give a warm and welcoming atmosphere in my treatment room, to ensure my clients feel safe and comfortable.</p>
+              <p>I strive to balance efficiency and comfort when treating my clients. I do my best to treat conditions that can be improved by massage as efficiently as I can without rushing the treatment. I do my best to ensure that my patients are as comfortable as they can get during the treatment. Comfortability and effectiveness of the treatments are my top priorities when treating my patients.</p>
               <!-- End Text -->
 
           </div>
@@ -224,7 +220,7 @@
       <div class="container">
         <!-- Review Widget -->
         
-        <div class='embedsocial-reviews' data-ref="57e60af66e946bfab860aa2d1d1125b7fc8426e8"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
+        <div class='embedsocial-reviews' data-ref="211eeac8a5a505a82d7b25efe621154f6a3883e5"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
 
         <!-- End Review Widget -->
       </div>

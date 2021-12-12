@@ -695,7 +695,7 @@
           <!-- Item -->
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/mozhgan_roshan_ravan">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mozhgan_roshan_ravan.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/thomas_murphy.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mozhgan_roshan_ravan.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/mozhgan_roshan_ravan.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Mozhgan Roshan Ravan - Registered Massage Therapy">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mozhgan_roshan_ravan.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mozhgan_roshan_ravan.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/mozhgan_roshan_ravan.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/mozhgan_roshan_ravan.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Mozhgan Roshan Ravan - Registered Massage Therapy">
             </a>
               <div class="py-3">
                 <a href="../profiles/mozhgan_roshan_ravan">
@@ -703,6 +703,22 @@
                 </a>
                 <p class="small mb-0">
                   I am very sensitive to people's needs and will always adjust the treatments to best suit my patients. I welcome all feedback and have an open communication with my patients to ensure the treatment is right for them at all times. <br><br><br><br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/alessandro_ramones">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/alessandro_ramones.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/alessandro_ramones.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/alessandro_ramones.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/alessandro_ramones.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Alessandro Ramones - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/alessandro_ramones">
+                  <h4 class="h6 text-dark mb-0">Alessandro Ramones</h4>
+                </a>
+                <p class="small mb-0">
+                  I strive to balance efficiency and comfort when treating my clients. Comfortability and effectiveness of the treatments are my top priorities when treating my patients. I am proud of helping my clients decrease or relieve their aches and pains and increase their range of motion. I take pride in helping my clients improve or return to their daily activities.<br><br><br>
                 </p>
               </div>
           </div>
