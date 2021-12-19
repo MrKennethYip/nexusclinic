@@ -195,18 +195,16 @@
               <strong class="font-weight-bold">COVID-19 UPDATE</strong>
             </h2>
             <h5>
-              <p>April 7, 2021</p>
+              <p>Dec 17, 2021</p>
             </h5>
           </div>
         </div>
 
-        <p class="text-dark">Your health and safety continues to be our top priority. As we move to the new lockdown rules, we continue to operate with services which fall under Ontario's Regulated Healthcare services (Massage, Chiro, Physio, Acupuncture), with additional health protocols in place.</p>
-        
-        <p class="text-dark"><strong>At this time, we are unable to offer Osteopathy In-person services during the stay-at-home order. However, Osteopathy is offered virtually, but will NOT be covered by extended health benefits.</strong></p>
+        <p class="text-dark">Your health and safety continues to be our top priority. As we move to the new lockdown rules, we continue to operate with services which fall under Ontario's Regulated Healthcare services (Massage, Chiro, Physio, Acupuncture), as well as Osteopathy, with additional health protocols in place.</p>
         
         <p class="text-dark">We remain vigilant in keeping up-to-date and our high standards of screening processes, social distancing, as well as following governmental and all Professional Institution Regulations. The prevalence of COVID-19 in our region will continue to be closely monitored and status updates regularly provided to our community.</p>
         
-        <p class="text-dark">Concerned about the limit on essential travel? Your health comes first - our practitioners are ready to help via virtual telehealth appointments. Try booking our free 15 min consultations to speak to one of our healthcare providers today!</p>
+        <p class="text-dark">Concerned about in-person appointments? Your health comes first - our practitioners are ready to help via virtual Telehealth appointments. Try booking our free 15 min consultations to speak to one of our healthcare providers today!</p>
         
         <p class="text-dark">As a reminder, the following safety protocols are in place at the clinic:</p>
 
