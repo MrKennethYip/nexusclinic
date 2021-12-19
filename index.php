@@ -175,15 +175,15 @@
       </div>
     <!-- End Images Carousel Section -->
 
-    <!-- Red Promo Banner
+    <!-- Red Promo Banner -->
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           Have a good experience at Nexus? Vote for us in the 2021 Toronto Star Awards! <a class="btn btn-light transition-3d-hover btn-sml" href="https://bit.ly/3Dl4toW" target="blank">Vote Today<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
+           Holiday Hours: Nexus will be closed on Dec 24 (after 12pm), closed on Dec 25-26, but OPEN on Dec 27-28! See you soon!
         </span>
       </div>
     </div>
-    End Red Promo Banner -->
+    <!-- End Red Promo Banner -->
 
     <!-- How did Nexus Massage & Rehab Start -->
     <div class="position-relative" style="border: 1px solid #898A8D">
