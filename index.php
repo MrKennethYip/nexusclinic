@@ -6,7 +6,7 @@
 
   <!-- SEO -->
   <meta name="Description" content="Reach your health goals with professional help. Get registered massage therapy (RMT) & more at Nexus Massage & Rehab at Yonge & Eglinton. Book today!">
-  <meta name="keywords" content="toronto massage, direct billing, open on weekends, Yonge and Eglinton, yonge eg, online booking, Open 7 Days, open late, Massage Near Me, Registered Massage Therapist, RMT, near me, therapy, chiropractic, chiro, chiropractor, massage, physio, physiotherapy, acupuncture, acu, rehab, nexus, massage places, best massage, hot stone, health, clinic, sports, relax, pain, spine, back, dr, karen ngo, dr ngo, cass, cassandra kong, felix chu, dr chu, lydia, mai hoang, daniel thrush, phil kim, eric miraflor, katelyn morgan, kevin hong">
+  <meta name="keywords" content="toronto massage, direct billing, open on weekends, Yonge and Eglinton, yonge eg, online booking, Open 7 Days, open late, Massage Near Me, Registered Massage Therapist, RMT, near me, therapy, chiropractic, chiro, chiropractor, massage, physio, physiotherapy, acupuncture, acu, rehab, nexus, massage places, best massage, hot stone, health, clinic, sports, relax, pain, spine, back, dr, karen ngo, dr ngo, cass, cassandra kong, felix chu, dr chu, phil kim">
 
   <meta property="og:image" content="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Nexus-Square.jpg"/>
   <meta property="og:type" content="website"/>
