@@ -710,6 +710,22 @@
               </div>
           </div>
           <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item chiro">
+            <a class="cbp-caption" href="../profiles/melvin_liu">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/melvin_liu.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/melvin_liu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/melvin_liu.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/melvin_liu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Melvin Liu - Chiropractor">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/melvin_liu">
+                  <h4 class="h6 text-dark mb-0">Dr. Melvin Liu</h4>
+                </a>
+                <p class="small mb-0">
+                  As a former amateur athlete and dancer, I know the importance of proper technique when doing specialized movements. Chiropractic is an avenue whereby I can share this passion with others while caring for patients. I love hearing how small changes in the environment or adding a new routine can make a major impact in my patient’s quality of life. As a health facilitator, I love being an adjunct to my patient’s long term well-being.<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
 
           <!-- Item -->
           <div class="cbp-item chiro">

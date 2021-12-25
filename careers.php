@@ -301,10 +301,10 @@
 			<ul class="list-unstyled mb-0">
 				<li class="my-2">
 					<!-- Job -->
-					<a class="u-info-v1 p-4" href="/jobs/reception">
+					<a class="u-info-v1 p-4" href="https://ca.indeed.com/cmp/Nexus-Massage-&-Rehab-1/jobs?jk=8029cfbf171097e3">
 						<span class="row justify-content-sm-between align-items-sm-center">
 						  <span class="col-sm-6 mb-2 mb-sm-0">
-							<strong>Clinic Administrator</strong>
+							<strong>Office Manager</strong>
 						  </span>
 						  <span class="col-sm-6 text-primary text-sm-right">
 							Full Time / Part Time
