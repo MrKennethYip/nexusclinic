@@ -168,10 +168,9 @@
 
                   <div class="ml-2">
                     <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>8:30am - 5:30pm</p>
-                    <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>10am - 8pm</p>
                     <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>10am - 8pm</p>
-                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>10am - 5pm</p>
-                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>10am - 5pm</p>
+                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>8:30am - 5pm</p>
+                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>9:30am - 5pm</p>
                   </div>
                 </span>
                 <!-- End User -->

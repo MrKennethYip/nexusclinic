@@ -179,7 +179,7 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           Holiday Hours: Nexus will be closed on Dec 24 (after 12pm), closed on Dec 25-26, but OPEN on Dec 27-28! See you soon!
+           Holiday Hours: Nexus will be closed on Jan 1 (New Years Day), but OPEN on Jan 2 onwards! See you soon!
         </span>
       </div>
     </div>
