@@ -58,7 +58,7 @@
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/alessandro_ramones.php.jpg" alt="Alessandro Ramones - Profile">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/alessandro_ramones.jpg" alt="Alessandro Ramones - Profile">
           <!-- End Avatar -->
           </div>
         </div>
