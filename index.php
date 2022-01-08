@@ -175,7 +175,7 @@
       </div>
     <!-- End Images Carousel Section -->
 
-    <!-- Red Promo Banner -->
+    <!-- Red Promo Banner
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
@@ -183,7 +183,7 @@
         </span>
       </div>
     </div>
-    <!-- End Red Promo Banner -->
+    End Red Promo Banner -->
 
     <!-- How did Nexus Massage & Rehab Start -->
     <div class="position-relative" style="border: 1px solid #898A8D">
@@ -195,7 +195,7 @@
               <strong class="font-weight-bold">COVID-19 UPDATE</strong>
             </h2>
             <h5>
-              <p>Dec 17, 2021</p>
+              <p>Jan 5, 2022</p>
             </h5>
           </div>
         </div>
