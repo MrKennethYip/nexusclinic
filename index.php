@@ -175,15 +175,15 @@
       </div>
     <!-- End Images Carousel Section -->
 
-    <!-- Red Promo Banner
+    <!-- Red Promo Banner -->
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           Holiday Hours: Nexus will be closed on Jan 1 (New Years Day), but OPEN on Jan 2 onwards! See you soon!
+           Nexus is updating our service prices effective March 1&nbsp; <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/pdf/Nexus+-+New+Price+List++-+Mach+1%2C+2022.pdf" target="blank">See Updates<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
         </span>
       </div>
     </div>
-    End Red Promo Banner -->
+    <!-- End Red Promo Banner -->
 
     <!-- How did Nexus Massage & Rehab Start -->
     <div class="position-relative" style="border: 1px solid #898A8D">
