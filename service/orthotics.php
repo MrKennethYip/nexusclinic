@@ -428,31 +428,31 @@
 
           <!-- Item -->
           <div class="cbp-item chiro">
-            <a class="cbp-caption" href="../profiles/kevin_hong">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kevin_hong.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kevin_hong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kevin_hong.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/kevin_hong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Kevin Hong - Chiropractor">
+            <a class="cbp-caption" href="../profiles/david_tam">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/david_tam.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/david_tam.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/david_tam.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/david_tam.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. David Tam - Chiropractor">
             </a>
               <div class="py-3">
-                <a href="../profiles/kevin_hong">
-                  <h4 class="h6 text-dark mb-0">Dr. Kevin Hong</h4>
+                <a href="../profiles/david_tam">
+                  <h4 class="h6 text-dark mb-0">Dr. David Tam</h4>
                 </a>
                 <p class="small mb-0">
-                  My greatest passion in life is to help people in pain get better. I continually research and learn new and effective techniques to help cure my patients of their pain. This way, I am able to provide every patient with a variety of treatment options that best suits them. Not only do I make your health my top priority, I also make great conversations along your journey to recovery.<br><br><br><br>
+                  I have worked with athletes, office workers, children, the elderly, and individuals from all walks of life with different musculoskeletal concerns. I focus on the assessment and treats every condition that walks into my office with a high degree of care. I take pride in being able to create a safe and open environment for my patients.<br><br><br><br>
                 </p>
               </div>
           </div>
           <!-- End Item -->
-
+            
           <!-- Item -->
           <div class="cbp-item chiro">
-            <a class="cbp-caption" href="../profiles/natalie_ng">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/natalie_ng.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/natalie_ng.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/natalie_ng.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/natalie_ng.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Natalie Ng - Chiropractor">
+            <a class="cbp-caption" href="../profiles/melvin_liu">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/melvin_liu.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/melvin_liu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/melvin_liu.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/melvin_liu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Melvin Liu - Chiropractor">
             </a>
               <div class="py-3">
-                <a href="../profiles/natalie_ng">
-                  <h4 class="h6 text-dark mb-0">Dr. Natalie Ng</h4>
+                <a href="../profiles/melvin_liu">
+                  <h4 class="h6 text-dark mb-0">Dr. Melvin Liu</h4>
                 </a>
                 <p class="small mb-0">
-                  Having seen a chiropractor for the majority of my life, I strongly value the associated health benefits. I pride myself in providing the best care for my patients while keeping their needs in mind, and staying up to date with current literature. I strive to make your health my priority, so that you’re able to enjoy the highest quality of life that you deserve!<br><br><br><br>
+                  As a former amateur athlete and dancer, I know the importance of proper technique when doing specialized movements. Chiropractic is an avenue whereby I can share this passion with others while caring for patients. I love hearing how small changes in the environment or adding a new routine can make a major impact in my patient’s quality of life. As a health facilitator, I love being an adjunct to my patient’s long term well-being.<br><br>
                 </p>
               </div>
           </div>
