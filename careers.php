@@ -275,7 +275,7 @@
 		<div class="mb-7">
 			<span class="u-label u-label--sm u-label--primary u-label--rounded mb-2">HEALTH CARE</span>
 
-			<!-- List of Job Positions -->
+			<!-- Job Position List -->
 			<ul class="list-unstyled mb-0">
 				<li class="my-2">
 					<!-- Job -->
@@ -293,10 +293,9 @@
 					<!-- End Job -->
 				</li>
 			</ul>
-			<!-- End List of Job Positions -->			
-		
+			<!-- End Job Position List -->
+			
 		</div>
-		<!-- End Job Position List -->
 
 	</div>
 	<!-- End Job Positions -->
