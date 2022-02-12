@@ -271,7 +271,7 @@
 		</div>
 		<!-- End Title -->
 
-		<!-- Job Positions -->
+		<!-- Job Position List -->
 		<div class="mb-7">
 			<span class="u-label u-label--sm u-label--primary u-label--rounded mb-2">HEALTH CARE</span>
 
@@ -293,31 +293,10 @@
 					<!-- End Job -->
 				</li>
 			</ul>
-			
+			<!-- End List of Job Positions -->			
+		
 		</div>
-		<!-- End List of Job Positions -->
-			
-		<!-- List of Job Positions -->
-			<ul class="list-unstyled mb-0">
-				<li class="my-2">
-					<!-- Job -->
-					<a class="u-info-v1 p-4" href="https://ca.indeed.com/cmp/Nexus-Massage-&-Rehab-1/jobs?jk=8029cfbf171097e3">
-						<span class="row justify-content-sm-between align-items-sm-center">
-						  <span class="col-sm-6 mb-2 mb-sm-0">
-							<strong>Office Manager</strong>
-						  </span>
-						  <span class="col-sm-6 text-primary text-sm-right">
-							Full Time / Part Time
-							<span class="fa fa-arrow-right small ml-2"></span>
-						  </span>
-						</span>
-					</a>
-					<!-- End Job -->
-				</li>
-			</ul>
-			
-		</div>
-		<!-- End List of Job Positions -->
+		<!-- End Job Position List -->
 
 	</div>
 	<!-- End Job Positions -->
