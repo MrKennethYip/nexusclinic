@@ -50,12 +50,12 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$65 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$80 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$100 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$120 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$145 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$210 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$75 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$90 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$110 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$135 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$155 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$230 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
@@ -86,12 +86,12 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$95 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$110 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$130 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$105 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$120 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$140 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$165 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$190 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$270 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$185 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$260 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
@@ -123,13 +123,13 @@
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$120</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">20 Min Follow-Up - <strong>$70</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$90</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$125</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">20 Min Follow-Up - <strong>$75</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$100</strong></li>
                           <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
-                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$120</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">20 Min Virtual Follow-Up - <strong>$70</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">40 Min Virtual Follow-Up - <strong>$90</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$125</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">20 Min Virtual Follow-Up - <strong>$75</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">40 Min Virtual Follow-Up - <strong>$100</strong></li>
                         </ul>
                       </div>
                       <!-- End Content -->
@@ -167,14 +167,14 @@
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$120</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">20 Min Follow-Up - <strong>$70</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$90</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$125</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">20 Min Follow-Up - <strong>$75</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$100</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$130</strong></li>
                           <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
-                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$120</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">20 Min Virtual Follow-Up - <strong>$70</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">40 Min Virtual Follow-Up - <strong>$90</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$125</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">20 Min Virtual Follow-Up - <strong>$75</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">40 Min Virtual Follow-Up - <strong>$100</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
@@ -207,9 +207,9 @@
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$120</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$100</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">75 Min Follow-Up - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$125</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$110</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">75 Min Follow-Up - <strong>$125</strong></li>
                           <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
@@ -247,12 +247,12 @@
                         <div class="u-space-1-top">
                           <ul class="list-unstyled">
                             <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$120 + HST</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$100 + HST</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$120 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$130 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$110 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$130 + HST</strong></li>
                             <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
-                            <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$120 + HST</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">45 Min Virtual Follow-Up - <strong>$100 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$130 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">45 Min Virtual Follow-Up - <strong>$110 + HST</strong></li>
                             <li class="small text-muted py-1"><strong>**Osteopathy does not qualify for <br>direct billing**</strong><br><br>Please note that we are unable to accept insurance coverage from <u>Canada Life (formerly Great West Life)</u> and <u>Group Health</u> at this time.</li>
                           </ul>
                         </div>
@@ -291,11 +291,11 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$90</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">30 Min Follow-Up - <strong>$75</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$100</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">30 Min Follow-Up - <strong>$85</strong></li>
                           <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
-                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$90</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">30 Min Virtual Follow-Up - <strong>$75</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$100</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">30 Min Virtual Follow-Up - <strong>$85</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="small text-muted py-1"><em>**Cannot be claimed under Acupuncture Insurance**</em></li>
                         </ul>

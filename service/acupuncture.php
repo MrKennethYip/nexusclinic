@@ -288,9 +288,9 @@
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$120</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$100</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">75 Min Follow-Up - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$125</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$110</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">75 Min Follow-Up - <strong>$125</strong></li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -319,8 +319,8 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$90</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">30 Min Follow-Up - <strong>$75</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$100</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">30 Min Follow-Up - <strong>$85</strong></li>
                           <li class="u-pricing-v2__list-item">&nbsp</li>
                           <li class="small text-white"><em>**Cannot be claimed under Acupuncture Insurance**</em></li>
                         </ul>
