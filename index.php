@@ -179,7 +179,7 @@
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
-           Nexus is updating our service prices effective March 1&nbsp; <a class="btn btn-white u-btn-white u-btn-wide transition-3d-hover" href="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/pdf/Nexus+-+New+Price+List++-+Mach+1%2C+2022.pdf" target="blank">See Updates<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
+           Nexus is now open earlier! 8am - 9pm (weekdays), and 8am - 7pm (weekends)
         </span>
       </div>
     </div>
@@ -270,9 +270,9 @@
                 </h2>
                 <img loading="lazy" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" alt="Nexus Message & Rehab - Mon to Fri - 10am* - 8pm, Sat & Sun - 10am* - 5pm, massage near me, chiro, physio, acupuncture, rehab, clinic" title="Nexus Message & Rehab - Mon to Fri - 10am* - 8pm, Sat & Sun - 10am* - 5pm - massage near me, chiro, physio, acupuncture, rehab, clinic"  style="width: 200px;">
                 <div class="u-space-1-top">
-                  <p class="mb-md-0 font-weight-bold text-white">Mon to Fri - 10am* - 9pm</p>
-                  <p class="mb-md-0 font-weight-bold text-white">Sat & Sun - 10am* - 7pm</p><br>
-                  <p class="small mb-md-0 text-white font-weight-bold"><span class="small fa fa-asterisk mr-1"></span><em>By Appointment only - 8am to 10am.</em></p>
+                  <p class="mb-md-0 font-weight-bold text-white">Mon to Fri - 8am* - 9pm</p>
+                  <p class="mb-md-0 font-weight-bold text-white">Sat & Sun - 8am* - 7pm</p><br>
+                  <p class="small mb-md-0 text-white font-weight-bold"><span class="small fa fa-asterisk mr-1"></span><em>By Appointment only - 6am to 8am.</em></p>
                   <p class="small mb-md-0 text-white font-weight-bold"><em>Hours may vary by individual practitioner.</em></p>
                 </div>
               </div>
@@ -349,29 +349,6 @@
           <div class="card mb-1" style="background-color:#002A3A; border:0px">
             <div class="card-body p-3">
               <div class="text-center">
-                  <figure class="figure" style="margin-top:5px">
-                    <a href="https://www.instagram.com/p/Bv17zsNBVKK/" target="blank"><img loading="lazy" width="150" height="118" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/partnerships/yoga_logo_white.png" class="figure-img img-fluid rounded" alt="Yoga Tree Outreach"></a>
-                  </figure>
-              </div>
-            </div>
-          </div>
-          
-          <div class="card mb-1 u-space-1-top" style="background-color:#002A3A; border:0px">
-            <div class="card-body p-3">
-              <div class="text-center">
-                  <div class="row justify-content-center u-space-1-bottom">
-                    <a class="btn btn-sm btn-outline-light" href="./partnerships">
-                      <span class="fa fa-handshake font-size-13 mr-2"></span>
-                      Partner with us
-                    </a>
-                  </div>
-              </div>
-            </div>
-          </div>
-          
-          <div class="card mb-1" style="background-color:#002A3A; border:0px">
-            <div class="card-body p-3">
-              <div class="text-center">
                   <figure class="figure" style="margin-top:0px">
                     <a href="https://www.instagram.com/p/CIZBKiMLHuw/" target="blank"><img loading="lazy" width="110" height="80" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/6ixdental_white.png" class="figure-img img-fluid rounded" alt="6ix Dental - Eglinton"></a>
                   </figure>
@@ -389,6 +366,20 @@
             </div>
           </div>
           
+        </div>
+        
+        
+        <div class="card mb-1" style="background-color:#002A3A; border:0px">
+          <div class="card-body p-3">
+            <div class="text-center">
+                <div class="row justify-content-center u-space-1-bottom">
+                  <a class="btn btn-sm btn-outline-light" href="./partnerships">
+                    <span class="fa fa-handshake font-size-13 mr-2"></span>
+                    Partner with us
+                  </a>
+                </div>
+            </div>
+          </div>
         </div>
         
       </div>
@@ -1108,7 +1099,7 @@
           "Thursday",
           "Friday"
         ],
-        "opens": "10:00",
+        "opens": "08:00",
         "closes": "21:00"
       }, {
         "@type": "OpeningHoursSpecification",
@@ -1116,7 +1107,7 @@
           "Sunday",
           "Saturday"
         ],
-        "opens": "10:00",
+        "opens": "08:00",
         "closes": "19:00"
       }
       ],
