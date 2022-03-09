@@ -215,20 +215,6 @@
               <div class="pr-md-4">
                 <div class="mb-7">
 
-                  <div class="media mb-3">
-                    <div class="d-flex mt-1 mr-3">
-                      <span class="u-icon u-icon-dark u-icon--xs rounded-circle">
-                        <span class="fa fa-check u-icon__inner"></span>
-                      </span>
-                    </div>
-                    <div class="media-body">
-                      <h3 class="h5"><strong><a class="text-dark" href="https://www.instagram.com/p/Bv17zsNBVKK/" target="blank"><u>Yoga Tree</u></a></strong></h3>
-                      <p class="text-dark">- <strong>10% off</strong> first time class card, OR</p>
-                      <p class="text-dark">- <strong>$60</strong> intro month + <strong>10% off</strong> first time full price monthly membership (reg. $120)</p>
-                      <p class="text-dark">To receive discount, please show your invoice from Nexus.</p>
-                    </div>
-                  </div>
-
                   <div class="media mb-3 u-space-2-top">
                     <div class="d-flex mt-1 mr-3">
                       <span class="u-icon u-icon-dark u-icon--xs rounded-circle">
@@ -277,11 +263,6 @@
 
             <div class="col-lg-4 position-relative">
               <div class="row mx-gutters-5 p-5">
-                <div class="col-9 align-self-end px-2 mb-3 u-space-1-bottom">
-                  <a class="text-dark" href="https://www.instagram.com/p/Bv17zsNBVKK/" target="blank">
-                    <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/partnerships/yoga_tree.png" alt="Yoga Tree - Logo" title="Yoga Tree - Logo" style="border: 1px solid #898A8D">
-                  </a>
-                </div>
 
                 <div class="col-9 align-self-end px-2 mb-3 u-space-1-top">
                   <a class="text-dark" href="https://www.instagram.com/p/Bxc65WjBZTn/" target="blank">
