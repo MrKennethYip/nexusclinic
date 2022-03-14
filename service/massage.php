@@ -726,6 +726,54 @@
             
           <!-- Item -->
           <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/sharlene_quinones">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/sharlene_quinones.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/sharlene_quinones.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/sharlene_quinones.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/sharlene_quinones.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Sharlene Quinones - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/sharlene_quinones">
+                  <h4 class="h6 text-dark mb-0">Sharlene Quinones</h4>
+                </a>
+                <p class="small mb-0">
+                  I am adaptable, open-minded, caring, and experienced working with various diversity. I tailor my treatment based on individuals' needs. I believe that achieving optimal health is a teamwork between the therapist and the client. Thus, I like giving clients home care exercises that they can do to speed up their recovery.<br><br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/djordje_petrovic">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/djordje_petrovic.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/djordje_petrovic.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/djordje_petrovic.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/djordje_petrovic.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Djordje Petrovic - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/djordje_petrovic">
+                  <h4 class="h6 text-dark mb-0">Djordje Petrovic</h4>
+                </a>
+                <p class="small mb-0">
+                  I bring a positive optimistic energy to each of my sessions. I enjoy working with my patients to help create attainable goals and a flexible treatment plan designed to get the root cause, as well as help prevent further issues from developing. I like to educate my clients on the little things they can seamlessly implement into their life to maintain and improve their health.<br><br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/julian_tenyenhuis">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/julian_tenyenhuis.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/julian_tenyenhuis.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/julian_tenyenhuis.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/julian_tenyenhuis.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Sharlene Quinones - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/julian_tenyenhuis">
+                  <h4 class="h6 text-dark mb-0">Julian Tenyenhuis</h4>
+                </a>
+                <p class="small mb-0">
+                  Coming Soon<br><br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/cassandra_kong">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/cassandra_kong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Cassandra Kong - Registered Massage Therapy">
             </a>
