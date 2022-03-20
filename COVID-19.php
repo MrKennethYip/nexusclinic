@@ -193,7 +193,7 @@
           <!-- Icon Block -->
           <div class="pr-lg-4">
             <span class="fa fa-theater-masks font-size-48 text-primary mb-4"></span><h5 class="text-dark font-weight-normal"><span class="font-weight-bold">Wearing Masks</span></h5>
-            <p>Everyone MUST wear a face mask at all times in the clinic. If you do not have a face mask, you will be provided one for $2 at the clinic, and charged at checkout.</p>
+            <p>Everyone MUST wear a face mask at all times in the clinic.</p>
           </div>
           <!-- End Icon Block -->
         </div>
@@ -202,7 +202,7 @@
           <!-- Icon Block -->
           <div class="pr-lg-4">
             <span class="fa fa-home font-size-48 text-primary mb-4"></span><h5 class="text-dark font-weight-normal"><span class="font-weight-bold">Stay Home if Feeling Unwell</span></h5>
-            <p>If you are feeling unwell or showing symptoms of COVID-19, please stay home and call the clinic to change your appointment to Telehealth or to reschedule after 14 days when you are feeling better.</p>
+            <p>If you are feeling unwell or showing symptoms of COVID-19, please stay home and call the clinic to change your appointment to Telehealth or to reschedule after 10 days when you are feeling better.</p>
           </div>
           <!-- End Icon Block -->
         </div>
@@ -225,7 +225,7 @@
           <!-- Icon Block -->
           <div class="pr-lg-4">
             <span class="fa fa-clock font-size-48 text-primary mb-4"></span><h5 class="text-dark font-weight-normal"><span class="font-weight-bold">Time of Arrival</span></h5>
-            <p>Arrive a few minutes before your appointment time to complete a pre-screening check and hygiene protocol. If you are early, please wait in your car, or outside before your appointment time to limit the number of people in the waiting area.</p>
+            <p>Arrive a few minutes before your appointment time to complete a pre-screening check and hygiene protocol.</p>
           </div>
           <!-- End Icon Block -->
         </div>
@@ -428,11 +428,19 @@
             </div>
             <div id="FAQOne" class="collapse" aria-labelledby="FAQHeadingOne" data-parent="#FAQCollapse">
               <div class="card-body px-4">
-                If you are experiencing COVID-19 symptoms, please call the clinic to reschedule to a virtual appointment or after 14 days when you are no longer experiencing symptoms.<br><br>
-
-                Take the self assessment questionnaire and contact your doctor or Telehealth Ontario at <a href="tel:1-866-797-0000"><strong>1-866-797-0000</strong></a> if your symptoms get worse.<br><br>
-
-                If you are tested positive with COVID-19, please contact the clinic to let us know.
+                If you are tested positive with COVID-19, <strong>please contact the clinic</strong> to let us know.
+                <br/><br/>
+                <strong>
+                    Vaccinated /Unvaccinated/partially vaccinated + Immunocompromise:
+                </strong>
+                <br/>
+                If you have any COVID symptoms or are exposed to COVID, isolate for 10 days since the day of:
+                <ul>
+                    <li>Last exposure</li>
+                    <li>Symptom onset</li>
+                    <li>or from their date of diagnosis</li>
+                </ul>
+                <strong>Vaccinated Only:</strong> Can book appointments after isolating for 7 days with negative PCR or rapid antigen test results AND symptom free.
               </div>
             </div>
           </div>
