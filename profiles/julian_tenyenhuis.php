@@ -140,8 +140,8 @@
                 <span class="d-flex align-items-start">
 
                   <div class="ml-2">
-                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>2pm - 7pm</p>
-                    <p class="text-dark"><strong>Thurs:</strong><span class="ml-3"></span>2pm - 7pm</p>
+                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>2pm - 9pm</p>
+                    <p class="text-dark"><strong>Thurs:</strong><span class="ml-3"></span>2pm - 9pm</p>
                     <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>8am - 2pm</p>
                     <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>2pm - 7pm</p>
                   </div>
@@ -162,7 +162,9 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>I am a Registered Massage Therapist who studied at Humber College. Before taking on Massage Therapy, I was a Maintenance Landscaper for a bit over ten years. Physical jobs can be hard on the body and they become harder when one does not know how to take care of oneself. It is great to learn how to optimize your health and make positive adjustments to routine to lead a happier, less painful life. This is something I want to share with my patients.</p>
+              
+              <p>On my free time, I enjoy music, playing video games, reading, being active outdoors, cooking and eating food.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -172,7 +174,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>I enjoy treating the neck, back, and shoulders the most. It is common for many people to carry their stress in these areas and it is also areas that I have experience treating the most.  I can be an anxious person and when I go through periods of stress, I feel tightness and pain in these regions so I can relate to patients with issues here. I also find satisfaction in treating the arms, hands, hips, and legs as these can be regions of high use in people. I guess I simply enjoy working on all parts of the body.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -182,7 +184,9 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>In my practice, I like to incorporate light, relaxing massage techniques into deep tissue techniques. Lighter massage is generally used at the beginning and end of massage treatments, as well as throughout the treatment to give the body a break from the intense, deeper techniques. They can be applied slowly to induce relaxation or quickly to stimulate the body. Deep massage is good at targeting specific muscles and these techniques may reduce their tension. Throughout my treatment, I work to applying the perfect amount of pressure to obtain both results as well as  level of comfort in my patients.</p>
+              
+              <p>In addition, stretching may aid with further relaxation and pain reduction in muscles. I enjoy performing assisted stretching because it can bring patients into deeper stretches than if they were to stretch on their own. Stretching helps to improve flexibility and increase circulation in muscles, which helps in healing and maintaining the body so that it can perform at its peak.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -192,7 +196,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>I take pride in viewing changes and results in the patients whom I treat. Seeing people respond well to massage and increase in their function and enjoyment of their day-to-day life is fulfilling to me. I am also proud of being able to share health and body knowledge with patients so that I am not simply just providing massages.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -202,7 +206,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Coming Soon</p>
+              <p>I am persistent and genuinely want to help my patients reach their health goals. I love to continue my education, do extra research and adjust my approach to get results in my treatments. I love seeing people smile and laugh so I may also work to get these kinds of results too.</p>
               <!-- End Text -->
 
           </div>

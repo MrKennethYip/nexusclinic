@@ -750,7 +750,7 @@
                   <h4 class="h6 text-dark mb-0">Djordje Petrovic</h4>
                 </a>
                 <p class="small mb-0">
-                  I bring a positive optimistic energy to each of my sessions. I enjoy working with my patients to help create attainable goals and a flexible treatment plan designed to get the root cause, as well as help prevent further issues from developing. I like to educate my clients on the little things they can seamlessly implement into their life to maintain and improve their health.<br><br><br>
+                  I bring a positive optimistic energy to each of my sessions. I enjoy working with my patients to help create attainable goals and a flexible treatment plan designed to get the root cause, as well as help prevent further issues from developing. I like to educate my clients on the little things they can seamlessly implement into their life to maintain and improve their health.<br><br>
                 </p>
               </div>
           </div>
@@ -766,7 +766,7 @@
                   <h4 class="h6 text-dark mb-0">Julian Tenyenhuis</h4>
                 </a>
                 <p class="small mb-0">
-                  Coming Soon<br><br><br>
+                  I am persistent and genuinely want to help my patients reach their health goals. I love to continue my education, do extra research and adjust my approach to get results in my treatments. I love seeing people smile and laugh so I may also work to get these kinds of results too.<br><br>
                 </p>
               </div>
           </div>

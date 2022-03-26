@@ -195,32 +195,18 @@
               <strong class="font-weight-bold">COVID-19 UPDATE</strong>
             </h2>
             <h5>
-              <p>Jan 5, 2022</p>
+              <p>Mar 21, 2022</p>
             </h5>
           </div>
         </div>
 
-        <p class="text-dark">Your health and safety continues to be our top priority. As we move to the new lockdown rules, we continue to operate with services which fall under Ontario's Regulated Healthcare services (Massage, Chiro, Physio, Acupuncture), as well as Osteopathy, with additional health protocols in place.</p>
+        <p class="text-dark">As of March 21, Ontario's masks mandate will be lifted and masks will no longer be required, except for HEALTHCARE SETTING, public transit, long term care homes and congregate care settings.</p>
         
-        <p class="text-dark">We remain vigilant in keeping up-to-date and our high standards of screening processes, social distancing, as well as following governmental and all Professional Institution Regulations. The prevalence of COVID-19 in our region will continue to be closely monitored and status updates regularly provided to our community.</p>
+        <p class="text-dark">Nexus is a healthcare setting, Both staffs and clients at Nexus will continue to wear masks until further notice.</p>
         
-        <p class="text-dark">Concerned about in-person appointments? Your health comes first - our practitioners are ready to help via virtual Telehealth appointments. Try booking our free 15 min consultations to speak to one of our healthcare providers today!</p>
+        <p class="text-dark">Thank you for your cooperation.</p>
         
-        <p class="text-dark">As a reminder, the following safety protocols are in place at the clinic:</p>
-
-        <ul class="text-dark">
-          <li>Plexiglass installed</li>
-          <li>Increased sanitization of all high use areas</li>
-          <li>Masks are worn by everyone at the clinic (if you don’t have one you can purchase one for $2)</li>
-          <li>Washing hands before and after coming to the clinic</li>
-          <li>Sanitization of each room after each patient</li>
-          <li>Arriving a few minutes early to do a pre-screening check before your treatment</li>
-        </ul> 
-
-        <p class="text-dark">Thank you for all your support during the pandemic. We look forward to seeing you!</p>
-
         <p class="text-dark">Your Nexus Health Team</p>
-
       </div>
     </div>
     <!-- End How did Nexus Massage & Rehab Start -->
