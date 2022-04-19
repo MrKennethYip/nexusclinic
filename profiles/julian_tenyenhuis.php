@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Laura Squire (RMT) | Nexus Massage & Rehab | (647) 557-6267</title>
+  <title>Julian Tenyenhuis (RMT) | Nexus Massage & Rehab | (647) 557-6267</title>
 
-  <meta name="Description" content="Learn about the team at Nexus Massage & Rehab. Laura Squire specializes in massage therapy & lower back pain at our Yonge & Eglinton clinic. Learn more!">
-  <meta name="keywords" content="Laura Squire, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
+  <meta name="Description" content="Learn about the team at Nexus Massage & Rehab. Julian Tenyenhuis specializes in massage therapy & lower back pain at our Yonge & Eglinton clinic. Learn more!">
+  <meta name="keywords" content="Julian Tenyenhuis, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
 
   <!-- Common Header -->
   <?php include('../includes/common-header.php') ?>
@@ -44,21 +44,21 @@
           <div class="animated bounceIn">
           <!-- Info -->
           <div class="mb-4">
-            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">LAURA SQUIRE</h1>
+            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">JULIAN TENYENHUIS</h1>
           </div>
 
           <ul class="list-inline">
             <li class="list-inline-item">
-              <a class="u-text-light" href="mailto:Laura@nexushealthclinic.com">
+              <a class="u-text-light" href="mailto:Julian@nexushealthclinic.com">
                 <span class="far fa-envelope mr-2"></span>
-                Laura@nexushealthclinic.com
+                Julian@nexushealthclinic.com
               </a>
             </li>
           </ul>
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/laura_squire.jpg" alt="Laura Squire - Profile">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/julian_tenyenhuis.jpg" alt="Julian Tenyenhuis - Profile">
           <!-- End Avatar -->
           </div>
         </div>
@@ -98,7 +98,7 @@
                   <a class="btn btn-block btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book/" target="_blank" onclick="handleClick('sidebarBtn');">Book Practitioner<span class="fa fa-angle-right ml-2"></span></a>
                   <br>
 
-                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:Laura@nexushealthclinic.com">
+                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:Julian@nexushealthclinic.com">
                     <span class="far fa-envelope mr-2"></span>
                     Send a Message
                   </a>
@@ -141,8 +141,9 @@
 
                   <div class="ml-2">
                     <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>2pm - 9pm</p>
-                    <p class="text-dark"><strong>Thurs:</strong><span class="ml-3"></span>8am - 2pm</p>
-                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>8am - 2pm</p>
+                    <p class="text-dark"><strong>Thurs:</strong><span class="ml-3"></span>2pm - 9pm</p>
+                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>8am - 2pm</p>
+                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>2pm - 7pm</p>
                   </div>
                 </span>
                 <!-- End User -->
@@ -161,9 +162,9 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Hello! My name is Laura and I am a Registered Massage Therapist. I completed my studies at Centennial College and I am a member of the Resistered Massage Therapists Association of Ontario (RMTAO).</p>
+              <p>I am a Registered Massage Therapist who studied at Humber College. Before taking on Massage Therapy, I was a Maintenance Landscaper for a bit over ten years. Physical jobs can be hard on the body and they become harder when one does not know how to take care of oneself. It is great to learn how to optimize your health and make positive adjustments to routine to lead a happier, less painful life. This is something I want to share with my patients.</p>
               
-              <p>I have always been interested in the mechanics of the human body, learning about how it works and what can be done to help it heal from stress or injury. My passion for health and wellness led me to pursue a career in massage therapy. I strive to help people feel their best by formulating an effective treatment plan that is unique to the needs of each individual.</p>
+              <p>On my free time, I enjoy music, playing video games, reading, being active outdoors, cooking and eating food.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -173,7 +174,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I enjoy treating a wide variety of cases, this allows me to work with a broad population and requires constant growth as an RMT. However, I can relate to people who hold tension in their bodies as a result of stress. I have found that receiving upper body treatments, focusing on the shoulders and neck, has helped me to reduce this pain and improve my posture at the same time. This is especially true for individuals who are required to sit at a desk for extended periods of time for work or studies.</p>
+              <p>I enjoy treating the neck, back, and shoulders the most. It is common for many people to carry their stress in these areas and it is also areas that I have experience treating the most.  I can be an anxious person and when I go through periods of stress, I feel tightness and pain in these regions so I can relate to patients with issues here. I also find satisfaction in treating the arms, hands, hips, and legs as these can be regions of high use in people. I guess I simply enjoy working on all parts of the body.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -183,7 +184,9 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Three treatments that I specialize in are Myofascial release, Trigger Point therapy and Remedial Exercise home-care. The combination of these treatments are very effective in the treatment of pain and the provision of tension relief.</p>
+              <p>In my practice, I like to incorporate light, relaxing massage techniques into deep tissue techniques. Lighter massage is generally used at the beginning and end of massage treatments, as well as throughout the treatment to give the body a break from the intense, deeper techniques. They can be applied slowly to induce relaxation or quickly to stimulate the body. Deep massage is good at targeting specific muscles and these techniques may reduce their tension. Throughout my treatment, I work to applying the perfect amount of pressure to obtain both results as well as  level of comfort in my patients.</p>
+              
+              <p>In addition, stretching may aid with further relaxation and pain reduction in muscles. I enjoy performing assisted stretching because it can bring patients into deeper stretches than if they were to stretch on their own. Stretching helps to improve flexibility and increase circulation in muscles, which helps in healing and maintaining the body so that it can perform at its peak.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -193,7 +196,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am most proud to be able to provide clients with a sense of relief. We all carry stress in our bodies and allowing that tension and pain to be released is a something I love to do.</p>
+              <p>I take pride in viewing changes and results in the patients whom I treat. Seeing people respond well to massage and increase in their function and enjoyment of their day-to-day life is fulfilling to me. I am also proud of being able to share health and body knowledge with patients so that I am not simply just providing massages.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -203,7 +206,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I strive to achieve the unique goals of each client. I want to provide a treatment that caters to YOU and your needs. Through discussion and assessment, we will formulate a treatment plan that will not just focus on pain relief but pain prevention.</p>
+              <p>I am persistent and genuinely want to help my patients reach their health goals. I love to continue my education, do extra research and adjust my approach to get results in my treatments. I love seeing people smile and laugh so I may also work to get these kinds of results too.</p>
               <!-- End Text -->
 
           </div>
@@ -219,7 +222,7 @@
       <div class="container">
         <!-- Review Widget -->
         
-        <div class="embedsocial-reviews" data-ref="eb67912a0ef339bcb933b0b18106cdb3e4962513"></div> <script> (function(d, s, id){ var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js); }(document, "script", "EmbedSocialReviewsScript")); </script>
+        <div class="embedsocial-reviews" data-ref="9c2d0794b3033d5e62f29b6a5a9a716c36ad1eaa"></div> <script> (function(d, s, id){ var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js); }(document, "script", "EmbedSocialReviewsScript")); </script>
 
         <!-- End Review Widget -->
       </div>
