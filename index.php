@@ -195,16 +195,13 @@
               <strong class="font-weight-bold">COVID-19 UPDATE</strong>
             </h2>
             <h5>
-              <p>Mar 21, 2022</p>
+              <p>April 26, 2022</p>
             </h5>
           </div>
         </div>
 
-        <p class="text-dark">As of March 21, Ontario's masks mandate will be lifted and masks will no longer be required, except for HEALTHCARE SETTING, public transit, long term care homes and congregate care settings.</p>
-        
-        <p class="text-dark">Nexus is a healthcare setting, Both staffs and clients at Nexus will continue to wear masks until further notice.</p>
-        
-        <p class="text-dark">Thank you for your cooperation.</p>
+        <p class="text-dark">Ontario's masks mandate will be extended for healthcare settings for both staffs and clients until June 11, 2022.
+          Thank you for your cooperation.</p>
         
         <p class="text-dark">Your Nexus Health Team</p>
       </div>
