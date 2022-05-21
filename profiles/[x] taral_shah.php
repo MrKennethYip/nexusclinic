@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Julian Tenyenhuis (RMT) | Nexus Massage & Rehab | (647) 557-6267</title>
+  <title>Taral Shah (Physio) | Physiotherapy Resident | Nexus Massage & Rehab at Yonge & Eglinton | (647) 557-6267</title>
 
-  <meta name="Description" content="Learn about the team at Nexus Massage & Rehab. Julian Tenyenhuis specializes in massage therapy & lower back pain at our Yonge & Eglinton clinic. Learn more!">
-  <meta name="keywords" content="Julian Tenyenhuis, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
+  <meta name="Description" content="Learn about the staff at Nexus Massage & Rehab. Taral Shah specializes in physiotherapy, rehabilitation & more at our Yonge & Eglinton clinic. Learn more!">
+  <meta name="keywords" content="Taral, Shah, Physiotherapy, rehabilitation, strength, fitness, disability, injuries, exercise, frozen shoulder, knee pain, shoulder pain. shin splints, training, carpal tunnel, tennis elbow, meniscus tear, rotator cuff, strain, sprain, exercises, rehab, physio, endurance, recover, recovery, strengthening, physiotherapist, the best physiotherapist, physio at yonge and eglinton, rehab exercises, physio at yonge and eglinton">
 
   <!-- Common Header -->
   <?php include('../includes/common-header.php') ?>
@@ -44,21 +44,21 @@
           <div class="animated bounceIn">
           <!-- Info -->
           <div class="mb-4">
-            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">JULIAN TENYENHUIS</h1>
+            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">TARAL SHAH</h1>
           </div>
 
           <ul class="list-inline">
             <li class="list-inline-item">
-              <a class="u-text-light" href="mailto:Julian@nexushealthclinic.com">
+              <a class="u-text-light" href="mailto:taral@nexushealthclinic.com">
                 <span class="far fa-envelope mr-2"></span>
-                Julian@nexushealthclinic.com
+                taral@nexushealthclinic.com
               </a>
             </li>
           </ul>
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/julian_tenyenhuis.jpg" alt="Julian Tenyenhuis - Profile">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/taral_shah.jpg" alt="Taral Shah - Physiotherapy Resident">
           <!-- End Avatar -->
           </div>
         </div>
@@ -81,9 +81,7 @@
       </div>
 
     </div>
-    <!-- End Author Section -->  
-
-
+    <!-- End Author Section -->    
 
     <!-- Content Section -->
     <div class="u-bg-light-blue-50">
@@ -98,7 +96,7 @@
                   <a class="btn btn-block btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book/" target="_blank" onclick="handleClick('sidebarBtn');">Book Practitioner<span class="fa fa-angle-right ml-2"></span></a>
                   <br>
 
-                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:Julian@nexushealthclinic.com">
+                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:taral@nexushealthclinic.com">
                     <span class="far fa-envelope mr-2"></span>
                     Send a Message
                   </a>
@@ -116,15 +114,24 @@
 
                 <!-- User -->
                 <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/massage-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/physio-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                   <div>
-                    <a href="../service/massage">
-                      <span class="d-block text-dark small font-weight-bold">Registered Massage Therapy</span>
+                    <a href="../service/physiotherapy">
+                      <span class="d-block text-dark small font-weight-bold">Physio Services</span>
                     </a>
                   </div>
                 </div>
                 <!-- End User -->
-                
+                  
+                <!-- User -->
+                <div class="card-header border-0 py-3 d-flex align-items-center">
+                  <img src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/icons/telehealth-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                  <div>
+                    <span class="d-block text-dark small font-weight-bold">Virtual Telehealth</span>
+                  </div>
+                </div>
+                <!-- End User -->
+
               </div>
             </div>
             <!-- End Contacts  -->
@@ -140,11 +147,9 @@
                 <span class="d-flex align-items-start">
 
                   <div class="ml-2">
-                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>2pm - 9pm</p>
-                    <p class="text-dark"><strong>Thurs:</strong><span class="ml-3"></span>2pm - 9pm</p>
-                    <p class="text-dark"><strong>Fri:</strong><span class="ml-3"></span>10am - 9pm</p>
-                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>8am - 2pm</p>
-                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>2pm - 7pm</p>
+                    <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>9am - 7pm</p>
+                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>9am - 7pm</p>
+                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>9am - 7pm</p>
                   </div>
                 </span>
                 <!-- End User -->
@@ -156,16 +161,17 @@
           </div>
 
           <div class="col-lg-9">
-              <!-- Title -->
-              <div class="mb-3">
+            <!-- Title -->
+            <div class="mb-3">
                 <h5 class="text-primary font-weight-bold">Tell us about yourself?</h5>
               </div>
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am a Registered Massage Therapist who studied at Humber College. Before taking on Massage Therapy, I was a Maintenance Landscaper for a bit over ten years. Physical jobs can be hard on the body and they become harder when one does not know how to take care of oneself. It is great to learn how to optimize your health and make positive adjustments to routine to lead a happier, less painful life. This is something I want to share with my patients.</p>
-              
-              <p>On my free time, I enjoy music, playing video games, reading, being active outdoors, cooking and eating food.</p>
+              <p>I am a Physiotherapy Resident, registered with The College of Physiotherapists Of Ontario and an active member of The Canadian Physiotherapy Association. In the past 11 years of my career, I have worked at various multi-disciplinary clinics and hospitals gaining extensive experience in Orthopeadic and Neuro rehabilitation with passion for Pediatric physiotherapy. I like challenges that make me expand my skill set and enhance my knowledge in every way.</p>
+
+              <p>I believe in giving back to the society for which I have volunteered at a specialty hospital serving the rural population for several years. Outside of the clinical hours, I enjoy spending time with family and friends, travelling and volunteering in the community.</p>
+
               <!-- End Text -->
 
               <!-- Title -->
@@ -175,7 +181,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I enjoy treating the neck, back, and shoulders the most. It is common for many people to carry their stress in these areas and it is also areas that I have experience treating the most.  I can be an anxious person and when I go through periods of stress, I feel tightness and pain in these regions so I can relate to patients with issues here. I also find satisfaction in treating the arms, hands, hips, and legs as these can be regions of high use in people. I guess I simply enjoy working on all parts of the body.</p>
+              <p>I enjoy treating every client who I meet, and I love to work with them to achieve their goals. The neck and shoulder joints are seemingly complicated joints which makes me want to do my best. Apart from that, I have developed interest in the spine and the knee joint which are few of the joint which res most prone to injury, be it acute or chronic.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -185,9 +191,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>In my practice, I like to incorporate light, relaxing massage techniques into deep tissue techniques. Lighter massage is generally used at the beginning and end of massage treatments, as well as throughout the treatment to give the body a break from the intense, deeper techniques. They can be applied slowly to induce relaxation or quickly to stimulate the body. Deep massage is good at targeting specific muscles and these techniques may reduce their tension. Throughout my treatment, I work to applying the perfect amount of pressure to obtain both results as well as  level of comfort in my patients.</p>
-              
-              <p>In addition, stretching may aid with further relaxation and pain reduction in muscles. I enjoy performing assisted stretching because it can bring patients into deeper stretches than if they were to stretch on their own. Stretching helps to improve flexibility and increase circulation in muscles, which helps in healing and maintaining the body so that it can perform at its peak.</p>
+              <p>I specialize in soft tissue/joint mobilization and Kinesio taping techniques combined with exercise-based therapy that would help you return to your best version!</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -197,7 +201,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I take pride in viewing changes and results in the patients whom I treat. Seeing people respond well to massage and increase in their function and enjoyment of their day-to-day life is fulfilling to me. I am also proud of being able to share health and body knowledge with patients so that I am not simply just providing massages.</p>
+              <p>I am proud of my ability to help every client achieve their personal goals – be it pain-relief, getting back the pre-injury status, feeling stronger or just living a physically healthy lifestyle.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -207,25 +211,22 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am persistent and genuinely want to help my patients reach their health goals. I love to continue my education, do extra research and adjust my approach to get results in my treatments. I love seeing people smile and laugh so I may also work to get these kinds of results too.</p>
+              <p>I am very passionate of the quality of care I deliver. I strongly believe in treating the root cause of the issue based on research and evidence rather than working just symptomatically. I have consistently worked on improving my skill throughout my career and will continue to do so!</p>
               <!-- End Text -->
 
-          </div>
+            </div>
 
-        </div>
+          </div>
 
       </div>
     </div>
     <!-- End Content Section -->
 
-    <!-- Social Section -->
     <div class="u-bg-light-blue-50 u-space-2-bottom">
       <div class="container">
-        <!-- Review Widget -->
         
-        <div class="embedsocial-reviews" data-ref="9c2d0794b3033d5e62f29b6a5a9a716c36ad1eaa"></div> <script> (function(d, s, id){ var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js); }(document, "script", "EmbedSocialReviewsScript")); </script>
-
-        <!-- End Review Widget -->
+        <div class='embedsocial-reviews' data-ref="a403c51ebf2d43910cabd0da70ff7c69cdadc8d0"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
+        
       </div>
     </div>
 
@@ -239,6 +240,6 @@
   <!-- Common Footer -->
   <?php include('../includes/common-footer.php') ?>
   <!-- End Common Footer -->
-
+  
 </body>
 </html>
