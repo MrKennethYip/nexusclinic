@@ -353,7 +353,7 @@
               <div class="card-body p-3">
                 <div class="text-center">
                     <figure class="figure" style="margin-top:0px">
-                      <a href="https://jt6studio.ca/" target="blank"><img loading="lazy" width="110" height="110" src="../assets/img/jt6_logo.png" alt="JT6 Jiu-Jitsu Toronto - Logo"></a>
+                      <a href="https://jt6studio.ca/" target="blank"><img loading="lazy" width="110" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/jt6_logo.png" alt="JT6 Jiu-Jitsu Toronto - Logo"></a>
                     </figure>
                 </div>
               </div>
