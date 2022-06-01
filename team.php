@@ -245,22 +245,6 @@
               </div>
           </div>
           <!-- End Item -->
-          
-          <!-- Item -->
-            <div class="cbp-item physio">
-              <a class="cbp-caption" href="profiles/taral_shah">
-                <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/taral_shah.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/taral_shah.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/taral_shah.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/taral_shah.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Taral Shah - Physiotherapy Resident">
-              </a>
-                <div class="py-3">
-                  <a href="profiles/taral_shah">
-                    <h4 class="h6 text-dark mb-0">Taral Shah</h4>
-                  </a>
-                  <p class="small mb-0">
-                    Physiotherapy Resident<br><br>
-                  </p>
-                </div>
-            </div>
-          <!-- End Item -->
             
           <!-- Item -->
             <div class="cbp-item physio">
@@ -453,6 +437,22 @@
               </div>
           </div>
           <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="profiles/laura_squire">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/laura_squire.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/laura_squire.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/laura_squire.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/laura_squire.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Laura Squire - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="profiles/laura_squire">
+                  <h4 class="h6 text-dark mb-0">Laura Squire</h4>
+                </a>
+                <p class="small mb-0">
+                  Registered Massage Therapist<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
 
           <!-- Item
           <div class="cbp-item">
@@ -510,6 +510,18 @@
             
           <!-- Item -->
           <div class="cbp-item rmt chiro acupuncture physio osteopath">
+            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/ida_leung.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/ida_leung.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/ida_leung.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/ida_leung.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Ida Leung - Nexus Massage and Rehab - Toronto">
+            <div class="py-3">
+              <h4 class="h6 text-dark mb-0">Ida Leung</h4>
+              <p class="small mb-0">
+                Office Manager Assistant<br><br>
+              </p>
+            </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt chiro acupuncture physio osteopath">
             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gorma_jekula.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gorma_jekula.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gorma_jekula.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/gorma_jekula.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px"  alt="Gorma Jekula - Nexus Massage and Rehab - Toronto">
             <div class="py-3">
               <h4 class="h6 text-dark mb-0">Gorma Jekula</h4>
@@ -525,18 +537,6 @@
             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/olivia_embry.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/olivia_embry.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/olivia_embry.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/olivia_embry.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Olivia Embry - Nexus Massage and Rehab - Toronto">
             <div class="py-3">
               <h4 class="h6 text-dark mb-0">Olivia Embry</h4>
-              <p class="small mb-0">
-                Clinic Administrator<br><br>
-              </p>
-            </div>
-          </div>
-          <!-- End Item -->
-            
-          <!-- Item -->
-          <div class="cbp-item rmt chiro acupuncture physio osteopath">
-            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/rasana_jeffrey.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/rasana_jeffrey.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/rasana_jeffrey.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/rasana_jeffrey.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Rasana Jeffrey - Nexus Massage and Rehab - Toronto">
-            <div class="py-3">
-              <h4 class="h6 text-dark mb-0">Rasana Jeffrey</h4>
               <p class="small mb-0">
                 Clinic Administrator<br><br>
               </p>

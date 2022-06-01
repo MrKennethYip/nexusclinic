@@ -226,7 +226,7 @@
     <div class="u-bg-light-blue-50 u-space-2-bottom">
       <div class="container">
         <!-- Review Widget -->
-        <div class='embedsocial-reviews' data-ref="9bfaf4a507e70fc1b1ffa9db34f13e39f565db34"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
+        <div class="embedsocial-reviews" data-ref="9bfaf4a507e70fc1b1ffa9db34f13e39f565db34"></div> <script> (function(d, s, id){ var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js); }(document, "script", "EmbedSocialReviewsScript")); </script>
         <!-- End Review Widget -->
       </div>
     </div>

@@ -670,7 +670,7 @@
                   <h4 class="h6 text-dark mb-0">Desciree Iyog</h4>
                 </a>
                 <p class="small mb-0">
-                  I am proud of becoming a part of the reason that someone will be able to function better in their everyday life. Creating an impact for the better to increase their quality of living. I am an approachable individual that will prioritize the well-being of my patients with goals that I curate for you to understand what is necessary to attain the required results.<br><br><br>
+                  I am proud of becoming a part of the reason that someone will be able to function better in their everyday life. Creating an impact for the better to increase their quality of living. I am an approachable individual that will prioritize the well-being of my patients with goals that I curate for you to understand what is necessary to attain the required results.<br>
                 </p>
               </div>
           </div>
@@ -686,7 +686,7 @@
                   <h4 class="h6 text-dark mb-0">Thomas Murphy</h4>
                 </a>
                 <p class="small mb-0">
-                  As a RMT, I work with patients to manage stress, pain, and injury, and provide the education and motivation to live life to the fullest. I am always in the process of learning and developing my practice to meet my patient’s needs. Each new patient I take on is a journey of discovery and exploration, and I am committed to helping patient’s achieve their goals.<br><br><br>
+                  As a RMT, I work with patients to manage stress, pain, and injury, and provide the education and motivation to live life to the fullest. I am always in the process of learning and developing my practice to meet my patient’s needs. Each new patient I take on is a journey of discovery and exploration, and I am committed to helping patient’s achieve their goals.<br>
                 </p>
               </div>
           </div>
@@ -702,7 +702,7 @@
                   <h4 class="h6 text-dark mb-0">Mozhgan Roshan Ravan</h4>
                 </a>
                 <p class="small mb-0">
-                  I am very sensitive to people's needs and will always adjust the treatments to best suit my patients. I welcome all feedback and have an open communication with my patients to ensure the treatment is right for them at all times. <br><br><br><br><br>
+                  I am very sensitive to people's needs and will always adjust the treatments to best suit my patients. I welcome all feedback and have an open communication with my patients to ensure the treatment is right for them at all times. <br><br><br>
                 </p>
               </div>
           </div>
@@ -718,7 +718,7 @@
                   <h4 class="h6 text-dark mb-0">Alessandro Ramones</h4>
                 </a>
                 <p class="small mb-0">
-                  I strive to balance efficiency and comfort when treating my clients. Comfortability and effectiveness of the treatments are my top priorities when treating my patients. I am proud of helping my clients decrease or relieve their aches and pains and increase their range of motion. I take pride in helping my clients improve or return to their daily activities.<br><br><br>
+                  I strive to balance efficiency and comfort when treating my clients. Comfortability and effectiveness of the treatments are my top priorities when treating my patients. I am proud of helping my clients decrease or relieve their aches and pains and increase their range of motion. I take pride in helping my clients improve or return to their daily activities.<br><br>
                 </p>
               </div>
           </div>
@@ -734,7 +734,7 @@
                   <h4 class="h6 text-dark mb-0">Sharlene Quinones</h4>
                 </a>
                 <p class="small mb-0">
-                  I am adaptable, open-minded, caring, and experienced working with various diversity. I tailor my treatment based on individuals' needs. I believe that achieving optimal health is a teamwork between the therapist and the client. Thus, I like giving clients home care exercises that they can do to speed up their recovery.<br><br><br>
+                  I am adaptable, open-minded, caring, and experienced working with various diversity. I tailor my treatment based on individuals' needs. I believe that achieving optimal health is a teamwork between the therapist and the client. Thus, I like giving clients home care exercises that they can do to speed up their recovery.<br><br>
                 </p>
               </div>
           </div>
@@ -750,7 +750,7 @@
                   <h4 class="h6 text-dark mb-0">Djordje Petrovic</h4>
                 </a>
                 <p class="small mb-0">
-                  I bring a positive optimistic energy to each of my sessions. I enjoy working with my patients to help create attainable goals and a flexible treatment plan designed to get the root cause, as well as help prevent further issues from developing. I like to educate my clients on the little things they can seamlessly implement into their life to maintain and improve their health.<br><br><br>
+                  I bring a positive optimistic energy to each of my sessions. I enjoy working with my patients to help create attainable goals and a flexible treatment plan designed to get the root cause, as well as help prevent further issues from developing. I like to educate my clients on the little things they can seamlessly implement into their life to maintain and improve their health.<br>
                 </p>
               </div>
           </div>
@@ -759,14 +759,30 @@
           <!-- Item -->
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/julian_tenyenhuis">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/julian_tenyenhuis.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/julian_tenyenhuis.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/julian_tenyenhuis.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/julian_tenyenhuis.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Sharlene Quinones - Registered Massage Therapy">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/julian_tenyenhuis.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/julian_tenyenhuis.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/julian_tenyenhuis.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/julian_tenyenhuis.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Julian Tenyenhuis - Registered Massage Therapy">
             </a>
               <div class="py-3">
                 <a href="../profiles/julian_tenyenhuis">
                   <h4 class="h6 text-dark mb-0">Julian Tenyenhuis</h4>
                 </a>
                 <p class="small mb-0">
-                  Coming Soon<br><br><br>
+                  I am persistent and genuinely want to help my patients reach their health goals. I love to continue my education, do extra research and adjust my approach to get results in my treatments. I love seeing people smile and laugh so I may also work to get these kinds of results too.<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/laura_squire">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/laura_squire.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/laura_squire.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/laura_squire.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/laura_squire.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Laura Squire - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/julian_tenyenhuis">
+                  <h4 class="h6 text-dark mb-0">Laura Squire</h4>
+                </a>
+                <p class="small mb-0">
+                  I strive to achieve the unique goals of each client. I want to provide a treatment that caters to YOU and your needs. Through discussion and assessment, we will formulate a treatment plan that will not just focus on pain relief but pain prevention.<br><br><br>
                 </p>
               </div>
           </div>
@@ -782,7 +798,7 @@
                   <h4 class="h6 text-dark mb-0">Cassandra Kong</h4>
                 </a>
                 <p class="small mb-0">
-                  Coming Soon!<br><br><br><br><br><br><br><br><br>
+                  I love bringing great energy to my sessions and working together with my patients to form their treatment plan. I believe that understanding the root cause of the problem is important for preventative care as well as our treatment direction. I work towards bringing you back to doing the things you love, pain-free.<br><br><br><br><br>
                 </p>
               </div>
           </div>
