@@ -296,7 +296,7 @@
                 </div>
 
                 <div class="col-9 align-self-end px-2 mb-3 u-space-1-top u-space-1-bottom">
-                  <a class="text-dark" href="https://jt6studio.ca//"  target="blank">
+                  <a class="text-dark" href="https://jt6studio.ca/"  target="blank">
                     <img class="img-fluid rounded" src="../assets/img/jt6_logo_rect.png" alt="JT6 Jiu-Jitsu Toronto - Logo" title="JT6 Jiu-Jitsu Toronto - Logo"  style="border: 1px solid #898A8D">
                   </a>
                 </div>
