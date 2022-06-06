@@ -222,9 +222,9 @@
                       </span>
                     </div>
                     <div class="media-body">
-                      <h3 class="h5"><strong><a class="text-dark" href="https://www.instagram.com/p/Bxc65WjBZTn/" target="blank"><u>Goodlife Fitness</u></a></strong></h3>
-                      <p class="text-dark"><strong>7 days trial</strong> (reg. 3 days) + <strong>fitness starter with trainer - Any location</strong></p>
-                      <p class="text-dark">Sign up in Nexus reception area in a sign up box. Must be registered at the Yonge and Eglinton GoodLife location, but can attend any gym after initial registration.</p>
+                      <h3 class="h5"><strong><a class="text-dark" href="https://www.goodlifefitness.com/" target="blank"><u>Goodlife Fitness</u></a></strong></h3>
+                      <p class="text-dark">• <strong>7 days trial</strong> (reg. 3 days) + <strong>fitness starter with trainer - Any location</strong></p>
+                      <p class="text-dark">• Must be registered at the Yonge and Eglinton GoodLife location, but can attend any gym after initial registration.</p>
                     </div>
                   </div>
 
@@ -235,9 +235,9 @@
                       </span>
                     </div>
                     <div class="media-body">
-                      <h3 class="h5"><strong><a class="text-dark" href="https://www.instagram.com/p/B0q4Q19BuQj/" target="blank"><u>VRTU Muay Thai</u></a></strong></h3>
-                      <p class="text-dark">- <strong>FREE</strong> Trial Class, and</p>
-                      <p class="text-dark">- <strong>$20 off</strong> first purchase</strong></p>
+                      <h3 class="h5"><strong><a class="text-dark" href="https://vrtu.ca/" target="blank"><u>VRTU Muay Thai</u></a></strong></h3>
+                      <p class="text-dark">• <strong>FREE</strong> Trial Class, and</p>
+                      <p class="text-dark">• <strong>$20 off</strong> first purchase</strong></p>
                       <p class="text-dark">To receive discount, please show your invoice from Nexus.</p>
                     </div>
                   </div>
@@ -249,13 +249,26 @@
                       </span>
                     </div>
                     <div class="media-body">
-                      <h3 class="h5"><strong><a class="text-dark" href="https://www.instagram.com/p/CIZBKiMLHuw/" target="blank"><u>6ix Dental Eglinton</u></a></strong></h3>
-                      <p class="text-dark">- <strong>FREE Osteopathic Initial Assessment</strong> (valued at <strong>$120</strong>) at Nexus Massage & Rehab, if you book a <strong>New Patient Exam & Dental Cleaning</strong> with 6ix Eglinton Dental.</p>
+                      <h3 class="h5"><strong><a class="text-dark" href="https://www.6ixeglintondental.ca/" target="blank"><u>6ix Dental Eglinton</u></a></strong></h3>
+                      <p class="text-dark">• <strong>FREE Osteopathic Initial Assessment</strong> (valued at <strong>$130+HST</strong>) at Nexus Massage & Rehab, if you book a <strong>New Patient Exam & Dental Cleaning</strong> with 6ix Eglinton Dental.</p>
                       <p class="text-dark"></p>
                       <p class="text-dark">Call <a href="tel:647-557-6267">647-537-6453</a> to book your appointment. To receive your Nexus promotional offer, please show your invoice or receipt from 6ix Dental.</p>
                     </div>
                   </div>
 
+                  <div class="media mb-3 u-space-2-top">
+                    <div class="d-flex mt-1 mr-3">
+                      <span class="u-icon u-icon-dark u-icon--xs rounded-circle">
+                        <span class="fa fa-check u-icon__inner"></span>
+                      </span>
+                    </div>
+                    <div class="media-body">
+                      <h3 class="h5"><strong><a class="text-dark" href="https://jt6studio.ca/" target="blank"><u>JT6 • Jiu-Jitsu Toronto</u></a></strong></h3>
+                      <p class="text-dark"><strong>2 Weeks FREE Trial</strong></p>
+                      <p class="text-dark">• Online waiver/registration is required
+                      <p class="text-dark">• Please show your Nexus invoice to JT6
+                    </div>
+                  </div>
                 </div>
 
               </div>
@@ -265,23 +278,28 @@
               <div class="row mx-gutters-5 p-5">
 
                 <div class="col-9 align-self-end px-2 mb-3 u-space-1-top">
-                  <a class="text-dark" href="https://www.instagram.com/p/Bxc65WjBZTn/" target="blank">
+                  <a class="text-dark" href="https://www.goodlifefitness.com/" target="blank">
                     <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/partnerships/goodlife_fitness.png" alt="Goodlife Fitness - Logo" title="Goodlife Fitness - Logo"  style="border: 1px solid #898A8D">
                   </a>
                 </div>
 
                 <div class="col-9 align-self-end px-2 mb-3 u-space-2-top u-space-1-bottom">
-                  <a class="text-dark" href="https://www.instagram.com/p/B0q4Q19BuQj/" target="blank">
+                  <a class="text-dark" href="https://vrtu.ca/" target="blank">
                     <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/vrtu_muay_thai.png" alt="VRTU Muay Thai - Logo" title="VRTU Muay Thai - Logo"  style="border: 1px solid #898A8D">
                   </a>
                 </div>
                 
                 <div class="col-9 align-self-end px-2 mb-3 u-space-1-top u-space-1-bottom">
-                  <a class="text-dark" href="https://www.instagram.com/p/CIZBKiMLHuw/" target="blank">
+                  <a class="text-dark" href="https://www.6ixeglintondental.ca/" target="blank">
                     <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/6ixdental.png" alt="6ix Dental Eglinton - Logo" title="6ix Dental Eglinton - Logo"  style="border: 1px solid #898A8D">
                   </a>
                 </div>
 
+                <div class="col-9 align-self-end px-2 mb-3 u-space-1-top u-space-1-bottom">
+                  <a class="text-dark" href="https://jt6studio.ca/"  target="blank">
+                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/jt6_logo_rect.png" alt="JT6 Jiu-Jitsu Toronto - Logo" title="JT6 Jiu-Jitsu Toronto - Logo"  style="border: 1px solid #898A8D">
+                  </a>
+                </div>
               </div>
 
             </div>

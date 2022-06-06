@@ -323,7 +323,7 @@
             <div class="card-body p-3">
               <div class="text-center">
                   <figure class="figure" style="margin-top:20px">
-                    <a href="https://www.instagram.com/p/Bxc65WjBZTn/" target="blank"><img loading="lazy" width="150" height="92" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/partnerships/goodlife_white.png" class="figure-img img-fluid rounded" alt="Goodlife Outreach"></a>
+                    <a href="https://www.goodlifefitness.com/" target="blank"><img loading="lazy" width="150" height="92" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/partnerships/goodlife_white.png" class="figure-img img-fluid rounded" alt="Goodlife Outreach"></a>
                   </figure>
               </div>
             </div>
@@ -333,7 +333,7 @@
             <div class="card-body p-3">
               <div class="text-center">
                   <figure class="figure" style="margin-top:0px">
-                    <a href="https://www.instagram.com/p/CIZBKiMLHuw/" target="blank"><img loading="lazy" width="110" height="80" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/6ixdental_white.png" class="figure-img img-fluid rounded" alt="6ix Dental - Eglinton"></a>
+                    <a href="https://www.6ixeglintondental.ca/" target="blank"><img loading="lazy" width="110" height="80" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/6ixdental_white.png" class="figure-img img-fluid rounded" alt="6ix Dental - Eglinton"></a>
                   </figure>
               </div>
             </div>
@@ -343,12 +343,21 @@
             <div class="card-body p-3">
               <div class="text-center">
                   <figure class="figure" style="margin-top:0px">
-                    <a href="https://www.instagram.com/p/B0q4Q19BuQj/" target="blank"><img loading="lazy" width="150" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/vrtu_muay_thai_white.png" class="figure-img img-fluid rounded" alt="VRTU Mauy Thai Outreach"></a>
+                    <a href="https://vrtu.ca/" target="blank"><img loading="lazy" width="150" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/vrtu_muay_thai_white.png" class="figure-img img-fluid rounded" alt="VRTU Mauy Thai Outreach"></a>
                   </figure>
               </div>
             </div>
           </div>
-          
+
+          <div class="card mb-1" style="background-color:#002A3A; border:0px">
+              <div class="card-body p-3">
+                <div class="text-center">
+                    <figure class="figure" style="margin-top:0px">
+                      <a href="https://jt6studio.ca/" target="blank"><img loading="lazy" width="110" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/jt6_logo.png" alt="JT6 Jiu-Jitsu Toronto - Logo"></a>
+                    </figure>
+                </div>
+              </div>
+            </div>
         </div>
         
         
