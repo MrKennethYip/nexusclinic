@@ -778,11 +778,43 @@
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/laura_squire.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/laura_squire.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/laura_squire.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/laura_squire.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Laura Squire - Registered Massage Therapy">
             </a>
               <div class="py-3">
-                <a href="../profiles/julian_tenyenhuis">
+                <a href="../profiles/laura_squire">
                   <h4 class="h6 text-dark mb-0">Laura Squire</h4>
                 </a>
                 <p class="small mb-0">
                   I strive to achieve the unique goals of each client. I want to provide a treatment that caters to YOU and your needs. Through discussion and assessment, we will formulate a treatment plan that will not just focus on pain relief but pain prevention.<br><br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/gabriel_li">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gabriel_li.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gabriel_li.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gabriel_li.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/gabriel_li.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Gabriel Li - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/gabriel_li">
+                  <h4 class="h6 text-dark mb-0">Gabriel Li</h4>
+                </a>
+                <p class="small mb-0">
+                  I can not only quickly and effectively solve the patient's physical problems, but also allow the patient to obtain methods to change bad habits and self-exercise, and effectively promote the patient's physical recovery in the long term.<br><br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/osei_tawia">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/osei_tawia.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/osei_tawia.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/osei_tawia.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/osei_tawia.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Osei Tawia - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/osei_tawia">
+                  <h4 class="h6 text-dark mb-0">Osei Tawia</h4>
+                </a>
+                <p class="small mb-0">
+                  I am proud of being able to help clients reach their goal from the plan that we create. I enjoy getting to know my clients, having an understanding on what they are going through and being there every step of the way on their health journey. I am willing to do what it takes to help my clients reach their health goals.<br><br><br><br><br><br>
                 </p>
               </div>
           </div>
@@ -798,7 +830,7 @@
                   <h4 class="h6 text-dark mb-0">Cassandra Kong</h4>
                 </a>
                 <p class="small mb-0">
-                  I love bringing great energy to my sessions and working together with my patients to form their treatment plan. I believe that understanding the root cause of the problem is important for preventative care as well as our treatment direction. I work towards bringing you back to doing the things you love, pain-free.<br><br><br><br><br>
+                  I love bringing great energy to my sessions and working together with my patients to form their treatment plan. I believe that understanding the root cause of the problem is important for preventative care as well as our treatment direction. I work towards bringing you back to doing the things you love, pain-free.<br><br><br><br><br><br>
                 </p>
               </div>
           </div>
@@ -814,7 +846,7 @@
                   <h4 class="h6 text-dark mb-0">Dr. Felix Chu</h4>
                 </a>
                 <p class="small mb-0">
-                  I pride myself in providing patient-centred care for my patients. This involves creating a treatment program that is individually tailored towards my patients’ needs, preferences, and values. My foundation as a registered social worker allows me to understand my patients’ challenges through a holistic perspective by recognizing not only physical obstacles, but also emotional and psychological hurdles. This integrative viewpoint enables me to better help my patients achieve optimal health and a higher quality of life.
+                  I pride myself in providing patient-centred care for my patients. This involves creating a treatment program that is individually tailored towards my patients’ needs, preferences, and values. My foundation as a registered social worker allows me to understand my patients’ challenges through a holistic perspective by recognizing not only physical obstacles, but also emotional and psychological hurdles. This integrative viewpoint enables me to better help my patients achieve optimal health and a higher quality of life.<br><br>
                 </p>
               </div>
           </div>
