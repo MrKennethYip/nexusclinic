@@ -195,15 +195,16 @@
               <strong class="font-weight-bold">COVID-19 UPDATE</strong>
             </h2>
             <h5>
-              <p>April 26, 2022</p>
+              <p>July 25, 2022</p>
             </h5>
           </div>
         </div>
 
-        <p class="text-dark">Ontario's masks mandate will be extended for healthcare settings for both staffs and clients until June 11, 2022.
-          Thank you for your cooperation.</p>
+        <p class="text-dark">At this time, to ensure the safety of everyone, all patients and staffs will continue to wear face masks in the clinic until further notice. We work in close proximity to treat patients and wearing masks will limit the spread of COVID.</p>
         
-        <p class="text-dark">Your Nexus Health Team</p>
+        <p class="text-dark">Thank you for your cooperation and understanding.</p>
+        
+        <p class="text-dark">Sincerely, Team Nexus</p>
       </div>
     </div>
     <!-- End How did Nexus Massage & Rehab Start -->

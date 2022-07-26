@@ -428,19 +428,32 @@
             </div>
             <div id="FAQOne" class="collapse" aria-labelledby="FAQHeadingOne" data-parent="#FAQCollapse">
               <div class="card-body px-4">
-                If you are tested positive with COVID-19, <strong>please contact the clinic</strong> to let us know.
+                If you have symptoms or is at risk of being exposed to COVID 19. Please complete the <a href="https://covid-19.ontario.ca/self-assessment/">Ontario Self Assessment Tool</a> for isolation recommendations.
                 <br/><br/>
                 <strong>
-                    Vaccinated /Unvaccinated/partially vaccinated + Immunocompromise:
+                    You are considered a person with COVID-19 if ANY of the following apply:
                 </strong>
                 <br/>
-                If you have any COVID symptoms or are exposed to COVID, isolate for 10 days since the day of:
+                If you have any COVID symptoms or are exposed to COVID, isolate for 10 days since the day of:<br><br>
                 <ul>
-                    <li>Last exposure</li>
-                    <li>Symptom onset</li>
-                    <li>or from their date of diagnosis</li>
+                    <li>Tested positive for COVID-19 on a PCR, Rapid Molecular, or Rapid Antigen test</li>
+                    <li>Told by Toronto Public Health that you have a “probable case” of COVID-19</li>
+                    <li>Ontario Self Assessment Tool tells you you are a probably case of COVID-19</li>
                 </ul>
-                <strong>Vaccinated Only:</strong> Can book appointments after isolating for 7 days with negative PCR or rapid antigen test results AND symptom free.
+                <strong>If you are tested POSITIVE or considered a person with COVID 19, please contact the clinic to let us know:</strong>
+                <br><br>
+                
+                <strong>1. Fully Vaccinated (2 doses)</strong>
+                
+                <ul>
+                  <li><strong>Isolation period</strong> - At least 5 Days after symptom onset or positive test date, whichever happened first</li>
+                </ul>
+                
+                <strong>2. Not Fully Vaccinated/Immunocompromised</strong>
+                
+                <ul>
+                  <li><strong>Isolation period</strong> - At least 10 days after symptom onset or positive test date, whichever happened first</li>
+                </ul>
               </div>
             </div>
           </div>

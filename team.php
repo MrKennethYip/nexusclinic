@@ -280,22 +280,6 @@
             
           <!-- Item -->
           <div class="cbp-item rmt">
-            <a class="cbp-caption" href="profiles/gloria_tran">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gloria_tran.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gloria_tran.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gloria_tran.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/gloria_tran.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Gloria Tran - Registered Massage Therapy">
-            </a>
-              <div class="py-3">
-                <a href="profiles/gloria_tran">
-                  <h4 class="h6 text-dark mb-0">Gloria Tran</h4>
-                </a>
-                <p class="small mb-0">
-                  Registered Massage Therapist<br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-            
-          <!-- Item -->
-          <div class="cbp-item rmt">
             <a class="cbp-caption" href="profiles/desciree_iyog">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_iyog.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_iyog.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_iyog.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/desciree_iyog.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Desciree Iyog - Registered Massage Therapy">
             </a>
@@ -539,18 +523,6 @@
             </div>
           </div>
           <!-- End Item -->  
-            
-          <!-- Item -->
-          <div class="cbp-item rmt chiro acupuncture physio osteopath">
-            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/ida_leung.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/ida_leung.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/ida_leung.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/ida_leung.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Ida Leung - Nexus Massage and Rehab - Toronto">
-            <div class="py-3">
-              <h4 class="h6 text-dark mb-0">Ida Leung</h4>
-              <p class="small mb-0">
-                Office Manager Assistant<br><br>
-              </p>
-            </div>
-          </div>
-          <!-- End Item -->
             
           <!-- Item -->
           <div class="cbp-item rmt chiro acupuncture physio osteopath">
