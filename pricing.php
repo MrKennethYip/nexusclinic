@@ -170,7 +170,6 @@
                           <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$125</strong></li>
                           <li class="u-pricing-v2__list-item py-1">20 Min Follow-Up - <strong>$75</strong></li>
                           <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$100</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$130</strong></li>
                           <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
                           <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$125</strong></li>
                           <li class="u-pricing-v2__list-item py-1">20 Min Virtual Follow-Up - <strong>$75</strong></li>

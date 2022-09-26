@@ -1269,13 +1269,6 @@
                   "@type": "Service",
                   "name": "40 Min Follow Up"
                 }
-              },
-              {
-                "@type": "Offer",
-                "itemOffered": {
-                  "@type": "Service",
-                  "name": "60 Min Follow Up"
-                }
               }
             ]
           },
