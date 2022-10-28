@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Patrick Dungao (Physio) | Physiotherapist | Nexus Massage & Rehab at Yonge & Eglinton | (647) 557-6267</title>
+  <title>Matthew Dunning (RMT) | Nexus Massage & Rehab | (647) 557-6267</title>
 
-  <meta name="Description" content="Learn about the staff at Nexus Massage & Rehab. Patrick Dungao specializes in physiotherapy, rehabilitation & more at our Yonge & Eglinton clinic. Learn more!">
-  <meta name="keywords" content="Patrick, Dungao, Physiotherapy, rehabilitation, strength, fitness, disability, injuries, exercise, frozen shoulder, knee pain, shoulder pain. shin splints, training, carpal tunnel, tennis elbow, meniscus tear, rotator cuff, strain, sprain, exercises, rehab, physio, endurance, recover, recovery, strengthening, physiotherapist, the best physiotherapist, physio at yonge and eglinton, rehab exercises, physio at yonge and eglinton">
+  <meta name="Description" content="Learn about the team at Nexus Massage & Rehab. Matthew Dunning specializes in massage therapy & lower back pain at our Yonge & Eglinton clinic. Learn more!">
+  <meta name="keywords" content="Matthew Dunning, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension">
 
   <!-- Common Header -->
   <?php include('../includes/common-header.php') ?>
@@ -44,21 +44,21 @@
           <div class="animated bounceIn">
           <!-- Info -->
           <div class="mb-4">
-            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">PATRICK DUNGAO</h1>
+            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">MATTHEW DUNNING</h1>
           </div>
 
           <ul class="list-inline">
             <li class="list-inline-item">
-              <a class="u-text-light" href="mailto:patrick@nexushealthclinic.com">
+              <a class="u-text-light" href="mailto:matthew@nexushealthclinic.com">
                 <span class="far fa-envelope mr-2"></span>
-                patrick@nexushealthclinic.com
+                Matthew@nexushealthclinic.com
               </a>
             </li>
           </ul>
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg" alt="Patrick Dungao - Physiotherapist">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matthew_dunning.jpg" alt="Matthew Dunning - Profile">
           <!-- End Avatar -->
           </div>
         </div>
@@ -81,7 +81,9 @@
       </div>
 
     </div>
-    <!-- End Author Section -->    
+    <!-- End Author Section -->  
+
+
 
     <!-- Content Section -->
     <div class="u-bg-light-blue-50">
@@ -96,7 +98,7 @@
                   <a class="btn btn-block btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book/" target="_blank" onclick="handleClick('sidebarBtn');">Book Practitioner<span class="fa fa-angle-right ml-2"></span></a>
                   <br>
 
-                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:patrick@nexushealthclinic.com">
+                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:Matthew@nexushealthclinic.com">
                     <span class="far fa-envelope mr-2"></span>
                     Send a Message
                   </a>
@@ -114,33 +116,15 @@
 
                 <!-- User -->
                 <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/physio-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/massage-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                   <div>
-                    <a href="../service/physiotherapy">
-                      <span class="d-block text-dark small font-weight-bold">Physio Services</span>
+                    <a href="../service/massage">
+                      <span class="d-block text-dark small font-weight-bold">Registered Massage Therapy</span>
                     </a>
                   </div>
                 </div>
                 <!-- End User -->
-
-                <!-- User -->
-                <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/icons/telehealth-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
-                  <div>
-                    <span class="d-block text-dark small font-weight-bold">Virtual Telehealth</span>
-                  </div>
-                </div>
-                <!-- End User -->
-                  
-                <!-- User -->
-                  <div class="card-header border-0 py-3 d-flex align-items-center">
-                    <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/acupuncture-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
-                    <div>
-                      <span class="d-block text-dark small font-weight-bold">Acupuncture Provider</span>
-                    </div>
-                  </div>
-                <!-- End User -->
-                  
+                
               </div>
             </div>
             <!-- End Contacts  -->
@@ -156,11 +140,10 @@
                 <span class="d-flex align-items-start">
 
                   <div class="ml-2">
-                    <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>10am - 7pm</p>
-                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>10am - 7pm</p>
-                    <p class="text-dark"><strong>Thurs:</strong><span class="ml-3"></span>10am - 7pm</p>
-                    <p class="text-dark"><strong>Fri:</strong><span class="ml-3"></span>10am - 7pm</p>
-                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>9am - 5pm</p>
+                    <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>10am - 8pm</p>
+                    <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>2pm - 9pm</p>
+                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>8am - 2pm</p>
+                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>8am - 7pm</p>
                   </div>
                 </span>
                 <!-- End User -->
@@ -172,17 +155,16 @@
           </div>
 
           <div class="col-lg-9">
-            <!-- Title -->
-            <div class="mb-3">
+              <!-- Title -->
+              <div class="mb-3">
                 <h5 class="text-primary font-weight-bold">Tell us about yourself?</h5>
               </div>
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am an experienced physiotherapist who has focused my career on orthopaedics. In addition to my physiotherapy degree, I trained in the McKenzie Method of Mechanical Diagnosis and Treatment (MDT) allowing me to identify the root cause of your issue. I am also certified in Instrument Assisted Soft Tissue Mobilization (IASTM) and took post-graduate training on Kinetic Link Training and TMJ dysfunction management.</p>
-
-              <p>Outside of the clinic, you can find me rock climbing indoors or in my kitchen learning how to bake.</p>
-
+              <p>I am a Registered Massage Therapist who graduated from Sutherland-Chan School of Massage Therapy. My journey into the field of massage began while working in the restaurant industry. Endless hours on my feet sparked my passion for understanding how the body works; how to prevent pain, improve mobility, and increase the body’s longevity. As a new father, maintaining a healthy body has become even more important. I want the same for my clients. Whether it is relieving general aches and pains of daily living, or getting you back to the activities you enjoy post injury and/or surgery, my goal is to help you reach your goal.</p>
+              
+              <p>Outside of clinic, you will find me playing peek-a-boo, reading bedtime stories, and changing diapers (don’t worry, I washed my hands). In my spare time, I love playing my guitar, meditating, and enjoying the positive effects that walking in nature has on my mind and body.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -192,7 +174,9 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I enjoy meeting clients with different stories, backgrounds, and experiences. Whether you are an athlete with a sports-injury wanting to get back to your sport, or you are experiencing nagging pains from work that is making it difficult for you to do activities you love, I will work together with you to accomplish your personal goals.</p>
+              <p>Every case is a welcome opportunity to improve the health and well-being of my clients – whether it’s relieving a nagging neck pain or headache, reducing stress, or improving mobility. But regardless of your age or condition, you will always feel the influence of gravity on your entire body. Our posture affects our perception of pain and gives us feedback on how we need to move differently. In order to feel better, we need to pay attention to the whole body; and that’s what I do.</p>
+              
+              <p>I believe treatments are a collaborative endeavour, working with clients to get to the root cause of their concerns. My reward is seeing the joy on my clients’ faces when the plan we set out together brings them relief from pain and more freedom to carry on with their activities of daily living in a new and more biomechanically-friendly way.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -202,7 +186,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I will tailor your treatments to your individual needs and goals. I specialize in manual hands-on therapy to work on the muscles and joints of your spine and limbs. I am also passionate about empowering you with solutions to your roadblocks through education and exercise therapy so you can feel confident doing your daily activities.</p>
+              <p>Research and experience have shown me that when we have pain or discomfort in a given area, the cause may be originating or affecting other areas of the body. While techniques may vary based on my client’s needs and comfort level, the techniques I use typically address the body as a whole. These techniques include general Swedish and/or hot stone massage to help you relax; myofascial techniques to release tension and enable mobility; and, proprioceptive neuromuscular facilitation – a stretching technique to give you freedom in your movement you may not have thought possible.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -212,7 +196,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I take pride in collaborating with you to co-create your personalized plans of care that address your personal expectations and goals. I take a patient-centered approach to my practice, meaning that you and I are partners in your care that recognizes your needs, values, and preferences.</p>
+              <p>I take pride in delivering long-lasting, meaningful results for my clients. Together, we will understand the root cause of your aches and pains and develop the most effective treatment plan that works for your lifestyle.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -222,20 +206,25 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Often times many therapists focus on relieving your symptoms without identifying the cause of your issue. But research has shown that your shoulder or arm pain can be coming from your neck, and your hip or leg pain can originate from your lower back. By identifying and focusing on the cause of your issue, I am able to control your symptoms faster so that you can focus on getting back to doing what makes you happy.</p>
+              <p>Whether you are looking to relax, reduce pain, or improve your mobility, each session with me is dedicated to helping you reach your goal. At the end of your treatment plan, you will be left with the tools you need to maintain your results. Each session will use evidence-based techniques in a calming environment so you can back to your day feeling rejuvenated.</p>
               <!-- End Text -->
 
-            </div>
-
           </div>
+
+        </div>
 
       </div>
     </div>
     <!-- End Content Section -->
 
+    <!-- Social Section -->
     <div class="u-bg-light-blue-50 u-space-2-bottom">
       <div class="container">
-        <div class='embedsocial-reviews' data-ref="02d9545ea47c194aad2fc9b9f9447ed0b1d8f42a"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
+        <!-- Review Widget -->
+        
+        <div class="embedsocial-reviews" data-ref="05bfbf6e7085a4449bb06dab959df3d5d6a1e696"></div> <script> (function(d, s, id){ var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js); }(document, "script", "EmbedSocialReviewsScript")); </script>
+
+        <!-- End Review Widget -->
       </div>
     </div>
 
@@ -249,6 +238,6 @@
   <!-- Common Footer -->
   <?php include('../includes/common-footer.php') ?>
   <!-- End Common Footer -->
-  
+
 </body>
 </html>

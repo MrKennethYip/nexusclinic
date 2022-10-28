@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Patrick Dungao (Physio) | Physiotherapist | Nexus Massage & Rehab at Yonge & Eglinton | (647) 557-6267</title>
+  <title>Lindsay Kobus (Physio) | Physiotherapist | Nexus Massage & Rehab at Yonge & Eglinton | (647) 557-6267</title>
 
-  <meta name="Description" content="Learn about the staff at Nexus Massage & Rehab. Patrick Dungao specializes in physiotherapy, rehabilitation & more at our Yonge & Eglinton clinic. Learn more!">
-  <meta name="keywords" content="Patrick, Dungao, Physiotherapy, rehabilitation, strength, fitness, disability, injuries, exercise, frozen shoulder, knee pain, shoulder pain. shin splints, training, carpal tunnel, tennis elbow, meniscus tear, rotator cuff, strain, sprain, exercises, rehab, physio, endurance, recover, recovery, strengthening, physiotherapist, the best physiotherapist, physio at yonge and eglinton, rehab exercises, physio at yonge and eglinton">
+  <meta name="Description" content="Learn about the staff at Nexus Massage & Rehab. Lindsay Kobus specializes in physiotherapy, rehabilitation & more at our Yonge & Eglinton clinic. Learn more!">
+  <meta name="keywords" content="Lindsay, Kobus, Physiotherapy, rehabilitation, strength, fitness, disability, injuries, exercise, frozen shoulder, knee pain, shoulder pain. shin splints, training, carpal tunnel, tennis elbow, meniscus tear, rotator cuff, strain, sprain, exercises, rehab, physio, endurance, recover, recovery, strengthening, physiotherapist, the best physiotherapist, physio at yonge and eglinton, rehab exercises, physio at yonge and eglinton">
 
   <!-- Common Header -->
   <?php include('../includes/common-header.php') ?>
@@ -44,21 +44,21 @@
           <div class="animated bounceIn">
           <!-- Info -->
           <div class="mb-4">
-            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">PATRICK DUNGAO</h1>
+            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">LINDSAY KOBUS</h1>
           </div>
 
           <ul class="list-inline">
             <li class="list-inline-item">
-              <a class="u-text-light" href="mailto:patrick@nexushealthclinic.com">
+              <a class="u-text-light" href="mailto:Lindsay@nexushealthclinic.com">
                 <span class="far fa-envelope mr-2"></span>
-                patrick@nexushealthclinic.com
+                Lindsay@nexushealthclinic.com
               </a>
             </li>
           </ul>
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg" alt="Patrick Dungao - Physiotherapist">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/lindsay_kobus.jpg" alt="Lindsay Kobus - Physiotherapist">
           <!-- End Avatar -->
           </div>
         </div>
@@ -96,7 +96,7 @@
                   <a class="btn btn-block btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book/" target="_blank" onclick="handleClick('sidebarBtn');">Book Practitioner<span class="fa fa-angle-right ml-2"></span></a>
                   <br>
 
-                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:patrick@nexushealthclinic.com">
+                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:Lindsay@nexushealthclinic.com">
                     <span class="far fa-envelope mr-2"></span>
                     Send a Message
                   </a>
@@ -122,24 +122,6 @@
                   </div>
                 </div>
                 <!-- End User -->
-
-                <!-- User -->
-                <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/icons/telehealth-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
-                  <div>
-                    <span class="d-block text-dark small font-weight-bold">Virtual Telehealth</span>
-                  </div>
-                </div>
-                <!-- End User -->
-                  
-                <!-- User -->
-                  <div class="card-header border-0 py-3 d-flex align-items-center">
-                    <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/acupuncture-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
-                    <div>
-                      <span class="d-block text-dark small font-weight-bold">Acupuncture Provider</span>
-                    </div>
-                  </div>
-                <!-- End User -->
                   
               </div>
             </div>
@@ -156,11 +138,9 @@
                 <span class="d-flex align-items-start">
 
                   <div class="ml-2">
-                    <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>10am - 7pm</p>
-                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>10am - 7pm</p>
-                    <p class="text-dark"><strong>Thurs:</strong><span class="ml-3"></span>10am - 7pm</p>
-                    <p class="text-dark"><strong>Fri:</strong><span class="ml-3"></span>10am - 7pm</p>
-                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>9am - 5pm</p>
+                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>10:30am - 6pm</p>
+                    <p class="text-dark"><strong>Fri:</strong><span class="ml-3"></span>2pm - 9pm</p>
+                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>8am - 2pm</p>
                   </div>
                 </span>
                 <!-- End User -->
@@ -179,9 +159,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am an experienced physiotherapist who has focused my career on orthopaedics. In addition to my physiotherapy degree, I trained in the McKenzie Method of Mechanical Diagnosis and Treatment (MDT) allowing me to identify the root cause of your issue. I am also certified in Instrument Assisted Soft Tissue Mobilization (IASTM) and took post-graduate training on Kinetic Link Training and TMJ dysfunction management.</p>
-
-              <p>Outside of the clinic, you can find me rock climbing indoors or in my kitchen learning how to bake.</p>
+              <p>I am a senior physiotherapist with over 19 years of experience mostly focused on sports and orthopaedic conditions. Physiotherapy was a profession I knew I wanted at a very young age and it's all that I would hope it would be as a carrier. I have a passion for helping people and providing education, exercise and manual therapy to obtain maximal pain free function. Outside of work, I love anything active and social and have a love for cooking. My active 13 year old son keeps me young at heart!</p>
 
               <!-- End Text -->
 
@@ -192,7 +170,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I enjoy meeting clients with different stories, backgrounds, and experiences. Whether you are an athlete with a sports-injury wanting to get back to your sport, or you are experiencing nagging pains from work that is making it difficult for you to do activities you love, I will work together with you to accomplish your personal goals.</p>
+              <p>I love a challenge! Everyone one is unique so personalization of a physiotherapy program is of great importance to me. Common injuries, conditions, post operative rehabilitation and aches and pains are things I love to tackle. I truly believe that anyone who comes for treatment will come out more knowledgeable about their issues and will have a great outcome if we put the work in as a team. Helping people of all ages and backgrounds, especially kids, make my days go by quickly. I still love my work as much as I did when I graduated.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -202,7 +180,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I will tailor your treatments to your individual needs and goals. I specialize in manual hands-on therapy to work on the muscles and joints of your spine and limbs. I am also passionate about empowering you with solutions to your roadblocks through education and exercise therapy so you can feel confident doing your daily activities.</p>
+              <p>Personalized manual therapy, movement analysis, exercise prescription and education will all be part of your rehab program. Post graduate continuing education is a must for me. I am a certified acupuncture provider which is a very useful tool in many cases.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -212,7 +190,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I take pride in collaborating with you to co-create your personalized plans of care that address your personal expectations and goals. I take a patient-centered approach to my practice, meaning that you and I are partners in your care that recognizes your needs, values, and preferences.</p>
+              <p>What I love providing is preventative healthcare. Finding the root cause of conditions help focus in on a diagnosis and will help with the overall picture which is unique to each individual. I have so much pride in helping people even in the smallest way to make their day to day life and activities easier and pain free.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -222,7 +200,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Often times many therapists focus on relieving your symptoms without identifying the cause of your issue. But research has shown that your shoulder or arm pain can be coming from your neck, and your hip or leg pain can originate from your lower back. By identifying and focusing on the cause of your issue, I am able to control your symptoms faster so that you can focus on getting back to doing what makes you happy.</p>
+              <p>Firstly, I really care and it is evident in my work.  I'm an experienced therapist with a well of knowledge and I won’t give up until the patient gets to where they need to be as quickly as we can!</p>
               <!-- End Text -->
 
             </div>
@@ -235,7 +213,9 @@
 
     <div class="u-bg-light-blue-50 u-space-2-bottom">
       <div class="container">
-        <div class='embedsocial-reviews' data-ref="02d9545ea47c194aad2fc9b9f9447ed0b1d8f42a"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
+        
+        <div class="embedsocial-reviews" data-ref="f3999d2833a83a872b14b247636b4ffa2ae1d2b4"></div> <script> (function(d, s, id){ var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js); }(document, "script", "EmbedSocialReviewsScript")); </script>
+        
       </div>
     </div>
 

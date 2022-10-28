@@ -675,12 +675,28 @@
                   <h4 class="h6 text-dark mb-0">Patrick Dungao</h4>
                 </a>
                 <p class="small mb-0">
-                   I take pride in collaborating with you to co-create your personalized plans of care that address your personal expectations and goals. I take a patient-centered approach to my practice, meaning that you and I are partners in your care that recognizes your needs, values, and preferences.<br><br><br>
+                   I take pride in collaborating with you to co-create your personalized plans of care that address your personal expectations and goals. I take a patient-centered approach to my practice, meaning that you and I are partners in your care that recognizes your needs, values, and preferences.<br>
                 </p>
               </div>
           </div>
           <!-- End Item -->
-
+            
+          <!-- Item -->
+          <div class="cbp-item physio">
+            <a class="cbp-caption" href="../profiles/lindsay_kobus">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/lindsay_kobus.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/lindsay_kobus.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/lindsay_kobus.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/lindsay_kobus.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Lindsay Kobus - Physiotherapist">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/lindsay_kobus">
+                  <h4 class="h6 text-dark mb-0">Lindsay Kobus</h4>
+                </a>
+                <p class="small mb-0">
+                   I love a challenge!  Everyone one is unique so personalization of a physiotherapy program is of great importance to me.  I have so much pride in helping people even in the smallest way to make their day to day life and activities easier and pain free. I won’t give up until the patient gets to where they need to be as quickly as we can!<br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+              
           <!-- Item -->
             <div class="cbp-item physio">
               <a class="cbp-caption" href="../profiles/victoria_kwong">
@@ -691,7 +707,7 @@
                   <h4 class="h6 text-dark mb-0">Victoria Kwong</h4>
                 </a>
                 <p class="small mb-0">
-                   Your goals, are my goals too! I will help you determine the ‘bigger picture goal’ for your treatment, break down your overarching goal into measurable milestones and help you overcome obstacles. In this way, I enjoy going above and beyond to meet and exceed your expectations for physiotherapy.<br><br><br>
+                   Your goals, are my goals too! I will help you determine the ‘bigger picture goal’ for your treatment, break down your overarching goal into measurable milestones and help you overcome obstacles. In this way, I enjoy going above and beyond to meet and exceed your expectations for physiotherapy.<br>
                 </p>
               </div>
             </div>

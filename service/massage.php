@@ -646,22 +646,6 @@
             
           <!-- Item -->
           <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/desciree_iyog">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_iyog.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_iyog.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/desciree_iyog.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/desciree_iyog.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Desciree Iyog - Registered Massage Therapy">
-            </a>
-              <div class="py-3">
-                <a href="../profiles/desciree_iyog">
-                  <h4 class="h6 text-dark mb-0">Desciree Iyog</h4>
-                </a>
-                <p class="small mb-0">
-                  I am proud of becoming a part of the reason that someone will be able to function better in their everyday life. Creating an impact for the better to increase their quality of living. I am an approachable individual that will prioritize the well-being of my patients with goals that I curate for you to understand what is necessary to attain the required results.<br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-            
-          <!-- Item -->
-          <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/thomas_murphy">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/thomas_murphy.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/thomas_murphy.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/thomas_murphy.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/thomas_murphy.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Thomas Murphy - Registered Massage Therapy">
             </a>
@@ -670,7 +654,7 @@
                   <h4 class="h6 text-dark mb-0">Thomas Murphy</h4>
                 </a>
                 <p class="small mb-0">
-                  As a RMT, I work with patients to manage stress, pain, and injury, and provide the education and motivation to live life to the fullest. I am always in the process of learning and developing my practice to meet my patient’s needs. Each new patient I take on is a journey of discovery and exploration, and I am committed to helping patient’s achieve their goals.<br>
+                  As a RMT, I work with patients to manage stress, pain, and injury, and provide the education and motivation to live life to the fullest. I am always in the process of learning and developing my practice to meet my patient’s needs. Each new patient I take on is a journey of discovery and exploration, and I am committed to helping patient’s achieve their goals.<br><br><br>
                 </p>
               </div>
           </div>
@@ -686,23 +670,7 @@
                   <h4 class="h6 text-dark mb-0">Mozhgan Roshan Ravan</h4>
                 </a>
                 <p class="small mb-0">
-                  I am very sensitive to people's needs and will always adjust the treatments to best suit my patients. I welcome all feedback and have an open communication with my patients to ensure the treatment is right for them at all times. <br><br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-            
-          <!-- Item -->
-          <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/alessandro_ramones">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/alessandro_ramones.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/alessandro_ramones.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/alessandro_ramones.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/alessandro_ramones.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Alessandro Ramones - Registered Massage Therapy">
-            </a>
-              <div class="py-3">
-                <a href="../profiles/alessandro_ramones">
-                  <h4 class="h6 text-dark mb-0">Alessandro Ramones</h4>
-                </a>
-                <p class="small mb-0">
-                  I strive to balance efficiency and comfort when treating my clients. Comfortability and effectiveness of the treatments are my top priorities when treating my patients. I am proud of helping my clients decrease or relieve their aches and pains and increase their range of motion. I take pride in helping my clients improve or return to their daily activities.<br><br>
+                  I am very sensitive to people's needs and will always adjust the treatments to best suit my patients. I welcome all feedback and have an open communication with my patients to ensure the treatment is right for them at all times. <br><br><br><br>
                 </p>
               </div>
           </div>
@@ -799,6 +767,38 @@
                 </a>
                 <p class="small mb-0">
                   I am proud of being able to help clients reach their goal from the plan that we create. I enjoy getting to know my clients, having an understanding on what they are going through and being there every step of the way on their health journey. I am willing to do what it takes to help my clients reach their health goals.<br><br><br><br><br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/jinsong_li">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jinsong_li.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jinsong_li.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jinsong_li.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/jinsong_li.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Jinsong Li - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/jinsong_li">
+                  <h4 class="h6 text-dark mb-0">Jinsong Li</h4>
+                </a>
+                <p class="small mb-0">
+                  I believe that my background in Massage, Traditional Chinese Medicine, Geographic Spatial Analysis Technology, and Strong Communication Skills allows me to find the root cause from the client's work, lifestyle, and sleeping habit and treat them efficiently. With these approaches, I can treat the symptoms as well as address the root causes in a more holistic way. My home care prescribed for the client is also more direct and comprehensive.<br><br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+              
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/matthew_dunning">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matthew_dunning.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matthew_dunning.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matthew_dunning.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/matthew_dunning.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Matthew Dunning - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/matthew_dunning">
+                  <h4 class="h6 text-dark mb-0">Matthew Dunning</h4>
+                </a>
+                <p class="small mb-0">
+                  Whether you are looking to relax, reduce pain, or improve your mobility, each session with me is dedicated to helping you reach your goal. At the end of your treatment plan, you will be left with the tools you need to maintain your results. Each session will use evidence-based techniques in a calming environment so you can back to your day feeling rejuvenated.<br><br><br><br>
                 </p>
               </div>
           </div>
