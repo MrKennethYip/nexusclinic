@@ -141,7 +141,6 @@
 
                   <div class="ml-2">
                     <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>8am - 9pm</p>
-                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>8am - 6pm</p>
                   </div>
                 </span>
                 <!-- End User -->

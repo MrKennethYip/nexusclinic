@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Irnes Barak | Osteopath | Nexus Massage</title>
+  <title>Lindsay Kobus (Physio) | Physiotherapist | Nexus Massage & Rehab at Yonge & Eglinton | (647) 557-6267</title>
 
-  <meta name="Description" content="Meet our team! Irnes Barak is an Osteopath at our Yonge & Eglinton clinic.">
-  <meta name="keywords" content="Irnes Barak, Irnes, Barak, Osteopath, Osteopathic, Osteopathy">
+  <meta name="Description" content="Learn about the staff at Nexus Massage & Rehab. Lindsay Kobus specializes in physiotherapy, rehabilitation & more at our Yonge & Eglinton clinic. Learn more!">
+  <meta name="keywords" content="Lindsay, Hill, Physiotherapy, rehabilitation, strength, fitness, disability, injuries, exercise, frozen shoulder, knee pain, shoulder pain. shin splints, training, carpal tunnel, tennis elbow, meniscus tear, rotator cuff, strain, sprain, exercises, rehab, physio, endurance, recover, recovery, strengthening, physiotherapist, the best physiotherapist, physio at yonge and eglinton, rehab exercises, physio at yonge and eglinton">
 
   <!-- Common Header -->
   <?php include('../includes/common-header.php') ?>
@@ -44,21 +44,21 @@
           <div class="animated bounceIn">
           <!-- Info -->
           <div class="mb-4">
-            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">IRNES BARAK</h1>
+            <h1 class="display-4 font-size-48--md-down text-white font-weight-bold">LINDSAY HILL</h1>
           </div>
 
           <ul class="list-inline">
             <li class="list-inline-item">
-              <a class="u-text-light" href="mailto:irnes@nexushealthclinic.com">
+              <a class="u-text-light" href="mailto:Lindsay@nexushealthclinic.com">
                 <span class="far fa-envelope mr-2"></span>
-                irnes@nexushealthclinic.com
+                Lindsay@nexushealthclinic.com
               </a>
             </li>
           </ul>
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/irnes_barak.jpg" alt="Irnes Barak - Osteopath">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/lindsay_hill.jpg" alt="Lindsay Hill - Physiotherapist">
           <!-- End Avatar -->
           </div>
         </div>
@@ -81,7 +81,7 @@
       </div>
 
     </div>
-    <!-- End Author Section -->  
+    <!-- End Author Section -->    
 
     <!-- Content Section -->
     <div class="u-bg-light-blue-50">
@@ -96,7 +96,7 @@
                   <a class="btn btn-block btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book/" target="_blank" onclick="handleClick('sidebarBtn');">Book Practitioner<span class="fa fa-angle-right ml-2"></span></a>
                   <br>
 
-                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:irnes@nexushealthclinic.com">
+                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:Lindsay@nexushealthclinic.com">
                     <span class="far fa-envelope mr-2"></span>
                     Send a Message
                   </a>
@@ -114,22 +114,24 @@
 
                 <!-- User -->
                 <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/osteopath-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/physio-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                   <div>
-                    <span class="d-block text-dark small font-weight-bold">Registered Manual Osteopath</span>
+                    <a href="../service/physiotherapy">
+                      <span class="d-block text-dark small font-weight-bold">Physio Services</span>
+                    </a>
                   </div>
                 </div>
                 <!-- End User -->
-
+                  
                 <!-- User -->
-                <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/icons/telehealth-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
-                  <div>
-                    <span class="d-block text-dark small font-weight-bold">Virtual Telehealth</span>
+                  <div class="card-header border-0 py-3 d-flex align-items-center">
+                    <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/acupuncture-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                    <div>
+                      <span class="d-block text-dark small font-weight-bold">Acupuncture Provider</span>
+                    </div>
                   </div>
-                </div>
                 <!-- End User -->
-                
+                  
               </div>
             </div>
             <!-- End Contacts  -->
@@ -145,9 +147,10 @@
                 <span class="d-flex align-items-start">
 
                   <div class="ml-2">
-                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>10am - 8pm</p>
-                    <p class="text-dark"><strong>Fri:</strong><span class="ml-3"></span>10am - 8pm</p>
-                    
+                    <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>12pm - 6pm</p>
+                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>10:30am - 6pm</p>
+                    <p class="text-dark"><strong>Fri:</strong><span class="ml-3"></span>2pm - 9pm</p>
+                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>8am - 2pm</p>
                   </div>
                 </span>
                 <!-- End User -->
@@ -159,16 +162,15 @@
           </div>
 
           <div class="col-lg-9">
-              <!-- Title -->
-              <div class="mb-3">
+            <!-- Title -->
+            <div class="mb-3">
                 <h5 class="text-primary font-weight-bold">Tell us about yourself?</h5>
               </div>
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I have a passion for helping people and have been working in the health industry for over 15 years. I was a physical therapist for the local soccer club in Bosnia and Herzegovina and have been with various other clinics to expand my expertise. One of my greatest opportunities I had was to work as a massage therapist on a private yacht and travel the world for six years. We circumnavigated the globe multiple times and stepped on all seven continents, from the Artic to Antarctica, desert to jungle, The Great Pyramids to The Great Wall of China. As I was traveling and working overseas I spent my spare time enhancing my skills and knowledge so I can better help people. I enjoy sharing this knowledge and empowering people about their health.</p>
+              <p>I am a senior physiotherapist with over 19 years of experience mostly focused on sports and orthopaedic conditions. Physiotherapy was a profession I knew I wanted at a very young age and it's all that I would hope it would be as a carrier. I have a passion for helping people and providing education, exercise and manual therapy to obtain maximal pain free function. Outside of work, I love anything active and social and have a love for cooking. My active 13 year old son keeps me young at heart!</p>
 
-              <p>In my free time you will find me at the gym. I also love taking my dog for long walks and experiencing different food cultures in the city.</p> 
               <!-- End Text -->
 
               <!-- Title -->
@@ -178,7 +180,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>Some cases that I enjoy are TMJ dysfunctions, headaches, visceral mobility, and musculoskeletal problems such as chronic, or old injuries that may still affect your daily function. Being able to see a difference both immediately and long term makes me feel very fulfilled as a practitioner.</p>
+              <p>I love a challenge! Everyone one is unique so personalization of a physiotherapy program is of great importance to me. Common injuries, conditions, post operative rehabilitation and aches and pains are things I love to tackle. I truly believe that anyone who comes for treatment will come out more knowledgeable about their issues and will have a great outcome if we put the work in as a team. Helping people of all ages and backgrounds, especially kids, make my days go by quickly. I still love my work as much as I did when I graduated.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -188,7 +190,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I specialize in Positional Release, Cranial Osteopathy, Visceral Manipulation, and Muscle Energy Technique. I look at the body as a whole functioning unit, working together, and not a collection of various moving parts.</p>
+              <p>Personalized manual therapy, movement analysis, exercise prescription and education will all be part of your rehab program. Post graduate continuing education is a must for me. I am a certified acupuncture provider which is a very useful tool in many cases.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -198,7 +200,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I pride myself in thoroughly assessing the body as a whole and creating a customized treatment plan for each individual. My treatments are focussed on finding the root cause of the problem and not only dealing with just the symptoms, but to create a long lasting effect. My patients put their trust in me to treat their most valuable asset, their bodies, and bring them to good health.</p>
+              <p>What I love providing is preventative healthcare. Finding the root cause of conditions help focus in on a diagnosis and will help with the overall picture which is unique to each individual. I have so much pride in helping people even in the smallest way to make their day to day life and activities easier and pain free.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -208,25 +210,22 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I put 110% into every treatment and every individual I see. My continued education provides me the knowledge and understanding to deal with all types of conditions. I am confident that I can help you achieve your goals.</p>
+              <p>Firstly, I really care and it is evident in my work.  I'm an experienced therapist with a well of knowledge and I won’t give up until the patient gets to where they need to be as quickly as we can!</p>
               <!-- End Text -->
 
-          </div>
+            </div>
 
-        </div>
+          </div>
 
       </div>
     </div>
     <!-- End Content Section -->
 
-    <!-- Social Section -->
     <div class="u-bg-light-blue-50 u-space-2-bottom">
       <div class="container">
-        <!-- Review Widget -->
-        <div class='embedsocial-reviews' data-ref="e2897b9bb8b07ad2ea5c05685e82b98e3109adde"></div>
-
-        <script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialReviewsScript"));</script>
-        <!-- End Review Widget -->
+        
+        <div class="embedsocial-reviews" data-ref="f3999d2833a83a872b14b247636b4ffa2ae1d2b4"></div> <script> (function(d, s, id){ var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js); }(document, "script", "EmbedSocialReviewsScript")); </script>
+        
       </div>
     </div>
 
@@ -240,6 +239,6 @@
   <!-- Common Footer -->
   <?php include('../includes/common-footer.php') ?>
   <!-- End Common Footer -->
-
+  
 </body>
 </html>
