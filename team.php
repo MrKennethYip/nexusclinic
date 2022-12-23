@@ -192,7 +192,7 @@
                   <h4 class="h6 text-dark mb-0">Kyle Ngo</h4>
                 </a>
                 <p class="small mb-0">
-                  Registered Massage Therapist<br><br>
+                  Registered Massage Therapist, Acupuncture Provider
                 </p>
               </div>
           </div>
@@ -224,7 +224,7 @@
                   <h4 class="h6 text-dark mb-0">Patrick Dungao</h4>
                 </a>
                 <p class="small mb-0">
-                  Physiotherapist<br><br>
+                  Physiotherapist, Acupuncture Provider
                 </p>
               </div>
           </div>
@@ -240,7 +240,7 @@
                   <h4 class="h6 text-dark mb-0">Kenneth Huang</h4>
                 </a>
                 <p class="small mb-0">
-                  Registered Massage Therapist<br><br>
+                  Registered Massage Therapist, Acupuncture Provider
                 </p>
               </div>
           </div>
