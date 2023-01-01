@@ -227,7 +227,7 @@
                   <a href="service/chiropractic"><p class="mb-md-0 text-white">Chiropractic</p></a>
                   <a href="service/physiotherapy"><p class="mb-md-0 text-white">Physiotherapy</p></a>
                   <p class="mb-md-0 text-white">Acupuncture</p>
-                  <p class="mb-md-0 text-white">Osteopathy</p>
+                  <!-- <p class="mb-md-0 text-white">Osteopathy</p> -->
                   <a href="service/orthotics"><p class="mb-md-0 text-white">Custom Orthotics</p></a>
                 </div>
               </div>
@@ -947,13 +947,7 @@
             <button type="button" class="close" data-dismiss="modal">&times;</button>
           </div>
           <div class="modal-body text-center">
-                <p>Our clinic is currently closed until further notice due to the unprecedented events of COVID-19. At this time, we will be offering <strong>Virtual Telehealth Appointments</strong> for Chiropractic, Physiotherapist, and Osteopathic patients. In addition, we are also offering <strong>Free Virtual Acupuncture Consultations</strong> for all new and existing patients.</p>
-
-                <p>These sessions can support you to continue your health journey in the comfort of your home and help decrease stress during the current situation. Unfortunately we are unable to offer massage services at this time. We will keep you posted on all updates and changes on our website.</p> 
-
-                <p>We hope you all stay safe and healthy and we look forward to seeing you at the clinic when we reopen.</p>
-
-                <p>Sincerely,<br> Team Nexus</p>
+                <p>MODAL MESSAGE - PLACEHOLDER</p>
           </div>
           <div class="text-center u-space-1-bottom">
               <a class="btn btn-primary u-btn-primary u-btn-wide transition-3d-hover" href="service/telehealth">Learn More<span class="fa fa-angle-right font-size-13 ml-2"></span></a>
