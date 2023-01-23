@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Lindsay Kobus (Physio) | Physiotherapist | Nexus Massage & Rehab at Yonge & Eglinton | (647) 557-6267</title>
+  <title>Lindsay Kobus (Physio) | Physiotherapist | Acupuncture provider | Nexus Massage & Rehab at Yonge & Eglinton | (647) 557-6267</title>
 
   <meta name="Description" content="Learn about the staff at Nexus Massage & Rehab. Lindsay Kobus specializes in physiotherapy, rehabilitation & more at our Yonge & Eglinton clinic. Learn more!">
   <meta name="keywords" content="Lindsay, Hill, Physiotherapy, rehabilitation, strength, fitness, disability, injuries, exercise, frozen shoulder, knee pain, shoulder pain. shin splints, training, carpal tunnel, tennis elbow, meniscus tear, rotator cuff, strain, sprain, exercises, rehab, physio, endurance, recover, recovery, strengthening, physiotherapist, the best physiotherapist, physio at yonge and eglinton, rehab exercises, physio at yonge and eglinton">
@@ -147,7 +147,8 @@
                 <span class="d-flex align-items-start">
 
                   <div class="ml-2">
-                    <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>12pm - 6pm</p>
+                    <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>10am - 6pm</p>
+                    <p class="text-dark"><strong>Tue:</strong><span class="ml-3"></span>11am - 3pm</p>
                     <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>10:30am - 6pm</p>
                     <p class="text-dark"><strong>Fri:</strong><span class="ml-3"></span>2pm - 9pm</p>
                     <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>8am - 2pm</p>
