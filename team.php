@@ -437,6 +437,38 @@
               </div>
           </div>
           <!-- End Item -->
+          
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="profiles/rob_hunter">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/rob_hunter.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/rob_hunter.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/rob_hunter.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/rob_hunter.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Rob Hunter - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="profiles/rob_hunter">
+                  <h4 class="h6 text-dark mb-0">Rob Hunter</h4>
+                </a>
+                <p class="small mb-0">
+                  Registered Massage Therapist<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="profiles/gopinath_durairaj">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gopinath_durairaj.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gopinath_durairaj.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gopinath_durairaj.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/gopinath_durairaj.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Gopinath Durairaj - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="profiles/gopinath_durairaj">
+                  <h4 class="h6 text-dark mb-0">Gopinath Durairaj</h4>
+                </a>
+                <p class="small mb-0">
+                  Registered Massage Therapist<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
               
           <!-- Item -->
           <div class="cbp-item physio">
@@ -519,18 +551,6 @@
             </div>
           </div>
           <!-- End Item -->
-            
-          <!-- Item -->
-            <div class="cbp-item rmt chiro acupuncture physio osteopath">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/jessica_mceachern.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/jessica_mceachern.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/jessica_mceachern.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/jessica_mceachern.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Jessica Mceachern - Nexus Massage and Rehab - Toronto">
-              <div class="py-3">
-                <h4 class="h6 text-dark mb-0">Jessica Mceachern</h4>
-                <p class="small mb-0">
-                  Clinic Administrator<br><br>
-                </p>
-              </div>
-            </div>
-            <!-- End Item -->
               
           <!-- Item -->
           <div class="cbp-item rmt chiro acupuncture physio osteopath">
@@ -543,12 +563,12 @@
             </div>
           </div>
           <!-- End Item -->
-              
+            
           <!-- Item -->
           <div class="cbp-item rmt chiro acupuncture physio osteopath">
-            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/rob_hunter.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/rob_hunter.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/rob_hunter.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/rob_hunter.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Rob Hunter - Nexus Massage and Rehab - Toronto">
+            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/aima_warriach.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/aima_warriach.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/aima_warriach.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/aima_warriach.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px"  alt="Aima Warriach - Nexus Massage and Rehab - Toronto">
             <div class="py-3">
-              <h4 class="h6 text-dark mb-0">Rob Hunter</h4>
+              <h4 class="h6 text-dark mb-0">Aima Warriach</h4>
               <p class="small mb-0">
                 Clinic Administrator<br><br>
               </p>
