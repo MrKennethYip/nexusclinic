@@ -149,8 +149,10 @@
               <h2 class="text-primary"> 
                 <span class="font-weight-bold">Assessment</span>
               </h2>
-              <p>Your massage appointment at Nexus Clinic starts with an assessment with your RMT so that your RMT best understands your condition or any changes to your condition in order to provide you an effective treatment.</p>
-              <p>Assessments allow your practitioner to create a tailored treatment plan based on your needs and goals. An assessment may consist of a verbal consultation, or a series of orthopedic or range of motion tests to better understand your condition and monitor any improvements.</p>
+              <p>When you book a massage appointment at Nexus Massage and Rehab, you'll begin with an assessment conducted by a registered massage therapist (RMT). The assessment is designed to help your RMT better understand your condition or any changes to your condition, allowing for a more effective and tailored treatment plan.</p>
+              <p>During the assessment, your RMT may conduct a verbal consultation to gather information about your medical history, any current symptoms or concerns, and your goals for the massage therapy session.</p>
+              <p>Additionally, your RMT may perform a series of orthopaedic or range of motion tests to evaluate your current condition and monitor any improvements over time.</p>
+              <p>Overall, the assessment helps your RMT create a personalized treatment plan that addresses your specific needs and goals, helping you get the most out of your massage therapy sessions at Nexus Massage and Rehab.</p>
             </div>
           </div>
 
