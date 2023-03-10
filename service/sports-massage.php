@@ -317,9 +317,14 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$110 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$75 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$90 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$110</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$75 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$90 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -329,7 +334,7 @@
                   <HR>
 
                   <div class="media-body p-3 text-center">
-                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book RMT Massage<span class="fa fa-angle-right ml-2"></span></button></a>
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Sports Massage Therapy<span class="fa fa-angle-right ml-2"></span></button></a>
                   </div>
 
                 </div>
