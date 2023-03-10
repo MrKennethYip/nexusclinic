@@ -62,7 +62,7 @@
                     </div>
                     <div class="media-body">
                       <h3 class="h5 text-dark"><strong>Improved Cleaning & Sanitization</strong></h3>
-                      <p class="text-dark">We are introducing a new standard of sanitization and cleaning high traffic areas! All common areas will be disinfected every two hours, and all treatment rooms will be thoroughly disinfected after each patient.</p>
+                      <p class="text-dark">We are introducing a new standard of sanitization and cleaning high traffic areas! All treatment rooms will be thoroughly disinfected after each patient.</p>
                     </div>
                   </div>
 
@@ -86,7 +86,7 @@
                     </div>
                     <div class="media-body">
                       <h3 class="h5 text-dark"><strong>Practitioner Health Protocols</strong></h3>
-                      <p class="text-dark">To ensure your visit to Nexus is safe, all our practitioners will do a self-assessment test and a temperature check prior to their shift. They will don on surgical masks and participate in hand washing hygeine to prevent the spread of any diseases.</p>
+                      <p class="text-dark">To ensure your visit to Nexus is safe, all our practitioners will don on surgical masks and participate in hand washing hygeine to prevent the spread of any diseases.</p>
                     </div>
                   </div>
 
@@ -173,126 +173,19 @@
     </div>
 
     <div style="border-bottom: 1px solid #898A8D">
-    <!-- Before Your Visit Section -->
+    <!-- About Your Visit Section -->
     <div class="container u-space-1">
       <div class="w-lg-80 text-center mx-auto u-space-1">
-        <h2 class="text-dark font-weight-normal"><span class="font-weight-bold"><u>Before</u> your Visit!</span></h2>
+        <h2 class="text-dark font-weight-normal"><span class="font-weight-bold">About your Visit!</span></h2>
       </div>
 
       <div class="row u-space-1-top">
-        <div class="col-sm-6 col-lg-4 mb-7 mb-sm-9">
-          <!-- Icon Block -->
-          <div class="pr-lg-4">
-            <span class="fa fa-envelope font-size-48 text-primary mb-4"></span><h5 class="text-dark font-weight-normal"><span class="font-weight-bold">Pre-Screening Email</span></h5>
-            <p>You will receive an email with a link to an online pre-screening questionnaire one day prior to your appointment. This is a mandatory questionnaire that will determine your eligibility for an in-person treatment. </p>
-          </div>
-          <!-- End Icon Block -->
-        </div>
-
-        <div class="col-sm-6 col-lg-4 mb-7 mb-sm-9">
-          <!-- Icon Block -->
-          <div class="pr-lg-4">
-            <span class="fa fa-theater-masks font-size-48 text-primary mb-4"></span><h5 class="text-dark font-weight-normal"><span class="font-weight-bold">Wearing Masks</span></h5>
-            <p>Everyone MUST wear a face mask at all times in the clinic.</p>
-          </div>
-          <!-- End Icon Block -->
-        </div>
 
         <div class="col-sm-6 col-lg-4 mb-7 mb-sm-9">
           <!-- Icon Block -->
           <div class="pr-lg-4">
             <span class="fa fa-home font-size-48 text-primary mb-4"></span><h5 class="text-dark font-weight-normal"><span class="font-weight-bold">Stay Home if Feeling Unwell</span></h5>
             <p>If you are feeling unwell or showing symptoms of COVID-19, please stay home and call the clinic to change your appointment to Telehealth or to reschedule after 10 days when you are feeling better.</p>
-          </div>
-          <!-- End Icon Block -->
-        </div>
-
-      </div>
-
-    </div>
-    <!-- Before Your Visit Section -->
-    </div>
-
-    <div style="background-color:#E7E8E8; border-bottom: 1px solid #898A8D">
-    <!-- When you Arrive Section -->
-    <div class="container u-space-1">
-      <div class="w-lg-80 text-center mx-auto u-space-1">
-        <h2 class="text-dark font-weight-normal"><span class="font-weight-bold">When you <u>Arrive</u> at the Clinic!</span></h2>
-      </div>
-
-      <div class="row u-space-1-top">
-        <div class="col-sm-6 col-lg-4 mb-7 mb-sm-9">
-          <!-- Icon Block -->
-          <div class="pr-lg-4">
-            <span class="fa fa-clock font-size-48 text-primary mb-4"></span><h5 class="text-dark font-weight-normal"><span class="font-weight-bold">Time of Arrival</span></h5>
-            <p>Arrive a few minutes before your appointment time to complete a pre-screening check and hygiene protocol.</p>
-          </div>
-          <!-- End Icon Block -->
-        </div>
-
-        <div class="col-sm-6 col-lg-4 mb-7 mb-sm-9">
-          <!-- Icon Block -->
-          <div class="pr-lg-4">
-            <span class="fa fa-question font-size-48 text-primary mb-4"></span><h5 class="text-dark font-weight-normal"><span class="font-weight-bold">Pre-Screening Questions</span></h5>
-            <p>All patients will answer the pre-screening COVID-19 questionnaire verbally the day of their appointment. The questions are posted on our plexiglass dividers when you walk in.</p>
-          </div>
-          <!-- End Icon Block -->
-        </div>
-
-        <div class="col-sm-6 col-lg-4 mb-7 mb-sm-9">
-          <!-- Icon Block -->
-          <div class="pr-lg-4">
-            <span class="fa fa-thermometer-half font-size-48 text-primary mb-4"></span><h5 class="text-dark font-weight-normal"><span class="font-weight-bold">Temperature Check</span></h5>
-            <p>All patients must have their temperature taken to make sure they have a normal reading prior to their treatment. Temperatures of 35-37.2 degrees are normal, while temperatures of 38 degrees or higher indicate a fever, and will be asked to switch to a Telehealth appointment or rebooked for another day.</p>
-          </div>
-          <!-- End Icon Block -->
-        </div>
-
-        <div class="col-sm-6 col-lg-4 mb-7 mb-sm-9">
-          <!-- Icon Block -->
-          <div class="pr-lg-4">
-            <span class="fa fa-hands font-size-48 text-primary mb-4"></span><h5 class="text-dark font-weight-normal"><span class="font-weight-bold">Hand Washing</span></h5>
-            <p>Prior to starting the treatment, all patients will be asked to wash their hands with soap and water at the wash stations in the clinic.</p>
-          </div>
-          <!-- End Icon Block -->
-        </div>
-
-        <div class="col-sm-6 col-lg-4 mb-7 mb-sm-9">
-          <!-- Icon Block -->
-          <div class="pr-lg-4">
-            <span class="fa fa-divide font-size-48 text-primary mb-4"></span><h5 class="text-dark font-weight-normal"><span class="font-weight-bold">Plexiglass Divider</span></h5>
-            <p>We have installed Plexiglass shields by our Reception Desk area to protect you as well as our staff. Any important notices will also be posted here for patients to read.</p>
-          </div>
-          <!-- End Icon Block -->
-        </div>
-
-        <div class="col-sm-6 col-lg-4 mb-7 mb-sm-9">
-          <!-- Icon Block -->
-          <div class="pr-lg-4">
-            <span class="fa fa-user-shield font-size-48 text-primary mb-4"></span><h5 class="text-dark font-weight-normal"><span class="font-weight-bold">Practice Social Distancing</span></h5>
-            <p>Our reception area has been organized so that patients can keep the minimum 2 metre distance between other people. Please be contentious of other people in the reception area or in the hallways.</p>
-          </div>
-          <!-- End Icon Block -->
-        </div>
-      </div>
-
-    </div>
-    <!-- When you Arrive Section -->
-    </div>
-
-    <div style="border-bottom: 1px solid #898A8D">
-    <!-- After your Treatment Section -->
-    <div class="container u-space-1">
-      <div class="w-lg-80 text-center mx-auto u-space-1">
-        <h2 class="text-dark font-weight-normal"><span class="font-weight-bold"><u>After</u> your Treatment!</span></h2>
-      </div>
-
-      <div class="row u-space-1-top">
-        <div class="col-sm-6 col-lg-4 mb-7 mb-sm-9">
-          <!-- Icon Block -->
-          <div class="pr-lg-4">
-            <span class="fa fa-users font-size-48 text-primary mb-4"></span><h5 class="text-dark font-weight-normal"><span class="font-weight-bold">Checking Out</span></h5>
-            <p>There should only be one person at the reception checking out at a time. Please practice social distancing while you are waiting to be checked out.</p>
           </div>
           <!-- End Icon Block -->
         </div>
@@ -314,11 +207,11 @@
           </div>
           <!-- End Icon Block -->
         </div>
-        
+
       </div>
 
     </div>
-    <!-- After your Treatment Section -->
+    <!-- Before Your Visit Section -->
     </div>
 
     <!-- Telehealth FAQ Section -->

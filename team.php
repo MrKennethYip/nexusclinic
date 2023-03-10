@@ -272,7 +272,7 @@
                   <h4 class="h6 text-dark mb-0">Dr. David Tam</h4>
                 </a>
                 <p class="small mb-0">
-                  Chiropractor, Acupuncture Provider<br><br>
+                  Chiropractor, Registered Massage Therapist, Acupuncture Provider
                 </p>
               </div>
           </div>

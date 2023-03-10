@@ -185,30 +185,6 @@
     </div>
     <!-- End Red Promo Banner -->
 
-    <!-- How did Nexus Massage & Rehab Start -->
-    <div class="position-relative" style="border: 1px solid #898A8D">
-      <div class="container u-space-1">
-        <div class="w-md-80 w-lg-50 text-center mx-auto">
-
-          <div class="mb-4">
-            <h2 class="text-primary">
-              <strong class="font-weight-bold">COVID-19 UPDATE</strong>
-            </h2>
-            <h5>
-              <p>July 25, 2022</p>
-            </h5>
-          </div>
-        </div>
-
-        <p class="text-dark">At this time, to ensure the safety of everyone, all patients and staffs will continue to wear face masks in the clinic until further notice. We work in close proximity to treat patients and wearing masks will limit the spread of COVID.</p>
-        
-        <p class="text-dark">Thank you for your cooperation and understanding.</p>
-        
-        <p class="text-dark">Sincerely, Team Nexus</p>
-      </div>
-    </div>
-    <!-- End How did Nexus Massage & Rehab Start -->
-
     <!-- Steps Section -->
     <div class="container u-space-1-top">
       <!-- Conditions Section -->
