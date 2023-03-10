@@ -181,7 +181,10 @@
               <h2 class="text-primary"> 
                 <span class="font-weight-bold">Prevention/Pre-Game Massage</span>
               </h2>
-              <p>This is typically performed onsite at the sporting event and right before competition or performance. The aim of this type of massage is to prime the muscles specific to the sport and improve their function. It helps to reduce the risk of injury, increase flexibility, and improve overall performance. This type of massage is not offered in clinics and is usually only available to athletes on-site.</p><br>
+              <p>This is typically performed onsite at the sporting event and right before competition or performance. The aim of this type of massage is to prime the muscles specific to the sport and improve their function. It helps to reduce the risk of injury, increase flexibility, and improve overall performance. This type of massage is not offered in clinics and is usually only available to athletes on-site.</p>
+              <br>
+              <br>
+              <br>
             </div>
           </div>
 
@@ -219,7 +222,10 @@
               <h2 class="text-primary"> 
                 <span class="font-weight-bold">Relaxation/Flush down Massage</span>
               </h2>
-              <p>This is usually performed 3-4 days before competition or performance. The goal of this massage is to flush out lactic acid, promote blood flow, and calm the mind. This type of massage is beneficial for reducing muscle tension and anxiety, and preparing the body for competition.</p><br>
+              <p>This is usually performed 3-4 days before competition or performance. The goal of this massage is to flush out lactic acid, promote blood flow, and calm the mind. This type of massage is beneficial for reducing muscle tension and anxiety, and preparing the body for competition.</p>
+              <br>
+              <br>
+              <br>
             </div>
           </div>
 
@@ -258,6 +264,9 @@
                 <span class="font-weight-bold">Recovery Massage</span>
               </h2>
               <p>This is performed between training or sporting events. The focus is on decreasing muscle tension and pain, maintaining mobility, and enhancing recovery. This type of massage helps to reduce muscle soreness, prevent injuries, and improve overall performance.</p><br>
+              <br>
+              <br>
+              <br>
             </div>
           </div>
 
