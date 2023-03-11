@@ -800,7 +800,7 @@
                   <h4 class="h6 text-dark mb-0">Rob Hunter</h4>
                 </a>
                 <p class="small mb-0">
-                  I'll make sure to provide professional service during the treatment and provide any necessary self-care work to get you back to moving your best. I'll make sure your goal for the treatment is met and you leave the clinic feeling better than when you entered!<br><br><br><br><br><br>
+                  I'll make sure to provide professional service during the treatment and provide any necessary self-care work to get you back to moving your best. I'll make sure your goal for the treatment is met and you leave the clinic feeling better than when you entered!<br><br><br><br><br><br><br>
                 </p>
               </div>
           </div>
