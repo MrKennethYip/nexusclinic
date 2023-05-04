@@ -689,7 +689,7 @@
                   <h4 class="h6 text-dark mb-0">Dr. Frank Xue</h4>
                 </a>
                 <p class="small mb-0">
-                  I find it rewarding when patients walk out feeling better after being in my treatment session and feel confident they can get back to doing what they love. Care with me will always be 1 on 1 and dedicated to you.
+                  I find it rewarding when patients walk out feeling better after being in my treatment session and feel confident they can get back to doing what they love. Care with me will always be 1 on 1 and dedicated to you.<br><br><br><br><br><br>
                 </p>
               </div>
           </div>

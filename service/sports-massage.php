@@ -540,22 +540,6 @@
           </div>
           <!-- End Item -->
 
-        <!-- Item -->
-          <div class="cbp-item chiro">
-            <a class="cbp-caption" href="../profiles/david_tam">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/david_tam.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/david_tam.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/david_tam.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/david_tam.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. David Tam - Chiropractor">
-            </a>
-              <div class="py-3">
-                <a href="../profiles/david_tam">
-                  <h4 class="h6 text-dark mb-0">Dr. David Tam</h4>
-                </a>
-                <p class="small mb-0">
-                  I have worked with athletes, office workers, children, the elderly, and individuals from all walks of life with different musculoskeletal concerns. I focus on the assessment and treats every condition that walks into my office with a high degree of care. I take pride in being able to create a safe and open environment for my patients.<br><br><br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
         </div>
         <!-- End Content -->
       </div>       
