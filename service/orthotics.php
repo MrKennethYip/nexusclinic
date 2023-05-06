@@ -457,6 +457,22 @@
               </div>
           </div>
           <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item chiro">
+            <a class="cbp-caption" href="../profiles/catherine_chu">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/catherine_chu.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/catherine_chu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/catherine_chu.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/catherine_chu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Catherine Chu - Chiropractor, Registered Massage Therapist">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/catherine_chu">
+                  <h4 class="h6 text-dark mb-0">Dr. Catherine Chu</h4>
+                </a>
+                <p class="small mb-0">
+                  I know that the road to optimal health can be challenging, but I am committed to supporting you  every step of the way. Whether you're looking to alleviate pain, improve your mobility, or simply live a healthier life, I am here to help you achieve your goals.
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
 
           <!-- Item -->
           <div class="cbp-item chiro">
