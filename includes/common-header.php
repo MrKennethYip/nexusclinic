@@ -137,3 +137,27 @@ window.addEventListener('scroll', () => {
 
   gtag('config', 'G-4TJ102HTBL');
 </script>
+
+{% if page.canonical_url contains "/community/" %}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4RT0CXFLPE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4RT0CXFLPE');
+</script>
+{% else %}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4RT0CXFLPE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4RT0CXFLPE');
+</script>
+{% endif %}
+
+
