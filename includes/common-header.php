@@ -137,14 +137,9 @@ window.addEventListener('scroll', () => {
 
   gtag('config', 'G-4TJ102HTBL');
 </script>
-<?php   
-$protocol = ((!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off') || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";  
-$url = $protocol.$_SERVER['HTTP_HOST'].dirname($_SERVER['PHP_SELF']);
-$folders =explode("/",$url); 
-$what_we_need = ($folders[3])?$folders[3]:'';
-
-if($what_we_need =="community"){
-
+<?php
+$wnw_url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+if (strpos($wnw_url,'community') !== false) {
 ?> 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4RT0CXFLPE"></script>
