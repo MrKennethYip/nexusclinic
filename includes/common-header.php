@@ -137,29 +137,6 @@ window.addEventListener('scroll', () => {
 
   gtag('config', 'G-4TJ102HTBL');
 </script>
-<?php
-$wnw_url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
-if (strpos($wnw_url,'community') !== false) {
-?> 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4RT0CXFLPE"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-4RT0CXFLPE');
-</script>
-<?php }else{?> 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4RT0CXFLPE"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-4RT0CXFLPE');
-</script>
-<?php } ?> 
 
 
