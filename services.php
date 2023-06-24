@@ -387,7 +387,7 @@
     </div>
     <!-- Service Item End -->
 
-    <!-- Service Item Start
+    <!-- Service Item Start -->
      <div class="scrolltag" id="osteopath"></div>
      <div class="position-relative">
       <div class="container u-space-2">
@@ -430,7 +430,7 @@
         </div>
       </div>
     </div>
-    Service Item End -->
+    <!-- Service Item End -->
 
     <!-- Service Item Start -->
     <div class="scrolltag" id="orthotics"></div>

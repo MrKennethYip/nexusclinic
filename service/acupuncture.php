@@ -458,7 +458,7 @@
           <!-- Item -->
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/matt_walton">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/phil_kim.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/matt_walton.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Matt Walton - Acupuncture">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/matt_walton.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Matt Walton - Acupuncture">
             </a>
               <div class="py-3">
                 <a href="../profiles/matt_walton">
@@ -466,6 +466,22 @@
                 </a>
                 <p class="small mb-0">
                   I specialize in treating conditions related to mental health. However, because we TCM practitioners treat you as a whole, I also focus on menstrual health, digestion, sleep/energy and pain concerns to help you enjoy living the healthy life you want. In my practice, I also coach my patients on herbal medicine and diagnosis-based nutrition to help you achieve a balanced and optimized body.<br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/aimee_leung">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/aimee_leung.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/aimee_leung.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/aimee_leung.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/aimee_leung.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Aimee Leung - Acupuncture">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/aimee_leung">
+                  <h4 class="h6 text-dark mb-0">Aimee Leung</h4>
+                </a>
+                <p class="small mb-0">
+                  I provide a safe and open space to support patients on a physical, mental and emotional level. I empower patients with knowledge, tools and intuitive insights into their health and wellbeing. My specialty includes Traditional Chinese Medicine, Auricular (Ear) and Cosmetic Acupuncture, Tuina and Shiatsu Massage, and Cupping.<br>
                 </p>
               </div>
           </div>

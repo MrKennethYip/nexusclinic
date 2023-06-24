@@ -68,7 +68,7 @@
           <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".chiro">Chiropractor</li>
           <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".physio">Physiotherapist</li>
           <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".acupuncture">Registered Acupuncturist</li>
-          <!-- <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".osteopath">Registered Osteopath</li> -->
+          <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".osteopath">Registered Osteopath</li>
         </ul>
         <!-- End Filter -->
 
@@ -185,7 +185,7 @@
           <!-- Item -->
           <div class="cbp-item acupuncture">
             <a class="cbp-caption" href="profiles/matt_walton">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/matt_walton.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Matt Walton - Registered Massage Therapy">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/matt_walton.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Matt Walton - Registered Acupuncturist">
             </a>
               <div class="py-3">
                 <a href="profiles/matt_walton">
@@ -456,22 +456,6 @@
             
           <!-- Item -->
           <div class="cbp-item rmt">
-            <a class="cbp-caption" href="profiles/chin_yu_chiu">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/chin_yu_chiu.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/chin_yu_chiu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/chin_yu_chiu.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/chin_yu_chiu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Chin-Yu Chiu - Registered Massage Therapy">
-            </a>
-              <div class="py-3">
-                <a href="profiles/chin_yu_chiu">
-                  <h4 class="h6 text-dark mb-0">Chin-Yu Chiu</h4>
-                </a>
-                <p class="small mb-0">
-                  Registered Massage Therapist<br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-          
-          <!-- Item -->
-          <div class="cbp-item rmt">
             <a class="cbp-caption" href="profiles/joshua_ching">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/joshua_ching.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/joshua_ching.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/joshua_ching.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/joshua_ching.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Joshua Ching - Registered Massage Therapy">
             </a>
@@ -481,6 +465,22 @@
                 </a>
                 <p class="small mb-0">
                   Registered Massage Therapist<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="profiles/chin_yu_chiu">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/chin_yu_chiu.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/chin_yu_chiu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/chin_yu_chiu.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/chin_yu_chiu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Chin-Yu Chiu - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="profiles/chin_yu_chiu">
+                  <h4 class="h6 text-dark mb-0">Chin-Yu Chiu</h4>
+                </a>
+                <p class="small mb-0">
+                  Registered Massage Therapist<br>
                 </p>
               </div>
           </div>
@@ -503,7 +503,7 @@
           <!-- End Item -->
             
           <!-- Item -->
-          <div class="cbp-item chiro rmt">
+          <div class="cbp-item chiro">
             <a class="cbp-caption" href="profiles/catherine_chu">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/catherine_chu.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/catherine_chu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/catherine_chu.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/catherine_chu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Catherine Chu - Chiropractor">
             </a>
@@ -517,7 +517,55 @@
               </div>
           </div>
           <!-- End Item -->
-          
+  
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="profiles/miki_dawit">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/miki_dawit.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/miki_dawit.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/miki_dawit.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/miki_dawit.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Miki Dawit - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="profiles/miki_dawit">
+                  <h4 class="h6 text-dark mb-0">Miki Dawit</h4>
+                </a>
+                <p class="small mb-0">
+                  Registered Massage Therapist<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item acupuncture">
+            <a class="cbp-caption" href="profiles/aimee_leung">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/aimee_leung.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/aimee_leung.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/aimee_leung.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/aimee_leung.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Aimee Leung - Registered Acupuncturist">
+            </a>
+              <div class="py-3">
+                <a href="profiles/aimee_leung">
+                  <h4 class="h6 text-dark mb-0">Aimee Leung</h4>
+                </a>
+                <p class="small mb-0">
+                  Registered Acupuncturist<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+              
+          <!-- Item -->
+          <div class="cbp-item osteopath">
+            <a class="cbp-caption" href="profiles/justine_bullen">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/justine_bullen.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/justine_bullen.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/justine_bullen.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/justine_bullen.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Justine Bullen - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="profiles/justine_bullen">
+                  <h4 class="h6 text-dark mb-0">Justine Bullen</h4>
+                </a>
+                <p class="small mb-0">
+                  Registered Osteopath<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+  
           <!-- Item -->
           <div class="cbp-item physio">
             <a class="cbp-caption" href="profiles/victoria_kwong">

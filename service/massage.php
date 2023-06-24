@@ -720,7 +720,7 @@
                   <h4 class="h6 text-dark mb-0">Julian Tenyenhuis</h4>
                 </a>
                 <p class="small mb-0">
-                  I am persistent and genuinely want to help my patients reach their health goals. I love to continue my education, do extra research and adjust my approach to get results in my treatments. I love seeing people smile and laugh so I may also work to get these kinds of results too.<br><br>
+                  I am persistent and genuinely want to help my patients reach their health goals. I love to continue my education, do extra research and adjust my approach to get results in my treatments. I love seeing people smile and laugh so I may also work to get these kinds of results too.<br>
                 </p>
               </div>
           </div>
@@ -736,7 +736,7 @@
                   <h4 class="h6 text-dark mb-0">Laura Squire</h4>
                 </a>
                 <p class="small mb-0">
-                  I strive to achieve the unique goals of each client. I want to provide a treatment that caters to YOU and your needs. Through discussion and assessment, we will formulate a treatment plan that will not just focus on pain relief but pain prevention.<br><br><br>
+                  I strive to achieve the unique goals of each client. I want to provide a treatment that caters to YOU and your needs. Through discussion and assessment, we will formulate a treatment plan that will not just focus on pain relief but pain prevention.<br><br>
                 </p>
               </div>
           </div>
@@ -752,7 +752,7 @@
                   <h4 class="h6 text-dark mb-0">Gabriel Li</h4>
                 </a>
                 <p class="small mb-0">
-                  I can not only quickly and effectively solve the patient's physical problems, but also allow the patient to obtain methods to change bad habits and self-exercise, and effectively promote the patient's physical recovery in the long term.<br><br><br>
+                  I can not only quickly and effectively solve the patient's physical problems, but also allow the patient to obtain methods to change bad habits and self-exercise, and effectively promote the patient's physical recovery in the long term.<br><br>
                 </p>
               </div>
           </div>
@@ -768,7 +768,7 @@
                   <h4 class="h6 text-dark mb-0">Osei Tawia</h4>
                 </a>
                 <p class="small mb-0">
-                  I am proud of being able to help clients reach their goal from the plan that we create. I enjoy getting to know my clients, having an understanding on what they are going through and being there every step of the way on their health journey. I am willing to do what it takes to help my clients reach their health goals.<br><br><br><br><br><br>
+                  I am proud of being able to help clients reach their goal from the plan that we create. I enjoy getting to know my clients, having an understanding on what they are going through and being there every step of the way on their health journey. I am willing to do what it takes to help my clients reach their health goals.<br><br><br>
                 </p>
               </div>
           </div>
@@ -784,7 +784,7 @@
                   <h4 class="h6 text-dark mb-0">Matthew Dunning</h4>
                 </a>
                 <p class="small mb-0">
-                  Whether you are looking to relax, reduce pain, or improve your mobility, each session with me is dedicated to helping you reach your goal. At the end of your treatment plan, you will be left with the tools you need to maintain your results. Each session will use evidence-based techniques in a calming environment so you can back to your day feeling rejuvenated.<br><br><br><br>
+                  Whether you are looking to relax, reduce pain, or improve your mobility, each session with me is dedicated to helping you reach your goal. At the end of your treatment plan, you will be left with the tools you need to maintain your results. Each session will use evidence-based techniques in a calming environment so you can back to your day feeling rejuvenated.<br>
                 </p>
               </div>
           </div>
@@ -800,7 +800,7 @@
                   <h4 class="h6 text-dark mb-0">Rob Hunter</h4>
                 </a>
                 <p class="small mb-0">
-                  I'll make sure to provide professional service during the treatment and provide any necessary self-care work to get you back to moving your best. I'll make sure your goal for the treatment is met and you leave the clinic feeling better than when you entered!<br><br><br><br><br><br><br>
+                  I'll make sure to provide professional service during the treatment and provide any necessary self-care work to get you back to moving your best. I'll make sure your goal for the treatment is met and you leave the clinic feeling better than when you entered!<br><br><br><br>
                 </p>
               </div>
           </div>
@@ -816,7 +816,23 @@
                   <h4 class="h6 text-dark mb-0">Gopinath Durairaj</h4>
                 </a>
                 <p class="small mb-0">
-                  I have a strong Physiotherapy experience of more than 15 years that helps me to acutely listen to what the clients body needs. It is important that client feels comfortable and have a sense of control over their treatment.<br><br><br><br><br><br><br>
+                  I have a strong Physiotherapy experience of more than 15 years that helps me to acutely listen to what the clients body needs. It is important that client feels comfortable and have a sense of control over their treatment.<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/joshua_ching">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/joshua_ching.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/joshua_ching.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/joshua_ching.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/joshua_ching.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Chin-Yu Chiu - Registered Massage Therapy">
+            </a>
+              <div class="py-3">
+                <a href="../profiles/joshua_ching">
+                  <h4 class="h6 text-dark mb-0">Joshua Ching</h4>
+                </a>
+                <p class="small mb-0">
+                  As an athlete and coach, I consider myself a student of my sport. I am constantly searching for new ways to improve physically, mentally, and technically. I've taken this mindset with me into my career and am eager to hone my craft by working along side my patients and help them achieve their goals.<br>
                 </p>
               </div>
           </div>
@@ -832,7 +848,7 @@
                   <h4 class="h6 text-dark mb-0">Chin-Yu Chiu</h4>
                 </a>
                 <p class="small mb-0">
-                  My yoga teaching background enables me to take a holistic approach to treatments, focusing on the mind-body connection and interplay between bodily systems. I empower patients to take an active role in their health by creating personalized treatment plans and providing long-term tools for well-being.<br><br><br><br><br>
+                  My yoga teaching background enables me to take a holistic approach to treatments, focusing on the mind-body connection and interplay between bodily systems. I empower patients to take an active role in their health by creating personalized treatment plans and providing long-term tools for well-being.<br>
                 </p>
               </div>
           </div>
@@ -840,15 +856,15 @@
           
           <!-- Item -->
           <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/joshua_ching">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/joshua_ching.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/joshua_ching.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/joshua_ching.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/joshua_ching.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Chin-Yu Chiu - Registered Massage Therapy">
+            <a class="cbp-caption" href="../profiles/miki_dawit">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/miki_dawit.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/miki_dawit.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/miki_dawit.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/miki_dawit.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Miki Dawit - Registered Massage Therapy">
             </a>
               <div class="py-3">
-                <a href="../profiles/joshua_ching">
-                  <h4 class="h6 text-dark mb-0">Joshua Ching</h4>
+                <a href="../profiles/miki_dawit">
+                  <h4 class="h6 text-dark mb-0">Miki Dawit</h4>
                 </a>
                 <p class="small mb-0">
-                  As an athlete and coach, I consider myself a student of my sport. I am constantly searching for new ways to improve physically, mentally, and technically. I've taken this mindset with me into my career and am eager to hone my craft by working along side my patients and help them achieve their goals.<br><br><br><br><br>
+                  I like to work with patients to create the most effective treatment tailored to their needs making each session suited just for that client. Whether you want to  improve range of motion, alleviate pain, or just simply unwind.<br><br><br><br><br><br>
                 </p>
               </div>
           </div>
@@ -864,7 +880,7 @@
                   <h4 class="h6 text-dark mb-0">Cassandra Kong</h4>
                 </a>
                 <p class="small mb-0">
-                  I love bringing great energy to my sessions and working together with my patients to form their treatment plan. I believe that understanding the root cause of the problem is important for preventative care as well as our treatment direction. I work towards bringing you back to doing the things you love, pain-free.<br><br><br><br><br><br>
+                  I love bringing great energy to my sessions and working together with my patients to form their treatment plan. I believe that understanding the root cause of the problem is important for preventative care as well as our treatment direction. I work towards bringing you back to doing the things you love, pain-free.<br><br><br><br>
                 </p>
               </div>
           </div>
@@ -880,7 +896,7 @@
                   <h4 class="h6 text-dark mb-0">Dr. Felix Chu</h4>
                 </a>
                 <p class="small mb-0">
-                  I pride myself in providing patient-centred care for my patients. This involves creating a treatment program that is individually tailored towards my patients’ needs, preferences, and values. My foundation as a registered social worker allows me to understand my patients’ challenges through a holistic perspective by recognizing not only physical obstacles, but also emotional and psychological hurdles. This integrative viewpoint enables me to better help my patients achieve optimal health and a higher quality of life.<br><br>
+                  I pride myself in providing patient-centred care for my patients. This involves creating a treatment program that is individually tailored towards my patients’ needs, preferences, and values. My foundation as a registered social worker allows me to understand my patients’ challenges through a holistic perspective by recognizing not only physical obstacles, but also emotional and psychological hurdles. This integrative viewpoint enables me to better help my patients achieve optimal health and a higher quality of life.<br>
                 </p>
               </div>
           </div>

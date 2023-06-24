@@ -483,15 +483,15 @@
 
           <!-- Item -->
           <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/irnes_barak">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/irnes_barak.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/irnes_barak.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/irnes_barak.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/irnes_barak.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Irnes Barak - Registered Osteopath">
+            <a class="cbp-caption" href="../profiles/justine_bullen">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/justine_bullen.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/justine_bullen.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/justine_bullen.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/justine_bullen.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Justine Bullen - Registered Osteopath">
             </a>
               <div class="py-3">
-                <a href="../profiles/irnes_barak">
-                  <h4 class="h6 text-dark mb-0">Irnes Barak</h4>
+                <a href="../profiles/justine_bullen">
+                  <h4 class="h6 text-dark mb-0">Justine Bullen</h4>
                 </a>
                 <p class="small mb-0">
-                  I put 110% into every treatment and every individual I see. pride myself in thoroughly assessing the body as a whole and creating a customized treatment plan for each individual. My treatments are focussed on finding the root cause of the problem and not only dealing with just the symptoms, but to create a long lasting effect.<br>
+                  Osteopathy is based on the philosophy that our bodies have the ability to heal itself if the conditions are right. I strongly believe this.  I truly care about my patients and it makes me happy and proud to be able to address the root cause of their issue and help them feel at ease.  I hope my care, compassion and knowledge is felt in my treatments.<br>
                 </p>
               </div>
           </div>

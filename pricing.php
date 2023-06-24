@@ -288,7 +288,7 @@
                             <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
                             <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$130 + HST</strong></li>
                             <li class="u-pricing-v2__list-item py-1">45 Min Virtual Follow-Up - <strong>$110 + HST</strong></li>
-                            <li class="small text-muted py-1"><strong>**Osteopathy does not qualify for <br>direct billing**</strong><br><br>Please note that we are unable to accept insurance coverage from <u>Canada Life (formerly Great West Life)</u> and <u>Group Health</u> at this time.</li>
+                            <!-- <li class="small text-muted py-1"><strong>**Osteopathy does not qualify for <br>direct billing**</strong><br><br>Please note that we are unable to accept insurance coverage from <u>Canada Life (formerly Great West Life)</u> and <u>Group Health</u> at this time.</li> --> 
                           </ul>
                         </div>
                         <!-- End Content --> 
