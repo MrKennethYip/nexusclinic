@@ -143,7 +143,6 @@
                     <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>8am - 2pm</p>
                     <p class="text-dark"><strong>Thurs:</strong><span class="ml-3"></span>8am - 2pm</p>
                     <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>8am - 7pm</p>
-                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>8am - 7pm</p>
                   </div>
                 </span>
                 <!-- End User -->

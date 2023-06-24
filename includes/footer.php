@@ -91,7 +91,7 @@
 
     <!-- Terms / Privacy -->
     <div class="container text-center p-2">
-      <a href="../about-us">ABOUT US</a> &nbsp;&bull;&nbsp; <a href="../careers">CAREERS</a> &nbsp;&bull;&nbsp; <a href="../referral">REFER A FRIEND</a> &nbsp;&bull;&nbsp; <a href="../gift-cards">GIFT CARDS</a> &nbsp;&bull;&nbsp; <a href="../COVID-19">COVID-19</a>
+      <a href="../about-us">ABOUT US</a> &nbsp;&bull;&nbsp; <a href="../careers">CAREERS</a> &nbsp;&bull;&nbsp; <a href="../referral">REFER A FRIEND</a> &nbsp;&bull;&nbsp; <a href="../gift-cards">GIFT CARDS</a>
     </div>
     <!-- End Terms / Privacy -->
 

@@ -175,7 +175,7 @@
       </div>
     <!-- End Images Carousel Section -->
 
-    <!-- Red Promo Banner -->
+    <!-- Red Promo Banner 
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
@@ -183,7 +183,7 @@
         </span>
       </div>
     </div>
-    <!-- End Red Promo Banner -->
+    End Red Promo Banner -->
 
     <!-- Steps Section -->
     <div class="container u-space-1-top">
