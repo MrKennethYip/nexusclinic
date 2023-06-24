@@ -264,11 +264,24 @@
                     </div>
                     <div class="media-body">
                       <h3 class="h5"><strong><a class="text-dark" href="https://jt6studio.ca/" target="blank"><u>JT6 • Jiu-Jitsu Toronto</u></a></strong></h3>
-                      <p class="text-dark"><strong>2 Weeks FREE Trial</strong></p>
-                      <p class="text-dark">• Online waiver/registration is required
-                      <p class="text-dark">• Please show your Nexus invoice to JT6
+                      <p class="text-dark"><strong>• 2 Weeks FREE Trial</strong></p>
+                      <p class="text-dark">Online waiver/registration is required. Please show your Nexus invoice to JT6.</p>
                     </div>
                   </div>
+                  
+                  <div class="media mb-3 u-space-2-top">
+                    <div class="d-flex mt-1 mr-3">
+                      <span class="u-icon u-icon-dark u-icon--xs rounded-circle">
+                        <span class="fa fa-check u-icon__inner"></span>
+                      </span>
+                    </div>
+                    <div class="media-body">
+                      <h3 class="h5"><strong><a class="text-dark" href="https://www.bumpnsmoothspa.me/" target="blank"><u>Bump & Smooth Spa</u></a></strong></h3>
+                      <p class="text-dark">• <strong>$30 off</strong> first visit at Bump & Smooth Spa</p>
+                      <p class="text-dark">To receive discount, please show your invoice from Nexus.</p>
+                    </div>
+                  </div>
+                  
                 </div>
 
               </div>
@@ -300,6 +313,13 @@
                     <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/jt6_logo_rect.png" alt="JT6 Jiu-Jitsu Toronto - Logo" title="JT6 Jiu-Jitsu Toronto - Logo"  style="border: 1px solid #898A8D">
                   </a>
                 </div>
+                
+                <div class="col-9 align-self-end px-2 mb-3 u-space-1-top u-space-1-bottom">
+                  <a class="text-dark" href="https://www.bumpnsmoothspa.me/"  target="blank">
+                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/bump_logo_rect.png" alt="Bump & Smooth Spa - Logo" title="Bump & Smooth Spa - Logo"  style="border: 1px solid #898A8D">
+                  </a>
+                </div>
+                
               </div>
 
             </div>

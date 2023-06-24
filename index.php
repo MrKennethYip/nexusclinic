@@ -327,14 +327,25 @@
           </div>
 
           <div class="card mb-1" style="background-color:#002A3A; border:0px">
-              <div class="card-body p-3">
-                <div class="text-center">
-                    <figure class="figure" style="margin-top:0px">
-                      <a href="https://jt6studio.ca/" target="blank"><img loading="lazy" width="110" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/jt6_logo.png" alt="JT6 Jiu-Jitsu Toronto - Logo"></a>
-                    </figure>
-                </div>
+            <div class="card-body p-3">
+              <div class="text-center">
+                  <figure class="figure" style="margin-top:0px">
+                    <a href="https://jt6studio.ca/" target="blank"><img loading="lazy" width="110" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/jt6_logo.png" alt="JT6 Jiu-Jitsu Toronto - Logo"></a>
+                  </figure>
               </div>
             </div>
+          </div>
+          
+          <div class="card mb-1" style="background-color:#002A3A; border:0px">
+            <div class="card-body p-3">
+              <div class="text-center">
+                  <figure class="figure" style="margin-top:0px">
+                    <a href="https://www.bumpnsmoothspa/" target="blank"><img loading="lazy" width="110" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/bump_bw_logo_rect.png" alt="Bump & Smooth Spa - Logo"></a>
+                  </figure>
+              </div>
+            </div>
+          </div>
+          
         </div>
         
         
