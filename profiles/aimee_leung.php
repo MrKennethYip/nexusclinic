@@ -156,7 +156,9 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am an advanced practitioner of Traditional Eastern (Chinese) Medicine (TCM), with a specific knack for helping you achieve your health and productivity successes through my highly trained healing modalities and powerful coaching methods.</p>
+              <p>I'm a Registered Acupuncturist, Shiatsu Therapist and Reiki Master. I completed my acupuncture training at the Acupuncture and Integrative Medicine Academy in Toronto, and I have a Bachelor of Science degree in Psychology from the University of Toronto. My passion for Traditional Chinese Medicine (TCM) developed when I was living abroad in China, Taiwan and Japan and found acupuncture to be very effective in managing my health. Prior to working as a healthcare practitioner, I worked in several senior positions in education, training and healthcare regulation. In my free time, I love practising yoga and martial arts, hitting the hiking trails, and studying Japanese taiko drumming.</p>
+
+              <p>I treat a wide range conditions from musculoskeletal, digestion, respiratory, neurological, dermatology, mental health to gynecology. My treatments are customized using acupuncture with other TCM modalities (tuina massage, cupping, gua sha, moxibustion and Chinese nutrition) and Japanese therapies (shiatsu massage and reiki).</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -166,9 +168,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I'm a Registered Acupuncturist, Shiatsu Therapist and Reiki Master. I completed my acupuncture training at the Acupuncture and Integrative Medicine Academy in Toronto, and I have a Bachelor of Science degree in Psychology from the University of Toronto. My passion for Traditional Chinese Medicine (TCM) developed when I was living abroad in China, Taiwan and Japan and found acupuncture to be very effective in managing my health. Prior to working as a healthcare practitioner, I worked in several senior positions in education, training and healthcare regulation. In my free time, I love practising yoga and martial arts, hitting the hiking trails, and studying Japanese taiko drumming.</p>
-
-              <p>I treat a wide range conditions from musculoskeletal, digestion, respiratory, neurological, dermatology, mental health to gynecology. My treatments are customized using acupuncture with other TCM modalities (tuina massage, cupping, gua sha, moxibustion and Chinese nutrition) and Japanese therapies (shiatsu massage and reiki).</p>
+              <p>My clinical interest is in pain management, digestive disorders, psycho-emotional conditions, stress relief, fatigue and women's health which are the most frequent concerns I see in clinic.</p>
               <!-- End Text -->
 
               <!-- Title -->
