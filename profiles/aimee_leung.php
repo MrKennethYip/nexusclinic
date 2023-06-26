@@ -158,7 +158,7 @@
               <!-- Text -->
               <p>I'm a Registered Acupuncturist, Shiatsu Therapist and Reiki Master. I completed my acupuncture training at the Acupuncture and Integrative Medicine Academy in Toronto, and I have a Bachelor of Science degree in Psychology from the University of Toronto. My passion for Traditional Chinese Medicine (TCM) developed when I was living abroad in China, Taiwan and Japan and found acupuncture to be very effective in managing my health. Prior to working as a healthcare practitioner, I worked in several senior positions in education, training and healthcare regulation. In my free time, I love practising yoga and martial arts, hitting the hiking trails, and studying Japanese taiko drumming.</p>
 
-              <p>I treat a wide range conditions from musculoskeletal, digestion, respiratory, neurological, dermatology, mental health to gynecology. My treatments are customized using acupuncture with other TCM modalities (tuina massage, cupping, gua sha, moxibustion and Chinese nutrition) and Japanese therapies (shiatsu massage and reiki).</p>
+              <p>I treat a wide range conditions from musculoskeletal, digestion, respiratory, neurological, dermatology, mental health to gynaecology. My treatments are customized using acupuncture with other TCM modalities (tuina massage, cupping, gua sha, moxibustion and Chinese nutrition) and Japanese therapies (shiatsu massage and reiki).</p>
               <!-- End Text -->
 
               <!-- Title -->
