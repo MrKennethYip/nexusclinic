@@ -560,7 +560,7 @@
                   <h4 class="h6 text-dark mb-0">Justine Bullen</h4>
                 </a>
                 <p class="small mb-0">
-                  Registered Osteopath<br><br>
+                  Registered Manual Osteopath<br><br>
                 </p>
               </div>
           </div>
