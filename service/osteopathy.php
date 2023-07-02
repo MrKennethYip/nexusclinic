@@ -376,11 +376,11 @@
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$125 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$110 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$130 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$140 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$115 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$140 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="small py-1 text-white"><strong>**Osteopathy does not qualify for <br>direct billing**</strong><br><br>Please refer to your insurance provider for coverage. Please note that we are unable to accept insurance coverage from <u>Great West Life</u> and <u>Group Health</u> at this time.</li>
+                          <!-- <li class="small py-1 text-white"><strong>**Osteopathy does not qualify for <br>direct billing**</strong><br><br>Please refer to your insurance provider for coverage. Please note that we are unable to accept insurance coverage from <u>Great West Life</u> and <u>Group Health</u> at this time.</li> --> 
                         </ul>
                       </div>
                       <!-- End Content --> 

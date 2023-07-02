@@ -457,9 +457,10 @@
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$125</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">20 Min Follow Up - <strong>$75</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">40 Min Follow Up - <strong>$100</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$130</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">20 Min Follow Up - <strong>$85</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">40 Min Follow Up - <strong>$110</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Follow Up - <strong>$140</strong></li>
                         </ul>
                       </div>
                       <!-- End Content --> 
