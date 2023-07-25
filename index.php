@@ -203,7 +203,7 @@
                   <a href="service/chiropractic"><p class="mb-md-0 text-white">Chiropractic</p></a>
                   <a href="service/physiotherapy"><p class="mb-md-0 text-white">Physiotherapy</p></a>
                   <p class="mb-md-0 text-white">Acupuncture</p>
-                  <!-- <p class="mb-md-0 text-white">Osteopathy</p> -->
+                  <p class="mb-md-0 text-white">Osteopathy</p>
                   <a href="service/orthotics"><p class="mb-md-0 text-white">Custom Orthotics</p></a>
                 </div>
               </div>
