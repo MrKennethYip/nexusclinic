@@ -169,6 +169,7 @@
                           <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$130</strong></li>
                           <li class="u-pricing-v2__list-item py-1">20 Min Virtual Follow-Up - <strong>$85</strong></li>
                           <li class="u-pricing-v2__list-item py-1">40 Min Virtual Follow-Up - <strong>$110</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content -->
@@ -205,6 +206,7 @@
                           <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$130</strong></li>
                           <li class="u-pricing-v2__list-item py-1">20 Min Virtual Follow-Up - <strong>$85</strong></li>
                           <li class="u-pricing-v2__list-item py-1">40 Min Virtual Follow-Up - <strong>$110</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content -->  
@@ -237,9 +239,9 @@
                           <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$140 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$115 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$140 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="small text-muted py-1"><strong>Service is only covered by:</strong></li>
                           <li class="small text-muted py-1">Greenshield, Claimsecure, IA Financial Group, Empire Life, Manulife, Sunlife, Desjardins, Equiable Life, Manion, Cooperators, AGA</li>
+                          <li class="small text-muted py-1"><i>**Osteopathy may not qualify for <br>direct billing**</i></li>
                         </ul>
                       </div>
                       <!-- End Content -->
