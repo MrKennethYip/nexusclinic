@@ -446,6 +446,7 @@
                           <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$140</strong></li>
                           <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$115</strong></li>
                           <li class="u-pricing-v2__list-item py-1">75 Min Follow-Up - <strong>$130</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -468,7 +469,7 @@
                     <div class="text-center">
                       <div class="media-body p-1">
                         <h2 class="p-1" style="color:#002A3A;">
-                          <strong class="font-weight-bold text-white">COSMETIC ACUPUNCTURE</strong><br><br>
+                          <strong class="font-weight-bold text-white">COSMETIC ACUPUNCTURE</strong>
                         </h2>
                         <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
                         <!-- Content -->
@@ -477,6 +478,8 @@
                             <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
                             <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$170</strong></li>
                             <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$150</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           </ul>
                         </div>
                         <!-- End Content -->
@@ -499,7 +502,7 @@
                     <div class="text-center">
                       <div class="media-body p-1">
                         <h2 class="p-1" style="color:#002A3A;">
-                          <strong class="font-weight-bold text-white">SHIATSU/TUINA MASSAGE</strong><br><br>
+                          <strong class="font-weight-bold text-white">SHIATSU/TUINA MASSAGE</strong>
                         </h2>
                         <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
                         <!-- Content -->
@@ -508,7 +511,8 @@
                             <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$80 + HST</strong></li>
                             <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$95 + HST</strong></li>
                             <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$115 + HST</strong></li>
-                            <li class="small text-white"><em>**Cannot be claimed under Acupuncture Insurance**</em></li>
+                            <li class="small text-white"><em>**Service is covered under Acupuncture insurance**</em></li>
+                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           </ul>
                         </div>
                         <!-- End Content -->
