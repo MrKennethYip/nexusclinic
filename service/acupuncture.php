@@ -223,27 +223,27 @@
     <div style="border-top: 2px solid #898A8D">
     <div class="container u-space-2-top">
       <!-- Title -->
-      <h2 class="text-dark font-weight-normal u-space-1-bottom"><span class="font-weight-bold">What types of Acupuncture treatments do we offer?</span></h2>
+      <h2 class="text-dark font-weight-normal u-space-1-bottom"><span class="font-weight-bold">What types of treatments do we offer</span></h2>
       <!-- End Title -->
     </div>
 
     <!-- Service Item Start -->
-    <div class="scrolltag" id="trigger_point"></div>
+    <div class="scrolltag" id="traditional"></div>
      <div class="position-relative">
       <div class="container u-space-2">
         <div class="row align-items-center">
           <div class="col-lg-7 mb-9 mb-lg-0">
             <div class="pr-lg-4 mb-7">
               <h2 class="text-primary"> 
-                <span class="font-weight-bold">Trigger Point Therapy / Dry Needling</span>
+                <span class="font-weight-bold">Traditional Chinese Medicine Acupuncture</span>
               </h2>
-              <p>​In these sessions, the needle is inserted into a tender point on a tight muscle band, and stimulated to cause a "muscle jump", essentially resetting the muscle and facilitating softening of the tissue. This can assist with increased range of motion and flexibility in the muscle area of focus.</p><br>
+              <p>Traditional Chinese Medicine acupuncture involves the insertion of thin needles into specific points on the body's meridians to restore the flow of vital energy (qi). It aims to address various physical and emotional conditions, promoting balance and well-being. Expect a personalized assessment by a trained practitioner, strategic needle placement, and potential combination with other techniques. TCM acupuncture complements conventional medicine and emphasizes holistic healing.</p><br>
             </div>
           </div>
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/acupuncture/med/trigger_point_therapy.jpg" alt="Acupuncture - Trigger Point Therapy / Dry Needling">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/acupuncture/med/traditional_acu.jpg" alt="Multiple Precisely Placed Acupuncture Needles on Upper Back Region">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -265,6 +265,161 @@
     </div>
     <!-- Service Item End -->
 
+    <!-- Service Item Start -->
+        <div class="scrolltag" id="trigger_point"></div>
+         <div class="position-relative">
+          <div class="container u-space-2">
+            <div class="row align-items-center">
+              <div class="col-lg-7 mb-9 mb-lg-0">
+                <div class="pr-lg-4 mb-7">
+                  <h2 class="text-primary">
+                    <span class="font-weight-bold">Trigger Point Therapy / Dry Needling</span>
+                  </h2>
+                  <p>In these sessions, the needle is inserted into a tender point on a tight muscle band, and stimulated to cause a "muscle jump", essentially resetting the muscle and facilitating softening of the tissue. This can assist with increased range of motion and flexibility in the muscle area of focus.</p><br>
+                </div>
+              </div>
+
+              <div class="col-lg-5 position-relative">
+                <div id="video" class="u-video-player">
+                  <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/acupuncture/med/trigger_point_therapy.jpg" alt="Acupuncture - Trigger Point Therapy / Dry Needling">
+
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe id="youTubeVideo" class="embed-responsive-item"
+                            data-src="//www.youtube.com/embed/0qisGSwZym4?autoplay=1&showinfo=0&rel=0">
+                    </iframe>
+                  </div>
+                </div>
+
+                <figure class="w-100 u-content-centered">
+                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                     viewBox="0 0 1109.8 797.1" style="enable-background:new 0 0 1109.8 797.1;" xml:space="preserve">
+                  <path class="u-fill-primary" opacity=".1" d="M105.1,267.1C35.5,331.5-3.5,423,0.3,517.7c5.8,145.3,110.7,314.2,588,273.1c753-64.7,481.3-358.3,440.4-398.3
+                    c-4-3.9-7.9-7.9-11.7-12L761.9,104.8C639.4-27.6,432.5-35.6,299.9,87L105.1,267.1z"/>
+                </svg>
+                </figure>
+              </div>
+            </div>
+          </div>
+        </div>
+    <!-- Service Item End -->
+
+    <!-- Service Item Start -->
+         <div class="scrolltag" id="rejuvenation"></div>
+         <div class="position-relative">
+          <div class="container">
+            <div class="row align-items-center">
+              <div class="col-lg-7 mb-9 mb-lg-0">
+                <div class="pr-lg-4 mb-7">
+                  <h2 class="text-primary">
+                    <span class="font-weight-bold">Cosmetic and Facial Rejuvenation Acupuncture</span>
+                  </h2>
+                  <p>Cosmetic and facial rejuvenation acupuncture is a chemical-free and non-surgical method to reduce the signs of aging and improve the skin’s overall health. It has been practiced in China for thousands of years for anti-aging and beauty. Ultra-thin needles are inserted in the face creating tiny microtraumas in the skin, which stimulates the body to send nutrients to the injured sites. Needles are also inserted in the body to address underlying imbalances in the body, and internal causes of aging and skin issues from the inside out. The result is the face lifting itself through muscle tightening and toning action.</p><br>
+
+                  <span><strong>Benefits of Cosmetic Acupuncture:</strong></span>
+
+                  <table class="table table-borderless text-black">
+                    <tbody>
+                      <tr>
+                        <td scope="row">
+                          <ul>
+                            <li>Brightens complexion</li>
+                            <li>Improves skin texture, skin elasticity, facial muscle tone, collagen and elastin production</li>
+                            <li>Reduces wrinkles and fine lines, puffiness and facial swelling, acne and rosacea, and pore size</li>
+                            <li>Eliminates hyper-pigmentation</li>
+                            <li>Softens scars</li>
+                          </ul>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+
+                </div>
+              </div>
+
+              <div class="col-lg-5 position-relative">
+                <div id="video" class="u-video-player">
+                  <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/acupuncture/med/cosmetic_acu.png" alt="Multiple Precisely Placed Acupuncture Needles on Beautiful Face">
+
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe id="youTubeVideo" class="embed-responsive-item"
+                            data-src="//www.youtube.com/embed/0qisGSwZym4?autoplay=1&showinfo=0&rel=0">
+                    </iframe>
+                  </div>
+                </div>
+
+                <figure class="w-100 u-content-centered">
+                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                     viewBox="0 0 1109.8 797.1" style="enable-background:new 0 0 1109.8 797.1;" xml:space="preserve">
+                  <path class="u-fill-primary" opacity=".1" d="M105.1,267.1C35.5,331.5-3.5,423,0.3,517.7c5.8,145.3,110.7,314.2,588,273.1c753-64.7,481.3-358.3,440.4-398.3
+                    c-4-3.9-7.9-7.9-11.7-12L761.9,104.8C639.4-27.6,432.5-35.6,299.9,87L105.1,267.1z"/>
+                </svg>
+                </figure>
+              </div>
+            </div>
+          </div>
+        </div>
+    <!-- Service Item End -->
+
+    <!-- Service Item Start -->
+         <div class="scrolltag" id="tuina"></div>
+         <div class="position-relative">
+          <div class="container">
+            <div class="row align-items-center">
+              <div class="col-lg-7 mb-9 mb-lg-0">
+                <div class="pr-lg-4 mb-7">
+                  <h2 class="text-primary">
+                    <span class="font-weight-bold">Shiatsu/Tuina Massage</span>
+                  </h2>
+                  <p>Shiatsu is an ancient Japanese form of massage and Tuina is an ancient Chinese-form of massage. Both Shiatsu and Tuina are based on the principles of Traditional Chinese Medicine that imbalances of the body’s vital life energy can lead to symptoms such as pain and illness. Manual pressure using fingers, hands and arms is applied to acupuncture points, energy channels and groups of muscles or nerves to stimulate the flow of qi (energy) to promote balance and harmony within the body.</p><br>
+
+                  <span><strong>Shiatsu/Tuina massage can be used to treat conditions related to:</strong></span>
+
+                  <table class="table table-borderless text-black">
+                    <tbody>
+                      <tr>
+                        <td scope="row">
+                          <ul>
+                            <li>Musculoskeletal</li>
+                            <li>Circulatory</li>
+                            <li>Digestive</li>
+                            <li>Respiratory</li>
+                            <li>Psycho-emotional</li>
+                            <li>Stress</li>
+                            <li>Insomnia</li>
+                            <li>Reproductive</li>
+                          </ul>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+
+                </div>
+              </div>
+
+              <div class="col-lg-5 position-relative">
+                <div id="video" class="u-video-player">
+                  <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/acupuncture/med/shiatsu_tuina.png" alt="Shiatsu and Tuina Massage on Upper Back of Beautiful Relaxed Female">
+
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe id="youTubeVideo" class="embed-responsive-item"
+                            data-src="//www.youtube.com/embed/0qisGSwZym4?autoplay=1&showinfo=0&rel=0">
+                    </iframe>
+                  </div>
+                </div>
+
+                <figure class="w-100 u-content-centered">
+                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                     viewBox="0 0 1109.8 797.1" style="enable-background:new 0 0 1109.8 797.1;" xml:space="preserve">
+                  <path class="u-fill-primary" opacity=".1" d="M105.1,267.1C35.5,331.5-3.5,423,0.3,517.7c5.8,145.3,110.7,314.2,588,273.1c753-64.7,481.3-358.3,440.4-398.3
+                    c-4-3.9-7.9-7.9-11.7-12L761.9,104.8C639.4-27.6,432.5-35.6,299.9,87L105.1,267.1z"/>
+                </svg>
+                </figure>
+              </div>
+            </div>
+          </div>
+        </div>
+    <!-- Service Item End -->
+
     <!-- Hero Section -->
     <div class="position-relative">
       <div class="u-bg-img-hero-bottom" style="background-color:#FFFFFF; border-bottom: 1px solid #898A8D">
@@ -276,7 +431,7 @@
             <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-2-bottom">
 
               <!-- Friends List -->
-              <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
+              <div class="card u-info-v2 mb-3" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
                 <div class="card-body p-3">
                   <div class="text-center">
                     <div class="media-body p-1">
@@ -291,6 +446,7 @@
                           <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$140</strong></li>
                           <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$115</strong></li>
                           <li class="u-pricing-v2__list-item py-1">75 Min Follow-Up - <strong>$130</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -306,9 +462,75 @@
                 </div>
               </div>
               <!-- End Friends List -->
-                
+
+               <!-- Friends List -->
+                <div class="card u-info-v2 mb-3" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
+                  <div class="card-body p-3">
+                    <div class="text-center">
+                      <div class="media-body p-1">
+                        <h2 class="p-1" style="color:#002A3A;">
+                          <strong class="font-weight-bold text-white">COSMETIC ACUPUNCTURE</strong>
+                        </h2>
+                        <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                        <!-- Content -->
+                        <div class="u-space-1-top">
+                          <ul class="list-unstyled">
+                            <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$170</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$150</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          </ul>
+                        </div>
+                        <!-- End Content -->
+                      </div>
+                    </div>
+
+                    <HR>
+
+                    <div class="media-body p-3 text-center">
+                      <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Acupuncture<span class="fa fa-angle-right ml-2"></span></button></a>
+                    </div>
+
+                  </div>
+                </div>
+                <!-- End Friends List -->
+
+               <!-- Friends List -->
+                <div class="card u-info-v2 mb-3" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
+                  <div class="card-body p-3">
+                    <div class="text-center">
+                      <div class="media-body p-1">
+                        <h2 class="p-1" style="color:#002A3A;">
+                          <strong class="font-weight-bold text-white">SHIATSU/TUINA MASSAGE</strong>
+                        </h2>
+                        <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                        <!-- Content -->
+                        <div class="u-space-1-top">
+                          <ul class="list-unstyled">
+                            <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$80 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$95 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$115 + HST</strong></li>
+                            <li class="small text-white"><em>**Service is covered under Acupuncture insurance**</em></li>
+                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          </ul>
+                        </div>
+                        <!-- End Content -->
+                      </div>
+                    </div>
+
+                    <HR>
+
+                    <div class="media-body p-3 text-center">
+                      <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Acupuncture<span class="fa fa-angle-right ml-2"></span></button></a>
+                    </div>
+
+                  </div>
+                </div>
+                <!-- End Friends List -->
+
               <!-- Friends List -->
-              <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
+              <div class="card u-info-v2 mb-3" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
                 <div class="card-body p-3">
                   <div class="text-center">
                     <div class="media-body p-1">
