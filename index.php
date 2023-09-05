@@ -340,7 +340,7 @@
             <div class="card-body p-3">
               <div class="text-center">
                   <figure class="figure" style="margin-top:0px">
-                    <a href="https://www.bumpnsmoothspa/" target="blank"><img loading="lazy" width="110" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/bump_bw_logo_rect.png" alt="Bump & Smooth Spa - Logo"></a>
+                    <a href="https://www.bumpnsmoothspa.me" target="blank"><img loading="lazy" width="110" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/bump_bw_logo_rect.png" alt="Bump & Smooth Spa - Logo"></a>
                   </figure>
               </div>
             </div>
