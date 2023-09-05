@@ -161,7 +161,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am a Registered Massage Therapist and a member of the College of Massage Therapy of Ontario(CMTO) with good standards. I hold a Bachelor of Physiotherapy as well as a Master in Musculoskeletal Physiotherapy, with more than 15 years of experience as a Registered Physiotherapist in my home country. I have finished my Diploma Programme in Royal Canadian College of Massage Therapy.</p>
+              <p>I am a Registered Massage Therapist and a member of the college of Ontario (CMTO) with good standards. I hold a Bachelor of Physiotherapy and Master in Musculoskeletal Physiotherapy with more than 15 years of experience as a Registered Physiotherapist in my home country. I have finished my Diploma programme in Massage in Royal Canadian College of Massage Therapy and I got certificate in Indian Head Massage as well.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -171,7 +171,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I enjoy treating people with stress, acute  and chronic pain related problems and educating them on their work-space ergonomics. I also like to treat sports related injuries since I am an experienced Physiotherapist, I have a more in-depth understanding in how muscle responds to injuries.</p>
+              <p>I Enjoy treating people with Acute, Chronic Pain related problems and stress related issues causing Tension and Migraine Headaches, educating them on their Work-space ergonomics. I also like to treat Sports related injuries Since I am having experienced Physiotherapy background, I have a more in-depth understanding in how much muscle responds to injuries.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -181,7 +181,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I am specialized in deep tissue, relaxation and sports massage. I work on reducing pain, improve posture and flexibility.</p>
+              <p>I am specialized in Deep Tissue, Head, Neck and Scalp Massage and Sports Massage. I work on Reducing Pain, Correct Posture and Improve Flexibility.</p>
               <!-- End Text -->
 
               <!-- Title -->
@@ -201,7 +201,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I have a strong Physiotherapy experience of more than 15 years that helps me to acutely listen to what the clients body needs. It is important that client feels comfortable and have a sense of control over their treatment.</p>
+              <p>I have a strong Physiotherapy experience of more than 15 years that helps me to actually listen to what the clients body needs. It is important that client feels comfortable and have a sense of control over their treatment.</p>
               <!-- End Text -->
 
           </div>
