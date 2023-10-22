@@ -569,22 +569,6 @@
 
           <!-- Item -->
           <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/phil_kim">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/phil_kim.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/phil_kim.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/phil_kim.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/phil_kim.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Phil Kim - Registered Massage Therapy">
-            </a>
-              <div class="py-3">
-                <a href="../profiles/phil_kim">
-                  <h4 class="h6 text-dark mb-0">Phil Kim</h4>
-                </a>
-                <p class="small mb-0">
-                  There are many great RMTs in the area however as a dual-registered provider, RMT/R.Kin, I look at problems from two distinct points of view; one being the pain relief aspect and another being the preventative aspect. Therefore, I believe that I have the advantage when it comes to a more holistic therapy.<br><br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
-          <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/lucia_suarez_castro">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lucia_suarez_castro.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lucia_suarez_castro.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lucia_suarez_castro.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/lucia_suarez_castro.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Lucia Suarez Castro - Registered Massage Therapy">
             </a>
@@ -646,23 +630,7 @@
               </div>
           </div>
           <!-- End Item -->
-            
-          <!-- Item -->
-          <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/thomas_murphy">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/thomas_murphy.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/thomas_murphy.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/thomas_murphy.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/thomas_murphy.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Thomas Murphy - Registered Massage Therapy">
-            </a>
-              <div class="py-3">
-                <a href="../profiles/thomas_murphy">
-                  <h4 class="h6 text-dark mb-0">Thomas Murphy</h4>
-                </a>
-                <p class="small mb-0">
-                  As a RMT, I work with patients to manage stress, pain, and injury, and provide the education and motivation to live life to the fullest. I am always in the process of learning and developing my practice to meet my patient’s needs. Each new patient I take on is a journey of discovery and exploration, and I am committed to helping patient’s achieve their goals.<br><br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-            
+
           <!-- Item -->
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/mozhgan_roshan_ravan">
