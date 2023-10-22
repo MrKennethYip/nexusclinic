@@ -371,6 +371,71 @@
       </div>
     </div>
     <!-- Service Item End -->
+
+    <!-- Service Item Start -->
+     <div class="scrolltag" id="indian_head_massage"></div>
+     <div class="position-relative">
+      <div class="container u-space-1-bottom">
+        <div class="row align-items-center">
+          <div class="col-lg-7 mb-9 mb-lg-0">
+            <div class="pr-lg-4 mb-7">
+              <h2 class="text-primary">
+                <span class="font-weight-bold">Indian Head Massage</span>
+              </h2>
+              <p>Relaxed and soothing to the scalp, face, head and neck with NO use of oil in the hair.  Indian head massage is the most substantial and successful system that benefits the whole body in a physical, mental and energy aspect.</p><br>
+              <p>Traditionally this type of massage, or “shiro abhyanga”, starts with application of oil to the head “shirodara or shirahsheka”. Vigorous massage techniques through the scalp are used, pulling the oil through the strands of hair, and following with massage of the face, neck and shoulders. When this massage was introduced in the western countries, these techniques became more relaxed and soothing to the scalp and face with no use of oil in the hair, However, the many benefits remain the same.</p><br>
+
+              <span><strong>Great for the following:</strong></span>
+
+              <table class="table table-borderless text-black">
+                <tbody>
+                  <tr>
+                    <td scope="row">
+                      <ul>
+                        <li>Stimulates the central nervous system</li>
+                        <li>Reduces headaches, migraines, neck/back pain</li>
+                        <li>Stimulates hair growth and strength</li>
+                        <li>Clears sinuses and helps drain the lymphatic system</li>
+                      </ul>
+                    </td>
+                    <td>
+                      <ul>
+                        <li>Improves blood circulation increasing oxygen supply to the brain and drains away accumulated toxins</li>
+                        <li>Relieves symptoms of depression, anxiety, tiredness, stress, resulting in greater mental alertness and concentration</li>
+                        <li>Relieves sleeplessness, restlessness and insomnia</li>
+                        <li>Balances the renewal of energy chakras in the body</li>
+                      </ul>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+
+            </div>
+          </div>
+
+          <div class="col-lg-5 position-relative">
+            <div id="video" class="u-video-player">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/massage/med/indian_head_massage.jpg" alt="Massage - Indian Head Massage">
+
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe id="youTubeVideo" class="embed-responsive-item"
+                        data-src="//www.youtube.com/embed/0qisGSwZym4?autoplay=1&showinfo=0&rel=0">
+                </iframe>
+              </div>
+            </div>
+
+            <figure class="w-100 u-content-centered">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 1109.8 797.1" style="enable-background:new 0 0 1109.8 797.1;" xml:space="preserve">
+              <path class="u-fill-primary" opacity=".1" d="M105.1,267.1C35.5,331.5-3.5,423,0.3,517.7c5.8,145.3,110.7,314.2,588,273.1c753-64.7,481.3-358.3,440.4-398.3
+                c-4-3.9-7.9-7.9-11.7-12L761.9,104.8C639.4-27.6,432.5-35.6,299.9,87L105.1,267.1z"/>
+            </svg>
+            </figure>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Service Item End -->
     </div>
 
     <!-- Hero Section -->
@@ -450,7 +515,40 @@
                 </div>
               </div>
               <!-- End Friends List -->
-                
+
+              <!-- Friends List -->
+                <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
+                  <div class="card-body p-3">
+                    <div class="text-center">
+                      <div class="media-body p-1">
+                        <h2 class="p-1" style="color:#002A3A;">
+                          <strong class="font-weight-bold text-white">INDIAN HEAD MASSAGE</strong>
+                        </h2>
+                        <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                        <!-- Content -->
+                        <div class="u-space-1-top">
+                          <ul class="list-unstyled">
+                            <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>80 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$95 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$115 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          </ul>
+                        </div>
+                        <!-- End Content -->
+                      </div>
+                    </div>
+
+                    <HR>
+
+                    <div class="media-body p-3 text-center">
+                      <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Indian Head Massage<span class="fa fa-angle-right ml-2"></span></button></a>
+                    </div>
+
+                  </div>
+                </div>
+                <!-- End Friends List -->
             </div>
           </div>
           <!-- End Pricing 1 Section -->
