@@ -508,9 +508,9 @@
                         <!-- Content -->
                         <div class="u-space-1-top">
                           <ul class="list-unstyled">
-                            <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$80 + HST</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$95 + HST</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$115 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$80</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$95</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$115</strong></li>
                             <li class="small text-white"><em>**Service is covered under Acupuncture insurance**</em></li>
                             <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           </ul>
