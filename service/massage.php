@@ -593,7 +593,7 @@
                   <h4 class="h6 text-dark mb-0">Kyle Ngo</h4>
                 </a>
                 <p class="small mb-0">
-                  My goal with every client is to help them better understand their bodies and provide them the tools necessary to achieve their treatment goals. Client education is an important part of my practice and I feel proud when a client tells me that my work has made a difference in their life.<br><br><br>
+                  My goal with every client is to help them better understand their bodies and provide them the tools necessary to achieve their treatment goals. Client education is an important part of my practice and I feel proud when a client tells me that my work has made a difference in their life.<br><br><br><br>
                 </p>
               </div>
           </div>
@@ -689,7 +689,7 @@
                   <h4 class="h6 text-dark mb-0">Julian Tenyenhuis</h4>
                 </a>
                 <p class="small mb-0">
-                  I am persistent and genuinely want to help my patients reach their health goals. I love to continue my education, do extra research and adjust my approach to get results in my treatments. I love seeing people smile and laugh so I may also work to get these kinds of results too.<br>
+                  I am persistent and genuinely want to help my patients reach their health goals. I love to continue my education, do extra research and adjust my approach to get results in my treatments. I love seeing people smile and laugh so I may also work to get these kinds of results too.<br><br>
                 </p>
               </div>
           </div>
