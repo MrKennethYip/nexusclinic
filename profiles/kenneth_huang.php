@@ -185,7 +185,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I specialize in Trigger Point Therapy, Cupping Treatments as well as providing exercises for home care. I believe that a treatment is the most effective when combining both therapy and homecare exercises to help meet your personalized and specific health goals.</p>
+              <p>I specialize in tripper point therapy, joint mobilization for joint and spinal restrictions/stiffness and numbness/tingling caused by nerve issues. With the majority of clients seeking my help are those that work in front of a computer, it is not surprising that back and neck stiffness caused by poor posture is a leading cause of many people's issues.</p>
               <!-- End Text -->
 
               <!-- Title -->
