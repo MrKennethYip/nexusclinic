@@ -415,7 +415,7 @@
             <a class="cbp-caption" href="../profiles/felix_chu">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/felix_chu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Felix Chu - Chiropractor">
             </a>
-              <div class="py-3">
+              <div class="py-3 blurb">
                 <a href="../profiles/felix_chu">
                   <h4 class="h6 text-dark mb-0">Dr. Felix Chu</h4>
                 </a>
@@ -431,7 +431,7 @@
             <a class="cbp-caption" href="../profiles/melvin_liu">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/melvin_liu.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/melvin_liu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/melvin_liu.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/melvin_liu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Melvin Liu - Chiropractor">
             </a>
-              <div class="py-3">
+              <div class="py-3 blurb">
                 <a href="../profiles/melvin_liu">
                   <h4 class="h6 text-dark mb-0">Dr. Melvin Liu</h4>
                 </a>
@@ -447,7 +447,7 @@
             <a class="cbp-caption" href="../profiles/frank_xue">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/frank_xue.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/frank_xue.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/frank_xue.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/frank_xue.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Frank Xue - Chiropractor">
             </a>
-              <div class="py-3">
+              <div class="py-3 blurb">
                 <a href="../profiles/frank_xue">
                   <h4 class="h6 text-dark mb-0">Dr. Frank Xue</h4>
                 </a>
@@ -463,7 +463,7 @@
             <a class="cbp-caption" href="../profiles/catherine_chu">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/catherine_chu.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/catherine_chu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/catherine_chu.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/catherine_chu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Catherine Chu - Chiropractor, Registered Massage Therapist">
             </a>
-              <div class="py-3">
+              <div class="py-3 blurb">
                 <a href="../profiles/catherine_chu">
                   <h4 class="h6 text-dark mb-0">Dr. Catherine Chu</h4>
                 </a>
@@ -479,7 +479,7 @@
             <a class="cbp-caption" href="../profiles/karen_ngo">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/karen_ngo.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Karen Ngo - Chiropractor, Registered Massage Therapist">
             </a>
-              <div class="py-3">
+              <div class="py-3 blurb">
                 <a href="../profiles/karen_ngo">
                   <h4 class="h6 text-dark mb-0">Dr. Karen Ngo</h4>
                 </a>

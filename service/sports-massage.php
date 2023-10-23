@@ -529,7 +529,7 @@
             <a class="cbp-caption" href="../profiles/cassandra_kong">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/cassandra_kong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Cassandra Kong - Registered Massage Therapy">
             </a>
-              <div class="py-3">
+              <div class="py-3 blurb">
                 <a href="../profiles/cassandra_kong">
                   <h4 class="h6 text-dark mb-0">Cassandra Kong</h4>
                 </a>
@@ -545,7 +545,7 @@
             <a class="cbp-caption" href="../profiles/felix_chu">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/felix_chu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Felix Chu - Registered Massage Therapist">
             </a>
-              <div class="py-3">
+              <div class="py-3 blurb">
                 <a href="../profiles/felix_chu">
                   <h4 class="h6 text-dark mb-0">Dr. Felix Chu</h4>
                 </a>
@@ -561,7 +561,7 @@
             <a class="cbp-caption" href="../profiles/rob_hunter">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/rob_hunter.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/rob_hunter.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/rob_hunter.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/rob_hunter.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Rob Hunter - Registered Massage Therapy">
             </a>
-              <div class="py-3">
+              <div class="py-3 blurb">
                 <a href="../profiles/rob_hunter">
                   <h4 class="h6 text-dark mb-0">Rob Hunter</h4>
                 </a>

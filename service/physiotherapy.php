@@ -671,7 +671,7 @@
             <a class="cbp-caption" href="../profiles/patrick_dungao">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/patrick_dungao.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Patrick Dungao - Physiotherapist">
             </a>
-              <div class="py-3">
+              <div class="py-3 blurb">
                 <a href="../profiles/patrick_dungao">
                   <h4 class="h6 text-dark mb-0">Patrick Dungao</h4>
                 </a>
@@ -687,7 +687,7 @@
             <a class="cbp-caption" href="../profiles/lindsay_hill">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/lindsay_hill.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/lindsay_hill.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/lindsay_hill.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/lindsay_hill.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Lindsay Hill - Physiotherapist">
             </a>
-              <div class="py-3">
+              <div class="py-3 blurb">
                 <a href="../profiles/lindsay_hill">
                   <h4 class="h6 text-dark mb-0">Lindsay Hill</h4>
                 </a>
@@ -703,7 +703,7 @@
               <a class="cbp-caption" href="../profiles/victoria_kwong">
                 <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/victoria_kwong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Victoria Kwong - Physiotherapist">
               </a>
-              <div class="py-3">
+              <div class="py-3 blurb">
                 <a href="../profiles/victoria_kwong">
                   <h4 class="h6 text-dark mb-0">Victoria Kwong</h4>
                 </a>

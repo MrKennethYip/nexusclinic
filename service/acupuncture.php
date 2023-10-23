@@ -682,7 +682,7 @@
             <a class="cbp-caption" href="../profiles/matt_walton">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/matt_walton.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Matt Walton - Acupuncture">
             </a>
-              <div class="py-3">
+              <div class="py-3 blurb">
                 <a href="../profiles/matt_walton">
                   <h4 class="h6 text-dark mb-0">Matt Walton</h4>
                 </a>
@@ -698,7 +698,7 @@
             <a class="cbp-caption" href="../profiles/aimee_leung">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/aimee_leung.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/aimee_leung.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/aimee_leung.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/aimee_leung.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Aimee Leung - Acupuncture">
             </a>
-              <div class="py-3">
+              <div class="py-3 blurb">
                 <a href="../profiles/aimee_leung">
                   <h4 class="h6 text-dark mb-0">Aimee Leung</h4>
                 </a>

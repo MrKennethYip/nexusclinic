@@ -8530,3 +8530,7 @@ button:focus {
 .height-250 {
   height: 15.625rem;
 }
+
+.py-3.blurb {
+  height: 260px
+}
