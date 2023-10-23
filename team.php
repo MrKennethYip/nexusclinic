@@ -10,7 +10,9 @@
   <!-- Common Header -->
   <?php include('includes/common-header.php') ?>
   <!-- End Common Header -->
-  
+  <style>
+  .py-3 {height: 106px}
+  </style>
 </head>
 
 <body>
@@ -416,7 +418,7 @@
                   <h4 class="h6 text-dark mb-0">Gopinath Durairaj</h4>
                 </a>
                 <p class="small mb-0">
-                  Registered Massage Therapist<br><br>
+                  Registered Massage Therapist<br>
                 </p>
               </div>
           </div>
@@ -432,7 +434,7 @@
                   <h4 class="h6 text-dark mb-0">Joshua Ching</h4>
                 </a>
                 <p class="small mb-0">
-                  Registered Massage Therapist<br><br>
+                  Registered Massage Therapist<br>
                 </p>
               </div>
           </div>
@@ -496,7 +498,7 @@
                   <h4 class="h6 text-dark mb-0">Miki Dawit</h4>
                 </a>
                 <p class="small mb-0">
-                  Registered Massage Therapist<br><br>
+                  Registered Massage Therapist<br>
                 </p>
               </div>
           </div>
