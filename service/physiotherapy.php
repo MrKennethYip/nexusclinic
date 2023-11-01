@@ -714,6 +714,21 @@
             </div>
           <!-- End Item -->
 
+          <!-- Item -->
+            <div class="cbp-item physio">
+              <a class="cbp-caption" href="../profiles/trang_le">
+                <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/trang_le.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Trang Le - Physiotherapist">
+              </a>
+                <div class="py-3 blurb">
+                  <a href="../profiles/trang_le">
+                    <h4 class="h6 text-dark mb-0">Trang Le</h4>
+                  </a>
+                  <p class="small mb-0">
+                     I am proud of my ability to share and utilize my knowledge and experienced manual therapy skills to enhance patient outcomes. My belief about health is always promoting activity and engaging in healthy lifestyle habits.<br>
+                  </p>
+                </div>
+            </div>
+          <!-- End Item -->
         </div>
         <!-- End Content -->
       </div>       
