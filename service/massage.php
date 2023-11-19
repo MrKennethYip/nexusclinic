@@ -936,7 +936,23 @@
               </div>
           </div>
           <!-- End Item -->
-          
+
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/peter_gallis">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/peter_gallis.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/peter_gallis.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/peter_gallis.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/peter_gallis.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Peter Gallis - Registered Massage Therapy">
+            </a>
+              <div class="py-3 blurb">
+                <a href="../profiles/peter_gallis">
+                  <h4 class="h6 text-dark mb-0">Peter Gallis</h4>
+                </a>
+                <p class="small mb-0">
+                  I take time to understand my patients goals and what it takes to achieve them. I am well equipped to handle a variety of treatment cases, and I always aim to educate my patients on how to better themselves through self- care and exercise.<br><br><br><br><br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
           <!-- Item -->
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/cassandra_kong">
