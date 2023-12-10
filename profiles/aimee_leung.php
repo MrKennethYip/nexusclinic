@@ -123,9 +123,18 @@
 
                 <!-- User -->
                   <div class="card-header border-0 py-3 d-flex align-items-center">
-                    <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/tuina-massage-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                    <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/shiatsu_tuina_massage.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                     <div>
                       <span class="d-block text-dark small font-weight-bold">Shiatsu/Tuina Massage</span>
+                    </div>
+                  </div>
+                <!-- End User -->
+
+                <!-- User -->
+                  <div class="card-header border-0 py-3 d-flex align-items-center">
+                    <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/cosmetic_acupuncture.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                    <div>
+                      <span class="d-block text-dark small font-weight-bold">Cosmetic Acupuncture</span>
                     </div>
                   </div>
                 <!-- End User -->
