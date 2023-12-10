@@ -486,7 +486,7 @@
                   </h2>
                   <p>Telehealth is the use of technology to provide real-time remote access to healthcare order. It complies with all regulations of the respective professional colleges.</p><br>
 
-                  <p><strong>Services Offered:</strong> Virtual Appointments for Chiro, Physio, Osteo and Acupuncture</p>
+                  <p><strong>Services Offered:</strong> Virtual Appointments for Physiotherapy</p>
 
                   <a href="service/telehealth"><button type="button" class="btn btn-sm btn-block u-btn-primary--air u-btn-primary transition-3d-hover">Learn about Telehealth<span class="fa fa-angle-right ml-2"></span></button></a>
 

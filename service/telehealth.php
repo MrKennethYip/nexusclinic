@@ -46,7 +46,7 @@
 
     <!-- Telehealth Intro Section -->
     <div class="container u-space-2">  
-      <h4>We are currently offering <strong class="text-primary"><u>Virtual Telehealth Sessions</u></strong> with our Chiropractors, Physiotherapists and Acupuncturists.<br><br> These sessions can support you to continue your health journey in the comfort of your home and help decrease stress during these challenging times.</h4>
+      <h4>We are currently offering <strong class="text-primary"><u>Virtual Telehealth Sessions</u></strong> with our Physiotherapists.<br><br> These sessions can support you to continue your health journey in the comfort of your home and help decrease stress during these challenging times.</h4>
     </div>
     <!-- End Telehealth Intro Section -->
 
@@ -66,7 +66,7 @@
             <div class="row align-items-center">
               <div class="col-lg-7 mb-9 mb-lg-0">
                 <div class="pr-lg-4 mb-7">
-                  <p>Telehealth is the use of technology to provide real-time remote access to healthcare. Nexus Massage & Rehab utilizes Phzio Telehealth platform to provide secure, private healthcare in the comfort of your home.</p>
+                  <p>Telehealth is the use of technology to provide real-time remote access to healthcare. Nexus Massage & Rehab utilizes Zoom platform to provide Telehealth services in the comfort of your home.</p>
                 </div>
               </div>
 
@@ -146,10 +146,10 @@
           <div class="col-lg-7 mb-9 mb-lg-0">
             <div class="pr-lg-4 mb-7">
               <h2 class="text-primary"> 
-                <span class="font-weight-bold">Virtual Acupuncture Consultations</span>
+                <span class="font-weight-bold">Virtual Consultations</span>
               </h2>
               <p>Virtual Acupuncture Consultations are <strong>15 minutes</strong> long and are video-based.</p>
-              <p>Our Acupuncturists can answer questions on how Traditional Chinese Medicine can help you cope with stress, anxiety, cold and flu symptoms, and how to balance your immune system during these challenging times</p><br>
+              <p>Not sure if Telehealth is right for you? Try it out for free with one of our practitioners to get a good feel of it!</p><br>
 
             </div>
           </div>
@@ -195,39 +195,6 @@
                   <div class="text-center">
                     <div class="media-body p-1">
                       <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold text-white">CHIROPRACTIC</strong>
-                      </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
-                      <!-- Content -->
-                      <div class="u-space-1-top">
-                        <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$130</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">20 Min Virtual Follow-Up - <strong>$85</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">40 Min Virtual Follow-Up - <strong>$110</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Virtual Follow-Up - <strong>$140</strong></li>
-                        </ul>
-                      </div>
-                      <!-- End Content --> 
-                    </div>
-                  </div>
-
-                  <HR>
-
-                  <div class="media-body p-3 text-center">
-                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Chiro<span class="fa fa-angle-right ml-2"></span></button></a>
-                  </div>
-
-                </div>
-              </div>
-              <!-- End Friends List -->
-
-              <!-- Friends List -->
-              <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
-                <div class="card-body p-3">
-                  <div class="text-center">
-                    <div class="media-body p-1">
-                      <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold text-white">PHYSIOTHERAPY</strong>
                       </h2>
                       <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
@@ -238,7 +205,6 @@
                           <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$130</strong></li>
                           <li class="u-pricing-v2__list-item py-1">20 Min Virtual Follow-Up - <strong>$85</strong></li>
                           <li class="u-pricing-v2__list-item py-1">40 Min Virtual Follow-Up - <strong>$110</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Virtual Follow-Up - <strong>$140</strong></li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -249,79 +215,6 @@
 
                   <div class="media-body p-3 text-center">
                     <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Physio<span class="fa fa-angle-right ml-2"></span></button></a>
-                  </div>
-
-                </div>
-              </div>
-              <!-- End Friends List -->
-
-            </div>
-          </div>
-          <!-- End Pricing 1 Section -->
-
-          <!-- Pricing 1 Section -->
-          <div class="container">
-            <!-- Conditions Section -->
-            <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-2-bottom">
-
-              <!-- Friends List -->
-              <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
-                <div class="card-body p-3">
-                  <div class="text-center">
-                    <div class="media-body p-1">
-                      <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold text-white">ACUPUNCTURE</strong><br><br>
-                      </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
-                      <!-- Content -->
-                      <div class="u-space-1-top">
-                        <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="u-pricing-v2__list-item py-3 blurb">&nbsp</li>
-                        </ul>
-                      </div>
-                      <!-- End Content --> 
-                    </div>
-                  </div>
-
-                  <HR>
-
-                  <div class="media-body p-3 text-center">
-                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Acupuncture<span class="fa fa-angle-right ml-2"></span></button></a>
-                  </div>
-
-                </div>
-              </div>
-              <!-- End Friends List -->
-                
-              <!-- Friends List -->
-              <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
-                <div class="card-body p-3">
-                  <div class="text-center">
-                    <div class="media-body p-1">
-                      <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold text-white">HERBS & NUTRITION</strong>
-                      </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
-                      <!-- Content -->
-                      <div class="u-space-1-top">
-                        <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$100</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">30 Min Virtual Follow-Up - <strong>$85</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="small text-white py-1"><em>**Cannot be claimed under Acupuncture Insurance**</em></li>
-                        </ul>
-                      </div>
-                      <!-- End Content --> 
-                    </div>
-                  </div>
-
-                  <HR>
-
-                  <div class="media-body p-3 text-center">
-                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Nutrition Apt<span class="fa fa-angle-right ml-2"></span></button></a>
                   </div>
 
                 </div>
@@ -347,7 +240,6 @@
         <!-- Filter -->
         <ul id="filterControls" class="list-inline cbp-l-filters-alignRight text-center">
           <li class="list-inline-item cbp-filter-item cbp-filter-item-active u-cubeportfolio__item" data-filter="*">ALL</li>
-          <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".chiro">Chiropractor</li>
           <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".physio">Physiotherapist</li>
           <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".acupuncture">Registered Acupuncturist</li>
         </ul>
@@ -383,23 +275,7 @@
               </div>
           </div>
           <!-- End Item -->
-            
-          <!-- Item -->
-          <div class="cbp-item acupuncture">
-            <a class="cbp-caption" href="../profiles/matt_walton">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/matt_walton.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Matt Walton - Registered Massage Therapy">
-            </a>
-              <div class="py-3 blurb">
-                <a href="../profiles/matt_walton">
-                  <h4 class="h6 text-dark mb-0">Matt Walton</h4>
-                </a>
-                <p class="small mb-0">
-                  Registered Acupuncturist<br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-            
+
           <!-- Item -->
           <div class="cbp-item physio">
             <a class="cbp-caption" href="../profiles/victoria_kwong">
@@ -417,16 +293,48 @@
           <!-- End Item -->
 
           <!-- Item -->
-          <div class="cbp-item rmt chiro">
-            <a class="cbp-caption" href="../profiles/karen_ngo">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/karen_ngo.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Karen Ngo - Chiropractor, Registered Massage Therapist">
+          <div class="cbp-item physio">
+            <a class="cbp-caption" href="../profiles/lindsay_hill">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/lindsay_hill.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/lindsay_hill.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/lindsay_hill.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/lindsay_hill.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Lindsay Hill - Physiotherapist">
             </a>
               <div class="py-3 blurb">
-                <a href="../profiles/karen_ngo">
-                  <h4 class="h6 text-dark mb-0">Dr. Karen Ngo</h4>
+                <a href="../profiles/lindsay_hill">
+                  <h4 class="h6 text-dark mb-0">Lindsay Hill</h4>
                 </a>
                 <p class="small mb-0">
-                  Chiropractor, Registered Massage Therapist, Acupuncture Provider
+                  Physiotherapist<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+            <div class="cbp-item physio">
+              <a class="cbp-caption" href="../profiles/trang_le">
+                <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/trang_le.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Trang Le - Physiotherapist">
+              </a>
+                <div class="py-3 blurb">
+                  <a href="../profiles/trang_le">
+                    <h4 class="h6 text-dark mb-0">Trang Le</h4>
+                  </a>
+                  <p class="small mb-0">
+                  Physiotherapist<br><br>
+                  </p>
+                </div>
+            </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item acupuncture">
+            <a class="cbp-caption" href="../profiles/matt_walton">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/matt_walton.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Matt Walton - Registered Massage Therapy">
+            </a>
+              <div class="py-3 blurb">
+                <a href="../profiles/matt_walton">
+                  <h4 class="h6 text-dark mb-0">Matt Walton</h4>
+                </a>
+                <p class="small mb-0">
+                  Registered Acupuncturist<br><br>
                 </p>
               </div>
           </div>
@@ -524,7 +432,7 @@
             <div id="FAQZero" class="collapse" aria-labelledby="FAQHeadingZero" data-parent="#FAQCollapse">
               <div class="card-body px-4">
                 At this time, not all of Nexus Massage & Rehab practitioners are offering telehealth services.<br><br>
-                <strong>Chiropractic & Physiotherapy Service:</strong> If your practitioner who you normally see is not available, you can book in to see another physiotherapist or chiropractor.<br><br>
+                <strong>Physiotherapy Service:</strong> If your practitioner who you normally see is not available, you can book in to see another physiotherapist.<br><br>
                 
                 If you have specific questions for your practitioner, please email your practitioner about any specific concerns or issues.
               </div>
@@ -545,28 +453,6 @@
             <div id="FAQFive" class="collapse" aria-labelledby="FAQHeadingFive" data-parent="#FAQCollapse">
               <div class="card-body px-4">
                 Massage services are not available on Telehealth as it is difficult to offer this type of treatment virtually.
-              </div>
-            </div>
-          </div>
-          <!-- End Card -->
-
-          <!-- Card -->
-          <div class="card mb-3 u-card-collapse">
-            <div class="card-header px-4" id="FAQHeadingSix">
-              <div class="collapsed" data-toggle="collapse" data-target="#FAQSix" aria-expanded="false" aria-controls="FAQSix" role="button">
-                <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                  I am an existing Acupuncture patient, why would I book for a Virtual Acupuncture Consultation?
-                  <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                </h3>
-              </div>
-            </div>
-            <div id="FAQSix" class="collapse" aria-labelledby="FAQHeadingSix" data-parent="#FAQCollapse">
-              <div class="card-body px-4">
-                We currently have two new and amazing acupuncturists who are very passionate in helping people improve their lives in a very wholesome way. This is a great way to meet our new practitioners and learn how you can achieve better health from your own home!<br><br>
-
-                As this is a challenging time for everyone, our acupuncturists are offering free advice on how to boost your immune system, relieve a cold with herbs and nutrition, decrease stress and how to stay healthy during the pandemic.<br><br>
-
-                We currently do not offer follow-up sessions with our new acupuncturists because they have not completed a full assessment with you, thus cannot give you a comprehensive recommendation based on your health needs.
               </div>
             </div>
           </div>
@@ -638,9 +524,7 @@
             </div>
             <div id="FAQTwo-alt" class="collapse" aria-labelledby="FAQHeadingTwo-alt" data-parent="#FAQCollapse">
               <div class="card-body px-4">
-                All you need is internet, a computer / laptop, or a phone that has a working camera!<br><br>
-
-                If you are doing exercises, you may need some open space, a yoga mat, and exercise equipment (depending on your current treatment plan).
+               You should setup in a well lit and quiet room. You will need internet, a computer / laptop, or a phone that has a working camera. If you are doing exercises, you may need some open space, a yoga mat, and exercise equipment (depending on your current treatment plan).
               </div>
             </div>
           </div>
@@ -690,10 +574,7 @@
       "name": "What if my practitioner is not available for Virtual Sessions?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "At this time, not all of Nexus Massage & Rehab practitioners are offering telehealth services.<br><br>
-                <strong>Chiropractic & Physiotherapy Service:</strong> If your practitioner who you normally see is not available, you can book in to see another physiotherapist or chiropractor.<br><br>
-                
-                If you have specific questions for your practitioner, please email your practitioner about any specific concerns or issues."
+        "text": "At this time, not all of Nexus Massage & Rehab practitioners are offering telehealth services. Physiotherapy Service: If your practitioner who you normally see is not available, you can book in to see another physiotherapist. If you have specific questions for your practitioner, please email your practitioner about any specific concerns or issues."
       }
     }, {
       "@type": "Question",
@@ -701,17 +582,6 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Massage services are not available on Telehealth as it is difficult to offer this type of treatment virtually."
-      }
-    }, {
-      "@type": "Question",
-      "name": "I am an existing Acupuncture patient, why would I book for a Virtual Acupuncture Consultation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We currently have two new and amazing acupuncturists who are very passionate in helping people improve their lives in a very wholesome way. This is a great way to meet our new practitioners and learn how you can achieve better health from your own home!<br><br>
-
-        As this is a challenging time for everyone, our acupuncturists are offering free advice on how to boost your immune system, relieve a cold with herbs and nutrition, decrease stress and how to stay healthy during the pandemic.<br><br>
-
-        We currently do not offer follow-up sessions with our new acupuncturists because they have not completed a full assessment with you, thus cannot give you a comprehensive recommendation based on your health needs."
       }
     }, {
       "@type": "Question",
@@ -725,22 +595,28 @@
       "name": "What payment methods do you accept?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text":"We accept credit card payments and e-transfers. An invoice will be sent to you via email for credit card payment collection. If you are unable to pay with credit card, you can pay with e-transfer."}
+        "text":"We accept credit card payments and e-transfers. An invoice will be sent to you via email for credit card payment collection. If you are unable to pay with credit card, you can pay with e-transfer."
+        }
+      }, {
+      "@type": "Question",
+      "name": "Do you offer Direct Billing for Telehealth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"Not all insurance providers currently accept Telehealth billings. We can only offer direct billing to insurance providers who do accept Telehealth. Please call your insurance provider to confirm your coverage prior to making an appointment."
+        }
       }, {
       "@type": "Question",
       "name": "What do I need to start my Virtual Session?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text":"Not all insurance providers currently accept Telehealth billings. We can only offer direct billing to insurance providers who do accept Telehealth. Please call your insurance provider to confirm your coverage prior to making an appointment."}
+        "text":"You should setup in a well lit and quiet room. You will need internet, a computer / laptop, or a phone that has a working camera. If you are doing exercises, you may need some open space, a yoga mat, and exercise equipment (depending on your current treatment plan)."}
       }, {
       "@type": "Question",
-      "name": "Do I have to be referred by a doctor to get massage therapy treatments?",
+      "name": "Do I need to download a program to operate these Virtual Sessions?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text":"All you need is internet, a computer / laptop, or a phone that has a working camera!<br><br>
-
-        If you are doing exercises, you may need some open space, a yoga mat, and exercise equipment (depending on your current treatment plan)."}
-    }]
+        "text":"No, you don’t need to download anything to start these sessions. Just click the link that is emailed to you and you can get started right away!"}
+      }]
   }
 </script>
 
