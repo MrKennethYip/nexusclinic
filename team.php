@@ -600,6 +600,38 @@
          </div>
          <!-- End Item -->
 
+        <!-- Item -->
+         <div class="cbp-item rmt">
+           <a class="cbp-caption" href="profiles/shakib_khan">
+             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/shakib_khan.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/shakib_khan.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/shakib_khan.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/shakib_khan.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Shakib Khan - Registered Massage Therapy">
+           </a>
+             <div class="py-3 blurb">
+               <a href="profiles/shakib_khan">
+                 <h4 class="h6 text-dark mb-0">Shakib Khan</h4>
+               </a>
+               <p class="small mb-0">
+                 Registered Massage Therapist<br><br>
+               </p>
+             </div>
+         </div>
+         <!-- End Item -->
+
+        <!-- Item -->
+         <div class="cbp-item rmt">
+           <a class="cbp-caption" href="profiles/yi_gao">
+             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yi_gao.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yi_gao.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yi_gao.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/yi_gao.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Yi Gao - Registered Massage Therapy">
+           </a>
+             <div class="py-3 blurb">
+               <a href="profiles/yi_gao">
+                 <h4 class="h6 text-dark mb-0">Yi Gao</h4>
+               </a>
+               <p class="small mb-0">
+                 Registered Massage Therapist<br><br>
+               </p>
+             </div>
+         </div>
+         <!-- End Item -->
+
           <!-- Item
           <div class="cbp-item">
             <a class="cbp-caption" href="careers">

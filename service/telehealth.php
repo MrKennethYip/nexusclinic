@@ -148,7 +148,7 @@
               <h2 class="text-primary"> 
                 <span class="font-weight-bold">Virtual Consultations</span>
               </h2>
-              <p>Virtual Acupuncture Consultations are <strong>15 minutes</strong> long and are video-based.</p>
+              <p>Virtual Consultations are <strong>15 minutes</strong> long and are video-based.</p>
               <p>Not sure if Telehealth is right for you? Try it out for free with one of our practitioners to get a good feel of it!</p><br>
 
             </div>
