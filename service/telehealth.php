@@ -293,22 +293,6 @@
           <!-- End Item -->
 
           <!-- Item -->
-          <div class="cbp-item physio">
-            <a class="cbp-caption" href="../profiles/lindsay_hill">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/lindsay_hill.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/lindsay_hill.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/lindsay_hill.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/lindsay_hill.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Lindsay Hill - Physiotherapist">
-            </a>
-              <div class="py-3 blurb">
-                <a href="../profiles/lindsay_hill">
-                  <h4 class="h6 text-dark mb-0">Lindsay Hill</h4>
-                </a>
-                <p class="small mb-0">
-                  Physiotherapist<br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
             <div class="cbp-item physio">
               <a class="cbp-caption" href="../profiles/trang_le">
                 <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/trang_le.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Trang Le - Physiotherapist">
