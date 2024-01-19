@@ -827,22 +827,6 @@
             
           <!-- Item -->
           <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/osei_tawia">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/osei_tawia.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/osei_tawia.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/osei_tawia.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/osei_tawia.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Osei Tawia - Registered Massage Therapy">
-            </a>
-              <div class="py-3 blurb">
-                <a href="../profiles/osei_tawia">
-                  <h4 class="h6 text-dark mb-0">Osei Tawia</h4>
-                </a>
-                <p class="small mb-0">
-                  I am proud of being able to help clients reach their goal from the plan that we create. I enjoy getting to know my clients, having an understanding on what they are going through and being there every step of the way on their health journey. I am willing to do what it takes to help my clients reach their health goals.<br><br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-            
-          <!-- Item -->
-          <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/matthew_dunning">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matthew_dunning.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matthew_dunning.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matthew_dunning.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/matthew_dunning.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Matthew Dunning - Registered Massage Therapy">
             </a>
