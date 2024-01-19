@@ -142,7 +142,7 @@
                   <div class="ml-2">
                     <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>2:15pm - 9pm</p>
                     <p class="text-dark"><strong>Fri:</strong><span class="ml-3"></span>2:15pm - 9pm</p>
-                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>2:15pm - 7pm</p>
+                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>8am - 7pm</p>
                   </div>
                 </span>
                 <!-- End User -->
