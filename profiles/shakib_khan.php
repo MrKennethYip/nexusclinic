@@ -49,9 +49,9 @@
 
           <ul class="list-inline">
             <li class="list-inline-item">
-              <a class="u-text-light" href="mailto:shakib@nexushealthclinic.com">
+              <a class="u-text-light" href="mailto:shak@nexushealthclinic.com">
                 <span class="far fa-envelope mr-2"></span>
-                shakib@nexushealthclinic.com
+                shak@nexushealthclinic.com
               </a>
             </li>
           </ul>
@@ -98,7 +98,7 @@
                   <a class="btn btn-block btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book/" target="_blank" onclick="handleClick('sidebarBtn');">Book Practitioner<span class="fa fa-angle-right ml-2"></span></a>
                   <br>
 
-                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:shakib@nexushealthclinic.com">
+                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:shak@nexushealthclinic.com">
                     <span class="far fa-envelope mr-2"></span>
                     Send a Message
                   </a>
@@ -140,8 +140,9 @@
                 <span class="d-flex align-items-start">
 
                   <div class="ml-2">
-                    <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>2:15pm - 7pm</p>
-                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>2:15pm - 7pm</p>
+                    <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>2:15pm - 9pm</p>
+                    <p class="text-dark"><strong>Wed:</strong><span class="ml-3"></span>2:15pm - 9pm</p>
+                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>8am - 7pm</p>
                     <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>8am - 7pm</p>
                   </div>
                 </span>
