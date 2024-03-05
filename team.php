@@ -153,22 +153,6 @@
           <!-- End Item -->
 
           <!-- Item -->
-          <div class="cbp-item rmt">
-            <a class="cbp-caption" href="profiles/kyle_ngo">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kyle_ngo.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kyle_ngo.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kyle_ngo.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/kyle_ngo.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Kyle Ngo - Registered Massage Therapy">
-            </a>
-              <div class="py-3 blurb">
-                <a href="profiles/kyle_ngo">
-                  <h4 class="h6 text-dark mb-0">Kyle Ngo</h4>
-                </a>
-                <p class="small mb-0">
-                  Registered Massage Therapist, Acupuncture Provider
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
           <div class="cbp-item acupuncture">
             <a class="cbp-caption" href="profiles/matt_walton">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/matt_walton.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Matt Walton - Registered Acupuncturist">
@@ -439,23 +423,7 @@
               </div>
           </div>
           <!-- End Item -->
-            
-          <!-- Item -->
-          <div class="cbp-item chiro">
-            <a class="cbp-caption" href="profiles/catherine_chu">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/catherine_chu.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/catherine_chu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/catherine_chu.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/catherine_chu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Catherine Chu - Chiropractor">
-            </a>
-              <div class="py-3 blurb">
-                <a href="profiles/catherine_chu">
-                  <h4 class="h6 text-dark mb-0">Dr. Catherine Chu</h4>
-                </a>
-                <p class="small mb-0">
-                  Chiropractor, Acupuncture Provider<br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-  
+
           <!-- Item -->
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="profiles/miki_dawit">
@@ -483,22 +451,6 @@
                 </a>
                 <p class="small mb-0">
                   Registered Acupuncturist<br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-              
-          <!-- Item -->
-          <div class="cbp-item osteopath">
-            <a class="cbp-caption" href="profiles/justine_bullen">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/justine_bullen.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/justine_bullen.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/justine_bullen.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/justine_bullen.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Justine Bullen - Osteopath">
-            </a>
-              <div class="py-3 blurb">
-                <a href="profiles/justine_bullen">
-                  <h4 class="h6 text-dark mb-0">Justine Bullen</h4>
-                </a>
-                <p class="small mb-0">
-                  Registered Manual Osteopath<br><br>
                 </p>
               </div>
           </div>
@@ -642,18 +594,6 @@
               {"width": 300, "cols": 2}
             ]'>
 
-          <!-- Item -->
-          <div class="cbp-item rmt chiro acupuncture physio osteopath">
-            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/angelle_rodriguez.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/angelle_rodriguez.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/angelle_rodriguez.jpg 1000w, , https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/angelle_rodriguez.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Angelle Rodriguez - Nexus Massage and Rehab - Toronto">
-            <div class="py-3 blurb">
-              <h4 class="h6 text-dark mb-0">Angelle Rodriguez</h4>
-              <p class="small mb-0">
-                Clinic Administrator / Financial Admin<br><br>
-              </p>
-            </div>
-          </div>
-          <!-- End Item -->  
-            
           <!-- Item -->
           <div class="cbp-item rmt chiro acupuncture physio osteopath">
             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gorma_jekula.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gorma_jekula.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/gorma_jekula.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/gorma_jekula.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px"  alt="Gorma Jekula - Nexus Massage and Rehab - Toronto">

@@ -683,22 +683,6 @@
 
           <!-- Item -->
           <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/kyle_ngo">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kyle_ngo.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kyle_ngo.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kyle_ngo.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/kyle_ngo.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Kyle Ngo - Registered Massage Therapy">
-            </a>
-              <div class="py-3 blurb">
-                <a href="../profiles/kyle_ngo">
-                  <h4 class="h6 text-dark mb-0">Kyle Ngo</h4>
-                </a>
-                <p class="small mb-0">
-                  My goal with every client is to help them better understand their bodies and provide them the tools necessary to achieve their treatment goals. Client education is an important part of my practice and I feel proud when a client tells me that my work has made a difference in their life.<br><br><br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
-          <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/kenneth_huang">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kenneth_huang.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kenneth_huang.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kenneth_huang.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/kenneth_huang.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Kenneth Huang - Registered Massage Therapy">
             </a>
