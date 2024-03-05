@@ -378,42 +378,6 @@
           <div class="container u-space-1-bottom">
             <!-- Conditions Section -->
             <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-1-bottom">
-
-            <!-- Friends List -->
-              <div class="card u-info-v2 mb-3" style="background-color:#FFFFFF; max-width:340px; min-width:300px;">
-                <div class="card-body p-3">
-                  <div class="text-center">
-                    <div class="media-body p-1">
-                      <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold">OSTEOPATHY</strong>
-                      </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
-                      <!-- Content -->
-                      <div class="u-space-1-top">
-                        <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$140 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$115 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$140 + HST</strong></li>
-                          <li class="small text-muted py-1"><strong>Service is only covered by:</strong></li>
-                          <li class="small text-muted py-1">Greenshield, Claimsecure, IA Financial Group, Empire Life, Manulife, Sunlife, Desjardins, Equiable Life, Manion, Cooperators, AGA</li>
-                          <li class="small text-muted py-1"><i>**Osteopathy may not qualify for <br>direct billing**</i></li>
-                        </ul>
-                      </div>
-                      <!-- End Content -->
-                    </div>
-                  </div>
-
-                  <HR>
-
-                  <div class="media-body p-3 text-center">
-                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Osteopath<span class="fa fa-angle-right ml-2"></span></button></a>
-                  </div>
-
-                </div>
-              </div>
-              <!-- End Friends List -->
-
               <!-- Friends List -->
               <div class="card u-info-v2 mb-3" style="background-color:#FFFFFF; max-width:340px; min-width:300px;">
                 <div class="card-body p-3">

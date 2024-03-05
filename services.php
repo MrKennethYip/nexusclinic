@@ -344,51 +344,6 @@
         <!-- Service Item End -->
 
         <!-- Service Item Start -->
-         <div class="scrolltag" id="osteopath"></div>
-         <div class="position-relative">
-          <div class="container u-space-2">
-            <div class="row align-items-center">
-              <div class="col-lg-5 mb-9 mb-lg-0">
-                <div class="pr-lg-4 mb-7">
-                  <h2 class="text-primary">
-                    <span class="font-weight-bold">Osteopathy</span>
-                  </h2>
-                  <p>Osteopathy is an integrative manual therapy that works to align all components of the body including the nervous, lymphatic, and circulatory systems to restore health. At Nexus, osteopaths recognize clients' needs from a ‘whole body’ perspective and use various hands-on techniques to treat postural alignment, muscle tension, arthritis, digestive and nervous issues, among many others.</p>
-
-                  <a href="service/osteopathy"><button type="button" class="btn btn-sm btn-block u-btn-primary--air u-btn-primary transition-3d-hover">Learn about Osetopathy<span class="fa fa-angle-right ml-2"></span></button></a>
-
-                  <br>
-
-                  <a href="https://nexusclinic.clinicsense.com/book" target="blank" target="blank" onclick="handleClick('bookServiceBtn');"><button type="button" class="btn btn-sm btn-block u-btn-danger--air u-btn-danger transition-3d-hover">Book Osteopath<span class="fa fa-angle-right ml-2"></span></button></a>
-
-                </div>
-              </div>
-
-              <div class="col-lg-7 position-relative">
-                <div id="video" class="u-video-player">
-                  <a href="service/osteopathy"><img class="img-fluid u-video-player__preview responsively-lazy" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-osteopathy.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-osteopathy.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/med/services-osteopathy.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/services/lrg/services-osteopathy.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Osteopathy - Stomach Treatment"></a>
-
-                  <div class="embed-responsive embed-responsive-16by9">
-                    <iframe id="youTubeVideo" class="embed-responsive-item"
-                            data-src="//www.youtube.com/embed/0qisGSwZym4?autoplay=1&showinfo=0&rel=0">
-                    </iframe>
-                  </div>
-                </div>
-
-                <figure class="w-100 u-content-centered">
-                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                     viewBox="0 0 1109.8 797.1" style="enable-background:new 0 0 1109.8 797.1;" xml:space="preserve">
-                  <path class="u-fill-primary" opacity=".1" d="M105.1,267.1C35.5,331.5-3.5,423,0.3,517.7c5.8,145.3,110.7,314.2,588,273.1c753-64.7,481.3-358.3,440.4-398.3
-                    c-4-3.9-7.9-7.9-11.7-12L761.9,104.8C639.4-27.6,432.5-35.6,299.9,87L105.1,267.1z"/>
-                </svg>
-                </figure>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- Service Item End -->
-
-        <!-- Service Item Start -->
         <div class="scrolltag" id="orthotics"></div>
          <div class="position-relative">
           <div class="container u-space-2">
@@ -551,9 +506,6 @@
           </li>
           <li class="nav-item">
             <a class="nav-link font-weight-bold" id="v-pills-acu-tab" data-toggle="pill" href="#v-pills-acu" role="tab" aria-controls="v-pills-acu" aria-selected="false">ACUPUNCTURE</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link font-weight-bold" id="v-pills-osteo-tab" data-toggle="pill" href="#v-pills-osteo" role="tab" aria-controls="v-pills-osteo" aria-selected="false">OSTEOPATHY</a>
           </li>
         </ul>
         <div class="tab-content" id="v-pills-tabContent">
@@ -942,69 +894,6 @@
 
           </div>
           <!-- End Acu Accordion -->
-
-          <!-- Osteo Accordion -->
-          <div class="tab-pane fade" id="v-pills-osteo" role="tabpanel" aria-labelledby="v-pills-osteo-tab">
-
-            <div id="FAQCollapse">
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingOne">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQOne" aria-expanded="false" aria-controls="FAQOne" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      What is Osteopathy?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQOne" class="collapse" aria-labelledby="FAQHeadingOne" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    A non-invasive practice, it works to align all components of the body including the nervous, lymphatic, and circulatory systems to maximize health by using hands-on manual therapy.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingTwo">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQTwo" aria-expanded="false" aria-controls="FAQTwo" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      What types of issues can Osteopaths treat?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQTwo" class="collapse" aria-labelledby="FAQHeadingTwo" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    Osteopaths can treat countless issues ranging from muscle tension, injuries due to work strain, sleep apnea, digestive issues, and even emotional and psychological symptoms.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-              <!-- Card -->
-              <div class="card mb-3 u-card-collapse">
-                <div class="card-header px-4" id="FAQHeadingThree">
-                  <div class="collapsed" data-toggle="collapse" data-target="#FAQThree" aria-expanded="false" aria-controls="FAQThree" role="button">
-                    <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
-                      What to expect in your first Osteopathic appointment at Nexus Massage and Rehab?
-                      <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
-                    </h3>
-                  </div>
-                </div>
-                <div id="FAQThree" class="collapse" aria-labelledby="FAQHeadingThree" data-parent="#FAQCollapse">
-                  <div class="card-body px-4">
-                    Your osteopath will conduct a thorough assessment to learn about your concerns and previous medical history, then proceed to a detailed physical examination before discussing a proposed treatment plan with you.
-                  </div>
-                </div>
-              </div>
-              <!-- End Card -->
-
-            </div>
-
-          </div>
-          <!-- End Osteo Accordion -->
 
         </div>
 
