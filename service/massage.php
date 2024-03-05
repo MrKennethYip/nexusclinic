@@ -744,23 +744,7 @@
               </div>
           </div>
           <!-- End Item -->
-            
-          <!-- Item -->
-          <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/djordje_petrovic">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/djordje_petrovic.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/djordje_petrovic.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/djordje_petrovic.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/djordje_petrovic.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Djordje Petrovic - Registered Massage Therapy">
-            </a>
-              <div class="py-3 blurb">
-                <a href="../profiles/djordje_petrovic">
-                  <h4 class="h6 text-dark mb-0">Djordje Petrovic</h4>
-                </a>
-                <p class="small mb-0">
-                  I bring a positive optimistic energy to each of my sessions. I enjoy working with my patients to help create attainable goals and a flexible treatment plan designed to get the root cause, as well as help prevent further issues from developing. I like to educate my clients on the little things they can seamlessly implement into their life to maintain and improve their health.<br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-            
+
           <!-- Item -->
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/julian_tenyenhuis">
