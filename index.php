@@ -660,7 +660,7 @@
             </div>
             <div id="FAQZero" class="collapse" aria-labelledby="FAQHeadingZero" data-parent="#FAQCollapse">
               <div class="card-body px-4">
-                Nexus Massage & Rehab Clinic is staffed with a team of <a href="./team">healthcare practitioners</a> who are experienced and educated in a variety of fields. On our team, we have registered massage therapists, chiropractors, acupuncturists, physiotherapists and osteopaths ready to help you.<br><br>
+                Nexus Massage & Rehab Clinic is staffed with a team of <a href="./team">healthcare practitioners</a> who are experienced and educated in a variety of fields. On our team, we have registered massage therapists, chiropractors, acupuncturists, and physiotherapists ready to help you.<br><br>
 
                 Before you get started with us, you will meet with one of our certified health experts who will perform an assessment to identify your body’s unique needs.<br><br>
 

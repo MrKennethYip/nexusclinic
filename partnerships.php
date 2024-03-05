@@ -249,20 +249,6 @@
                       </span>
                     </div>
                     <div class="media-body">
-                      <h3 class="h5"><strong><a class="text-dark" href="https://www.6ixeglintondental.ca/" target="blank"><u>6ix Dental Eglinton</u></a></strong></h3>
-                      <p class="text-dark">• <strong>FREE Osteopathic Initial Assessment</strong> (valued at <strong>$130+HST</strong>) at Nexus Massage & Rehab, if you book a <strong>New Patient Exam & Dental Cleaning</strong> with 6ix Eglinton Dental.</p>
-                      <p class="text-dark"></p>
-                      <p class="text-dark">Call <a href="tel:647-557-6267">647-537-6453</a> to book your appointment. To receive your Nexus promotional offer, please show your invoice or receipt from 6ix Dental.</p>
-                    </div>
-                  </div>
-
-                  <div class="media mb-3 u-space-2-top">
-                    <div class="d-flex mt-1 mr-3">
-                      <span class="u-icon u-icon-dark u-icon--xs rounded-circle">
-                        <span class="fa fa-check u-icon__inner"></span>
-                      </span>
-                    </div>
-                    <div class="media-body">
                       <h3 class="h5"><strong><a class="text-dark" href="https://jt6studio.ca/" target="blank"><u>JT6 • Jiu-Jitsu Toronto</u></a></strong></h3>
                       <p class="text-dark"><strong>• 2 Weeks FREE Trial</strong></p>
                       <p class="text-dark">Online waiver/registration is required. Please show your Nexus invoice to JT6.</p>
