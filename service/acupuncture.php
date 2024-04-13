@@ -554,7 +554,7 @@
                   <HR>
 
                   <div class="media-body p-3 text-center">
-                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Nutrition<span class="fa fa-angle-right ml-2"></span></button></a>
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Acupuncture<span class="fa fa-angle-right ml-2"></span></button></a>
                   </div>
 
                 </div>
