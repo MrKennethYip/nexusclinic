@@ -352,7 +352,6 @@
                           <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$115</strong></li>
                           <li class="small text-muted py-1"><em>**Service is covered under Acupuncture insurance**</em></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -362,7 +361,7 @@
                   <HR>
 
                   <div class="media-body p-3 text-center">
-                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Orthotics<span class="fa fa-angle-right ml-2"></span></button></a>
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Acupuncture<span class="fa fa-angle-right ml-2"></span></button></a>
                   </div>
 
                 </div>
