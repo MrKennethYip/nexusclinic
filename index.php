@@ -203,6 +203,7 @@
                   <a href="service/chiropractic"><p class="mb-md-0 text-white">Chiropractic</p></a>
                   <a href="service/physiotherapy"><p class="mb-md-0 text-white">Physiotherapy</p></a>
                   <p class="mb-md-0 text-white">Acupuncture</p>
+                  <p class="mb-md-0 text-white">Osteopathy</p>
                   <a href="service/orthotics"><p class="mb-md-0 text-white">Custom Orthotics</p></a>
                 </div>
               </div>
@@ -794,6 +795,24 @@
 
                 <!-- Card -->
                 <div class="card mb-3 u-card-collapse">
+                  <div class="card-header px-4" id="FAQHeadingThree-alt">
+                    <div class="collapsed" data-toggle="collapse" data-target="#FAQThree-alt" aria-expanded="false" aria-controls="FAQThree-alt" role="button">
+                      <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
+                        Osteopathy
+                        <span class="fa fa-angle-up u-card-collapse__heading-icon"></span>
+                      </h3>
+                    </div>
+                  </div>
+                  <div id="FAQThree-alt" class="collapse" aria-labelledby="FAQHeadingThree-alt" data-parent="#FAQCollapse">
+                    <div class="card-body px-4">
+                      Osteopathy addresses your body as a whole to identify the root of a problem like pain or discomfort. The manual therapy treats the joints, spine, muscles, central nervous system, circulatory system and lymphatic system to maximize all of your body’s systems. This treatment is typically used to treat muscle, spin and joint conditions like <a href="https://nexushealthclinic.com/community/knee-pain/">osteoarthritis</a>.
+                    </div>
+                  </div>
+                </div>
+                <!-- End Card -->
+
+                <!-- Card -->
+                <div class="card mb-3 u-card-collapse">
                   <div class="card-header px-4" id="FAQHeadingFour">
                     <div class="collapsed" data-toggle="collapse" data-target="#FAQFour" aria-expanded="false" aria-controls="FAQFour" role="button">
                       <h3 class="h5 d-flex justify-content-between align-items-center font-weight-normal u-card-collapse__heading mb-0">
@@ -1270,6 +1289,53 @@
                 "itemOffered": {
                   "@type": "Service",
                   "name": "Custom Orthotics"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "OfferCatalog",
+            "name": "OSTEOPATHY",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Initial Appointment"
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "45 Min Follow Up"
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "60 Min Follow Up"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "OfferCatalog",
+            "name": "OSTEOPATHY: CRANIAL SACRAL THERAPY",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "45 Min Follow Up"
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "60 Min Follow Up"
                 }
               }
             ]

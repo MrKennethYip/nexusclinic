@@ -55,7 +55,7 @@
         <!-- Info -->
         <p>Top Rated <strong>Multi-disciplinary Clinic</strong> at Yonge and Eglinton with over 500+ Google 5-Star Reviews.</p>
 
-        <p><strong>Nexus Massage & Rehab</strong> is a large, busy, multidisciplinary clinic in the Yonge and Eglinton area. We offer Massage Therapy, Chiropractic, Physiotherapy, Acupuncture services with over 20 practitioners who go above and beyond to treat their patients.<p>
+        <p><strong>Nexus Massage & Rehab</strong> is a large, busy, multidisciplinary clinic in the Yonge and Eglinton area. We offer Massage Therapy, Chiropractic, Physiotherapy, Acupuncture and Osteopathy services with over 20 practitioners who go above and beyond to treat their patients.<p>
 
         <p>We are a <strong>young, fun, energetic team,</strong> looking for a <strong>caring and outgoing individual</strong> who can multi-task and be the friendly face to greet our patients.</p>
 
