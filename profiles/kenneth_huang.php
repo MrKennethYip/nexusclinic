@@ -185,7 +185,7 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I specialize in tripper point therapy, joint mobilization for joint and spinal restrictions/stiffness and numbness/tingling caused by nerve issues. With the majority of clients seeking my help are those that work in front of a computer, it is not surprising that back and neck stiffness caused by poor posture is a leading cause of many people's issues.</p>
+              <p>I specialize in trigger point therapy, joint mobilization for joint and spinal restrictions/stiffness and numbness/tingling caused by nerve issues. With the majority of clients seeking my help are those that work in front of a computer, it is not surprising that back and neck stiffness caused by poor posture is a leading cause of many people's issues.</p>
               <!-- End Text -->
 
               <!-- Title -->
