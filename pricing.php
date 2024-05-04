@@ -394,9 +394,9 @@
                           <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$140 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$115 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$140 + HST</strong></li>
-                          <li class="small text-muted py-1"><strong>Service is only covered by:</strong></li>
-                          <li class="small text-muted py-1">Greenshield, Claimsecure, IA Financial Group, Empire Life, Manulife, Sunlife, Desjardins, Equiable Life, Manion, Cooperators, AGA</li>
-                          <li class="small text-muted py-1"><i>**Osteopathy may not qualify for <br>direct billing**</i></li>
+                          <li class="small text-muted py-1"><strong>BEFORE BOOKING</strong></li>
+                          <li class="small text-muted py-1">Please confirm with your insurance company if they cover <strong>ACMA (Canadian Alliance of Alternative Medicine)</strong> for manual osteopathy. <strong>We are not liable for uncovered claims.</strong></li>
+                          <li class="small text-muted py-1"><i>*Osteopathy may not qualify for Direct Billing for some insurances.</i></li>
                         </ul>
                       </div>
                       <!-- End Content -->

@@ -379,8 +379,9 @@
                           <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$140 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$115 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$140 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <!-- <li class="small py-1 text-white"><strong>**Osteopathy does not qualify for <br>direct billing**</strong><br><br>Please refer to your insurance provider for coverage. Please note that we are unable to accept insurance coverage from <u>Great West Life</u> and <u>Group Health</u> at this time.</li> --> 
+                          <li class="small text py-1"><strong>BEFORE BOOKING</strong></li>
+                          <li class="small text py-1">Please confirm with your insurance company if they cover <strong>ACMA (Canadian Alliance of Alternative Medicine)</strong> for manual osteopathy. <strong>We are not liable for uncovered claims.</strong></li>
+                          <li class="small text py-1"><i>*Osteopathy may not qualify for Direct Billing for some insurances.</i></li>
                         </ul>
                       </div>
                       <!-- End Content --> 
