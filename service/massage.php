@@ -939,6 +939,22 @@
 
           <!-- Item -->
           <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/jong_won_kim">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jong_won_kim.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jong_won_kim.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jong_won_kim.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/jong_won_kim.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Jong Won Kim - Registered Massage Therapy">
+            </a>
+              <div class="py-3 blurb">
+                <a href="../profiles/jong_won_kim">
+                  <h4 class="h6 text-dark mb-0">Jong Won Kim</h4>
+                </a>
+                <p class="small mb-0">
+                  My style is based on deep breathing and mind meditation. Our modern life has a lot of stress and depression. My treatments focus on detoxifying and oxygenating the body and increase flexibility and range of motion to help relieve stress. As an experience fitness instructor (Spinning, bodywork and Zumba), I love to tailor specific exercises to help with your recovery. <br><br><br><br><br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/cassandra_kong">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/cassandra_kong.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/cassandra_kong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Cassandra Kong - Registered Massage Therapy">
             </a>
