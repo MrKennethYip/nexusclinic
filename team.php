@@ -146,7 +146,7 @@
                   <h4 class="h6 text-dark mb-0">Lucia Suarez Castro</h4>
                 </a>
                 <p class="small mb-0">
-                  Registered Massage Therapist<br><br>
+                  Registered Massage Therapist, MLD Provider<br><br>
                 </p>
               </div>
           </div>
@@ -354,7 +354,7 @@
                   <h4 class="h6 text-dark mb-0">Gopinath Durairaj</h4>
                 </a>
                 <p class="small mb-0">
-                  Registered Massage Therapist<br>
+                  Registered Massage Therapist, Certified Dr. Vodder MLD Provider<br>
                 </p>
               </div>
           </div>
