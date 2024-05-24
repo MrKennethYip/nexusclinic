@@ -556,22 +556,6 @@
           </div>
         <!-- End Item -->
 
-        <!-- Item -->
-          <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/rob_hunter">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/rob_hunter.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/rob_hunter.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/rob_hunter.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/rob_hunter.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Rob Hunter - Registered Massage Therapy">
-            </a>
-              <div class="py-3 blurb">
-                <a href="../profiles/rob_hunter">
-                  <h4 class="h6 text-dark mb-0">Rob Hunter</h4>
-                </a>
-                <p class="small mb-0">
-                  I'll make sure to provide professional service during the treatment and provide any necessary self-care work to get you back to moving your best. I'll make sure your goal for the treatment is met and you leave the clinic feeling better than when you entered!<br><br><br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
         </div>
         <!-- End Content -->
       </div>       
