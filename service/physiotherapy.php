@@ -247,7 +247,7 @@
               <p>Trained pelvic health physiotherapists address a range of issues and tailoring treatment plans that may include pelvic floor muscle training, manual therapy, biofeedback, lifestyle adjustments, and personalized exercise regimes.</p>
               <p>With a focus on improving pelvic floor function, reducing symptoms, and enhancing overall well-being, pelvic health physiotherapy offers a comprehensive approach to restoring comfort and confidence in daily life.</p>
 
-              <p>Great for the following:</p>
+              <span><strong>Great for the following:</strong></span>
 
               <table class="table table-borderless text-dark">
                 <tbody>
@@ -348,7 +348,7 @@
               </h2>
               <p>Physiotherapists not only prescribe exercises during treatment, they also provide hands-on treatment through manual manipulation of your muscles and tissues to help increase blood circulation, decrease tension and increase range of motion. Through massage, your physiotherapist can promote faster healing and recovery.</p>
 
-              <p>Some techniques used by your physiotherapist may include:</p>
+              <span><strong>Some techniques used by your physiotherapist may include:</strong></span>
 
               <table class="table table-borderless text-dark">
                 <tbody>
