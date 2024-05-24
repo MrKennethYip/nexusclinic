@@ -140,7 +140,16 @@
                     </div>
                   </div>
                 <!-- End User -->
-                  
+
+                <!-- User -->
+                  <div class="card-header border-0 py-3 d-flex align-items-center">
+                    <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/pelvic_health-icon.png" class="rounded-circle u-avatar align-self-start mr-3">
+                    <div>
+                      <span class="d-block text-dark small font-weight-bold">Pelvic Health Physiotherapy</span>
+                    </div>
+                  </div>
+                <!-- End User -->
+
               </div>
             </div>
             <!-- End Contacts  -->
@@ -202,7 +211,14 @@
               <!-- End Title -->
 
               <!-- Text -->
-              <p>I specialize in educating patients to ensure they are fully informed about their health and body, manual therapy, and exercise prescription.</p>
+              <p>I am interested in pelvic floor rehabilitation and I am trained in managing and treating urgency, incontinence, pelvic pain, and pelvic organ prolapse. I want individuals to be able to perform daily activities with no concerns.</p>
+              <p>Aside from pelvic health physiotherapy, I specialize in educating patients to ensure they are fully informed about their health and body, manual therapy, and exercise prescription.</p>
+              <div style="color:#77838f">Pelvic Health Solutions completed:</div>
+                <ul style="color:#77838f">
+                    <li>PHS Level 1 - Managing Incontinence</li>
+                    <li>PHS Level 2 - Treatment of Pelvic Pain</li>
+                    <li>PHS Level 3 - Biopsychosocial Reframed</li>
+                </ul>
               <!-- End Text -->
 
               <!-- Title -->

@@ -106,6 +106,15 @@
               </div>
               <!-- End Friends List -->
 
+            </div>
+          </div>
+          <!-- End Pricing 1 Section -->
+
+          <!-- Pricing 2 Section -->
+          <div class="container u-space-1-bottom">
+            <!-- Conditions Section -->
+            <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-1">
+
               <!-- Friends List -->
               <div class="card u-info-v2 mb-3" style="background-color:#FFFFFF; max-width:340px; min-width:300px;">
                 <div class="card-body p-3">
@@ -121,6 +130,8 @@
                           <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$80 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$95 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$115 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
@@ -140,15 +151,6 @@
               </div>
               <!-- End Friends List -->
 
-            </div>
-          </div>
-          <!-- End Pricing 1 Section -->
-
-          <!-- Pricing 2 Section -->
-          <div class="container u-space-1-bottom">
-            <!-- Conditions Section -->
-            <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-1">
-
               <!-- Friends List -->
               <div class="card u-info-v2 mb-3" style="background-color:#FFFFFF; max-width:340px; min-width:300px;">
                 <div class="card-body p-3">
@@ -164,6 +166,7 @@
                           <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$115</strong></li>
                           <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$80 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$95 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
@@ -190,7 +193,7 @@
                   <div class="text-center">
                     <div class="media-body p-1">
                       <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold">CHIROPRACTIC</strong>
+                        <strong class="font-weight-bold">CHIROPRACTIC</strong><br><br>
                       </h2>
                       <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
@@ -204,7 +207,6 @@
                           <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$130</strong></li>
                           <li class="u-pricing-v2__list-item py-1">20 Min Virtual Follow-Up - <strong>$85</strong></li>
                           <li class="u-pricing-v2__list-item py-1">40 Min Virtual Follow-Up - <strong>$110</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content -->
@@ -221,13 +223,22 @@
               </div>
               <!-- End Friends List -->
 
+            </div>
+          </div>
+          <!-- End Pricing 2 Section -->
+
+          <!-- Pricing 3 Section -->
+          <div class="container u-space-1-bottom">
+            <!-- Conditions Section -->
+            <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-1-bottom">
+
               <!-- Friends List -->
               <div class="card u-info-v2 mb-3" style="background-color:#FFFFFF; max-width:340px; min-width:300px;">
                 <div class="card-body p-3">
                   <div class="text-center">
                     <div class="media-body p-1">
                       <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold">PHYSIOTHERAPY</strong>
+                        <strong class="font-weight-bold">PHYSIOTHERAPY</strong><br><br>
                       </h2>
                       <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
@@ -241,10 +252,9 @@
                           <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$130</strong></li>
                           <li class="u-pricing-v2__list-item py-1">20 Min Virtual Follow-Up - <strong>$85</strong></li>
                           <li class="u-pricing-v2__list-item py-1">40 Min Virtual Follow-Up - <strong>$110</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
-                      <!-- End Content -->  
+                      <!-- End Content -->
                     </div>
                   </div>
 
@@ -258,15 +268,42 @@
               </div>
               <!-- End Friends List -->
 
-            </div>
-          </div>
-          <!-- End Pricing 2 Section -->
+              <!-- Friends List -->
+              <div class="card u-info-v2 mb-3" style="background-color:#FFFFFF; max-width:340px; min-width:300px;">
+                <div class="card-body p-3">
+                  <div class="text-center">
+                    <div class="media-body p-1">
+                      <h2 class="p-1" style="color:#002A3A;">
+                        <strong class="font-weight-bold">PELVIC HEALTH PHYSIOTHERAPY</strong>
+                      </h2>
+                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                      <!-- Content -->
+                      <div class="u-space-1-top">
+                        <ul class="list-unstyled">
+                          <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$170</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$140</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="small text-muted py-1"><em>**Service offered on MONDAYS ONLY**</em></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                        </ul>
+                      </div>
+                      <!-- End Content -->
+                    </div>
+                  </div>
 
-          <!-- Pricing 3 Section -->
-          <div class="container u-space-1-bottom">
-            <!-- Conditions Section -->
-            <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-1-bottom">
-              
+                  <HR>
+
+                  <div class="media-body p-3 text-center">
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Pelvic Physio<span class="fa fa-angle-right ml-2"></span></button></a>
+                  </div>
+
+                </div>
+              </div>
+              <!-- End Friends List -->
+
              <!-- Friends List -->
              <div class="card u-info-v2 mb-3" style="background-color:#FFFFFF; max-width:340px; min-width:300px;">
                <div class="card-body p-3">
@@ -285,6 +322,8 @@
                          <li class="u-pricing-v2__list-item py-1">75 Min Follow-Up - <strong>$130</strong></li>
                          <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
                          <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
+                         <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                         <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                        </ul>
                      </div>
                      <!-- End Content -->
@@ -319,6 +358,7 @@
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -350,7 +390,9 @@
                           <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$80</strong></li>
                           <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$95</strong></li>
                           <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$115</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="small text-muted py-1"><em>**Service is covered under Acupuncture insurance**</em></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
@@ -362,6 +404,41 @@
 
                   <div class="media-body p-3 text-center">
                     <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Acupuncture<span class="fa fa-angle-right ml-2"></span></button></a>
+                  </div>
+
+                </div>
+              </div>
+              <!-- End Friends List -->
+
+              <!-- Friends List -->
+              <div class="card u-info-v2 mb-3" style="background-color:#FFFFFF; max-width:340px; min-width:300px;">
+                <div class="card-body p-3">
+                  <div class="text-center">
+                    <div class="media-body p-1">
+                      <h2 class="p-1" style="color:#002A3A;">
+                        <strong class="font-weight-bold">HERBS & NUTRITION</strong>
+                      </h2>
+                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                      <!-- Content -->
+                      <div class="u-space-1-top">
+                        <ul class="list-unstyled">
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$105</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">30 Min Follow-Up - <strong>$90</strong></li>
+                          <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
+                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$105</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">30 Min Virtual Follow-Up - <strong>$90</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="small text-muted py-1"><em>**Cannot be claimed under Acupuncture Insurance**</em></li>
+                        </ul>
+                      </div>
+                      <!-- End Content -->
+                    </div>
+                  </div>
+
+                  <HR>
+
+                  <div class="media-body p-3 text-center">
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Nutrition Apt<span class="fa fa-angle-right ml-2"></span></button></a>
                   </div>
 
                 </div>
@@ -419,42 +496,7 @@
                   <div class="text-center">
                     <div class="media-body p-1">
                       <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold">HERBS & NUTRITION</strong>
-                      </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
-                      <!-- Content -->
-                      <div class="u-space-1-top">
-                        <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$105</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">30 Min Follow-Up - <strong>$90</strong></li>
-                          <span class="u-divider u-divider--xs u-divider--text text-primary">TELEHEALTH</span>
-                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$105</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">30 Min Virtual Follow-Up - <strong>$90</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="small text-muted py-1"><em>**Cannot be claimed under Acupuncture Insurance**</em></li>
-                        </ul>
-                      </div>
-                      <!-- End Content -->
-                    </div>
-                  </div>
-
-                  <HR>
-
-                  <div class="media-body p-3 text-center">
-                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Nutrition Apt<span class="fa fa-angle-right ml-2"></span></button></a>
-                  </div>
-
-                </div>
-              </div>
-              <!-- End Friends List -->
-
-              <!-- Friends List -->
-              <div class="card u-info-v2 mb-3" style="background-color:#FFFFFF; max-width:340px; min-width:300px;">
-                <div class="card-body p-3">
-                  <div class="text-center">
-                    <div class="media-body p-1">
-                      <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold">ORTHOTICS</strong><br><br>
+                        <strong class="font-weight-bold">ORTHOTICS</strong>
                       </h2>
                       <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
@@ -465,6 +507,8 @@
                           <li class="small text-muted py-1"><strong>Ask your insurance provider the following:</strong></li>
                           <li class="small text-muted py-1">(1) Do I need a medical prescription for reimbursement? (2) Can a chiropractor dispense my orthotics?</li>
                           <li class="small text-muted py-1"><em>**Orthotics do not qualify for direct billing**</em></li>
+                          <li class="u-pricing-v2__list-item py-2">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-2">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-2">&nbsp</li>
                         </ul>
                       </div>

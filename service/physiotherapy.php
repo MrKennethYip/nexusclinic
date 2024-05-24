@@ -234,6 +234,69 @@
     </div>
 
     <!-- Service Item Start -->
+    <div class="scrolltag" id="pelvic_health_physiotherapy"></div>
+     <div class="position-relative">
+      <div class="container u-space-1-top">
+        <div class="row align-items-center">
+          <div class="col-lg-7 mb-9 mb-lg-0">
+            <div class="pr-lg-4 mb-7">
+              <h2 class="text-primary">
+                <span class="font-weight-bold">Pelvic Health Physiotherapy</span>
+              </h2>
+              <p><strong>Pelvic Health Physiotherapy</strong> is a specialized field dedicated to assessing and treating conditions impacting the pelvic floor and its supporting structures, vital for bladder, bowel, and sexual function, as well as pelvic and spinal stability.</p>
+              <p>Trained pelvic health physiotherapists address a range of issues and tailoring treatment plans that may include pelvic floor muscle training, manual therapy, biofeedback, lifestyle adjustments, and personalized exercise regimes.</p>
+              <p>With a focus on improving pelvic floor function, reducing symptoms, and enhancing overall well-being, pelvic health physiotherapy offers a comprehensive approach to restoring comfort and confidence in daily life.</p>
+
+              <p>Great for the following:</p>
+
+              <table class="table table-borderless text-dark">
+                <tbody>
+                  <tr>
+                    <td scope="row">
+                      <ul>
+                        <li>Managing pelvic pain</li>
+                        <li>Urinary and fecal incontinence</li>
+                        <li>Pelvic organ prolapse</li>
+                        <li>Sexual dysfunction</li>
+                        <li>Pregnancy-related musculoskeletal issues</li>
+                        <li>Postpartum recovery</li>
+                        <li>Improve bladder and bowel control</li>
+                        <li>Enhance sexual function and alleviate discomfort</li>
+                        <li>Promote overall pelvic floor health and well-being</li>
+                      </ul>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+
+            </div>
+          </div>
+
+          <div class="col-lg-5 position-relative">
+            <div id="video" class="u-video-player">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/physio/med/pelvic_health.jpg" alt="Physio - Pelvic Health Image">
+
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe id="youTubeVideo" class="embed-responsive-item"
+                        data-src="//www.youtube.com/embed/0qisGSwZym4?autoplay=1&showinfo=0&rel=0">
+                </iframe>
+              </div>
+            </div>
+
+            <figure class="w-100 u-content-centered">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 1109.8 797.1" style="enable-background:new 0 0 1109.8 797.1;" xml:space="preserve">
+              <path class="u-fill-primary" opacity=".1" d="M105.1,267.1C35.5,331.5-3.5,423,0.3,517.7c5.8,145.3,110.7,314.2,588,273.1c753-64.7,481.3-358.3,440.4-398.3
+                c-4-3.9-7.9-7.9-11.7-12L761.9,104.8C639.4-27.6,432.5-35.6,299.9,87L105.1,267.1z"/>
+            </svg>
+            </figure>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Service Item End -->
+
+    <!-- Service Item Start -->
     <div class="scrolltag" id="exercise_prescription"></div>
      <div class="position-relative">
       <div class="container u-space-1-top">
@@ -423,7 +486,7 @@
                   <div class="text-center">
                     <div class="media-body p-1">
                       <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold text-white">PHYSIOTHERAPY</strong>
+                        <strong class="font-weight-bold text-white">PHYSIOTHERAPY</strong><br><br>
                       </h2>
                       <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
                       <!-- Content -->
@@ -444,6 +507,39 @@
 
                   <div class="media-body p-3 text-center">
                     <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Physio<span class="fa fa-angle-right ml-2"></span></button></a>
+                  </div>
+
+                </div>
+              </div>
+              <!-- End Friends List -->
+
+              <!-- Friends List -->
+              <div class="card u-info-v2" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
+                <div class="card-body p-3">
+                  <div class="text-center">
+                    <div class="media-body p-1">
+                      <h2 class="p-1" style="color:#002A3A;">
+                        <strong class="font-weight-bold text-white">PELVIC HEALTH PHYSIOTHERAPY</strong>
+                      </h2>
+                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                      <!-- Content -->
+                      <div class="u-space-1-top">
+                        <ul class="list-unstyled">
+                          <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>Free</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$170</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">40 Min Follow Up - <strong>$140</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1"><em>**Service offered on MONDAYS ONLY**</em></li>
+                        </ul>
+                      </div>
+                      <!-- End Content -->
+                    </div>
+                  </div>
+
+                  <HR>
+
+                  <div class="media-body p-3 text-center">
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Pelvic Physio<span class="fa fa-angle-right ml-2"></span></button></a>
                   </div>
 
                 </div>

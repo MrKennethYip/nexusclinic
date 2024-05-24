@@ -482,7 +482,7 @@
                  <h4 class="h6 text-dark mb-0">Trang Le</h4>
                </a>
                <p class="small mb-0">
-                 Physiotherapist, Acupuncture Provider<br><br>
+                 Physiotherapist, Pelvic Health Physiotherapist, Acupuncture Provider<br><br>
                </p>
              </div>
          </div>
