@@ -384,9 +384,7 @@
               </h2>
               <p>Manual lymphatic drainage massage is a specialized therapeutic technique aimed at stimulating the lymphatic system to facilitate the removal of excess fluid, toxins, and waste from the body's tissues. </p>
               <p>This gentle, rhythmic massage technique involves light pressure and specific movements designed to encourage lymphatic fluid circulation, reduce swelling, and promote overall wellness. </p>
-              <p>Manual lymphatic drainage massage is a specialized therapeutic technique aimed at stimulating the lymphatic system to facilitate the removal of excess fluid, toxins, and waste from the body's tissues. </p>
-              <p>Manual lymphatic drainage massage is a specialized therapeutic technique aimed at stimulating the lymphatic system to facilitate the removal of excess fluid, toxins, and waste from the body's tissues. </p><br>
-
+              <p>The therapy is applied to unaffected areas first, making it possible for the fluid to move out of the affected area, or “decongest” the region. Then the technique is used to open the remaining functioning lymph collectors and move protein and fluid into them.</p><br>
               <span><strong>Great for the following:</strong></span>
 
               <table class="table table-borderless text-black">
