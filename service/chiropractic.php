@@ -698,6 +698,22 @@
 
           <!-- Item -->
           <div class="cbp-item chiro">
+            <a class="cbp-caption" href="../profiles/jiyeon_kim">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jiyeon_kim.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jiyeon_kim.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jiyeon_kim.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/jiyeon_kim.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Jiyeon Kim - Chiropractor">
+            </a>
+              <div class="py-3 blurb">
+                <a href="../profiles/jiyeon_kim">
+                  <h4 class="h6 text-dark mb-0">Dr. Jiyeon Kim</h4>
+                </a>
+                <p class="small mb-0">
+                  I love treating prenatal and postnatal patients because I can relate to the changes a body goes through creating a life. I want to help mothers around the world feel stronger and more comfortable.<br><br><br><br><br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item chiro">
             <a class="cbp-caption" href="../profiles/karen_ngo">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/karen_ngo.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Karen Ngo - Chiropractor, Registered Massage Therapist">
             </a>
