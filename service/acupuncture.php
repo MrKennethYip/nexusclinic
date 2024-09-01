@@ -463,72 +463,6 @@
               </div>
               <!-- End Friends List -->
 
-               <!-- Friends List -->
-                <div class="card u-info-v2 mb-3" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
-                  <div class="card-body p-3">
-                    <div class="text-center">
-                      <div class="media-body p-1">
-                        <h2 class="p-1" style="color:#002A3A;">
-                          <strong class="font-weight-bold text-white">COSMETIC ACUPUNCTURE</strong>
-                        </h2>
-                        <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
-                        <!-- Content -->
-                        <div class="u-space-1-top">
-                          <ul class="list-unstyled">
-                            <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$170</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$150</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          </ul>
-                        </div>
-                        <!-- End Content -->
-                      </div>
-                    </div>
-
-                    <HR>
-
-                    <div class="media-body p-3 text-center">
-                      <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Acupuncture<span class="fa fa-angle-right ml-2"></span></button></a>
-                    </div>
-
-                  </div>
-                </div>
-                <!-- End Friends List -->
-
-               <!-- Friends List -->
-                <div class="card u-info-v2 mb-3" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
-                  <div class="card-body p-3">
-                    <div class="text-center">
-                      <div class="media-body p-1">
-                        <h2 class="p-1" style="color:#002A3A;">
-                          <strong class="font-weight-bold text-white">SHIATSU/TUINA MASSAGE</strong>
-                        </h2>
-                        <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
-                        <!-- Content -->
-                        <div class="u-space-1-top">
-                          <ul class="list-unstyled">
-                            <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$80</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$95</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$115</strong></li>
-                            <li class="small text-white"><em>**Service is covered under Acupuncture insurance**</em></li>
-                            <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          </ul>
-                        </div>
-                        <!-- End Content -->
-                      </div>
-                    </div>
-
-                    <HR>
-
-                    <div class="media-body p-3 text-center">
-                      <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Acupuncture<span class="fa fa-angle-right ml-2"></span></button></a>
-                    </div>
-
-                  </div>
-                </div>
-                <!-- End Friends List -->
-
               <!-- Friends List -->
               <div class="card u-info-v2 mb-3" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
                 <div class="card-body p-3">
@@ -541,8 +475,8 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$105</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">30 Min Follow-Up - <strong>$90</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$110</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">30 Min Follow-Up - <strong>$95</strong></li>
                           <li class="u-pricing-v2__list-item">&nbsp</li>
                           <li class="small text-white"><em>**Cannot be claimed under Acupuncture Insurance**</em></li>
                         </ul>
@@ -688,22 +622,6 @@
                 </a>
                 <p class="small mb-0">
                   I specialize in treating conditions related to mental health. However, because we TCM practitioners treat you as a whole, I also focus on menstrual health, digestion, sleep/energy and pain concerns to help you enjoy living the healthy life you want. In my practice, I also coach my patients on herbal medicine and diagnosis-based nutrition to help you achieve a balanced and optimized body.<br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
-          <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/aimee_leung">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/aimee_leung.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/aimee_leung.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/aimee_leung.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/aimee_leung.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Aimee Leung - Acupuncture">
-            </a>
-              <div class="py-3 blurb">
-                <a href="../profiles/aimee_leung">
-                  <h4 class="h6 text-dark mb-0">Aimee Leung</h4>
-                </a>
-                <p class="small mb-0">
-                  I provide a safe and open space to support patients on a physical, mental and emotional level. I empower patients with knowledge, tools and intuitive insights into their health and wellbeing. My specialty includes Traditional Chinese Medicine, Auricular (Ear) and Cosmetic Acupuncture, Tuina and Shiatsu Massage, and Cupping.<br>
                 </p>
               </div>
           </div>
