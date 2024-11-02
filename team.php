@@ -536,6 +536,38 @@
           </div>
           <!-- End Item -->
 
+        <!-- Item -->
+         <div class="cbp-item rmt">
+           <a class="cbp-caption" href="profiles/ben_chai">
+             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ben_chai.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ben_chai.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ben_chai.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/ben_chai.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Ben Chai - Registered Massage Therapy">
+           </a>
+             <div class="py-3 blurb">
+               <a href="profiles/ben_chai">
+                 <h4 class="h6 text-dark mb-0">Ben Chai</h4>
+               </a>
+               <p class="small mb-0">
+                 Registered Massage Therapist<br><br>
+               </p>
+             </div>
+         </div>
+         <!-- End Item -->
+
+        <!-- Item -->
+         <div class="cbp-item rmt">
+           <a class="cbp-caption" href="profiles/ivan_tam">
+             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ivan_tam.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ivan_tam.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ivan_tam.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/ivan_tam.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Ivan Tam - Registered Massage Therapy">
+           </a>
+             <div class="py-3 blurb">
+               <a href="profiles/ivan_tam">
+                 <h4 class="h6 text-dark mb-0">Ivan Tam</h4>
+               </a>
+               <p class="small mb-0">
+                 Registered Massage Therapist<br><br>
+               </p>
+             </div>
+         </div>
+         <!-- End Item -->
+
           <!-- Item
           <div class="cbp-item">
             <a class="cbp-caption" href="careers">
