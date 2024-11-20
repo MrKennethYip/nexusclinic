@@ -63,9 +63,9 @@
               <h2 class="text-primary"> 
                 <span class="font-weight-bold">40 Eglinton Ave. East</span>
               </h2>
-              <p><em>(Entrance next to Second Cup Coffee)</em></p>
+              <p><em>(Entrance next to z-teca Mexican Eatery)</em></p>
               <p><strong><u>Weekdays - Daytime:</u></strong></p>
-              <p>$2.50 each 1/2 hour</p>
+              <p>$6.00 each hour</p>
               <p><strong><u>Evenings & Weekends:</u></strong></p>
               <p>$5.00 Evenings 5pm - 11pm<br>$6.00 Saturdays & Sundays 6am - 6pm</p>
               <p><em>* Weekend parking, please walk up the parking ramp and enter through the front door of the buliding. Buzz 603 on the directory if building door is locked.</em></p>
