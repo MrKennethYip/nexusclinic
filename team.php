@@ -552,6 +552,23 @@
          </div>
          <!-- End Item -->
 
+
+        <!-- Item -->
+         <div class="cbp-item rmt">
+           <a class="cbp-caption" href="profiles/jaya_junio">
+             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jaya_junio.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jaya_junio.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jaya_junio.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/jaya_junio.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Jaya Junio - Registered Massage Therapy">
+           </a>
+             <div class="py-3 blurb">
+               <a href="profiles/jaya_junio">
+                 <h4 class="h6 text-dark mb-0">Jaya Junio</h4>
+               </a>
+               <p class="small mb-0">
+                 Registered Massage Therapist<br><br>
+               </p>
+             </div>
+         </div>
+         <!-- End Item -->
+
           <!-- Item
           <div class="cbp-item">
             <a class="cbp-caption" href="careers">
