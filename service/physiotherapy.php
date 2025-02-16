@@ -532,7 +532,7 @@
                           <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$170</strong></li>
                           <li class="u-pricing-v2__list-item py-1">40 Min Follow Up - <strong>$140</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <span class="u-divider u-divider--xs u-divider--text text-white"><em>**Service offered on MONDAYS and SATURDAYS ONLY**</em></span>
+                          <span class="u-divider u-divider--xs u-divider--text text-white"><em>**Service offered on MONDAYS ONLY**</em></span>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
