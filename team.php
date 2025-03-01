@@ -359,22 +359,6 @@
               </div>
           </div>
           <!-- End Item -->
-            
-          <!-- Item -->
-          <div class="cbp-item physio">
-            <a class="cbp-caption" href="profiles/victoria_kwong">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/victoria_kwong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Victoria Kwong - Physiotherapist">
-            </a>
-              <div class="py-3 blurb">
-                <a href="profiles/victoria_kwong">
-                  <h4 class="h6 text-dark mb-0">Victoria Kwong</h4>
-                </a>
-                <p class="small mb-0">
-                  Physiotherapist<br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
 
          <!-- Item -->
          <div class="cbp-item rmt">

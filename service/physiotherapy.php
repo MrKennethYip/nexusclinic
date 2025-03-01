@@ -786,22 +786,6 @@
 
           <!-- Item -->
             <div class="cbp-item physio">
-              <a class="cbp-caption" href="../profiles/victoria_kwong">
-                <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/victoria_kwong.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/victoria_kwong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Victoria Kwong - Physiotherapist">
-              </a>
-              <div class="py-3 blurb">
-                <a href="../profiles/victoria_kwong">
-                  <h4 class="h6 text-dark mb-0">Victoria Kwong</h4>
-                </a>
-                <p class="small mb-0">
-                   Your goals, are my goals too! I will help you determine the ‘bigger picture goal’ for your treatment, break down your overarching goal into measurable milestones and help you overcome obstacles. In this way, I enjoy going above and beyond to meet and exceed your expectations for physiotherapy.<br>
-                </p>
-              </div>
-            </div>
-          <!-- End Item -->
-
-          <!-- Item -->
-            <div class="cbp-item physio">
               <a class="cbp-caption" href="../profiles/trang_le">
                 <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/trang_le.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Trang Le - Physiotherapist">
               </a>
