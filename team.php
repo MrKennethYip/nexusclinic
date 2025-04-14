@@ -370,7 +370,7 @@
                  <h4 class="h6 text-dark mb-0">Peter Gallis</h4>
                </a>
                <p class="small mb-0">
-                 Registered Massage Therapist<br><br>
+                 Registered Massage Therapist, Acupuncture Provider<br><br>
                </p>
              </div>
          </div>
