@@ -482,22 +482,6 @@
               {"width": 300, "cols": 1}
             ]'>
 
-          <!-- Item -->
-          <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/masoud_jarchi">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/masoud_jarchi.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/masoud_jarchi.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/masoud_jarchi.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/masoud_jarchi.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Masoud Jarchi - Registered Osteopath">
-            </a>
-              <div class="py-3 blurb">
-                <a href="../profiles/masoud_jarchi">
-                  <h4 class="h6 text-dark mb-0">Masoud Jarchi</h4>
-                </a>
-                <p class="small mb-0">
-                  I practice 100% client focused. Based on my experience patients could get expected results in very reasonable time.<br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
         </div>
         <!-- End Content -->
       </div>       

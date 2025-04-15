@@ -441,22 +441,6 @@
          <!-- End Item -->
 
           <!-- Item -->
-          <div class="cbp-item osteopath">
-            <a class="cbp-caption" href="profiles/masoud_jarchi">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/masoud_jarchi.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/masoud_jarchi.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/masoud_jarchi.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/masoud_jarchi.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Masoud Jarchi - Registered Manual Osteopath">
-            </a>
-              <div class="py-3 blurb">
-                <a href="profiles/masoud_jarchi">
-                  <h4 class="h6 text-dark mb-0">Masoud Jarchi</h4>
-                </a>
-                <p class="small mb-0">
-                  Registered Manual Osteopath<br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
           <div class="cbp-item chiro">
             <a class="cbp-caption" href="profiles/jiyeon_kim">
               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jiyeon_kim.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jiyeon_kim.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jiyeon_kim.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/jiyeon_kim.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Jiyeon Kim - Chiropractor">
