@@ -855,22 +855,6 @@
 
           <!-- Item -->
           <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/julian_tenyenhuis">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/julian_tenyenhuis.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/julian_tenyenhuis.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/julian_tenyenhuis.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/julian_tenyenhuis.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Julian Tenyenhuis - Registered Massage Therapy">
-            </a>
-              <div class="py-3 blurb">
-                <a href="../profiles/julian_tenyenhuis">
-                  <h4 class="h6 text-dark mb-0">Julian Tenyenhuis</h4>
-                </a>
-                <p class="small mb-0">
-                  I am persistent and genuinely want to help my patients reach their health goals. I love to continue my education, do extra research and adjust my approach to get results in my treatments. I love seeing people smile and laugh so I may also work to get these kinds of results too.<br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-            
-          <!-- Item -->
-          <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/laura_squire">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/laura_squire.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/laura_squire.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/laura_squire.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/laura_squire.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Laura Squire - Registered Massage Therapy">
             </a>
