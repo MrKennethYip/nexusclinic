@@ -503,6 +503,22 @@
          </div>
          <!-- End Item -->
 
+        <!-- Item -->
+         <div class="cbp-item rmt">
+           <a class="cbp-caption" href="profiles/ivan_gadzic">
+             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/ivan_gadzic.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/ivan_gadzic.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/ivan_gadzic.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/lrg/ivan_gadzic.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Ivan Gadzic - Registered Massage Therapy">
+           </a>
+             <div class="py-3 blurb">
+               <a href="profiles/ivan_gadzic">
+                 <h4 class="h6 text-dark mb-0">Ivan Gadzic</h4>
+               </a>
+               <p class="small mb-0">
+                 Registered Massage Therapist<br><br>
+               </p>
+             </div>
+         </div>
+         <!-- End Item -->
+
           <!-- Item
           <div class="cbp-item">
             <a class="cbp-caption" href="careers">
