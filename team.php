@@ -519,6 +519,24 @@
          </div>
          <!-- End Item -->
 
+          <!-- Item -->
+          <div class="cbp-item physio">
+            <a class="cbp-caption" href="profiles/sadhika_sadhika">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/sadhika_sadhika.jpg" data-srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/sadhika_sadhika.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/sadhika_sadhika.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/sadhika_sadhika.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Sadhika Sadhika - Physiotherapist Resident">
+            </a>
+              <div class="py-3 blurb">
+                <a href="profiles/sadhika_sadhika">
+                  <h4 class="h6 text-dark mb-0">Sadhika Sadhika</h4>
+                </a>
+                <p class="small mb-0">
+                  Physiotherapist Resident<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+
+
           <!-- Item
           <div class="cbp-item">
             <a class="cbp-caption" href="careers">
