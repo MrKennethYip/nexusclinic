@@ -583,8 +583,7 @@
               <h2 class="text-primary">
                 <span class="font-weight-bold">Prenatal Massage</span>
               </h2>
-              <p>Our Prenatal Massage service is thoughtfully designed to support the unique physical and emotional needs of expecting mothers throughout every stage of pregnancy. Provided by registered massage therapists within a collaborative, multidisciplinary healthcare environment, this service is tailored to promote maternal comfort, reduce pregnancy-related discomfort, and enhance overall wellness.</p><br>
-              <p>The massage is performed using side-lying or specially designed pregnancy cushions to ensure optimal safety and comfort. Our practitioners work closely with other healthcare providers such as chiropractors, physiotherapists, acupuncturists to ensure a cohesive approach to your prenatal care.</p><br>
+              <p>Our Prenatal Massage service is thoughtfully designed to support the unique physical and emotional needs of expecting mothers throughout every stage of pregnancy. The massage is performed using side-lying or specially designed pregnancy cushions to ensure optimal safety and comfort. Provided by registered massage therapists within a collaborative, multidisciplinary healthcare environment, this service is tailored to promote maternal comfort, reduce pregnancy-related discomfort, and enhance overall wellness.</p><br>
               <span><strong>Great for the following:</strong></span>
 
               <table class="table table-borderless text-black">
@@ -740,7 +739,7 @@
                           <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$135 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$165 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$185 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$265 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$260 + HST</strong></li>
                         </ul>
                       </div>
                       <!-- End Content -->
@@ -846,12 +845,12 @@
                         <!-- Content -->
                         <div class="u-space-1-top">
                           <ul class="list-unstyled">
-                            <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$90 + HST</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$105 + HST</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$125 + HST</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$155 + HST</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$185 + HST</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$260 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$85 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$100 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$120 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$145 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$170 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$240 + HST</strong></li>
                           </ul>
                         </div>
                         <!-- End Content -->
