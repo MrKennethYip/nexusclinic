@@ -123,7 +123,7 @@
                           <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$135 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$165 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$185 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$260 + HST</strong></li>
                         </ul>
                       </div>
                       <!-- End Content -->
