@@ -220,6 +220,86 @@
                 </div>
               </div>
               <!-- End Friends List -->
+            </div>
+          </div>
+          <!-- End Pricing 2 Section -->
+
+          <!-- Pricing 3 Section -->
+          <div class="container u-space-1-bottom">
+            <!-- Conditions Section -->
+            <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-1">
+
+              <!-- Friends List -->
+              <div class="card u-info-v2 mb-3" style="background-color:#FFFFFF; max-width:340px; min-width:300px;">
+                <div class="card-body p-3">
+                  <div class="text-center">
+                    <div class="media-body p-1">
+                      <h2 class="p-1" style="color:#002A3A;">
+                        <strong class="font-weight-bold">AROMATHERAPY MASSAGE</strong>
+                      </h2>
+                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                      <!-- Content -->
+                      <div class="u-space-1-top">
+                        <ul class="list-unstyled">
+                          <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$100 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$115 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$135 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$165 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$190 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$260 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                        </ul>
+                      </div>
+                      <!-- End Content -->
+                    </div>
+                  </div>
+
+                  <HR>
+
+                  <div class="media-body p-3 text-center">
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Aromatherapy Massage<span class="fa fa-angle-right ml-2"></span></button></a>
+                  </div>
+
+                </div>
+              </div>
+              <!-- End Friends List -->
+
+              <!-- Friends List -->
+              <div class="card u-info-v2 mb-3" style="background-color:#FFFFFF; max-width:340px; min-width:300px;">
+                <div class="card-body p-3">
+                  <div class="text-center">
+                    <div class="media-body p-1">
+                      <h2 class="p-1" style="color:#002A3A;">
+                        <strong class="font-weight-bold">PRENATAL MASSAGE</strong>
+                      </h2>
+                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                      <!-- Content -->
+                      <div class="u-space-1-top">
+                        <ul class="list-unstyled">
+                          <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$90 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$105 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$125 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$155 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$185 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$260 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                        </ul>
+                      </div>
+                      <!-- End Content -->
+                    </div>
+                  </div>
+
+                  <HR>
+
+                  <div class="media-body p-3 text-center">
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Prenatal Massage<span class="fa fa-angle-right ml-2"></span></button></a>
+                  </div>
+
+                </div>
+              </div>
+              <!-- End Friends List -->
 
               <!-- Friends List -->
               <div class="card u-info-v2 mb-3" style="background-color:#FFFFFF; max-width:340px; min-width:300px;">
@@ -259,9 +339,9 @@
 
             </div>
           </div>
-          <!-- End Pricing 2 Section -->
+          <!-- End Pricing 3 Section -->
 
-          <!-- Pricing 3 Section -->
+          <!-- Pricing 4 Section -->
           <div class="container u-space-1-bottom">
             <!-- Conditions Section -->
             <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-1-bottom">
@@ -376,10 +456,10 @@
 
             </div>
           </div>
-          <!-- End Pricing 3 Section -->
+          <!-- End Pricing 4 Section -->
 
 
-        <!-- Pricing 4 Section -->
+        <!-- Pricing 5 Section -->
           <div class="container u-space-1-bottom">
             <!-- Conditions Section -->
             <div class="d-flex justify-content-center card-deck d-block d-md-flex u-space-1-bottom">
@@ -457,9 +537,7 @@
 
             </div>
           </div>
-          <!-- End Pricing 4 Section -->
-
-
+          <!-- End Pricing 5 Section -->
 
         </div>
       </div>
