@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Patrick Dungao (Physio) | Physiotherapist | Nexus Massage & Rehab at Yonge & Eglinton | (647) 557-6267</title>
+  <title>Patrick Dungao (Physio) | Lead Physiotherapist | Nexus Massage & Rehab at Yonge & Eglinton | (647) 557-6267</title>
 
   <meta name="Description" content="Learn about the staff at Nexus Massage & Rehab. Patrick Dungao specializes in physiotherapy, rehabilitation & more at our Yonge & Eglinton clinic. Learn more!">
   <meta name="keywords" content="Patrick, Dungao, Physiotherapy, rehabilitation, strength, fitness, disability, injuries, exercise, frozen shoulder, knee pain, shoulder pain. shin splints, training, carpal tunnel, tennis elbow, meniscus tear, rotator cuff, strain, sprain, exercises, rehab, physio, endurance, recover, recovery, strengthening, physiotherapist, the best physiotherapist, physio at yonge and eglinton, rehab exercises, physio at yonge and eglinton">
@@ -58,7 +58,7 @@
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg" alt="Patrick Dungao - Physiotherapist">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg" alt="Patrick Dungao - Lead Physiotherapist">
           <!-- End Avatar -->
           </div>
         </div>
