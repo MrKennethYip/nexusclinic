@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <!-- Title -->
-  <title>Sadhika Sadhika (Physio) | Physiotherapist Resident | Nexus Massage & Rehab at Yonge & Eglinton | (647) 557-6267</title>
+  <title>Sadhika Sadhika (Physio) | Physiotherapy Resident | Nexus Massage & Rehab at Yonge & Eglinton | (647) 557-6267</title>
 
   <meta name="Description" content="Learn about the staff at Nexus Massage & Rehab. Sadhika Sadhika specializes in physiotherapy, rehabilitation & more at our Yonge & Eglinton clinic. Learn more!">
   <meta name="keywords" content="Sadhika, Physiotherapy Resident, rehabilitation, strength, fitness, disability, injuries, exercise, frozen shoulder, knee pain, shoulder pain. shin splints, training, carpal tunnel, tennis elbow, meniscus tear, rotator cuff, strain, sprain, exercises, rehab, physio, endurance, recover, recovery, strengthening, physiotherapist, the best physiotherapist, physio at yonge and eglinton, rehab exercises, physio at yonge and eglinton">
@@ -58,7 +58,7 @@
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/sadhika_sadhika.jpg" alt="Sadhika Sadhika - Physiotherapist Resident">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/sadhika_sadhika.jpg" alt="Sadhika Sadhika - Physiotherapy Resident">
           <!-- End Avatar -->
           </div>
         </div>

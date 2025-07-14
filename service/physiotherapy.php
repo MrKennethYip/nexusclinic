@@ -803,7 +803,7 @@
           <!-- Item -->
           <div class="cbp-item physio">
             <a class="cbp-caption" href="../profiles/sadhika_sadhika">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/sadhika_sadhika.jpg" data-srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/sadhika_sadhika.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/sadhika_sadhika.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/sadhika_sadhika.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Sadhika Sadhika - Physiotherapist Resident">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/sadhika_sadhika.jpg" data-srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/sadhika_sadhika.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/sadhika_sadhika.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/sadhika_sadhika.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Sadhika Sadhika - Physiotherapy Resident">
             </a>
               <div class="py-3 blurb">
                 <a href="../profiles/sadhika_sadhika">
@@ -819,7 +819,7 @@
           <!-- Item -->
           <div class="cbp-item physio">
             <a class="cbp-caption" href="../profiles/reya_kristelle_maalat">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/reya_kristelle_maalat.jpg" data-srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/reya_kristelle_maalat.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/reya_kristelle_maalat.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/reya_kristelle_maalat.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Reya Kristelle Maalat - Physiotherapist Resident">
+               <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/reya_kristelle_maalat.jpg" data-srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/reya_kristelle_maalat.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/reya_kristelle_maalat.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/reya_kristelle_maalat.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Reya Kristelle Maalat - Physiotherapy Resident">
             </a>
               <div class="py-3 blurb">
                 <a href="../profiles/reya_kristelle_maalat">
