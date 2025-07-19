@@ -161,7 +161,7 @@
                     <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>10am - 7pm</p>
                     <p class="text-dark"><strong>Thurs:</strong><span class="ml-3"></span>10am - 7pm</p>
                     <p class="text-dark"><strong>Fri:</strong><span class="ml-3"></span>10am - 7pm</p>
-                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>9am - 6pm</p>
+                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>10am - 6pm</p>
                   </div>
                 </span>
                 <!-- End User -->
