@@ -552,6 +552,9 @@
           <li class="nav-item">
             <a class="nav-link font-weight-bold" id="v-pills-acu-tab" data-toggle="pill" href="#v-pills-acu" role="tab" aria-controls="v-pills-acu" aria-selected="false">ACUPUNCTURE</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link font-weight-bold" id="v-pills-osteo-tab" data-toggle="pill" href="#v-pills-osteo" role="tab" aria-controls="v-pills-osteo" aria-selected="false">OSTEOPATHY</a>
+          </li>
         </ul>
         <div class="tab-content" id="v-pills-tabContent">
 
