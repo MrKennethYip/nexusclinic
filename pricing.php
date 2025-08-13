@@ -483,6 +483,7 @@
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content -->
@@ -516,7 +517,7 @@
                           <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$115 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$140 + HST</strong></li>
                           <li class="small text-muted py-1"><strong>BEFORE BOOKING</strong></li>
-                          <li class="small text-muted py-1">Please confirm with your insurance company if they cover <strong>ACMA (Canadian Alliance of Alternative Medicine)</strong> for manual osteopathy. <strong>We are not liable for uncovered claims.</strong></li>
+                          <li class="small text-muted py-1">Please note the insurance companies that are <strong>NOT Covered by Osteopath:</strong> Industrial alliance, Rwam, Blue Cross/Medavie Bluecross, Sunlife. <strong>We are not liable for uncovered claims.</strong></li>
                           <li class="small text-muted py-1"><i>*Osteopathy may not qualify for Direct Billing for some insurances.</i></li>
                         </ul>
                       </div>
