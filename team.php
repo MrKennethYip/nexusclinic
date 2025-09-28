@@ -70,7 +70,6 @@
           <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".chiro">Chiropractor</li>
           <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".physio">Physiotherapist</li>
           <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".acupuncture">Registered Acupuncturist</li>
-          <li class="list-inline-item cbp-filter-item u-cubeportfolio__item" data-filter=".osteopath">Registered Osteopath</li>
         </ul>
         <!-- End Filter -->
 
