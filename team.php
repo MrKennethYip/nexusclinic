@@ -151,6 +151,7 @@
           </div>
           <!-- End Item -->
 
+
           <!-- Item -->
           <div class="cbp-item acupuncture">
             <a class="cbp-caption" href="profiles/matt_walton">
@@ -159,6 +160,22 @@
               <div class="py-3 blurb">
                 <a href="profiles/matt_walton">
                   <h4 class="h6 text-dark mb-0">Matt Walton</h4>
+                </a>
+                <p class="small mb-0">
+                  Registered Acupuncturist<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item acupuncture">
+            <a class="cbp-caption" href="profiles/jinmin_jasmine_ren">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/jinmin_jasmine_ren.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/jinmin_jasmine_ren.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/jinmin_jasmine_ren.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/lrg/jinmin_jasmine_ren.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Jinmin (Jasmine) Ren - Registered Acupuncturist">
+            </a>
+              <div class="py-3 blurb">
+                <a href="profiles/jinmin_jasmine_ren">
+                  <h4 class="h6 text-dark mb-0">Jinmin (Jasmine) Ren</h4>
                 </a>
                 <p class="small mb-0">
                   Registered Acupuncturist<br><br>

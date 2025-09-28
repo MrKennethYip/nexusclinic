@@ -478,6 +478,7 @@
                           <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$110</strong></li>
                           <li class="u-pricing-v2__list-item py-1">30 Min Follow-Up - <strong>$95</strong></li>
                           <li class="u-pricing-v2__list-item">&nbsp</li>
+                          <li class="u-pricing-v2__list-item">&nbsp</li>
                           <li class="small text-white"><em>**Cannot be claimed under Acupuncture Insurance**</em></li>
                         </ul>
                       </div>
@@ -611,6 +612,7 @@
               {"width": 300, "cols": 1}
             ]'>
 
+
           <!-- Item -->
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/matt_walton">
@@ -622,6 +624,22 @@
                 </a>
                 <p class="small mb-0">
                   I specialize in treating conditions related to mental health. However, because we TCM practitioners treat you as a whole, I also focus on menstrual health, digestion, sleep/energy and pain concerns to help you enjoy living the healthy life you want. In my practice, I also coach my patients on herbal medicine and diagnosis-based nutrition to help you achieve a balanced and optimized body.<br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/jinmin_jasmine_ren">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/jinmin_jasmine_ren.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/jinmin_jasmine_ren.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/jinmin_jasmine_ren.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/lrg/jinmin_jasmine_ren.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Jinmin (Jasmine) Ren - Acupuncture">
+            </a>
+              <div class="py-3 blurb">
+                <a href="../profiles/jinmin_jasmine_ren">
+                  <h4 class="h6 text-dark mb-0">Jinmin (Jasmine) Ren</h4>
+                </a>
+                <p class="small mb-0">
+                  I’m most proud when patients experience real relief, describing acupuncture as magic after their symptoms ease. It brings me great joy to see them leave with lighter shoulders and brighter smiles. It is also incredibly meaningful when they trust me enough to refer their friends and family, which is the highest compliment and a reflection of the care I strive to provide.<br>
                 </p>
               </div>
           </div>
