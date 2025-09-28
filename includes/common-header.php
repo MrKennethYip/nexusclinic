@@ -113,6 +113,14 @@ window.addEventListener('scroll', () => {
      'event_label' : label
     });
     gtag_report_conversion();
+
+  var eventTime = Math.floor(Date.now() / 1000); // Unix timestamp
+  // Standard event: Schedule
+  fbq('trackCustom', 'Nexus_Target', {
+    "action_source": "website",
+    "event_name": "Nexus_Target",
+    "target_label": label
+  });
   }
 </script>
 
@@ -138,5 +146,33 @@ window.addEventListener('scroll', () => {
   gtag('config', 'G-4TJ102HTBL');
 </script>
 
+<!-- Async Meta Pixel Base -->
+<script>
+  // Load fbevents.js asynchronously
+  (function() {
+    if (window.fbq) return;
+    window.fbq = function() {
+      fbq.callMethod ?
+        fbq.callMethod.apply(fbq, arguments) : fbq.queue.push(arguments);
+    };
+    if (!window._fbq) window._fbq = fbq;
+    fbq.push = fbq;
+    fbq.loaded = true;
+    fbq.version = '2.0';
+    fbq.queue = [];
 
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://connect.facebook.net/en_US/fbevents.js';
+    var firstScript = document.getElementsByTagName('script')[0];
+    firstScript.parentNode.insertBefore(script, firstScript);
+  })();
 
+  // Initialize Pixel
+  fbq('init', '741161066867456'); // Replace with your Pixel ID
+  fbq('track', 'PageView');
+</script>
+
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=741161066867456&ev=PageView&noscript=1"
+/></noscript>
