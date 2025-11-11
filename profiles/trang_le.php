@@ -212,7 +212,7 @@
 
               <!-- Text -->
               <p>I am interested in pelvic floor rehabilitation and I am trained in managing and treating urgency, incontinence, pelvic pain, and pelvic organ prolapse. I want individuals to be able to perform daily activities with no concerns.</p>
-              <p>Aside from pelvic health physiotherapy, I specialize in educating patients to ensure they are fully informed about their health and body, manual therapy, and exercise prescription.</p>
+              <p>Aside from pelvic health physiotherapy, I specialize in vestibular rehab and educating patients to ensure they are fully informed about their health and body, manual therapy, and exercise prescription.</p>
               <div style="color:#77838f">Pelvic Health Solutions completed:</div>
                 <ul style="color:#77838f">
                     <li>PHS Level 1 - Managing Incontinence</li>
