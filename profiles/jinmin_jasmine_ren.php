@@ -49,9 +49,9 @@
 
           <ul class="list-inline">
             <li class="list-inline-item">
-              <a class="u-text-light" href="mailto:jinmin.ren@nexushealthclinic.com">
+              <a class="u-text-light" href="mailto:jasmine@nexushealthclinic.com">
                 <span class="far fa-envelope mr-2"></span>
-                jinmin.ren@nexushealthclinic.com
+                jasmine@nexushealthclinic.com
               </a>
             </li>
           </ul>
@@ -86,7 +86,7 @@
                   <a class="btn btn-block btn-danger transition-3d-hover" href="https://nexusclinic.clinicsense.com/book/" target="_blank" onclick="handleClick('sidebarBtn');">Book Practitioner<span class="fa fa-angle-right ml-2"></span></a>
                   <br>
 
-                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:jinmin.ren@nexushealthclinic.com">
+                  <a class="btn btn-block u-btn-primary--air transition-3d-hover" href="mailto:jasmine@nexushealthclinic.com">
                     <span class="far fa-envelope mr-2"></span>
                     Send a Message
                   </a>
