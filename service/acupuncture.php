@@ -644,6 +644,22 @@
               </div>
           </div>
           <!-- End Item -->
+            
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/betty_peng">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/betty_peng.jpg" srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/betty_peng.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/betty_peng.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/betty_peng.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Ting (Betty) Peng - Acupuncture, Registered Massage Therapist">
+            </a>
+              <div class="py-3 blurb">
+                <a href="../profiles/betty_peng">
+                  <h4 class="h6 text-dark mb-0">Ting (Betty) Peng</h4>
+                </a>
+                <p class="small mb-0">
+                  I’m dedicated to creating a warm, results-driven experience where every treatment is customized to your body’s needs. Through attentive communication, skilled techniques, and practical guidance, I help clients ease pain, reduce stress, and achieve lasting balance—so they can feel their best every day.<br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->  
 
         </div>
         <!-- End Content -->

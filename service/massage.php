@@ -1275,22 +1275,6 @@
 
           <!-- Item -->
           <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/jaya_junio">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jaya_junio.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jaya_junio.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jaya_junio.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/jaya_junio.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Jaya Junio - Registered Massage Therapy">
-            </a>
-              <div class="py-3 blurb">
-                <a href="../profiles/jaya_junio">
-                  <h4 class="h6 text-dark mb-0">Jaya Junio</h4>
-                </a>
-                <p class="small mb-0">
-                   I like to bring a fresh perspective and a commitment to personalized care, ensuring each treatment is tailored to their specific needs. My dedication to continuous learning and improving my skills means they receive the most effective and up-to-date techniques available. <br><br><br><br><br><br>
-                </p>
-              </div>
-          </div>
-          <!-- End Item -->
-
-          <!-- Item -->
-          <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/kendalth_mendoza">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kendalth_mendoza.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kendalth_mendoza.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/kendalth_mendoza.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/kendalth_mendoza.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Kendalth Mendoza - Registered Massage Therapy">
             </a>
@@ -1319,8 +1303,9 @@
                 </p>
               </div>
           </div>
-         <!-- Item -->
-         <div class="cbp-item rmt">
+          
+          <!-- Item -->
+          <div class="cbp-item rmt">
            <a class="cbp-caption" href="../profiles/yujeong_park">
              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/yujeong_park.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/yujeong_park.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/yujeong_park.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/lrg/yujeong_park.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Yujeong Park - Registered Massage Therapy">
            </a>
@@ -1332,8 +1317,40 @@
                  I listen carefully and provide treatments that fit their needs. I combine my massage skills with kindness and create a welcoming space where clients feel safe and supported.<br><br><br><br><br>
                </p>
              </div>
-         </div>
-          <!-- End Item -->
+           </div>
+           <!-- End Item -->
+            
+           <!-- Item -->
+           <div class="cbp-item rmt">
+              <a class="cbp-caption" href="../profiles/betty_peng">
+                <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/betty_peng.jpg" srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/betty_peng.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/betty_peng.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/betty_peng.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Ting (Betty) Peng - Acupuncture, Registered Massage Therapist">
+              </a>
+                <div class="py-3 blurb">
+                  <a href="../profiles/betty_peng">
+                    <h4 class="h6 text-dark mb-0">Ting (Betty) Peng</h4>
+                  </a>
+                  <p class="small mb-0">
+                    I’m dedicated to creating a warm, results-driven experience where every treatment is customized to your body’s needs. Through attentive communication, skilled techniques, and practical guidance, I help clients ease pain, reduce stress, and achieve lasting balance—so they can feel their best every day.<br><br>
+                  </p>
+                </div>
+            </div>
+            <!-- End Item -->  
+              
+            <!-- Item -->
+           <div class="cbp-item rmt">
+              <a class="cbp-caption" href="../profiles/jie_lu">
+                <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/jie_lu.jpg" srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/jie_lu.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/jie_lu.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/jie_lu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Jie Lu - Registered Massage Therapist">
+              </a>
+                <div class="py-3 blurb">
+                  <a href="../profiles/jie_lu">
+                    <h4 class="h6 text-dark mb-0">Jie Lu</h4>
+                  </a>
+                  <p class="small mb-0">
+                    I take the time to truly understand patient needs—listening carefully, assessing through skilled palpation, and tailoring each treatment to address their specific symptoms. My goal is to create a caring, results-driven experience that helps every client feel heard, supported, and relieved of pain or tension.<br>
+                  </p>
+                </div>
+            </div>
+            <!-- End Item --> 
 
           <!-- Item -->
           <div class="cbp-item rmt">
