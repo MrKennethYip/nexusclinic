@@ -142,9 +142,10 @@
 
                 <span class="d-flex align-items-start">
                   <div class="ml-2">
-                    <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>8:00am - 2:00pm</p>
-                    <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>8:00am - 2:00pm</p>
-                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>8:00am - 7:00pm</p>
+                    <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>9:00am - 2:00pm</p>
+                    <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>9:00am - 2:00pm</p>
+                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>9:00am - 5:00pm</p>
+                    <p class="text-dark"><strong>Sun:</strong><span class="ml-3"></span>9:00am - 7:00pm</p>
                   </div>
                 </span>
               </div>
