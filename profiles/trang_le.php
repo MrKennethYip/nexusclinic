@@ -168,7 +168,6 @@
                     <p class="text-dark"><strong>Mon:</strong><span class="ml-3"></span>10am - 8pm</p>
                     <p class="text-dark"><strong>Tues:</strong><span class="ml-3"></span>1pm - 9pm</p>
                     <p class="text-dark"><strong>Thurs:</strong><span class="ml-3"></span>1pm - 9pm</p>
-                    <p class="text-dark"><strong>Sat:</strong><span class="ml-3"></span>3pm - 7pm</p>
                   </div>
                 </span>
                 <!-- End User -->
@@ -212,7 +211,7 @@
 
               <!-- Text -->
               <p>I am interested in pelvic floor rehabilitation and I am trained in managing and treating urgency, incontinence, pelvic pain, and pelvic organ prolapse. I want individuals to be able to perform daily activities with no concerns.</p>
-              <p>Aside from pelvic health physiotherapy, I specialize in vestibular rehab and educating patients to ensure they are fully informed about their health and body, manual therapy, and exercise prescription.</p>
+              <p>Aside from pelvic health physiotherapy, I provide vestibular rehab and educate patients to ensure they are fully informed about their health and body, manual therapy, and exercise prescription.</p>
               <div style="color:#77838f">Pelvic Health Solutions completed:</div>
                 <ul style="color:#77838f">
                     <li>PHS Level 1 - Managing Incontinence</li>
