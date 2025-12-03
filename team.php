@@ -544,7 +544,7 @@
                   <h4 class="h6 text-dark mb-0">Sadhika Sadhika</h4>
                 </a>
                 <p class="small mb-0">
-                  Physiotherapy Resident<br><br>
+                  Physiotherapist<br><br>
                 </p>
               </div>
           </div>
