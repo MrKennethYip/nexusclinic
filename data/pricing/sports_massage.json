@@ -1,0 +1,11 @@
+{
+  "name": "Sports Massage Therapy",
+  "heading_text": "SPORTS MASSAGE THERAPY",
+  "files": ["pricing.php", "service/massage.php", "service/sports-massage.php"],
+  "_note": "service/sports-massage.php shows Initial Assessment without '+ HST' — this is a known inconsistency. Running this skill will standardize all files to match the prices below.",
+  "prices": [
+    {"label": "Initial Assessment", "price": "$120 + HST"},
+    {"label": "30 Min Session", "price": "$85 + HST"},
+    {"label": "45 Min Session", "price": "$100 + HST"}
+  ]
+}

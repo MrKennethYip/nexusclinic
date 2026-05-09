@@ -1,0 +1,13 @@
+{
+  "name": "Prenatal Massage",
+  "heading_text": "PRENATAL MASSAGE",
+  "files": ["pricing.php", "service/massage.php"],
+  "prices": [
+    {"label": "30 Min Session", "price": "$85 + HST"},
+    {"label": "45 Min Session", "price": "$100 + HST"},
+    {"label": "60 Min Session", "price": "$120 + HST"},
+    {"label": "75 Min Session", "price": "$145 + HST"},
+    {"label": "90 Min Session", "price": "$170 + HST"},
+    {"label": "120 Min Session", "price": "$240 + HST"}
+  ]
+}
