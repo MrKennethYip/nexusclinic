@@ -1,0 +1,26 @@
+{
+  "first_name": "",
+  "last_name": "",
+  "display_name": "",
+  "credential": "",
+  "title": "",
+  "email": "",
+  "image_key": "",
+  "s3_base_url": "https://s3.ca-central-1.amazonaws.com/nexusmassageclinic",
+  "services": [],
+  "hours": [
+    { "day": "", "time": "" }
+  ],
+  "bio": {
+    "about":           "",
+    "cases":           "",
+    "specializations": "",
+    "proud_of":        "",
+    "why_choose":      ""
+  },
+  "seo": {
+    "title":       "",
+    "description": "",
+    "keywords":    ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "first_name": "Jane",
+  "last_name": "Doe",
+  "display_name": "Dr. Jane Doe",
+  "credential": "DC, RMT",
+  "title": "Chiropractor & RMT",
+  "email": "jane@nexushealthclinic.com",
+  "image_key": "jane_doe",
+  "s3_base_url": "https://s3.ca-central-1.amazonaws.com/nexusmassageclinic",
+  "services": ["chiropractic", "rmt_massage", "acupuncture"],
+  "hours": [
+    { "day": "Mon", "time": "8:30am - 5:30pm" },
+    { "day": "Wed", "time": "10am - 8pm" },
+    { "day": "Sat", "time": "8:30am - 5pm" },
+    { "day": "Sun", "time": "9:30am - 5pm" }
+  ],
+  "bio": {
+    "about":           "Dr. Jane Doe graduated from the Canadian Memorial Chiropractic College after earning an Honours Degree in Kinesiology at the University of Waterloo. It was at the University of Waterloo when Dr. Doe discovered her passion for dance, specifically latin and old school hip hop. She competed in several local breakdancing battles, as well as, performed for UnitedSalseros at several congresses including the Canada Salsa Congress. Her love and passion for dance and helping people recover through chiropractic care has led her to develop a special interest in working with dancers in the performing arts community. Dr. Doe is now the team chiropractor for the Professional UnitedSalseros dance team. Dr. Doe regularly attends the Performing Arts Medicine Association (PAMA) seminars allowing her to connect with healthcare professionals who share the same interest and tapping into the latest research on ways to benefit the artistic community. Dr. Doe worked with other healthcare professionals conducting screens for dancers of Ballet Jorgen Canada, as well as, setting up outreaches for the street dance community to educate dancers on what they can do to excel in their performance and physical health.\n\nBesides working with the artistic community, Dr. Doe is a Certified First Responder who is experienced working with athletes. She has worked along side with sport teams including the GTA AllStars Football Team, Aurora Barbarians Rugby Team, University of Waterloo Male Varsity Basketball Team, as well as hockey teams at the Stoney Creek Girls Hockey Association Midget AA Showcase Tournament. Dr. Doe loves travelling and learning different cultures and customs around the world. She is a strong advocate for encouraging travellers to give back to the communities they travel through. Dr. Doe has delivered medical care to local residents, as well as, rehabilitation workshops for doctors and physiotherapists at the Orthopaedic and Rehabilitation Hospital in Ho Chi Minh of Vietnam, in the Center of Medical Rehabilitation in Vientiane of Laos, as well as numerous regions in the Dominican Republic. On her free time, you may catch a glimpse of Dr. Doe powerlifting in the gym, on the dance floor at Dovercourt House, or providing a community outreach at a local event near you.",
+    "cases":           "Dr. Jane Doe really enjoy seeing patients from every walks of life. However, her love and passion for dance and helping people recover through chiropractic care has led her to develop a special interest in working with dancers in the performing arts community.",
+    "specializations": "Dr. Jane Doe specialize in spine and joint manual therapy, myofascial release therapy and medical acupuncture. In conjunction with all treatments, patients would be given a tailored functional rehabilitation program to facilitate recovery.",
+    "proud_of":        "Being able to put a smile on my clients' faces as they walk out of my office feeling better and stronger after every visit.",
+    "why_choose":      "Dr. Jane Doe has a strong passion and love for helping people, through non-invasive medicine; efficiently and effectively returning them back to their natural function. As a licensed chiropractor and certified acupuncture provider, Dr. Doe tailors each treatment plan specific to her patients' needs through the most current evidence-based care. She makes your health her priority."
+  },
+  "seo": {
+    "title":       "Jane Doe | Chiropractor & RMT | Nexus Massage & Rehab",
+    "description": "Dr. Jane Doe offers acupuncture, RMT & chiropractic services at Yonge & Eglinton. Learn about the Nexus Massage & Rehab team!",
+    "keywords":    "Chiropractic, chiropractor, massage therapy, massage therapist, RMT, deep massage, rehabilitation, exercise, orthotics, acupuncture, traditional chinese medicine, doctor, trigger point, neck pain, back pain, headaches, adjustments, chiropractor at yonge and eglinton, back pain relief, lower back pain relief, lumbar spine, back strain, herniated disc, neck problems, sore neck, backache, back injury"
+  }
+}
