@@ -1,0 +1,11 @@
+{
+  "name": "Shiatsu / Tuina Massage",
+  "heading_text": "SHIATSU / TUINA MASSAGE",
+  "files": ["pricing.php"],
+  "_note": "This service only appears on pricing.php. Prices are listed as Follow-Up sessions (no HST) as this service is billed under Acupuncture insurance.",
+  "prices": [
+    {"label": "30 Min Follow-Up", "price": "$85"},
+    {"label": "45 Min Follow-Up", "price": "$100"},
+    {"label": "60 Min Follow-Up", "price": "$120"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Cosmetic Acupuncture",
+  "heading_text": "ACUPUNCTURE",
+  "_heading_note": "Cosmetic Acupuncture lives inside the ACUPUNCTURE pricing card in pricing.php, after the COSMETIC ACUPUNCTURE divider span.",
+  "files": ["pricing.php"],
+  "section_divider": "COSMETIC ACUPUNCTURE",
+  "target_section": "after",
+  "prices": [
+    {"label": "15 Min Consultation", "price": "FREE"},
+    {"label": "Initial Assessment", "price": "$140"},
+    {"label": "60 Min Follow-Up", "price": "$115"}
+  ]
+}

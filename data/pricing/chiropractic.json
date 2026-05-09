@@ -1,0 +1,12 @@
+{
+  "name": "Chiropractic",
+  "heading_text": "CHIROPRACTIC",
+  "files": ["pricing.php", "service/chiropractic.php"],
+  "_note": "pricing.php uses 'Follow-Up' (hyphen); service/chiropractic.php uses 'Follow Up' (space). The skill normalizes hyphens/spaces when matching labels.",
+  "prices": [
+    {"label": "15 Min Consultation", "price": "FREE"},
+    {"label": "Initial Assessment", "price": "$135"},
+    {"label": "20 Min Follow-Up", "price": "$90"},
+    {"label": "40 Min Follow-Up", "price": "$115"}
+  ]
+}

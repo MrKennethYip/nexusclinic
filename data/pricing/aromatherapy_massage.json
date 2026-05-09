@@ -1,0 +1,13 @@
+{
+  "name": "Aromatherapy Massage",
+  "heading_text": "AROMATHERAPY MASSAGE",
+  "files": ["pricing.php", "service/massage.php"],
+  "prices": [
+    {"label": "30 Min Session", "price": "$100 + HST"},
+    {"label": "45 Min Session", "price": "$115 + HST"},
+    {"label": "60 Min Session", "price": "$135 + HST"},
+    {"label": "75 Min Session", "price": "$165 + HST"},
+    {"label": "90 Min Session", "price": "$190 + HST"},
+    {"label": "120 Min Session", "price": "$260 + HST"}
+  ]
+}
