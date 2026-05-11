@@ -23,9 +23,9 @@ If that file does not exist, check all service pages for the slug: `massage`, `c
 
 ---
 
-## Step 2 — Delete the profile page
+## Step 2 — Archive the profile page
 
-Delete the file `profiles/{slug}.php`.
+Rename `profiles/{slug}.php` to `profiles/[x] {slug}.php` (prefix the filename with `[x] `).
 
 ---
 
@@ -88,7 +88,7 @@ In `sitemap.xml`, find and remove the `<url>` block whose `<loc>` contains `/pro
 ## Step 6 — Confirm
 
 After completing all removals, report:
-- The profile page deleted
+- The profile page archived (renamed with `[x] ` prefix)
 - Which service pages were updated
 - Confirmation that `team.php` and `sitemap.xml` were updated
 - Remind the user to manually remove the practitioner's photos from S3 if no longer needed:
