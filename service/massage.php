@@ -1339,7 +1339,7 @@
           <!-- Item -->
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/ada_chindah">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ada_chindah.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ada_chindah.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/ada_chindah.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/ada_chindah.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Ada Chindah - Registered Massage Therapy">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/ada_chindah.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/ada_chindah.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/ada_chindah.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/ada_chindah.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Ada Chindah - Registered Massage Therapy">
             </a>
               <div class="py-3 blurb">
                 <a href="../profiles/ada_chindah">
