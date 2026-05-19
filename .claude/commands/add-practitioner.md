@@ -6,7 +6,37 @@ Read that JSON file first, then perform every step below in order.
 
 ## Step 1 — Parse the JSON
 
-Extract all fields. Derive these additional values:
+Extract all fields. Apply this rule to `title` before using it anywhere:
+
+**Title ordering:** If `title` contains multiple titles, reorder them to match this canonical sequence (comma-separated, no `&`):
+1. Chiropractor
+2. Lead Physiotherapist
+3. Physiotherapist
+4. Pelvic Health Physiotherapist
+5. Registered Acupuncturist
+6. Registered Massage Therapist
+7. Physiotherapy Resident
+8. Acupuncture Provider
+
+Any titles not in this list preserve their original relative order and go at the end. Titles are always separated by `, ` (comma + space) — never with `&`.
+
+**SEO description generation:** Always generate `seo.description` fresh — do not use the value from the JSON as-is. Build it from the other JSON fields using this format:
+
+```
+{display_name}, {discipline} at Nexus Massage & Rehab, Yonge & Eglinton Toronto. Specializing in {niche_1} & {niche_2}. Book today.
+```
+
+Rules:
+- **Length:** 145–158 characters (count carefully; adjust niche phrasing to hit the range).
+- **Credential + name:** Use `display_name` (e.g. `Dr. Karen Ngo`).
+- **Discipline:** A short, natural description of their primary role (e.g. `chiropractor & RMT`, `physiotherapist`, `registered acupuncturist`). Derive from `title` and `services`.
+- **Clinic name:** Must include `Nexus Massage & Rehab`.
+- **Location:** Must include `Yonge & Eglinton Toronto` (or `Midtown Toronto`, or both).
+- **Specialization:** 1–2 specific niches drawn from `bio.about` or `bio.specializations` — something distinctive, not just a repeat of the discipline (e.g. `sports rehab`, `pelvic health`, `dancer rehab`, `prenatal care`).
+- **CTA:** End with `Book today.`
+- **Uniqueness:** The generated description must not duplicate any existing practitioner's meta description. Scan the `profiles/` directory for existing pages and check their `<meta name="Description">` tags before finalising.
+
+Derive these additional values:
 - `full_name` = `{first_name} {last_name}`
 - `slug` = `image_key` (used for file paths and URLs, e.g. `ada_chindah`)
 - `img_sml` = `{s3_base_url}/images/profile/sml/{image_key}.jpg`
@@ -301,12 +331,13 @@ where `{service_slug}` is the value from the `services` array (e.g. `massage`, `
 
 ## Step 3 — Update `team.php`
 
-Insert the following block immediately **before** this comment anchor in `team.php`:
+Insert the following block immediately **before** this closing anchor in `team.php` (this places the new entry at the bottom of the healthcare practitioners list, at the end of the Portfolio 1 Section):
 ```
-        <!-- Item
-          <div class="cbp-item">
-            <a class="cbp-caption" href="careers">
+        </div>
+        <!-- End Content -->
 ```
+
+> **Note:** The new practitioner entry must be added to the end of the Portfolio 1 Section — do not insert it anywhere else in the file.
 
 Block to insert (note: team.php uses `data-srcset` and `responsively-lazy`, unlike service pages):
 ```html
@@ -334,7 +365,23 @@ Block to insert (note: team.php uses `data-srcset` and `responsively-lazy`, unli
 
 For each service in the `services` array, insert into the corresponding service page (e.g. `service/massage.php`).
 
-Insert the following block immediately **before** this closing anchor (which ends the practitioner grid in every service page):
+Use the insertion anchor based on the service type:
+
+- **`massage` or `sports-massage`** — insert immediately **before** the Cassandra Kong item:
+```
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/cassandra_kong">
+```
+
+- **`chiropractic`** — insert immediately **before** the Karen Ngo item:
+```
+          <!-- Item -->
+          <div class="cbp-item chiro">
+            <a class="cbp-caption" href="../profiles/karen_ngo">
+```
+
+- **All other services** — insert immediately **before** this closing anchor (which ends the practitioner grid):
 ```
         </div>
         <!-- End Content -->
