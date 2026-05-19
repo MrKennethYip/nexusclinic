@@ -228,41 +228,63 @@
     </div>
 
     <!-- Service Item Start -->
-    <div class="scrolltag" id="traditional"></div>
-     <div class="position-relative">
-      <div class="container u-space-2">
-        <div class="row align-items-center">
-          <div class="col-lg-7 mb-9 mb-lg-0">
-            <div class="pr-lg-4 mb-7">
-              <h2 class="text-primary"> 
-                <span class="font-weight-bold">Traditional Chinese Medicine Acupuncture</span>
-              </h2>
-              <p>Traditional Chinese Medicine acupuncture involves the insertion of thin needles into specific points on the body's meridians to restore the flow of vital energy (qi). It aims to address various physical and emotional conditions, promoting balance and well-being. Expect a personalized assessment by a trained practitioner, strategic needle placement, and potential combination with other techniques. TCM acupuncture complements conventional medicine and emphasizes holistic healing.</p><br>
-            </div>
-          </div>
+         <div class="scrolltag" id="tuina"></div>
+         <div class="position-relative">
+          <div class="container">
+            <div class="row align-items-center">
+              <div class="col-lg-7 mb-9 mb-lg-0">
+                <div class="pr-lg-4 mb-7">
+                  <h2 class="text-primary">
+                    <span class="font-weight-bold">Weight Loss & Body Sculpting Acupuncture</span>
+                  </h2>
+                  <p>Weight Loss & Body Sculpting Acupuncture is a specialized Traditional Chinese Medicine technique that uses absorbable protein threads — rather than conventional needles — embedded into specific acupoints throughout the body. Once placed, the threads provide <b>continuous, gentle stimulation</b> at these points, working around the clock to support your body's natural regulatory systems. This innovative approach is designed to help regulate metabolism, curb appetite, and balance endocrine function, offering a holistic, non-surgical path to body transformation. Rooted in centuries of TCM practice and informed by modern clinical experience, thread embedding acupuncture addresses not just the physical symptoms of weight gain, but the internal imbalances that can make lasting change difficult to achieve on your own.</p><br>
 
-          <div class="col-lg-5 position-relative">
-            <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/acupuncture/med/traditional_acu.jpg" alt="Multiple Precisely Placed Acupuncture Needles on Upper Back Region">
+                  <span><strong>Benefits of Weight Loss & Body Sculpting Acupuncture:</strong></span>
 
-              <div class="embed-responsive embed-responsive-16by9">
-                <iframe id="youTubeVideo" class="embed-responsive-item"
-                        data-src="//www.youtube.com/embed/0qisGSwZym4?autoplay=1&showinfo=0&rel=0">
-                </iframe>
+                  <table class="table table-borderless text-black">
+                    <tbody>
+                      <tr>
+                        <td scope="row">
+                          <ul>
+                            <li>Supports healthy metabolism regulation</li>
+                            <li>Helps reduce appetite and food cravings</li>
+                            <li>Balances endocrine and hormonal function</li>
+                            <li>Promotes targeted body contouring and sculpting</li>
+                            <li>Non-surgical and chemical-free</li>
+                            <li>Continuous stimulation between sessions for sustained effect</li>
+                            <li>Addresses root causes of weight retention through a holistic TCM lens</li>
+                            <li>Complements lifestyle changes including diet and exercise</li>
+                          </ul>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+
+                </div>
+              </div>
+
+              <div class="col-lg-5 position-relative">
+                <div id="video" class="u-video-player">
+                  <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/acupuncture/med/weight_loss_body_sculpting.jpg" alt="Weight Loss and Body Sculpting Acupuncture">
+
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe id="youTubeVideo" class="embed-responsive-item"
+                            data-src="//www.youtube.com/embed/0qisGSwZym4?autoplay=1&showinfo=0&rel=0">
+                    </iframe>
+                  </div>
+                </div>
+
+                <figure class="w-100 u-content-centered">
+                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                     viewBox="0 0 1109.8 797.1" style="enable-background:new 0 0 1109.8 797.1;" xml:space="preserve">
+                  <path class="u-fill-primary" opacity=".1" d="M105.1,267.1C35.5,331.5-3.5,423,0.3,517.7c5.8,145.3,110.7,314.2,588,273.1c753-64.7,481.3-358.3,440.4-398.3
+                    c-4-3.9-7.9-7.9-11.7-12L761.9,104.8C639.4-27.6,432.5-35.6,299.9,87L105.1,267.1z"/>
+                </svg>
+                </figure>
               </div>
             </div>
-
-            <figure class="w-100 u-content-centered">
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                 viewBox="0 0 1109.8 797.1" style="enable-background:new 0 0 1109.8 797.1;" xml:space="preserve">
-              <path class="u-fill-primary" opacity=".1" d="M105.1,267.1C35.5,331.5-3.5,423,0.3,517.7c5.8,145.3,110.7,314.2,588,273.1c753-64.7,481.3-358.3,440.4-398.3
-                c-4-3.9-7.9-7.9-11.7-12L761.9,104.8C639.4-27.6,432.5-35.6,299.9,87L105.1,267.1z"/>
-            </svg>
-            </figure>
           </div>
         </div>
-      </div>
-    </div>
     <!-- Service Item End -->
 
     <!-- Service Item Start -->
@@ -447,6 +469,104 @@
                           <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$115</strong></li>
                           <li class="u-pricing-v2__list-item py-1">75 Min Follow-Up - <strong>$130</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item">&nbsp</li>
+                        </ul>
+                      </div>
+                      <!-- End Content --> 
+                    </div>
+                  </div>
+
+                  <HR>
+
+                  <div class="media-body p-3 text-center">
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Acupuncture<span class="fa fa-angle-right ml-2"></span></button></a>
+                  </div>
+
+                </div>
+              </div>
+              <!-- End Friends List -->
+
+              <!-- Friends List -->
+              <div class="card u-info-v2 mb-3" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
+                <div class="card-body p-3">
+                  <div class="text-center">
+                    <div class="media-body p-1">
+                      <h2 class="p-1" style="color:#002A3A;">
+                        <strong class="font-weight-bold text-white">COSMETIC ACUPUNCTURE</strong><br><br>
+                      </h2>
+                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                      <!-- Content -->
+                      <div class="u-space-1-top">
+                        <ul class="list-unstyled">
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$170</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$150</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                        </ul>
+                      </div>
+                      <!-- End Content --> 
+                    </div>
+                  </div>
+
+                  <HR>
+
+                  <div class="media-body p-3 text-center">
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Acupuncture<span class="fa fa-angle-right ml-2"></span></button></a>
+                  </div>
+
+                </div>
+              </div>
+              <!-- End Friends List -->
+
+              <!-- Friends List -->
+              <div class="card u-info-v2 mb-3" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
+                <div class="card-body p-3">
+                  <div class="text-center">
+                    <div class="media-body p-1">
+                      <h2 class="p-1" style="color:#002A3A;">
+                        <strong class="font-weight-bold text-white">WEIGHT LOSS & BODY SCULPTING ACUPUNCTURE</strong>
+                      </h2>
+                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                      <!-- Content -->
+                      <div class="u-space-1-top">
+                        <ul class="list-unstyled">
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$180</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$160</strong></li>
+                          <li class="u-pricing-v2__list-item">&nbsp</li>
+                          <li class="u-pricing-v2__list-item">&nbsp</li>
+                          <li class="u-pricing-v2__list-item">&nbsp</li>
+                        </ul>
+                      </div>
+                      <!-- End Content --> 
+                    </div>
+                  </div>
+
+                  <HR>
+
+                  <div class="media-body p-3 text-center">
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-white u-btn-white transition-3d-hover">Book Acupuncture<span class="fa fa-angle-right ml-2"></span></button></a>
+                  </div>
+
+                </div>
+              </div>
+              <!-- End Friends List -->
+
+                            <!-- Friends List -->
+              <div class="card u-info-v2 mb-3" style="background-color:#00A6CE; max-width:340px; min-width:300px;">
+                <div class="card-body p-3">
+                  <div class="text-center">
+                    <div class="media-body p-1">
+                      <h2 class="p-1" style="color:#002A3A;">
+                        <strong class="font-weight-bold text-white">SHIATSU / TUINA MASSAGE</strong><br><br>
+                      </h2>
+                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                      <!-- Content -->
+                      <div class="u-space-1-top">
+                        <ul class="list-unstyled">
+                          <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$140</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$115</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">75 Min Follow-Up - <strong>$130</strong></li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -477,6 +597,7 @@
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$110</strong></li>
                           <li class="u-pricing-v2__list-item py-1">30 Min Follow-Up - <strong>$95</strong></li>
+                          <li class="u-pricing-v2__list-item">&nbsp</li>
                           <li class="u-pricing-v2__list-item">&nbsp</li>
                           <li class="u-pricing-v2__list-item">&nbsp</li>
                           <li class="small text-white"><em>**Cannot be claimed under Acupuncture Insurance**</em></li>
