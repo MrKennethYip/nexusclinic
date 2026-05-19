@@ -116,7 +116,9 @@
                   <div class="card-header border-0 py-3 d-flex align-items-center">
                     <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/acupuncture-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                     <div>
-                      <span class="d-block text-dark small font-weight-bold">Acupuncture</span>
+                      <a href="../service/acupuncture">
+                        <span class="d-block text-dark small font-weight-bold">Registered Acupuncture</span>
+                      </a>
                     </div>
                   </div>
                 <!-- End User -->
@@ -128,15 +130,6 @@
                       <span class="d-block text-dark small font-weight-bold">Certified Nutritional Practitioner</span>
                     </div>
                   </div>
-                <!-- End User -->
-
-                <!-- User -->
-                <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/telehealth-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
-                  <div>
-                    <span class="d-block text-dark small font-weight-bold">Virtual Telehealth</span>
-                  </div>
-                </div>
                 <!-- End User -->
 
               </div>
