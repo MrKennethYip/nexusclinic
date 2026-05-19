@@ -6,7 +6,7 @@
   "title": "",
   "email": "",
   "image_key": "",
-  "s3_base_url": "https://s3.ca-central-1.amazonaws.com/nexusmassageclinic",
+  "s3_base_url": "https://s3.ca-central-1.amazonaws.com/nexusclinicassets",
   "services": [],
   "hours": [
     { "day": "", "time": "" }

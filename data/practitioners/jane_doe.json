@@ -3,10 +3,10 @@
   "last_name": "Doe",
   "display_name": "Dr. Jane Doe",
   "credential": "DC, RMT",
-  "title": "Chiropractor & RMT",
+  "title": "Chiropractor, Registered Massage Therapist, Acupuncture Provider",
   "email": "jane@nexushealthclinic.com",
   "image_key": "jane_doe",
-  "s3_base_url": "https://s3.ca-central-1.amazonaws.com/nexusmassageclinic",
+  "s3_base_url": "https://s3.ca-central-1.amazonaws.com/nexusclinicassets",
   "services": ["chiropractic", "rmt_massage", "acupuncture"],
   "hours": [
     { "day": "Mon", "time": "8:30am - 5:30pm" },
@@ -23,7 +23,7 @@
   },
   "seo": {
     "title":       "Jane Doe | Chiropractor & RMT | Nexus Massage & Rehab",
-    "description": "Dr. Jane Doe offers acupuncture, RMT & chiropractic services at Yonge & Eglinton. Learn about the Nexus Massage & Rehab team!",
+    "description": "Dr. Jane Doe, chiropractor & RMT at Nexus Massage & Rehab, Yonge & Eglinton Toronto. Specializing in chiropractic, martial arts & dancer rehab. Book today.",
     "keywords":    "Chiropractic, chiropractor, massage therapy, massage therapist, RMT, deep massage, rehabilitation, exercise, orthotics, acupuncture, traditional chinese medicine, doctor, trigger point, neck pain, back pain, headaches, adjustments, chiropractor at yonge and eglinton, back pain relief, lower back pain relief, lumbar spine, back strain, herniated disc, neck problems, sore neck, backache, back injury"
   }
 }
