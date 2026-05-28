@@ -58,7 +58,7 @@
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/lucia_suarez_castro.jpg" alt="Lucia Suarez Castro - Registered Massage Therapist">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/lucia_suarez_castro.jpg" alt="Lucia Suarez Castro - Registered Massage Therapist">
           <!-- End Avatar -->
           </div>
         </div>
@@ -114,7 +114,7 @@
 
                 <!-- User -->
                 <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/massage-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                  <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/massage-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                   <div>
                     <a href="../service/massage">
                       <span class="d-block text-dark small font-weight-bold">Registered Massage Therapy</span>
@@ -125,7 +125,7 @@
 
                 <!-- User -->
                 <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/lymphatic-drainage-ico.png" class="rounded-circle u-avatar align-self-start mr-3">
+                  <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/lymphatic-drainage-ico.png" class="rounded-circle u-avatar align-self-start mr-3">
                   <div>
                     <a href="../service/massage">
                       <span class="d-block text-dark small font-weight-bold">Manual Lymphatic Drainage Massage</span>

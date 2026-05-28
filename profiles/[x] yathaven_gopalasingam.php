@@ -58,7 +58,7 @@
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/yathaven_gopalasingam.jpg" alt="Yathaven Gopalasingam - Physiotherapist">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/yathaven_gopalasingam.jpg" alt="Yathaven Gopalasingam - Physiotherapist">
           <!-- End Avatar -->
           </div>
         </div>
@@ -114,7 +114,7 @@
 
                 <!-- User -->
                 <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/physio-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                  <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/physio-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                   <div>
                     <a href="../service/physiotherapy">
                       <span class="d-block text-dark small font-weight-bold">Physio Services</span>
@@ -125,7 +125,7 @@
 
                 <!-- User -->
                 <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/icons/telehealth-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                  <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/telehealth-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                   <div>
                     <span class="d-block text-dark small font-weight-bold">Virtual Telehealth</span>
                   </div>

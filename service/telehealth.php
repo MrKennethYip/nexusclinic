@@ -25,7 +25,7 @@
     <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll"
          data-options='{direction: "normal"}'>
       <!-- Apply your Parallax background image here -->
-      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Yonge & Eglinton - Telehealth" style="height: 120%; background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/telehealth.jpg);"></div>
+      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Yonge & Eglinton - Telehealth" style="height: 120%; background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/hero/telehealth.jpg);"></div>
 
       <div class="animated bounceIn">
       <!-- Content -->
@@ -52,7 +52,7 @@
 
     <!-- What is Telehealth Start -->
     <div style="background-color:#E7E8E8; border-top: 1px solid #898A8D">
-      <div class="container u-space-1" style="background:url( https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
+      <div class="container u-space-1" style="background:url( https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
 
         <div class="container">
           <!-- Title -->
@@ -72,7 +72,7 @@
 
               <div class="col-lg-5 position-relative">
                 <div id="video" class="u-video-player">
-                  <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/telehealth/med/what_is_telehealth.jpg" alt="What is Telehealth">
+                  <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/telehealth/med/what_is_telehealth.jpg" alt="What is Telehealth">
 
                   <div class="embed-responsive embed-responsive-16by9">
                     <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -116,7 +116,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/telehealth/med/virtual_follow-up.jpg" alt="Telehealth - Follow Up - Physio, Chiro, Acupuncture">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/telehealth/med/virtual_follow-up.jpg" alt="Telehealth - Follow Up - Physio, Chiro, Acupuncture">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -156,7 +156,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/telehealth/med/virtual_consultation.jpg" alt="Telehealth - Acupuncture Consultation">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/telehealth/med/virtual_consultation.jpg" alt="Telehealth - Acupuncture Consultation">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -182,7 +182,7 @@
     <!-- Hero Section -->
     <div class="position-relative">
       <div class="u-bg-img-hero-bottom" style="background-color:#FFFFFF; border-bottom: 1px solid #898A8D">
-        <div class="container" style="background:url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:100% 100%;">
+        <div class="container" style="background:url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:100% 100%;">
 
           <!-- Pricing 1 Section -->
           <div class="container">
@@ -197,7 +197,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold text-white">PHYSIOTHERAPY</strong>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_white.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -263,7 +263,7 @@
           <!-- Item -->
           <div class="cbp-item physio">
             <a class="cbp-caption" href="../profiles/patrick_dungao">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/patrick_dungao.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Patrick Dungao - Physiotherapist">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg" data-srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/patrick_dungao.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/patrick_dungao.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Patrick Dungao - Physiotherapist">
             </a>
               <div class="py-3 blurb">
                 <a href="../profiles/patrick_dungao">
@@ -279,7 +279,7 @@
           <!-- Item -->
             <div class="cbp-item physio">
               <a class="cbp-caption" href="../profiles/trang_le">
-                <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/trang_le.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Trang Le - Physiotherapist">
+                <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg" data-srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/trang_le.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/trang_le.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Trang Le - Physiotherapist">
               </a>
                 <div class="py-3 blurb">
                   <a href="../profiles/trang_le">
@@ -295,7 +295,7 @@
           <!-- Item -->
           <div class="cbp-item acupuncture">
             <a class="cbp-caption" href="../profiles/matt_walton">
-              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg" data-srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/matt_walton.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Matt Walton - Registered Massage Therapy">
+              <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/matt_walton.jpg" data-srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/matt_walton.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/matt_walton.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/matt_walton.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Matt Walton - Registered Massage Therapy">
             </a>
               <div class="py-3 blurb">
                 <a href="../profiles/matt_walton">
@@ -317,7 +317,7 @@
 
     <!-- How does it work Start -->
     <div style="background-color:#E7E8E8; border: 1px solid #898A8D">
-      <div class="container" style="background:url( https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
+      <div class="container" style="background:url( https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
 
         <div class="container u-space-2-top">
           <!-- Title -->
@@ -356,7 +356,7 @@
 
               <div class="col-lg-5 position-relative">
                 <div id="video" class="u-video-player">
-                  <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/telehealth/med/how_it_works.jpg" alt="How Telehealth Works">
+                  <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/telehealth/med/how_it_works.jpg" alt="How Telehealth Works">
 
                   <div class="embed-responsive embed-responsive-16by9">
                     <iframe id="youTubeVideo" class="embed-responsive-item"

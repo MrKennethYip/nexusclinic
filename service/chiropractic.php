@@ -25,7 +25,7 @@
     <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll"
          data-options='{direction: "normal"}'>
       <!-- Apply your Parallax background image here -->
-      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Hiring RMT Today - Group Hands" style="height: 120%; background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/lrg/chiro-landing.jpg);"></div>
+      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Hiring RMT Today - Group Hands" style="height: 120%; background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/hero/lrg/chiro-landing.jpg);"></div>
 
       <div class="animated bounceIn">
       <!-- Content -->
@@ -247,7 +247,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/chiro/med/assessment.jpg" alt="Initial Assessment">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/chiro/med/assessment.jpg" alt="Initial Assessment">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -295,7 +295,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/chiro/med/spinal_therapy.jpg" alt="Chiro - Spinal Therapy">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/chiro/med/spinal_therapy.jpg" alt="Chiro - Spinal Therapy">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -333,7 +333,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/chiro/med/myofascial.jpg" alt="Chiro - Myofascial Release Technique">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/chiro/med/myofascial.jpg" alt="Chiro - Myofascial Release Technique">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -372,7 +372,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/chiro/med/acupuncture.jpg" alt="Chiro - Acupuncture">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/chiro/med/acupuncture.jpg" alt="Chiro - Acupuncture">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -412,7 +412,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/chiro/med/exercises.jpg" alt="Chiro - Exercise Therapy">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/chiro/med/exercises.jpg" alt="Chiro - Exercise Therapy">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -437,7 +437,7 @@
     <!-- Hero Section -->
     <div class="position-relative">
       <div class="u-bg-img-hero-bottom" style="background-color:#FFFFFF; border-bottom: 1px solid #898A8D">
-        <div class="container" style="background:url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:100% 100%;">
+        <div class="container" style="background:url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:100% 100%;">
 
           <!-- Pricing 1 Section -->
           <div class="container">
@@ -452,7 +452,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold text-white">CHIROPRACTIC</strong>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_white.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -487,7 +487,7 @@
 
     <div style="background-color:#E7E8E8; border-bottom: 1px solid #898A8D">
     <!-- Services Section -->
-      <div class="container u-space-1-bottom" style="background:url( https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
+      <div class="container u-space-1-bottom" style="background:url( https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
         <div class="container u-space-2-top">
       <!-- Title -->
       <h2 class="text-dark font-weight-normal u-space-1-bottom"><span class="font-weight-bold">Modalities</span></h2>
@@ -582,29 +582,29 @@
               
               <div class="row mx-gutters-5 p-5">
                 <div class="col-8 offset-2 align-self-end px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/massage/med/cupping.jpg" alt="cupping" title="cupping" style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/massage/med/cupping.jpg" alt="cupping" title="cupping" style="border: 1px solid #898A8D">
                 </div>
 
                 <div class="col-6 px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/massage/med/taping.jpg" alt="taping" title="taping"  style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/massage/med/taping.jpg" alt="taping" title="taping"  style="border: 1px solid #898A8D">
                 </div>
 
                 <div class="col-6 px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/massage/med/instrument-assisted.jpg" alt="instrument-assisted" title="instrument-assisted" style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/massage/med/instrument-assisted.jpg" alt="instrument-assisted" title="instrument-assisted" style="border: 1px solid #898A8D">
                 </div>
 
                 <div class="u-space-3"></div>
 
                 <div class="col-8 offset-2 align-self-end px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/chiro/med/ultrasound.jpg" alt="ultrasound" title="ultrasound" style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/chiro/med/ultrasound.jpg" alt="ultrasound" title="ultrasound" style="border: 1px solid #898A8D">
                 </div>
 
                 <div class="col-6 px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/chiro/med/electrotherapy.jpg" alt="electrotherapy" title="electrotherapy" style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/chiro/med/electrotherapy.jpg" alt="electrotherapy" title="electrotherapy" style="border: 1px solid #898A8D">
                 </div>
 
                 <div class="col-6 px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/chiro/med/laser.jpg" alt="laser" title="laser"  style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/chiro/med/laser.jpg" alt="laser" title="laser"  style="border: 1px solid #898A8D">
                 </div>
 
               </div>
@@ -650,7 +650,7 @@
           <!-- Item -->
           <div class="cbp-item chiro">
             <a class="cbp-caption" href="../profiles/felix_chu">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/felix_chu.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/felix_chu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Felix Chu - Chiropractor">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/felix_chu.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/felix_chu.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/felix_chu.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/felix_chu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Felix Chu - Chiropractor">
             </a>
               <div class="py-3 blurb">
                 <a href="../profiles/felix_chu">
@@ -666,7 +666,7 @@
           <!-- Item -->
           <div class="cbp-item chiro">
             <a class="cbp-caption" href="../profiles/melvin_liu">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/melvin_liu.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/melvin_liu.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/melvin_liu.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/melvin_liu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Melvin Liu - Chiropractor">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/melvin_liu.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/melvin_liu.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/melvin_liu.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/melvin_liu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Melvin Liu - Chiropractor">
             </a>
               <div class="py-3 blurb">
                 <a href="../profiles/melvin_liu">
@@ -682,7 +682,7 @@
           <!-- Item -->
           <div class="cbp-item chiro">
             <a class="cbp-caption" href="../profiles/jiyeon_kim">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jiyeon_kim.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jiyeon_kim.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/jiyeon_kim.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/jiyeon_kim.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Jiyeon Kim - Chiropractor">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/jiyeon_kim.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/jiyeon_kim.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/jiyeon_kim.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/jiyeon_kim.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Jiyeon Kim - Chiropractor">
             </a>
               <div class="py-3 blurb">
                 <a href="../profiles/jiyeon_kim">
@@ -698,7 +698,7 @@
           <!-- Item -->
           <div class="cbp-item chiro">
             <a class="cbp-caption" href="../profiles/karen_ngo">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/karen_ngo.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/karen_ngo.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Karen Ngo - Chiropractor, Registered Massage Therapist">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/karen_ngo.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/karen_ngo.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/karen_ngo.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/karen_ngo.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Dr. Karen Ngo - Chiropractor, Registered Massage Therapist">
             </a>
               <div class="py-3 blurb">
                 <a href="../profiles/karen_ngo">
@@ -719,7 +719,7 @@
 
     <!-- Logo with X -->
     <div class="text-center u-space-1-bottom">
-      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/nexus_branding/Nexus_X_Line.png" alt="Nexus Massage & Rehab - Page Divider" style="width: 200px;">
+      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/nexus_branding/Nexus_X_Line.png" alt="Nexus Massage & Rehab - Page Divider" style="width: 200px;">
     </div>
     <!-- End Logo with X -->
 
@@ -743,7 +743,7 @@
 
     <!-- Logo with X -->
     <div class="text-center u-space-1-bottom">
-      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/nexus_branding/Nexus_X_Line.png" alt="Nexus Massage & Rehab - Page Divider" style="width: 200px;">
+      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/nexus_branding/Nexus_X_Line.png" alt="Nexus Massage & Rehab - Page Divider" style="width: 200px;">
     </div>
     <!-- End Logo with X -->
 

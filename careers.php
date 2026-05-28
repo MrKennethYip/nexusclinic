@@ -65,7 +65,7 @@
 				<!-- Item -->
 				<div class="cbp-item">
 					<div class="cbp-caption">
-						<img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/career-gallery/med/gallery-cass_massage.jpg" alt="Cassandra Kong - Neck Massage">
+						<img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/career-gallery/med/gallery-cass_massage.jpg" alt="Cassandra Kong - Neck Massage">
 					</div>
 				</div>
 				<!-- End Item -->
@@ -73,7 +73,7 @@
 				<!-- Item -->
 				<div class="cbp-item">
 					<div class="cbp-caption">
-						<img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/career-gallery/med/gallery-karen_electro.jpg" alt="Karen Ngo - Nexus Team - Electro Therapy">
+						<img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/career-gallery/med/gallery-karen_electro.jpg" alt="Karen Ngo - Nexus Team - Electro Therapy">
 					</div>
 				</div>
 				<!-- End Item -->
@@ -81,7 +81,7 @@
 				<!-- Item -->
 				<div class="cbp-item">
 					<div class="cbp-caption">
-						<img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/career-gallery/med/gallery-dan_acu.jpg" alt="Dan Thrush - Acupuncture Patient">
+						<img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/career-gallery/med/gallery-dan_acu.jpg" alt="Dan Thrush - Acupuncture Patient">
 					</div>
 				</div>
 				<!-- End Item -->
@@ -89,7 +89,7 @@
 				<!-- Item -->
 				<div class="cbp-item">
 					<div class="cbp-caption">
-						<img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/career-gallery/med/gallery-cass_training.jpg" alt="Cassandra Kong - Team Training">
+						<img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/career-gallery/med/gallery-cass_training.jpg" alt="Cassandra Kong - Team Training">
 					</div>
 				</div>
 				<!-- End Item -->
@@ -97,7 +97,7 @@
 				<!-- Item -->
 				<div class="cbp-item">
 					<div class="cbp-caption">
-						<img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/career-gallery/med/gallery-mai_physio.jpg" alt="Mai Hoang - Physiotherapy Patient">
+						<img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/career-gallery/med/gallery-mai_physio.jpg" alt="Mai Hoang - Physiotherapy Patient">
 					</div>
 				</div>
 				<!-- End Item -->
@@ -105,7 +105,7 @@
 				<!-- Item -->
 				<div class="cbp-item">
 					<div class="cbp-caption">
-						<img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/career-gallery/med/gallery-felix_chiro.jpg" alt="Felix Chu - Chiropractic Patient">
+						<img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/career-gallery/med/gallery-felix_chiro.jpg" alt="Felix Chu - Chiropractic Patient">
 					</div>
 				</div>
 				<!-- End Item -->
@@ -113,7 +113,7 @@
 				<!-- Item -->
 				<div class="cbp-item">
 					<div class="cbp-caption">
-						<img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/career-gallery/med/gallery-kevin_ortho.jpg" alt="Kevin Hong - Orthotics Patient">
+						<img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/career-gallery/med/gallery-kevin_ortho.jpg" alt="Kevin Hong - Orthotics Patient">
 					</div>
 				</div>
 				<!-- End Item -->
@@ -125,7 +125,7 @@
 	<div style="background-color:#E7E8E8; border: 1px solid #898A8D">
 		<!-- Core Values -->
 		<div class="position-relative">
-	        <div class="container u-space-2" style="background:url(	https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-grey-transparent.svg) no-repeat; background-size:auto 100%;">
+	        <div class="container u-space-2" style="background:url(	https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-grey-transparent.svg) no-repeat; background-size:auto 100%;">
 				<div class="row align-items-center">
 					<div class="col-lg-5 mb-9 mb-lg-0">
 						<!-- Title -->
@@ -140,7 +140,7 @@
 						<!-- Video Block -->
 						<div id="video" class="u-video-player">
 							<!-- Cover Image -->
-							<img class="img-fluid u-video-player__preview" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers/med/team_photo.jpg" srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers/med/team_photo.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers/lrg/team_photo.jpg 1000w, , https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/careers/lrg/team_photo.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Nexus Reception Photo" style="border: 2px solid #003A5D">
+							<img class="img-fluid u-video-player__preview" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/careers/med/team_photo.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/careers/med/team_photo.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/careers/lrg/team_photo.jpg 1000w, , https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/careers/lrg/team_photo.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Nexus Reception Photo" style="border: 2px solid #003A5D">
 							<!-- End Cover Image -->
 
 							<!-- Video Iframe -->
@@ -400,7 +400,7 @@
     <!-- Book Appointment -->   
     <div class="position-relative">
       <div style="background-color:#00A6CE">
-        <div class="container u-space-2" style="background:url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
+        <div class="container u-space-2" style="background:url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
           <div class="w-md-80 w-lg-50 text-center mx-auto post" >
             <div class="mb-4">
               <h2 class="text-white">
@@ -465,26 +465,26 @@
     <div class="container text-center u-space-1">
       <!-- Logo -->
       <a class="d-inline-block mb-1" href="index" aria-label="Front">
-        <img src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/logo.svg" alt="Nexus Massage & Rehab - Yonge & Eglinton - Logo" style="width: 200px;">
+        <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/logo.svg" alt="Nexus Massage & Rehab - Yonge & Eglinton - Logo" style="width: 200px;">
       </a>
       <!-- End Logo -->
 
       <!-- Social Section -->
       <div class="d-flex justify-content-center p-3">
         <div class="mx-2">
-          <a href="https://facebook.com/nexushealthclinic" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/fb_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Facebook" width="30" height="30"></a>
+          <a href="https://facebook.com/nexushealthclinic" target="blank"><img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/social_media/fb_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Facebook" width="30" height="30"></a>
         </div>
         <div class="mx-2">
-          <a href="https://twitter.com/Nexus_MnR" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/twitter_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Twitter" width="30" height="30"></a>
+          <a href="https://twitter.com/Nexus_MnR" target="blank"><img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/social_media/twitter_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Twitter" width="30" height="30"></a>
         </div>
         <div class="mx-2">
-          <a href="https://www.instagram.com/nexus.clinic" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/instagram_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Instagram" width="30" height="30"></a>
+          <a href="https://www.instagram.com/nexus.clinic" target="blank"><img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/social_media/instagram_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Instagram" width="30" height="30"></a>
         </div>
         <div class="mx-2">
-          <a href="https://www.yelp.ca/biz/nexus-massage-and-rehab-toronto" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/yelp_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Yelp" width="30" height="30"></a>
+          <a href="https://www.yelp.ca/biz/nexus-massage-and-rehab-toronto" target="blank"><img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/social_media/yelp_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Yelp" width="30" height="30"></a>
         </div>
         <div class="mx-2">
-          <a href="https://www.opencare.com/clinic/nexus-massage-rehab-toronto-on-24630728802/" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/opencare_square_color.png" alt="Massage Clinic - Yonge & Eglinton - OpenCare" width="30" height="30"></a>
+          <a href="https://www.opencare.com/clinic/nexus-massage-rehab-toronto-on-24630728802/" target="blank"><img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/social_media/opencare_square_color.png" alt="Massage Clinic - Yonge & Eglinton - OpenCare" width="30" height="30"></a>
         </div>
       </div>
       <!-- End Social Section --> 

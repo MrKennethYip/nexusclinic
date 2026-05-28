@@ -8,7 +8,7 @@
   <meta name="Description" content="Reach your health goals with professional help. Get registered massage therapy (RMT) & more at Nexus Massage & Rehab at Yonge & Eglinton. Book today!">
   <meta name="keywords" content="toronto massage, direct billing, open on weekends, Yonge and Eglinton, yonge eg, online booking, Open 7 Days, open late, Massage Near Me, Registered Massage Therapist, RMT, near me, therapy, chiropractic, chiro, chiropractor, massage, physio, physiotherapy, acupuncture, acu, rehab, nexus, massage places, best massage, hot stone, health, clinic, sports, relax, pain, spine, back, dr, karen ngo, dr ngo, cass, cassandra kong, felix chu, dr chu, phil kim">
 
-  <meta property="og:image" content="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Nexus-Square.jpg"/>
+  <meta property="og:image" content="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Nexus-Square.jpg"/>
   <meta property="og:type" content="website"/>
   <meta property="og:url" content="https://nexushealthclinic.com"/>
   <meta property="og:title" content="Nexus Massage & Rehab - Online Booking - Open 7 Days - CHIRO | MASSAGE | PHYSIO"/>
@@ -67,7 +67,7 @@
            data-autoplay="true"
            data-speed="5000"
            data-pagi-classes="text-center u-slick__pagination u-slick__pagination--white position-absolute-bottom-15">
-        <div class="js-slide divimage u-space-3-top height-is-based-on-content" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/lrg/home-massage.jpg);">
+        <div class="js-slide divimage u-space-3-top height-is-based-on-content" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-massage.jpg);">
 
           <div class="animated bounceIn">
           <!-- Content -->
@@ -90,7 +90,7 @@
           </div>
 
         </div>
-        <div class="js-slide divimage u-space-3-top height-is-based-on-content" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-chiro.jpg)">
+        <div class="js-slide divimage u-space-3-top height-is-based-on-content" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-chiro.jpg)">
 
           <div class="animated bounceIn">
           <!-- Content -->
@@ -109,7 +109,7 @@
           </div>
 
         </div>
-        <div class="js-slide divimage u-space-3-top height-is-based-on-content" data-background-image-url="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-physio.jpg">
+        <div class="js-slide divimage u-space-3-top height-is-based-on-content" data-background-image-url="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-physio.jpg">
 
           <div class="animated bounceIn">
           <!-- Content -->
@@ -129,7 +129,7 @@
 
         </div>
 
-        <div class="js-slide divimage u-space-3-top height-is-based-on-content" data-background-image-url="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-acupuncture.jpg">
+        <div class="js-slide divimage u-space-3-top height-is-based-on-content" data-background-image-url="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-acupuncture.jpg">
 
           <div class="animated bounceIn">
           <!-- Content -->
@@ -149,7 +149,7 @@
 
         </div>
 
-        <div class="js-slide divimage u-space-3-top height-is-based-on-content" data-background-image-url="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-orthotics.jpg">
+        <div class="js-slide divimage u-space-3-top height-is-based-on-content" data-background-image-url="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-orthotics.jpg">
 
           <div class="animated bounceIn">
           <!-- Content -->
@@ -197,7 +197,7 @@
                 <h2 class="text-primary p-1">
                   <strong class="font-weight-bold text-white">SERVICES</strong>
                 </h2>
-                <img loading="lazy" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" alt="Nexus Massage & Rehab - Registered Massage Therapy, Chiropractic, Physiotherapy, Acupuncture, Rehab, Clinic" title="Nexus Massage & Rehab - Registered Massage Therapy, Chiropractic, Physiotherapy, Acupuncture, Rehab, Clinic" style="width: 200px;">
+                <img loading="lazy" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_white.png" alt="Nexus Massage & Rehab - Registered Massage Therapy, Chiropractic, Physiotherapy, Acupuncture, Rehab, Clinic" title="Nexus Massage & Rehab - Registered Massage Therapy, Chiropractic, Physiotherapy, Acupuncture, Rehab, Clinic" style="width: 200px;">
                 <div class="u-space-1-top font-weight-bold">
                   <a href="service/massage"><p class="mb-md-0 text-white">Registered Massage Therapy</p></a>
                   <a href="service/chiropractic"><p class="mb-md-0 text-white">Chiropractic</p></a>
@@ -228,7 +228,7 @@
                 <h2 class="text-primary p-1">
                   <strong class="font-weight-bold text-white">HOURS</strong>
                 </h2>
-                <img loading="lazy" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" alt="Nexus Message & Rehab - Mon to Fri - 10am* - 8pm, Sat & Sun - 10am* - 5pm, massage near me, chiro, physio, acupuncture, rehab, clinic" title="Nexus Message & Rehab - Mon to Fri - 10am* - 8pm, Sat & Sun - 10am* - 5pm - massage near me, chiro, physio, acupuncture, rehab, clinic"  style="width: 200px;">
+                <img loading="lazy" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_white.png" alt="Nexus Message & Rehab - Mon to Fri - 10am* - 8pm, Sat & Sun - 10am* - 5pm, massage near me, chiro, physio, acupuncture, rehab, clinic" title="Nexus Message & Rehab - Mon to Fri - 10am* - 8pm, Sat & Sun - 10am* - 5pm - massage near me, chiro, physio, acupuncture, rehab, clinic"  style="width: 200px;">
                 <div class="u-space-1-top">
                   <p class="mb-md-0 font-weight-bold text-white">Mon to Fri - 8am* - 9pm</p>
                   <p class="mb-md-0 font-weight-bold text-white">Sat & Sun - 8am* - 7pm</p><br>
@@ -257,7 +257,7 @@
                 <h2 class="text-primary p-1">
                   <strong class="font-weight-bold text-white">CONTACT</strong>
                 </h2>
-                <img loading="lazy" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png"  alt="Nexus Message & Rehab - Contact us - massage near me, chiro, physio, acupuncture, rehab, clinic" title="Nexus Massage & Rehab - Contact us -massage near me, chiro, physio, acupuncture, rehab, clinic"   style="width: 200px;">
+                <img loading="lazy" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_white.png"  alt="Nexus Message & Rehab - Contact us - massage near me, chiro, physio, acupuncture, rehab, clinic" title="Nexus Massage & Rehab - Contact us -massage near me, chiro, physio, acupuncture, rehab, clinic"   style="width: 200px;">
                 <div class="u-space-1-top">
                   <p class="mb-md-0 text-white font-weight-bold">Located at 40 Eglinton Ave E, <br>Suite 603, Toronto, ON M4P 3A2</p>
                 </div>
@@ -300,7 +300,7 @@
             <div class="card-body p-3">
               <div class="text-center">
                   <figure class="figure" style="margin-top:20px">
-                    <a href="https://www.goodlifefitness.com/" target="blank"><img loading="lazy" width="150" height="92" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/partnerships/goodlife_white.png" class="figure-img img-fluid rounded" alt="Goodlife Outreach"></a>
+                    <a href="https://www.goodlifefitness.com/" target="blank"><img loading="lazy" width="150" height="92" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/goodlife_white.png" class="figure-img img-fluid rounded" alt="Goodlife Outreach"></a>
                   </figure>
               </div>
             </div>
@@ -310,7 +310,7 @@
             <div class="card-body p-3">
               <div class="text-center">
                   <figure class="figure" style="margin-top:0px">
-                    <a href="https://www.6ixeglintondental.ca/" target="blank"><img loading="lazy" width="110" height="80" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/6ixdental_white.png" class="figure-img img-fluid rounded" alt="6ix Dental - Eglinton"></a>
+                    <a href="https://www.6ixeglintondental.ca/" target="blank"><img loading="lazy" width="110" height="80" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/6ixdental_white.png" class="figure-img img-fluid rounded" alt="6ix Dental - Eglinton"></a>
                   </figure>
               </div>
             </div>
@@ -320,7 +320,7 @@
             <div class="card-body p-3">
               <div class="text-center">
                   <figure class="figure" style="margin-top:0px">
-                    <a href="https://vrtu.ca/" target="blank"><img loading="lazy" width="150" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/vrtu_muay_thai_white.png" class="figure-img img-fluid rounded" alt="VRTU Mauy Thai Outreach"></a>
+                    <a href="https://vrtu.ca/" target="blank"><img loading="lazy" width="150" height="110" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/vrtu_muay_thai_white.png" class="figure-img img-fluid rounded" alt="VRTU Mauy Thai Outreach"></a>
                   </figure>
               </div>
             </div>
@@ -330,7 +330,7 @@
             <div class="card-body p-3">
               <div class="text-center">
                   <figure class="figure" style="margin-top:0px">
-                    <a href="https://jt6studio.ca/" target="blank"><img loading="lazy" width="110" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/jt6_logo.png" alt="JT6 Jiu-Jitsu Toronto - Logo"></a>
+                    <a href="https://jt6studio.ca/" target="blank"><img loading="lazy" width="110" height="110" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/jt6_logo.png" alt="JT6 Jiu-Jitsu Toronto - Logo"></a>
                   </figure>
               </div>
             </div>
@@ -340,7 +340,7 @@
             <div class="card-body p-3">
               <div class="text-center">
                   <figure class="figure" style="margin-top:0px">
-                    <a href="https://www.bumpnsmoothspa.me" target="blank"><img loading="lazy" width="110" height="110" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/bump_bw_logo_rect.png" alt="Bump & Smooth Spa - Logo"></a>
+                    <a href="https://www.bumpnsmoothspa.me" target="blank"><img loading="lazy" width="110" height="110" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/bump_bw_logo_rect.png" alt="Bump & Smooth Spa - Logo"></a>
                   </figure>
               </div>
             </div>
@@ -368,7 +368,7 @@
 
     <div style="background-color:#E7E8E8; border-bottom: 1px solid #898A8D">
     <!-- Services Section -->
-      <div class="container u-space-1" style="background:url(	https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
+      <div class="container u-space-1" style="background:url(	https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-auto mb-9">
           <h2 class="text-dark font-weight-normal"><span class="font-weight-bold">What makes us Unique?</span></h2>
@@ -425,12 +425,12 @@
               <div class="row mx-gutters-5 p-5">
                 <div class="col-5 align-self-end px-2 mb-3">
                   <a class="js-fancybox u-media-viewer" href="javascript:;"
-                   data-src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Foot_Massage-Square.jpg"
+                   data-src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Foot_Massage-Square.jpg"
                    data-fancybox="lightbox-gallery-hidden"
                    data-caption="Foot Massage"
                    data-speed="700">
 
-                    <img class="img-fluid rounded" loading="lazy" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/sml/Foot_Massage-Square.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/sml/Foot_Massage-Square.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Foot_Massage-Square.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="two finger pressing deep for quality foot Massage" title="Yonge & Eglinton - Nexus Massage & Rehab - Deep Foot Massage - Square" style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" loading="lazy" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/sml/Foot_Massage-Square.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/sml/Foot_Massage-Square.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Foot_Massage-Square.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="two finger pressing deep for quality foot Massage" title="Yonge & Eglinton - Nexus Massage & Rehab - Deep Foot Massage - Square" style="border: 1px solid #898A8D">
 
                     <span class="u-media-viewer__container">
                       <span class="u-media-viewer__icon">
@@ -442,12 +442,12 @@
 
                 <div class="col-6 px-2 mb-3">
                   <a class="js-fancybox u-media-viewer" href="javascript:;"
-                   data-src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Karen-Chiro-Square.jpg"
+                   data-src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Karen-Chiro-Square.jpg"
                    data-fancybox="lightbox-gallery-hidden"
                    data-caption="Chiropractic Treatment"
                    data-speed="700">
 
-                    <img class="img-fluid rounded" loading="lazy" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/sml/Karen-Chiro-Square.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/sml/Karen-Chiro-Square.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Karen-Chiro-Square.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Karen Ngo chiropractic lower back treatment on patient" title="Karen Ngo chiropractic lower back treatment on patient" style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" loading="lazy" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/sml/Karen-Chiro-Square.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/sml/Karen-Chiro-Square.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Karen-Chiro-Square.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Karen Ngo chiropractic lower back treatment on patient" title="Karen Ngo chiropractic lower back treatment on patient" style="border: 1px solid #898A8D">
 
                     <span class="u-media-viewer__container">
                       <span class="u-media-viewer__icon">
@@ -459,12 +459,12 @@
 
                 <div class="col-6 offset-1 px-2 mb-3">
                   <a class="js-fancybox u-media-viewer" href="javascript:;"
-                   data-src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Nexus-Square.jpg"
+                   data-src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Nexus-Square.jpg"
                    data-fancybox="lightbox-gallery-hidden"
                    data-caption="Modern Facilities"
                    data-speed="700">
 
-                    <img class="img-fluid rounded" loading="lazy" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/sml/Nexus-Square.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/sml/Nexus-Square.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Nexus-Square.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Modern facilities, newly renovated" title="Modern Facilities"  style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" loading="lazy" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/sml/Nexus-Square.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/sml/Nexus-Square.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Nexus-Square.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Modern facilities, newly renovated" title="Modern Facilities"  style="border: 1px solid #898A8D">
 
                     <span class="u-media-viewer__container">
                       <span class="u-media-viewer__icon">
@@ -476,12 +476,12 @@
 
                 <div class="col-5 px-2 mb-3">
                   <a class="js-fancybox u-media-viewer" href="javascript:;"
-                   data-src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Acupuncture-Square.jpg"
+                   data-src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Acupuncture-Square.jpg"
                    data-fancybox="lightbox-gallery-hidden"
                    data-caption="Acupuncture Treatment"
                    data-speed="700">
 
-                    <img class="img-fluid rounded" loading="lazy" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/sml/Acupuncture-Square.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/sml/Acupuncture-Square.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Acupuncture-Square.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="best dry needling acupuncture" title="Best dry needling acupuncture" style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" loading="lazy" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/sml/Acupuncture-Square.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/sml/Acupuncture-Square.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Acupuncture-Square.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="best dry needling acupuncture" title="Best dry needling acupuncture" style="border: 1px solid #898A8D">
 
                     <span class="u-media-viewer__container">
                       <span class="u-media-viewer__icon">
@@ -516,7 +516,7 @@
           <a href="https://www.google.ca/maps/place/Nexus+Massage+%26+Rehab/@43.707402,-79.3993357,17z/data=!3m1!4b1!4m7!3m6!1s0x0:0xfe369432193e0cf0!8m2!3d43.707402!4d-79.397147!9m1!1b1?hl=en-CA" target="blank">
             <div class="card-body p-3">
               <div class="text-center">
-                  <img loading="lazy" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/social/google_logo.svg" alt="Nexus Massage & Rehab 5 star review Google" title="Nexus Massage & Rehab 5 star review Google" style="width: 200px;">
+                  <img loading="lazy" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/social/google_logo.svg" alt="Nexus Massage & Rehab 5 star review Google" title="Nexus Massage & Rehab 5 star review Google" style="width: 200px;">
                   <span class="ml-4"><iframe id="google-social" src="" scrolling="no" style="width: 200px; height: 55px; border: 0px; overflow: hidden;" /></iframe></span>
               </div>
             </div>
@@ -529,7 +529,7 @@
           <a href="https://www.yelp.ca/biz/nexus-massage-and-rehab-toronto" target="blank">
             <div class="card-body p-3">
               <div class="text-center">
-                <img loading="lazy" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/social/yelp_logo.svg" alt="Nexus Massage & Rehab 5 star review Yelp" title="Nexus Massage & Rehab 5 star review Yelp" style="width: 200px;">
+                <img loading="lazy" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/social/yelp_logo.svg" alt="Nexus Massage & Rehab 5 star review Yelp" title="Nexus Massage & Rehab 5 star review Yelp" style="width: 200px;">
                 <span class="ml-4"><iframe id="yelp-social" src="" scrolling="no" style="width: 200px; height: 55px; border: 0px; overflow: hidden;" /></iframe></span>
               </div>
             </div>
@@ -542,7 +542,7 @@
           <a href="https://www.facebook.com/pg/nexushealthclinic/reviews" target="blank">
             <div class="card-body p-3">
               <div class="text-center">
-                <img loading="lazy" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/social/facebook_logo.svg" alt="Nexus Massage & Rehab 5 star review facebook" title="Nexus Massage & Rehab 5 star review facebook" style="width: 200px;">
+                <img loading="lazy" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/social/facebook_logo.svg" alt="Nexus Massage & Rehab 5 star review facebook" title="Nexus Massage & Rehab 5 star review facebook" style="width: 200px;">
                 <span class="ml-4"><iframe id="facebook-social" src="" scrolling="no" style="width: 200px; height: 55px; border: 0px; overflow: hidden;" /></iframe></span>
               </div>
             </div>
@@ -559,7 +559,7 @@
         <div class="mb-3">
           <div class="card-body p-3">
             <div class="text-center">
-              <img loading="lazy" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/social/Toronto_Star-Platinum-2020.png" alt="Nexus Massage & Rehab - Reader Choice Award - Platnium - 2020" title="Nexus Massage & Rehab - Reader Choice Award - Platnium - 2020" style="width: 225px;">
+              <img loading="lazy" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/social/Toronto_Star-Platinum-2020.png" alt="Nexus Massage & Rehab - Reader Choice Award - Platnium - 2020" title="Nexus Massage & Rehab - Reader Choice Award - Platnium - 2020" style="width: 225px;">
             </div>
           </div>
         </div>
@@ -1053,7 +1053,7 @@
       "@type" : "LocalBusiness",
       "priceRange":"$60 - $500",
       "name" : "Nexus Massage & Rehab",
-      "image" : ["https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/logo.svg", "https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Karen-Chiro-Square.jpg","https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Acupuncture-Square.jpg", "https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Massage-Square.jpg","https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Foot_Massage-Square.jpg"],
+      "image" : ["https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/logo.svg", "https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Karen-Chiro-Square.jpg","https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Acupuncture-Square.jpg", "https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Massage-Square.jpg","https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Foot_Massage-Square.jpg"],
       "telephone" : "(647) 557-6267",
       "email" : "contact@nexushealthclinic.com",
       "address" : {

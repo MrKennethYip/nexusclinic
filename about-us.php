@@ -25,7 +25,7 @@
     <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll"
          data-options='{direction: "normal"}'>
       <!-- Apply your Parallax background image here -->
-      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Yonge & Eglinton - Parking Available - Community" style="height: 120%; background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/about-us.jpg);"></div>
+      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Yonge & Eglinton - Parking Available - Community" style="height: 120%; background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/hero/about-us.jpg);"></div>
 
       <div class="animated bounceIn">
       <!-- Content -->
@@ -59,7 +59,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-us/med/running_girl.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/about-us/med/running_girl.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/about-us/lrg/running_girl.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/about-us/lrg/running_girl.jpg 1500w" alt="Mission Statement" title="Nexus Massage - Mission Statement">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-us/med/running_girl.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-us/med/running_girl.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-us/lrg/running_girl.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-us/lrg/running_girl.jpg 1500w" alt="Mission Statement" title="Nexus Massage - Mission Statement">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -109,12 +109,12 @@
       <div class="row mx-n2">
         <div class="col-md px-2 mb-3">
           <a class="js-fancybox u-media-viewer" href="javascript:;" 
-            data-src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/lrg/chiro_room.jpg"
+            data-src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/lrg/chiro_room.jpg"
             data-fancybox="lightbox-gallery-hidden"
             data-caption="Chiropractic Room"
             data-speed="700">
 
-            <div class="height-250 u-bg-img-hero" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/chiro_room.jpg);"></div>
+            <div class="height-250 u-bg-img-hero" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/chiro_room.jpg);"></div>
 
             <span class="u-media-viewer__container">
               <span class="u-media-viewer__icon">
@@ -125,12 +125,12 @@
         </div>
         <div class="col-md-3 px-2 mb-3">
           <a class="js-fancybox u-media-viewer" href="javascript:;" 
-            data-src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/lrg/chair_massage.jpg"
+            data-src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/lrg/chair_massage.jpg"
             data-fancybox="lightbox-gallery-hidden"
             data-caption="Chair Massage"
             data-speed="700">
 
-            <div class="height-250 u-bg-img-hero" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/chair_massage.jpg);"></div>
+            <div class="height-250 u-bg-img-hero" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/chair_massage.jpg);"></div>
             <span class="u-media-viewer__container">
               <span class="u-media-viewer__icon">
                 <span class="fa fa-plus u-media-viewer__icon-inner"></span>
@@ -140,12 +140,12 @@
         </div>
         <div class="col-md px-2 mb-3">
           <a class="js-fancybox u-media-viewer" href="javascript:;" 
-            data-src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/reception.jpg"
+            data-src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/reception.jpg"
             data-fancybox="lightbox-gallery-hidden"
             data-caption="Modern Facilities"
             data-speed="700">
 
-            <div class="height-250 u-bg-img-hero" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/reception.jpg);"></div>
+            <div class="height-250 u-bg-img-hero" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/reception.jpg);"></div>
           <span class="u-media-viewer__container">
               <span class="u-media-viewer__icon">
                 <span class="fa fa-plus u-media-viewer__icon-inner"></span>
@@ -158,12 +158,12 @@
 
         <div class="col-md px-2 mb-3 mb-md-0">
           <a class="js-fancybox u-media-viewer" href="javascript:;" 
-            data-src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/lrg/dance_studio.jpg"
+            data-src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/lrg/dance_studio.jpg"
             data-fancybox="lightbox-gallery-hidden"
             data-caption="Dance Studio"
             data-speed="700">
 
-            <div class="height-250 u-bg-img-hero" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/dance_studio.jpg);"></div>
+            <div class="height-250 u-bg-img-hero" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/dance_studio.jpg);"></div>
             <span class="u-media-viewer__container">
               <span class="u-media-viewer__icon">
                 <span class="fa fa-plus u-media-viewer__icon-inner"></span>
@@ -173,12 +173,12 @@
         </div>
         <div class="col-md-4 px-2 mb-3 mb-md-0">
           <a class="js-fancybox u-media-viewer" href="javascript:;" 
-            data-src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/reception_desk.jpg"
+            data-src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/reception_desk.jpg"
             data-fancybox="lightbox-gallery-hidden"
             data-caption="Reception Desk"
             data-speed="700">
 
-            <div class="height-250 u-bg-img-hero" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/reception_desk.jpg);"></div>
+            <div class="height-250 u-bg-img-hero" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/reception_desk.jpg);"></div>
             <span class="u-media-viewer__container">
               <span class="u-media-viewer__icon">
                 <span class="fa fa-plus u-media-viewer__icon-inner"></span>
@@ -188,12 +188,12 @@
         </div>
         <div class="col-md px-2">
           <a class="js-fancybox u-media-viewer" href="javascript:;" 
-            data-src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/lrg/massage_room.jpg"
+            data-src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/lrg/massage_room.jpg"
             data-fancybox="lightbox-gallery-hidden"
             data-caption="Massage Room"
             data-speed="700">
 
-            <div class="height-250 u-bg-img-hero" style="background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/massage_room.jpg);"></div>
+            <div class="height-250 u-bg-img-hero" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-modern_facilities/med/massage_room.jpg);"></div>
             <span class="u-media-viewer__container">
               <span class="u-media-viewer__icon">
                 <span class="fa fa-plus u-media-viewer__icon-inner"></span>
@@ -221,7 +221,7 @@
         </div>
 
         <div class="text-center">
-          <img style="background-color:#CDCED0; border: 2px solid #898A8D" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-us/sml/founder_story_alt.jpg" srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-us/sml/founder_story_alt.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-us/med/founder_story_alt.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/about-us/lrg/founder_story_alt.jpg 1500w" width="75%" height="75%" alt="Founder Story - Cassandra and Karen">
+          <img style="background-color:#CDCED0; border: 2px solid #898A8D" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-us/sml/founder_story_alt.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-us/sml/founder_story_alt.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-us/med/founder_story_alt.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/about-us/lrg/founder_story_alt.jpg 1500w" width="75%" height="75%" alt="Founder Story - Cassandra and Karen">
         </div>
 
         <div class="u-space-1">
@@ -256,7 +256,7 @@
           </div>
 
           <div class="col-lg-4 position-relative text-center">
-            <img class="img-fluid rounded-circle mx-auto" style="border: #636569 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/karen_ngo.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/karen_ngo.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/xxl/karen_ngo.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/karen_ngo.jpg 1500w" width="80%" height="80%" alt="Karen Ngo Profile">
+            <img class="img-fluid rounded-circle mx-auto" style="border: #636569 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/karen_ngo.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/karen_ngo.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/xxl/karen_ngo.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/karen_ngo.jpg 1500w" width="80%" height="80%" alt="Karen Ngo Profile">
           </div>
 
           <div class="col-lg-8 mb-4 u-space-1-top">
@@ -271,7 +271,7 @@
           </div>
 
           <div class="col-lg-4 position-relative text-center">
-            <img class="img-fluid rounded-circle mx-auto" style="border: #636569 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/cassandra_kong.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/cassandra_kong.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/xxl/cassandra_kong.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/cassandra_kong.jpg 1500w" width="80%" height="80%" alt="Cassandra Kong Profile">
+            <img class="img-fluid rounded-circle mx-auto" style="border: #636569 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/cassandra_kong.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/cassandra_kong.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/xxl/cassandra_kong.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/cassandra_kong.jpg 1500w" width="80%" height="80%" alt="Cassandra Kong Profile">
           </div>
 
         </div>

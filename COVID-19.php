@@ -25,7 +25,7 @@
     <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll"
          data-options='{direction: "normal"}'>
       <!-- Apply your Parallax background image here -->
-      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Yonge & Eglinton - COVID-19" style="height: 120%; background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/lrg/covid19_landing.jpg);"></div>
+      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Yonge & Eglinton - COVID-19" style="height: 120%; background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/hero/lrg/covid19_landing.jpg);"></div>
 
       <div class="animated bounceIn">
       <!-- Content -->
@@ -41,7 +41,7 @@
 
     <div style="background-color:#E7E8E8; border: 1px solid #898A8D">
     <!-- Clinic Changes Section -->
-      <div class="container u-space-2" style="background:url( https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
+      <div class="container u-space-2" style="background:url( https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-auto mb-5">
           <h2 class="text-primary font-weight-normal"><span class="font-weight-bold">Your Health is our #1 Priority!</span></h2>
@@ -99,12 +99,12 @@
               <div class="row mx-gutters-5 p-5">
                 <div class="col-5 align-self-end px-2 mb-3">
                   <a class="js-fancybox u-media-viewer" href="javascript:;"
-                   data-src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/covid19-feature/lrg/wash-station.jpg"
+                   data-src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/covid19-feature/lrg/wash-station.jpg"
                    data-fancybox="Wash Station - Washing Hands"
                    data-caption="Wash Station"
                    data-speed="700">
 
-                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/wash-station.jpg" srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/covid19-feature/sml/wash-station.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/wash-station.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Wash Station - Washing Hands" title="Wash Station - Washing Hands" style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/wash-station.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/covid19-feature/sml/wash-station.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/wash-station.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Wash Station - Washing Hands" title="Wash Station - Washing Hands" style="border: 1px solid #898A8D">
 
                     <span class="u-media-viewer__container">
                       <span class="u-media-viewer__icon">
@@ -116,12 +116,12 @@
 
                 <div class="col-6 px-2 mb-3">
                   <a class="js-fancybox u-media-viewer" href="javascript:;"
-                   data-src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/covid19-feature/lrg/front_desk_plexiglass.jpg"
+                   data-src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/covid19-feature/lrg/front_desk_plexiglass.jpg"
                    data-fancybox="lightbox-gallery-hidden"
                    data-caption="Reception Desk - Plexiglass"
                    data-speed="700">
 
-                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/covid19-feature/sml/front_desk_plexiglass.jpg" srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/covid19-feature/sml/front_desk_plexiglass.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/front_desk_plexiglass.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Front Desk - Reception - Plexiglass - Barrier" title="Front Desk - Reception - Plexiglass - Barrier" style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/covid19-feature/sml/front_desk_plexiglass.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/covid19-feature/sml/front_desk_plexiglass.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/front_desk_plexiglass.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Front Desk - Reception - Plexiglass - Barrier" title="Front Desk - Reception - Plexiglass - Barrier" style="border: 1px solid #898A8D">
 
                     <span class="u-media-viewer__container">
                       <span class="u-media-viewer__icon">
@@ -133,12 +133,12 @@
 
                 <div class="col-6 offset-1 px-2 mb-3">
                   <a class="js-fancybox u-media-viewer" href="javascript:;"
-                   data-src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/covid19-feature/lrg/reception_chairs.jpg"
+                   data-src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/covid19-feature/lrg/reception_chairs.jpg"
                    data-fancybox="lightbox-gallery-hidden"
                    data-caption="Reception - Social Distancing"
                    data-speed="700">
 
-                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/reception_chairs.jpg" srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/covid19-feature/sml/reception_chairs.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/reception_chairs.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Reception - Social Distancing" title="Reception - Social Distancing"  style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/reception_chairs.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/covid19-feature/sml/reception_chairs.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/reception_chairs.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Reception - Social Distancing" title="Reception - Social Distancing"  style="border: 1px solid #898A8D">
 
                     <span class="u-media-viewer__container">
                       <span class="u-media-viewer__icon">
@@ -150,12 +150,12 @@
 
                 <div class="col-5 px-2 mb-3">
                   <a class="js-fancybox u-media-viewer" href="javascript:;"
-                   data-src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/potterybarn_soap.jpg"
+                   data-src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/potterybarn_soap.jpg"
                    data-fancybox="lightbox-gallery-hidden"
                    data-caption="Wash Hands - Soap"
                    data-speed="700">
 
-                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/potterybarn_soap.jpg" srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/potterybarn_soap.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/potterybarn_soap.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Pottery Barn - Soap" title="Pottery Barn - Soap" style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/potterybarn_soap.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/potterybarn_soap.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/covid19-feature/med/potterybarn_soap.jpg 1000w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Pottery Barn - Soap" title="Pottery Barn - Soap" style="border: 1px solid #898A8D">
 
                     <span class="u-media-viewer__container">
                       <span class="u-media-viewer__icon">

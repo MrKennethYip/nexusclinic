@@ -25,7 +25,7 @@
     <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll"
          data-options='{direction: "normal"}'>
       <!-- Apply your Parallax background image here -->
-      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Acupuncture Service Page" style="height: 120%; background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-acupuncture.jpg);"></div>
+      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Acupuncture Service Page" style="height: 120%; background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/hero/lrg/home-acupuncture.jpg);"></div>
 
       <div class="animated bounceIn">
       <!-- Content -->
@@ -177,7 +177,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/massage/med/assessment.jpg" alt="Initial Assessment">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/massage/med/assessment.jpg" alt="Initial Assessment">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -243,7 +243,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/acupuncture/med/traditional_acu.jpg" alt="Multiple Precisely Placed Acupuncture Needles on Upper Back Region">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/acupuncture/med/traditional_acu.jpg" alt="Multiple Precisely Placed Acupuncture Needles on Upper Back Region">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -281,7 +281,7 @@
 
               <div class="col-lg-5 position-relative">
                 <div id="video" class="u-video-player">
-                  <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/acupuncture/med/trigger_point_therapy.jpg" alt="Acupuncture - Trigger Point Therapy / Dry Needling">
+                  <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/acupuncture/med/trigger_point_therapy.jpg" alt="Acupuncture - Trigger Point Therapy / Dry Needling">
 
                   <div class="embed-responsive embed-responsive-16by9">
                     <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -338,7 +338,7 @@
 
               <div class="col-lg-5 position-relative">
                 <div id="video" class="u-video-player">
-                  <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/acupuncture/med/cosmetic_acu.png" alt="Multiple Precisely Placed Acupuncture Needles on Beautiful Face">
+                  <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/acupuncture/med/cosmetic_acu.png" alt="Multiple Precisely Placed Acupuncture Needles on Beautiful Face">
 
                   <div class="embed-responsive embed-responsive-16by9">
                     <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -398,7 +398,7 @@
 
               <div class="col-lg-5 position-relative">
                 <div id="video" class="u-video-player">
-                  <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/acupuncture/med/shiatsu_tuina.png" alt="Shiatsu and Tuina Massage on Upper Back of Beautiful Relaxed Female">
+                  <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/acupuncture/med/shiatsu_tuina.png" alt="Shiatsu and Tuina Massage on Upper Back of Beautiful Relaxed Female">
 
                   <div class="embed-responsive embed-responsive-16by9">
                     <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -423,7 +423,7 @@
     <!-- Hero Section -->
     <div class="position-relative">
       <div class="u-bg-img-hero-bottom" style="background-color:#FFFFFF; border-bottom: 1px solid #898A8D">
-        <div class="container u-space-1-top" style="background:url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:100% 100%;">
+        <div class="container u-space-1-top" style="background:url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:100% 100%;">
 
           <!-- Pricing 1 Section -->
           <div class="container">
@@ -438,7 +438,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold text-white">ACUPUNCTURE</strong><br><br>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_white.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -471,7 +471,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold text-white">HERBS & NUTRITION</strong>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_white.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -507,7 +507,7 @@
 
     <div style="background-color:#E7E8E8; border-bottom: 1px solid #898A8D">
     <!-- Services Section -->
-      <div class="container u-space-1-bottom" style="background:url( https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
+      <div class="container u-space-1-bottom" style="background:url( https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
         <div class="container u-space-2-top">
       <!-- Title -->
       <h2 class="text-dark font-weight-normal u-space-1-bottom"><span class="font-weight-bold">Modalities</span></h2>
@@ -563,15 +563,15 @@
             <div class="col-lg-5 position-relative">
               <div class="row mx-gutters-5 p-5">
                 <div class="col-8 offset-2 align-self-end px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/massage/med/cupping.jpg" alt="Cupping" title="Cupping Modality" style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/massage/med/cupping.jpg" alt="Cupping" title="Cupping Modality" style="border: 1px solid #898A8D">
                 </div>
 
                 <div class="col-6 px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/acupuncture/med/eastern_nutritional_coaching.jpg" alt="Eastern Nutritional Coaching" title="Eastern Nutritional Coaching Modality"  style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/acupuncture/med/eastern_nutritional_coaching.jpg" alt="Eastern Nutritional Coaching" title="Eastern Nutritional Coaching Modality"  style="border: 1px solid #898A8D">
                 </div>
 
                 <div class="col-6 px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/acupuncture/med/eastern_herbal_med.jpg" alt="Eastern Herbal Medicine" title="Eastern Herbal Medicine Modality" style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/acupuncture/med/eastern_herbal_med.jpg" alt="Eastern Herbal Medicine" title="Eastern Herbal Medicine Modality" style="border: 1px solid #898A8D">
                 </div>
               </div>
 
@@ -616,7 +616,7 @@
           <!-- Item -->
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/matt_walton">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/matt_walton.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/lrg/matt_walton.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Matt Walton - Acupuncture">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/matt_walton.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/matt_walton.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/matt_walton.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/matt_walton.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Matt Walton - Acupuncture">
             </a>
               <div class="py-3 blurb">
                 <a href="../profiles/matt_walton">
@@ -648,7 +648,7 @@
           <!-- Item -->
           <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/betty_peng">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/betty_peng.jpg" srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/betty_peng.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/med/betty_peng.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/profile/lrg/betty_peng.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Ting (Betty) Peng - Acupuncture, Registered Massage Therapist">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/betty_peng.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/betty_peng.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/betty_peng.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/betty_peng.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Ting (Betty) Peng - Acupuncture, Registered Massage Therapist">
             </a>
               <div class="py-3 blurb">
                 <a href="../profiles/betty_peng">
@@ -669,7 +669,7 @@
 
     <!-- Logo with X -->
     <div class="text-center u-space-1-bottom">
-      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/nexus_branding/Nexus_X_Line.png" alt="Nexus Massage & Rehab - Page Divider" style="width: 200px;">
+      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/nexus_branding/Nexus_X_Line.png" alt="Nexus Massage & Rehab - Page Divider" style="width: 200px;">
     </div>
     <!-- End Logo with X -->
 
@@ -695,7 +695,7 @@
 
     <!-- Logo with X -->
     <div class="text-center u-space-1-bottom">
-      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/nexus_branding/Nexus_X_Line.png" alt="Nexus Massage & Rehab - Page Divider" style="width: 200px;">
+      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/nexus_branding/Nexus_X_Line.png" alt="Nexus Massage & Rehab - Page Divider" style="width: 200px;">
     </div>
     <!-- End Logo with X -->
 

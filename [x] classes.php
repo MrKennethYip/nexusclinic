@@ -26,7 +26,7 @@
     <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll"
          data-options='{direction: "normal"}'>
       <!-- Apply your Parallax background image here -->
-      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Hiring RMT Today - Group Hands" style="height: 120%; background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/classes-studio.jpg);"></div>
+      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Hiring RMT Today - Group Hands" style="height: 120%; background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/hero/classes-studio.jpg);"></div>
 
       <div class="animated bounceIn">
       <!-- Content -->
@@ -106,7 +106,7 @@
 
           <div class="col-lg-7 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 3px solid;"src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/classes/med/Basic_Salsa.jpg" alt="Basic Salsa">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 3px solid;"src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/classes/med/Basic_Salsa.jpg" alt="Basic Salsa">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -166,7 +166,7 @@
 
           <div class="col-lg-7 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 3px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/classes/med/Advanced_Salsa.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/classes/med/Advanced_Salsa.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/classes/med/Advanced_Salsa.jpg 1000w, , https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/classes/lrg/Advanced_Salsa.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Advanced Salsa">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 3px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/classes/med/Advanced_Salsa.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/classes/med/Advanced_Salsa.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/classes/med/Advanced_Salsa.jpg 1000w, , https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/classes/lrg/Advanced_Salsa.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Advanced Salsa">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -213,7 +213,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold text-white">PACKAGES</strong>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_white.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -240,7 +240,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold text-white">DROP IN</strong>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_white.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -270,7 +270,7 @@
     <!-- Book Appointment -->   
     <div class="position-relative">
       <div style="background-color:#BC2F2C">
-        <div class="container u-space-2" style="background:url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
+        <div class="container u-space-2" style="background:url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
           <div class="w-md-80 w-lg-50 text-center mx-auto post" >
             <div class="mb-4">
               <h2 class="text-white">
@@ -337,26 +337,26 @@
     <div class="container text-center u-space-1">
       <!-- Logo -->
       <a class="d-inline-block mb-1" href="index" aria-label="Front">
-        <img src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/logo.svg" alt="Nexus Massage & Rehab - Yonge & Eglinton - Logo" style="width: 200px;">
+        <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/logo.svg" alt="Nexus Massage & Rehab - Yonge & Eglinton - Logo" style="width: 200px;">
       </a>
       <!-- End Logo -->
 
       <!-- Social Section -->
       <div class="d-flex justify-content-center p-3">
         <div class="mx-2">
-          <a href="https://facebook.com/nexushealthclinic" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/fb_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Facebook" width="30" height="30"></a>
+          <a href="https://facebook.com/nexushealthclinic" target="blank"><img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/social_media/fb_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Facebook" width="30" height="30"></a>
         </div>
         <div class="mx-2">
-          <a href="https://twitter.com/Nexus_MnR" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/twitter_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Twitter" width="30" height="30"></a>
+          <a href="https://twitter.com/Nexus_MnR" target="blank"><img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/social_media/twitter_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Twitter" width="30" height="30"></a>
         </div>
         <div class="mx-2">
-          <a href="https://www.instagram.com/nexus.clinic" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/instagram_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Instagram" width="30" height="30"></a>
+          <a href="https://www.instagram.com/nexus.clinic" target="blank"><img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/social_media/instagram_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Instagram" width="30" height="30"></a>
         </div>
         <div class="mx-2">
-          <a href="https://www.yelp.ca/biz/nexus-massage-and-rehab-toronto" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/yelp_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Yelp" width="30" height="30"></a>
+          <a href="https://www.yelp.ca/biz/nexus-massage-and-rehab-toronto" target="blank"><img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/social_media/yelp_square_color.svg" alt="Massage Clinic - Yonge & Eglinton - Yelp" width="30" height="30"></a>
         </div>
         <div class="mx-2">
-          <a href="https://www.opencare.com/clinic/nexus-massage-rehab-toronto-on-24630728802/" target="blank"><img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/social_media/opencare_square_color.png" alt="Massage Clinic - Yonge & Eglinton - OpenCare" width="30" height="30"></a>
+          <a href="https://www.opencare.com/clinic/nexus-massage-rehab-toronto-on-24630728802/" target="blank"><img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/social_media/opencare_square_color.png" alt="Massage Clinic - Yonge & Eglinton - OpenCare" width="30" height="30"></a>
         </div>
       </div>
       <!-- End Social Section --> 
