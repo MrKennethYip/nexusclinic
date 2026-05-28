@@ -25,7 +25,7 @@
     <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll"
          data-options='{direction: "normal"}'>
       <!-- Apply your Parallax background image here -->
-      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Yonge & Eglinton - Gift Card or Certificate" style="height: 120%; background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/gift-card.jpg);"></div>
+      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Yonge & Eglinton - Gift Card or Certificate" style="height: 120%; background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/hero/gift-card.jpg);"></div>
 
       <div class="animated bounceIn">
       <!-- Content -->
@@ -64,7 +64,7 @@
     
         <div class="col-lg-6 position-relative">
           <div id="video" class="u-video-player">
-            <img class="img-fluid u-video-player__preview" style="border: #636569 3px solid;"src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/gift-cards/gift-card-promo-feb.jpg" alt="February - Gift Card Promotion">
+            <img class="img-fluid u-video-player__preview" style="border: #636569 3px solid;"src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/gift-cards/gift-card-promo-feb.jpg" alt="February - Gift Card Promotion">
     
             <div class="embed-responsive embed-responsive-16by9">
               <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -105,7 +105,7 @@
         </div>
 
         <div class="text-center u-space-1-top">
-          <img class="responsively-lazy" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/gift-cards/med/physical_gift_card_promo.png" data-srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/gift-cards/sml/physical_gift_card_promo.png 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/gift-cards/med/physical_gift_card_promo.png 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/gift-cards/med/physical_gift_card_promo.png 1500w" width="80%" height="80%" alt="Nexus Gift Card">
+          <img class="responsively-lazy" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/gift-cards/med/physical_gift_card_promo.png" data-srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/gift-cards/sml/physical_gift_card_promo.png 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/gift-cards/med/physical_gift_card_promo.png 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/gift-cards/med/physical_gift_card_promo.png 1500w" width="80%" height="80%" alt="Nexus Gift Card">
         </div>
 
       </div>
@@ -114,7 +114,7 @@
 
     <div style="background-color:#E7E8E8; border-bottom: 1px solid #898A8D">
     <!-- Services Section -->
-      <div class="container u-space-1" style="background:url( https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
+      <div class="container u-space-1" style="background:url( https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
         <!-- Title -->
         <div class="w-md-80 w-lg-50 text-center mx-auto">
           <h2 class="text-dark font-weight-normal">
@@ -154,7 +154,7 @@
              }]'>
 
           <!-- Blog News -->
-          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/med/Christmas_Preview.jpg); border: 2px solid #003A5D">
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/gift-cards/med/Christmas_Preview.jpg); border: 2px solid #003A5D">
             <article class="align-self-end w-100 text-center p-6">
               <h3 class="h4 text-white">Christmas</h3>
             </article>
@@ -162,7 +162,7 @@
           <!-- End Blog News -->
 
           <!-- Blog News -->
-          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/med/Birthday_Preview.jpg); border: 2px solid #003A5D">
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/gift-cards/med/Birthday_Preview.jpg); border: 2px solid #003A5D">
             <article class="align-self-end w-100 text-center p-6">
               <h3 class="h4 text-white">Birthday</h3>
             </article>
@@ -170,7 +170,7 @@
           <!-- End Blog News -->
 
           <!-- Blog News -->
-          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/med/Aniversary_Preview.jpg); border: 2px solid #003A5D">
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/gift-cards/med/Aniversary_Preview.jpg); border: 2px solid #003A5D">
             <article class="align-self-end w-100 text-center p-6">
               <h3 class="h4 text-white">Anniversary</h3>
             </article>
@@ -178,7 +178,7 @@
           <!-- End Blog News -->
 
           <!-- Blog News -->
-          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/med/Valentines_Day_Preview.jpg); border: 2px solid #003A5D">
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/gift-cards/med/Valentines_Day_Preview.jpg); border: 2px solid #003A5D">
             <article class="align-self-end w-100 text-center p-6">
               <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
               <h3 class="h4 text-white">Valentine's Day</h3>
@@ -187,7 +187,7 @@
           <!-- End Blog News -->
 
           <!-- Blog News -->
-          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/med/Mothers_Day_Preview.jpg); border: 2px solid #003A5D">
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/gift-cards/med/Mothers_Day_Preview.jpg); border: 2px solid #003A5D">
             <article class="align-self-end w-100 text-center p-6">
               <h3 class="h4 text-white">Mother's Day</h3>
             </article>
@@ -195,7 +195,7 @@
           <!-- End Blog News -->
 
           <!-- Blog News -->
-          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/med/Fathers_Day_Preview.jpg); border: 2px solid #003A5D">
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/gift-cards/med/Fathers_Day_Preview.jpg); border: 2px solid #003A5D">
             <article class="align-self-end w-100 text-center p-6">
               <h3 class="h4 text-white">Father's Day</h3>
             </article>
@@ -203,7 +203,7 @@
           <!-- End Blog News -->
 
           <!-- Blog News -->
-          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/med/Nexus_Logo_Preview.jpg); border: 2px solid #003A5D">
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/gift-cards/med/Nexus_Logo_Preview.jpg); border: 2px solid #003A5D">
             <article class="align-self-end w-100 text-center p-6">
               <h3 class="h4 text-white">Nexus</h3>
             </article>
@@ -211,7 +211,7 @@
           <!-- End Blog News -->
 
           <!-- Blog News -->
-          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/med/General_1_Preview.jpg); border: 2px solid #003A5D">
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/gift-cards/med/General_1_Preview.jpg); border: 2px solid #003A5D">
             <article class="align-self-end w-100 text-center p-6">
               <h3 class="h4 text-white">Congratulations</h3>
             </article>
@@ -219,7 +219,7 @@
           <!-- End Blog News -->
 
           <!-- Blog News -->
-          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/gift-cards/med/General_2_Preview.jpg); border: 2px solid #003A5D">
+          <a class="js-slide u-bg-img-hero u-gradient-overlay-half-dark-v1 transition-3d-hover rounded-pseudo my-4" href="https://nexusclinic.clinicsense.com/gift" target="blank" style="background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/gift-cards/med/General_2_Preview.jpg); border: 2px solid #003A5D">
             <article class="align-self-end w-100 text-center p-6">
               <h3 class="h4 text-white">Get Better</h3>
             </article>

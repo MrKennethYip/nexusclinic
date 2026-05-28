@@ -25,7 +25,7 @@
     <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll"
          data-options='{direction: "normal"}'>
       <!-- Apply your Parallax background image here -->
-      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Osteopathy Service Page" style="height: 120%; background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/lrg/osteopath-landing.jpg);"></div>
+      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Osteopathy Service Page" style="height: 120%; background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/hero/lrg/osteopath-landing.jpg);"></div>
 
       <div class="animated bounceIn">
       <!-- Content -->
@@ -170,7 +170,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/service-pages/massage/med/assessment.jpg" alt="Initial Assessment">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/massage/med/assessment.jpg" alt="Initial Assessment">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -215,7 +215,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/osteopath/med/soft_tissue+manipulation.jpg" alt="Osteopathy - Soft Tissue Manipulation">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/osteopath/med/soft_tissue+manipulation.jpg" alt="Osteopathy - Soft Tissue Manipulation">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -253,7 +253,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/osteopath/med/muscle_energy.jpg" alt="Osteopathy - Muscle Energy">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/osteopath/med/muscle_energy.jpg" alt="Osteopathy - Muscle Energy">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -291,7 +291,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/osteopath/med/myofascial_release.jpg" alt="Osteopathy - Myofascial">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/osteopath/med/myofascial_release.jpg" alt="Osteopathy - Myofascial">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -330,7 +330,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/osteopath/med/visceral_manipulation.jpg" alt="Osteopathy - Visceral Manipulation">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/osteopath/med/visceral_manipulation.jpg" alt="Osteopathy - Visceral Manipulation">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -356,7 +356,7 @@
     <!-- Hero Section -->
     <div class="position-relative">
       <div class="u-bg-img-hero-bottom" style="background-color:#FFFFFF; border-bottom: 1px solid #898A8D">
-        <div class="container" style="background:url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:100% 100%;">
+        <div class="container" style="background:url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:100% 100%;">
 
           <!-- Pricing 1 Section -->
           <div class="container">
@@ -371,7 +371,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold text-white">OSTEOPATHY</strong>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_white.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -409,7 +409,7 @@
 
     <div style="background-color:#E7E8E8; border-bottom: 1px solid #898A8D">
     <!-- Services Section -->
-      <div class="container u-space-1-bottom" style="background:url( https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
+      <div class="container u-space-1-bottom" style="background:url( https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
         <div class="container u-space-2-top">
       <!-- Title -->
       <h2 class="text-dark font-weight-normal u-space-1-bottom"><span class="font-weight-bold">Modalities</span></h2>
@@ -441,7 +441,7 @@
             <div class="col-lg-5 position-relative">
               <div class="row mx-gutters-5 p-5">
                 <div class="col-8 offset-2 align-self-end px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/service-pages/osteopath/med/cranial_sacral.jpg" alt="Cranial Sacral" title="Cranial Sacral Modality" style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/service-pages/osteopath/med/cranial_sacral.jpg" alt="Cranial Sacral" title="Cranial Sacral Modality" style="border: 1px solid #898A8D">
                 </div>
               </div>
 
@@ -505,7 +505,7 @@
 
     <!-- Logo with X -->
     <div class="text-center u-space-1-bottom">
-      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/nexus_branding/Nexus_X_Line.png" alt="Nexus Massage & Rehab - Page Divider" style="width: 200px;">
+      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/nexus_branding/Nexus_X_Line.png" alt="Nexus Massage & Rehab - Page Divider" style="width: 200px;">
     </div>
     <!-- End Logo with X -->
 
@@ -531,7 +531,7 @@
 
     <!-- Logo with X -->
     <div class="text-center u-space-1-bottom">
-      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/nexus_branding/Nexus_X_Line.png" alt="Nexus Massage & Rehab - Page Divider" style="width: 200px;">
+      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/nexus_branding/Nexus_X_Line.png" alt="Nexus Massage & Rehab - Page Divider" style="width: 200px;">
     </div>
     <!-- End Logo with X -->
 

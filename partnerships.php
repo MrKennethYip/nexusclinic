@@ -25,7 +25,7 @@
     <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll"
          data-options='{direction: "normal"}'>
       <!-- Apply your Parallax background image here -->
-      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Hiring RMT Today - Group Hands" style="height: 120%; background-image: url(https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/hero/lrg/partnerships.jpg);"></div>
+      <div class="divimage dzsparallaxer--target" alt="Nexus Massage & Rehab - Hiring RMT Today - Group Hands" style="height: 120%; background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/hero/lrg/partnerships.jpg);"></div>
 
       <div class="animated bounceIn">
       <!-- Content -->
@@ -44,7 +44,7 @@
     <!-- End Hero Section -->
 
     <!-- Services Section -->
-      <div class="container u-space-1-bottom" style="background:url( https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
+      <div class="container u-space-1-bottom" style="background:url( https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
         <div class="container u-space-2-top">
       <!-- Title -->
       <h2 class="text-dark font-weight-normal u-space-1-bottom"><span class="font-weight-bold">What We Do</span></h2>
@@ -97,18 +97,18 @@
             <div class="col-lg-5 position-relative">
               <div class="row mx-gutters-5 p-5">
                 <div class="col-8 align-self-end px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/med/mai-lydia.jpg" alt="Physio Assessment" title="Physio Assessment" style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/med/mai-lydia.jpg" alt="Physio Assessment" title="Physio Assessment" style="border: 1px solid #898A8D">
                 </div>
 
                 <div class="col-4 px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/med/lydia-chair.jpg" alt="Massage Chair" title="Massage Chair"  style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/med/lydia-chair.jpg" alt="Massage Chair" title="Massage Chair"  style="border: 1px solid #898A8D">
                 </div>
 
                 <div class="col-4 px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/med/felix-elbow.jpg" alt="Massage Table - Laying Down" title="Massage Table - Laying Down" style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/med/felix-elbow.jpg" alt="Massage Table - Laying Down" title="Massage Table - Laying Down" style="border: 1px solid #898A8D">
                 </div>
                 <div class="col-8 px-2 mb-3">
-                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/med/eric-chair.jpg" alt="Eric Miraflor - Chair Massage" title="Eric Miraflor - Chair Massage" style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/med/eric-chair.jpg" alt="Eric Miraflor - Chair Massage" title="Eric Miraflor - Chair Massage" style="border: 1px solid #898A8D">
                 </div>
               </div>
 
@@ -138,7 +138,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/med/brand-partnership.jpg" alt="Brand Partnership" title="Brand Partnership">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/med/brand-partnership.jpg" alt="Brand Partnership" title="Brand Partnership">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -178,7 +178,7 @@
 
           <div class="col-lg-5 position-relative">
             <div id="video" class="u-video-player">
-              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/lrg/corporate-outreach.jpg" srcset="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/lrg/corporate-outreach.jpg 500w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/lrg/corporate-outreach.jpg 1000w, https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/med/corporate-outreach.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Corporate Outreaches" title="Corporate Outreaches">
+              <img class="img-fluid u-video-player__preview" style="border: #636569 1px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/lrg/corporate-outreach.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/lrg/corporate-outreach.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/lrg/corporate-outreach.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/med/corporate-outreach.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Corporate Outreaches" title="Corporate Outreaches">
 
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe id="youTubeVideo" class="embed-responsive-item"
@@ -202,7 +202,7 @@
     
     <div style="background-color:#E7E8E8; border: 1px solid #898A8D">
     <!-- Services Section -->
-      <div class="container u-space-1-bottom" style="background:url( https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
+      <div class="container u-space-1-bottom" style="background:url( https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:auto 100%;">
         <div class="container u-space-2-top">
           <!-- Title -->
           <span class="text-dark font-weight-normal u-space-1-bottom h2"><span class="font-weight-bold">Checkout our current partners!</span></span>
@@ -278,31 +278,31 @@
 
                 <div class="col-9 align-self-end px-2 mb-3 u-space-1-top">
                   <a class="text-dark" href="https://www.goodlifefitness.com/" target="blank">
-                    <img class="img-fluid rounded" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/partnerships/goodlife_fitness.png" alt="Goodlife Fitness - Logo" title="Goodlife Fitness - Logo"  style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/goodlife_fitness.png" alt="Goodlife Fitness - Logo" title="Goodlife Fitness - Logo"  style="border: 1px solid #898A8D">
                   </a>
                 </div>
 
                 <div class="col-9 align-self-end px-2 mb-3 u-space-2-top u-space-1-bottom">
                   <a class="text-dark" href="https://vrtu.ca/" target="blank">
-                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/vrtu_muay_thai.png" alt="VRTU Muay Thai - Logo" title="VRTU Muay Thai - Logo"  style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/vrtu_muay_thai.png" alt="VRTU Muay Thai - Logo" title="VRTU Muay Thai - Logo"  style="border: 1px solid #898A8D">
                   </a>
                 </div>
                 
                 <div class="col-9 align-self-end px-2 mb-3 u-space-1-top u-space-1-bottom">
                   <a class="text-dark" href="https://www.6ixeglintondental.ca/" target="blank">
-                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/6ixdental.png" alt="6ix Dental Eglinton - Logo" title="6ix Dental Eglinton - Logo"  style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/6ixdental.png" alt="6ix Dental Eglinton - Logo" title="6ix Dental Eglinton - Logo"  style="border: 1px solid #898A8D">
                   </a>
                 </div>
 
                 <div class="col-9 align-self-end px-2 mb-3 u-space-1-top u-space-1-bottom">
                   <a class="text-dark" href="https://jt6studio.ca/"  target="blank">
-                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/jt6_logo_rect.png" alt="JT6 Jiu-Jitsu Toronto - Logo" title="JT6 Jiu-Jitsu Toronto - Logo"  style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/jt6_logo_rect.png" alt="JT6 Jiu-Jitsu Toronto - Logo" title="JT6 Jiu-Jitsu Toronto - Logo"  style="border: 1px solid #898A8D">
                   </a>
                 </div>
                 
                 <div class="col-9 align-self-end px-2 mb-3 u-space-1-top u-space-1-bottom">
                   <a class="text-dark" href="https://www.bumpnsmoothspa.me/"  target="blank">
-                    <img class="img-fluid rounded" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/partnerships/bump_logo_rect.png" alt="Bump & Smooth Spa - Logo" title="Bump & Smooth Spa - Logo"  style="border: 1px solid #898A8D">
+                    <img class="img-fluid rounded" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/partnerships/bump_logo_rect.png" alt="Bump & Smooth Spa - Logo" title="Bump & Smooth Spa - Logo"  style="border: 1px solid #898A8D">
                   </a>
                 </div>
                 

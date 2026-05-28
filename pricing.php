@@ -24,7 +24,7 @@
     <!-- Hero Section -->
     <div class="position-relative">
       <div class="u-bg-img-hero-bottom" style="background-color:#002A3A;">
-        <div class="container u-space-2-top u-space-2-top--md u-space-2-top--lg" style="background:url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x-logo-white.svg) no-repeat; background-size:100% 100%;">
+        <div class="container u-space-2-top u-space-2-top--md u-space-2-top--lg" style="background:url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x-logo-white.svg) no-repeat; background-size:100% 100%;">
           <div class="animated bounceIn">
           <!-- Title -->
           <div class="w-md-80 w-lg-50 text-center mx-auto mb-2 mt-3 u-space-2-top">
@@ -46,7 +46,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold">RMT<br> MASSAGE</strong>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -80,7 +80,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold">HOT STONE MASSAGE</strong>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -114,7 +114,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold" style="font-size: 1.5rem">MANUAL LYMPHATIC DRAINAGE MASSAGE</strong>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -157,7 +157,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold">INDIAN HEAD MASSAGE</strong>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -193,7 +193,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold">SPORTS MASSAGE THERAPY</strong>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -229,7 +229,7 @@
                         <h2 class="p-1" style="color:#002A3A;">
                           <strong class="font-weight-bold">AROMATHERAPY MASSAGE</strong>
                         </h2>
-                        <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                        <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_colour.png" style="width: 200px;">
                         <!-- Content -->
                         <div class="u-space-1-top">
                           <ul class="list-unstyled">
@@ -274,7 +274,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold">PRENATAL MASSAGE</strong>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -310,7 +310,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold">CHIROPRACTIC</strong><br><br>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -346,7 +346,7 @@
                         <h2 class="p-1" style="color:#002A3A;">
                           <strong class="font-weight-bold">PHYSIOTHERAPY</strong><br><br>
                         </h2>
-                        <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                        <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_colour.png" style="width: 200px;">
                         <!-- Content -->
                         <div class="u-space-1-top">
                           <ul class="list-unstyled">
@@ -391,7 +391,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold">PELVIC HEALTH PHYSIOTHERAPY</strong>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -427,7 +427,7 @@
                      <h2 class="p-1" style="color:#002A3A;">
                        <strong class="font-weight-bold">ACUPUNCTURE</strong><br/><br/>
                      </h2>
-                     <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                     <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_colour.png" style="width: 200px;">
                      <!-- Content -->
                      <div class="u-space-1-top">
                        <ul class="list-unstyled">
@@ -463,7 +463,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold">SHIATSU / TUINA MASSAGE</strong>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -508,7 +508,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold">HERBS & NUTRITION</strong>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -544,7 +544,7 @@
                       <h2 class="p-1" style="color:#002A3A;">
                         <strong class="font-weight-bold">ORTHOTICS</strong>
                       </h2>
-                      <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_colour.png" style="width: 200px;">
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
@@ -599,19 +599,19 @@
           <!-- Alt Insurance Logos -->
           <div class="row justify-content-center text-center">
             <div class="col-4 col-md-2">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/equitableLife-logo.png" alt="Equitable Life Insurance" style="width: 100px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/equitableLife-logo.png" alt="Equitable Life Insurance" style="width: 100px;">
             </div>
             <div class="col-4 col-md-2 mt-2">
-             <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/nexgenRX-logo.png" alt="NexgenRX Insurance" style="width: 100px;">
+             <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/nexgenRX-logo.png" alt="NexgenRX Insurance" style="width: 100px;">
             </div>
             <div class="col-4 col-md-2">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/RWAM-logo.png" alt="RWAM Insurance" style="width: 100px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/RWAM-logo.png" alt="RWAM Insurance" style="width: 100px;">
             </div>
             <div class="col-4 col-md-2 mt-3">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/greatWestLife-logo.svg" alt="Great West Life Insurance" style="width: 125px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/greatWestLife-logo.svg" alt="Great West Life Insurance" style="width: 125px;">
             </div>
             <div class="col-4 col-md-2 mt-3">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/manulife-logo.svg" alt="Manulife Insurance" style="width: 100px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/manulife-logo.svg" alt="Manulife Insurance" style="width: 100px;">
             </div>
           </div>
           <!-- End Alt Insurance Logos -->
@@ -621,19 +621,19 @@
           <!-- Alt Insurance Logos -->
           <div class="row justify-content-center text-center">
             <div class="col-4 col-md-2">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/chambersOfCommerce-logo.png" alt="Chamber of Commerce Insurance" style="width: 125px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/chambersOfCommerce-logo.png" alt="Chamber of Commerce Insurance" style="width: 125px;">
             </div>
             <div class="col-4 col-md-2">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/johnstonGroup-logo.png" alt="Johnson Group Insurance" style="width: 125px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/johnstonGroup-logo.png" alt="Johnson Group Insurance" style="width: 125px;">
             </div>
             <div class="col-4 col-md-2 mt-3">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/desjardins-logo.svg" alt="Desjardins Insurance" style="width: 100px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/desjardins-logo.svg" alt="Desjardins Insurance" style="width: 100px;">
             </div>
             <div class="col-4 col-md-2 mt-3 ">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/johnson-logo.png" alt="Johnson Insurance" style="width: 100px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/johnson-logo.png" alt="Johnson Insurance" style="width: 100px;">
             </div>
             <div class="col-4 col-md-2">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/SunLifeFinancial-logo.png" alt="Sun Life Financial Insurance" style="width: 100px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/SunLifeFinancial-logo.png" alt="Sun Life Financial Insurance" style="width: 100px;">
             </div>
           </div>
           <!-- End Alt Insurance Logos -->
@@ -643,19 +643,19 @@
           <!-- Alt Insurance Logos -->
           <div class="row justify-content-center text-center">
             <div class="col-4 col-md-2 mt-2">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/blue_cross-logo.png" alt="Bluecross Insurance" style="width: 135px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/blue_cross-logo.png" alt="Bluecross Insurance" style="width: 135px;">
             </div>
             <div class="col-4 col-md-2">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/firstCanadian-logo.png" alt="First Canadian Insurance" style="width: 125px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/firstCanadian-logo.png" alt="First Canadian Insurance" style="width: 125px;">
             </div>
             <div class="col-4 col-md-2 mt-1">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/cinup-logo.png" alt="Cinup Insurance" style="width: 100px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/cinup-logo.png" alt="Cinup Insurance" style="width: 100px;">
             </div>
             <div class="col-4 col-md-2">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/maximumBenefit-logo.png" alt="Maximum Benefit Insurance" style="width: 100px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/maximumBenefit-logo.png" alt="Maximum Benefit Insurance" style="width: 100px;">
             </div>
             <div class="col-4 col-md-2 mt-1">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/cooperators-logo.png" alt="Cooperators Insurance" style="width: 125px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/cooperators-logo.png" alt="Cooperators Insurance" style="width: 125px;">
             </div>
           </div>
           <!-- End Alt Insurance Logos -->
@@ -665,19 +665,19 @@
           <!-- Alt Insurance Logos -->
           <div class="row justify-content-center text-center">
             <div class="col-4 col-md-2 mt-3">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/groupHealth-logo.png" alt="Group Health Insurance" style="width: 100px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/groupHealth-logo.png" alt="Group Health Insurance" style="width: 100px;">
             </div>
             <div class="col-4 col-md-2">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/manion-logo.png" alt="Manion Insurance" style="width: 100px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/manion-logo.png" alt="Manion Insurance" style="width: 100px;">
             </div>
             <div class="col-4 col-md-2 mt-1">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/SSQ_english.png" alt="SSQ Insurance" style="width: 100px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/SSQ_english.png" alt="SSQ Insurance" style="width: 100px;">
             </div>
             <div class="col-4 col-md-2">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/groupSource-logo.png" alt="Group Source Insurance" style="width: 100px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/groupSource-logo.png" alt="Group Source Insurance" style="width: 100px;">
             </div>
             <div class="col-4 col-md-2 mt-2">
-              <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/insurance/standardLife-logo.png" alt="Standard Life Insurance" style="width: 125px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/standardLife-logo.png" alt="Standard Life Insurance" style="width: 125px;">
             </div>
           </div>
           <!-- End Alt Insurance Logos -->
@@ -687,13 +687,13 @@
           <!-- Alt Insurance Logos -->
           <div class="row justify-content-center text-center">
             <div class="col-4 col-md-2 mt-1">
-              <img class="u-clients" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/graphics/insurance/green_shield-logo.png" alt="Green Shield Insurance" style="width: 100px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/green_shield-logo.png" alt="Green Shield Insurance" style="width: 100px;">
             </div>
             <div class="col-4 col-md-2">
-              <img class="u-clients" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/graphics/insurance/IA_Financial_Group-logo.svg" alt="IA Financial Group Insurance" style="width: 90px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/IA_Financial_Group-logo.svg" alt="IA Financial Group Insurance" style="width: 90px;">
             </div>
             <div class="col-4 col-md-2 mt-2">
-              <img class="u-clients" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/graphics/insurance/Claim_Secure-logo.png" alt="Claim Secure Insurance" style="width: 135px;">
+              <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/insurance/Claim_Secure-logo.png" alt="Claim Secure Insurance" style="width: 135px;">
             </div>
           </div>
           <!-- End Alt Insurance Logos -->
@@ -707,7 +707,7 @@
     <div class="text-white text-center" style="background-color:#00A6CE">
       <div class="container p-2 post">
         <span class="h6 d-block d-lg-inline-block font-weight-light mb-lg-0">
-           <img class="mr-2" src="https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/images/pricing/sml/giftcard_stack.png" alt="Gift Card Stack" style="width: 150px;">Give the gift of health with a <span class="font-weight-bold">Nexus Gift Card?</span>
+           <img class="mr-2" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/pricing/sml/giftcard_stack.png" alt="Gift Card Stack" style="width: 150px;">Give the gift of health with a <span class="font-weight-bold">Nexus Gift Card?</span>
         </span>
         <a class="btn btn-sm u-btn-white transition-3d-hover font-weight-normal ml-2" href="./gift-cards">Learn More<span class="fa fa-angle-right ml-2"></span></a>
       </div>
@@ -730,22 +730,22 @@
 
             <div class="row justify-content-center text-center">
               <div class="col-4 col-md-2">
-                <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/payments/direct_debit.png" alt="Debit Card" style="width: 70px;">
+                <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/payments/direct_debit.png" alt="Debit Card" style="width: 70px;">
               </div>
               <div class="col-4 col-md-2">
-                <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/payments/visa.png" alt="Credit Card" style="width: 70px;">
+                <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/payments/visa.png" alt="Credit Card" style="width: 70px;">
               </div>
               <div class="col-4 col-md-2">
-                <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/payments/mastercard.png" alt="MasterCard" style="width: 70px;">
+                <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/payments/mastercard.png" alt="MasterCard" style="width: 70px;">
               </div>
               <div class="col-4 col-md-2">
-                <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/payments/amex.png" alt="AMEX" style="width: 70px;">
+                <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/payments/amex.png" alt="AMEX" style="width: 70px;">
               </div>
               <div class="col-4 col-md-2">
-                <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/payments/apple_pay.png" alt="Apple Pay" style="width: 70px;">
+                <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/payments/apple_pay.png" alt="Apple Pay" style="width: 70px;">
               </div>
               <div class="col-4 col-md-2">
-                <img class="u-clients" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/graphics/payments/android_pay.png" alt="Android Pay" style="width: 70px;">
+                <img class="u-clients" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/graphics/payments/android_pay.png" alt="Android Pay" style="width: 70px;">
               </div>
             </div>
 

@@ -58,7 +58,7 @@
           <!-- End Info -->
 
           <!-- Avatar -->
-          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/profile/med/daniel_thrush.jpg" alt="Daniel Thrush - Acupuncture">
+          <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/daniel_thrush.jpg" alt="Daniel Thrush - Acupuncture">
           <!-- End Avatar -->
           </div>
         </div>
@@ -114,7 +114,7 @@
 
                 <!-- User -->
                   <div class="card-header border-0 py-3 d-flex align-items-center">
-                    <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/acupuncture-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                    <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/acupuncture-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                     <div>
                       <span class="d-block text-dark small font-weight-bold">Acupuncture</span>
                     </div>
@@ -123,7 +123,7 @@
 
                 <!-- User -->
                   <div class="card-header border-0 py-3 d-flex align-items-center">
-                    <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/nutrition-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                    <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/nutrition-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                     <div>
                       <span class="d-block text-dark small font-weight-bold">Certified Nutritional Practitioner</span>
                     </div>

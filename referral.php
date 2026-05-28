@@ -25,7 +25,7 @@
     <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll"
          data-options='{direction: "normal"}'>
       <!-- Apply your Parallax background image here -->
-      <div class="divimage dzsparallaxer--target" style="height: 120%; background-image: url(https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/hero/referral-people.jpg);"></div>
+      <div class="divimage dzsparallaxer--target" style="height: 120%; background-image: url(https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/hero/referral-people.jpg);"></div>
 
       <div class="animated bounceIn">
       <!-- Content -->
@@ -64,7 +64,7 @@
                 <h1 class="text-primary p-1">
                   <strong class="font-weight-bold text-white">SHARE</strong>
                 </h1>
-                <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_white.png" style="width: 200px;">
                 <div class="u-space-1-top">
                   <p class="mb-md-0 text-white">Tell your friends and family about your great experience at Nexus Massage & Rehab.</p>
                 </div>  
@@ -82,7 +82,7 @@
                 <h1 class="text-primary p-1">
                   <strong class="font-weight-bold text-white">BOOK</strong>
                 </h1>
-                <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_white.png" style="width: 200px;">
                 <div class="u-space-1-top">
                   <p class="mb-md-0 text-white">When your friends and family book an appointment with Nexus Massage and Rehab, they need to let the receptionist know who referred them.</p>
                 </div>  
@@ -100,7 +100,7 @@
                 <h1 class="text-primary p-1">
                   <strong class="font-weight-bold text-white">EARN</strong>
                 </h1>
-                <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/logos/x_line_white.png" style="width: 200px;">
+                <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_white.png" style="width: 200px;">
                 <div class="u-space-1-top">
                   <p class="mb-md-0 text-white">A $20 promotional discount will be applied to your next visit, and your friend’s first visit at our clinic</p>
                 </div>  

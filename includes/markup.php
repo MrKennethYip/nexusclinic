@@ -4,7 +4,7 @@
     "@type" : "LocalBusiness",
     "priceRange":"$60 - $500",
     "name" : "Nexus Massage & Rehab",
-    "image" : ["https://nexusmassageclinic.s3.ca-central-1.amazonaws.com/logos/logo.svg", "https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Karen-Chiro-Square.jpg","https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Acupuncture-Square.jpg", "https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Massage-Square.jpg","https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/images/unique-feature/med/Foot_Massage-Square.jpg"],
+    "image" : ["https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/logo.svg", "https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Karen-Chiro-Square.jpg","https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Acupuncture-Square.jpg", "https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Massage-Square.jpg","https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Foot_Massage-Square.jpg"],
     "telephone" : "(647) 557-6267",
     "email" : "contact@nexushealthclinic.com",
     "address" : {
