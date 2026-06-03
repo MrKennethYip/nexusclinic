@@ -496,10 +496,8 @@
                           <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$135</strong></li>
                           <li class="u-pricing-v2__list-item py-1">20 Min Follow Up - <strong>$90</strong></li>
                           <li class="u-pricing-v2__list-item py-1">40 Min Follow Up - <strong>$115</strong></li>
-                          <span class="u-divider u-divider--xs u-divider--text text-white">TELEHEALTH</span>
-                          <li class="u-pricing-v2__list-item py-1">Virtual Initial Assessment - <strong>$135</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">20 Min Virtual Follow-Up - <strong>$90</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">40 Min Virtual Follow-Up - <strong>$115</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -533,8 +531,6 @@
                           <li class="u-pricing-v2__list-item py-1">40 Min Follow Up - <strong>$140</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <span class="u-divider u-divider--xs u-divider--text text-white"><em>**Service offered on MONDAYS ONLY**</em></span>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
                       </div>
