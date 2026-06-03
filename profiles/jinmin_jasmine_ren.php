@@ -56,7 +56,7 @@
             </li>
           </ul>
           <!-- End Info -->
-kenneth_huang
+
           <!-- Avatar -->
           <img class="img-fluid u-xl-avatar u-xl-avatar--bordered u-avatar-v1 rounded-circle mx-auto" src="https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/jinmin_jasmine_ren.jpg" alt="Jinmin (Jasmine) Ren - Acupuncture">
           <!-- End Avatar -->
@@ -103,47 +103,47 @@ kenneth_huang
                 <hr>
 
                 <!-- User -->
+                <a href="../service/acupuncture">  
                   <div class="card-header border-0 py-3 d-flex align-items-center">
                     <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/acupuncture-icon.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                     <div>
-                      <a href="../service/acupuncture">
                         <span class="d-block text-dark small font-weight-bold">Registered Acupuncture</span>
-                      </a>
                     </div>
                   </div>
+                </a>
                 <!-- End User -->
 
                 <!-- User -->
+                <a href="../service/acupuncture">
                   <div class="card-header border-0 py-3 d-flex align-items-center">
                     <img src="https://s3.ca-central-1.amazonaws.com/nexusclinicassets/icons/weight_loss_body_sculpting.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                     <div>
-                      <a href="../service/acupuncture">
                         <span class="d-block text-dark small font-weight-bold">Weight Loss & Body Sculpting Acupuncture</span>
-                      </a>
                     </div>
                   </div>
+                </a>
                 <!-- End User -->
 
                 <!-- User -->
+                <a href="../service/acupuncture">
                   <div class="card-header border-0 py-3 d-flex align-items-center">
                     <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/cosmetic_acupuncture.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                     <div>
-                      <a href="../service/acupuncture">
                         <span class="d-block text-dark small font-weight-bold">Cosmetic Acupuncture</span>
-                      </a>
+                      </div>
                     </div>
-                  </div>
+                </a>
                 <!-- End User -->
 
                 <!-- User -->
+                <a href="../service/acupuncture">
                   <div class="card-header border-0 py-3 d-flex align-items-center">
-                    <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/shiatsu_tuina_massage.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                    <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/shiatsu_tuina_massage.jpg" class="rounded-circle u-avatar align-self-start mr-3">
                     <div>
-                      <a href="../service/acupuncture">
                         <span class="d-block text-dark small font-weight-bold">Shiatsu / Tuina Massage</span>
-                      </a>
+                      </div>
                     </div>
-                  </div>
+                </a>
                 <!-- End User -->
 
               </div>
