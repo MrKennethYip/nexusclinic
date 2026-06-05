@@ -599,12 +599,11 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$140</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$115</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">75 Min Follow-Up - <strong>$130</strong></li>
-                          <li class="u-pricing-v2__list-item">&nbsp</li>
-                          <li class="u-pricing-v2__list-item">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">30 Min Follow-Up - <strong>$85</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$100</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="small text-white"><em>**This service is billed under Acupuncture Only**</em></li>
                         </ul>
                       </div>
                       <!-- End Content --> 
