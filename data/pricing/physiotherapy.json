@@ -1,0 +1,16 @@
+{
+  "name": "Physiotherapy",
+  "heading_text": "PHYSIOTHERAPY",
+  "_heading_note": "Match the heading that does NOT contain 'PELVIC'. In service/physiotherapy.php this is the first pricing card.",
+  "files": ["pricing.php", "service/physiotherapy.php", "service/telehealth.php"],
+  "_note": "pricing.php uses 'Follow-Up' (hyphen); service pages use 'Follow Up' (space). The skill normalizes hyphens/spaces when matching labels. service/telehealth.php only shows the virtual/telehealth rows.",
+  "prices": [
+    {"label": "15 Min Consultation", "price": "FREE"},
+    {"label": "Initial Assessment", "price": "$135"},
+    {"label": "20 Min Follow-Up", "price": "$90"},
+    {"label": "40 Min Follow-Up", "price": "$115"},
+    {"label": "Virtual Initial Assessment", "price": "$135"},
+    {"label": "20 Min Virtual Follow-Up", "price": "$90"},
+    {"label": "40 Min Virtual Follow-Up", "price": "$115"}
+  ]
+}

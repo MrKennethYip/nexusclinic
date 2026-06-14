@@ -1,0 +1,15 @@
+{
+  "name": "Acupuncture",
+  "heading_text": "ACUPUNCTURE",
+  "_heading_note": "Match the heading that does NOT contain 'HERBS'.",
+  "files": ["pricing.php", "service/acupuncture.php"],
+  "section_divider": "COSMETIC ACUPUNCTURE",
+  "target_section": "before",
+  "_note": "pricing.php has a COSMETIC ACUPUNCTURE sub-section after a divider span. This file targets only the rows BEFORE that divider. service/acupuncture.php has no divider so all rows are updated.",
+  "prices": [
+    {"label": "15 Min Consultation", "price": "FREE"},
+    {"label": "Initial Assessment", "price": "$140"},
+    {"label": "60 Min Follow-Up", "price": "$115"},
+    {"label": "75 Min Follow-Up", "price": "$130"}
+  ]
+}

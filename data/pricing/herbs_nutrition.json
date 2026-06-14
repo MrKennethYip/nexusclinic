@@ -1,0 +1,10 @@
+{
+  "name": "Herbs & Nutrition",
+  "heading_text": "HERBS & NUTRITION",
+  "files": ["pricing.php", "service/acupuncture.php"],
+  "_note": "Prices have no HST as this service cannot be claimed under Acupuncture insurance.",
+  "prices": [
+    {"label": "Initial Assessment", "price": "$110"},
+    {"label": "30 Min Follow-Up", "price": "$95"}
+  ]
+}
