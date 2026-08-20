@@ -597,6 +597,22 @@
              </div>
          </div>
          <!-- End Item -->
+        
+        <!-- Item -->
+         <div class="cbp-item rmt">
+           <a class="cbp-caption" href="profiles/jihye_lily_goo">
+             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/jihye_lily_goo.jpg" data-srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/jihye_lily_goo.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/jihye_lily_goo.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/jihye_lily_goo.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Jihye (Lily) Goo - Registered Massage Therapist">
+           </a>
+             <div class="py-3 blurb">
+               <a href="profiles/jihye_lily_goo">
+                 <h4 class="h6 text-dark mb-0">Jihye (Lily) Goo</h4>
+               </a>
+               <p class="small mb-0">
+                 Registered Massage Therapist<br><br>
+               </p>
+             </div>
+         </div>
+         <!-- End Item -->
           
         <!-- Item
           <div class="cbp-item">
