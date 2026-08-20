@@ -712,7 +712,19 @@
               </p>
             </div>
           </div>
-          <!-- End Item -->  
+          <!-- End Item --> 
+           
+          <!-- Item -->
+          <div class="cbp-item rmt chiro acupuncture physio osteopath">
+            <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/derya_kollu.jpg" data-srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/derya_kollu.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/derya_kollu.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/derya_kollu.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px"  alt="Derya Kollu - Nexus Massage and Rehab - Toronto">
+            <div class="py-3 blurb">
+              <h4 class="h6 text-dark mb-0">Derya Kollu</h4>
+              <p class="small mb-0">
+                Clinic Administrator<br><br>
+              </p>
+            </div>
+          </div>
+          <!-- End Item --> 
 
         </div>
         <!-- End Content -->
