@@ -1,0 +1,28 @@
+{
+  "first_name": "Jihye (Lily)",
+  "last_name": "Goo",
+  "display_name": "Jihye (Lily) Goo",
+  "credential": "RMT",
+  "title": "Registered Massage Therapist",
+  "email": "lily@nexushealthclinic.com",
+  "image_key": "jihye_lily_goo",
+  "s3_base_url": "https://nexusclinicassets.s3.ca-central-1.amazonaws.com",
+  "services": ["massage"],
+  "hours": [
+    { "day": "Tue", "time": "2pm - 9pm" },
+    { "day": "Thu", "time": "2pm - 9pm" },
+    { "day": "Sun", "time": "2pm - 7pm" }
+  ],
+  "bio": {
+    "about":           "I became a Registered Massage Therapist because I genuinely love helping people feel better in their bodies and their day-to-day lives. I bring a calm and attentive approach to every session, and I believe that truly listening to my clients is just as important as the treatment itself.",
+    "cases":           "I have a particular passion for working with clients experiencing lower back pain, general muscle tension, and stress. Having lived with lower back pain myself for many years, I know firsthand how much it can affect the things you love to do. That personal experience shapes how I work — I approach each person's discomfort with real empathy and a focus on making meaningful, lasting progress.",
+    "specializations": "My practice centres on therapeutic massage, relaxation massage, and stress relief massage. Whether you are coming in with a specific complaint or simply need to decompress, I tailor each session to what you need that day.",
+    "proud_of":        "I am most proud of my ability to make clients feel heard and cared for. I am also committed to continuing to grow as a therapist — always learning and refining my skills so I can offer you the best possible care every time you come in.",
+    "why_choose":      "I take the time at the start of each session to understand what you need, then adapt my pressure and techniques throughout so the treatment always feels right for you. My goal is to create a comfortable, welcoming environment where you can fully relax and trust that you are in good hands."
+  },
+  "seo": {
+    "title":       "Jihye (Lily) Goo | Registered Massage Therapist | Nexus Massage & Rehab",
+    "description": "Jihye (Lily) Goo, registered massage therapist at Nexus Massage & Rehab, Yonge & Eglinton Toronto. Specializing in back pain & stress relief. Book today.",
+    "keywords":    "Jihye Goo, Lily Goo, Registered Massage Therapist, RMT, massage therapy, therapeutic massage, relaxation massage, stress relief massage, lower back pain, back pain relief, muscle tension, muscle tightness, stress relief, client-centered care, personalized treatment, attentive therapist, Toronto, Yonge and Eglinton, midtown Toronto, Nexus Massage & Rehab"
+  }
+}
