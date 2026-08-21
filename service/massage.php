@@ -1275,21 +1275,6 @@
 
           <!-- Item -->
           <div class="cbp-item rmt">
-            <a class="cbp-caption" href="../profiles/ivan_gadzic">
-              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/ivan_gadzic.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/ivan_gadzic.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/ivan_gadzic.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/lrg/ivan_gadzic.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Ivan Gadzic - Registered Massage Therapy">
-            </a>
-              <div class="py-3 blurb">
-                <a href="../profiles/ivan_gadzic">
-                  <h4 class="h6 text-dark mb-0">Ivan Gadzic</h4>
-                </a>
-                <p class="small mb-0">
-                   I will tailor the treatment to your goals and to what you wish to get out of your massage. With my extensive history of establishing strong therapeutic relationships and helping clients recover, you can count on me doing the same for you. <br><br><br><br><br>
-                </p>
-              </div>
-          </div>
-          
-          <!-- Item -->
-          <div class="cbp-item rmt">
            <a class="cbp-caption" href="../profiles/yujeong_park">
              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/yujeong_park.jpg" srcset="https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/yujeong_park.jpg 500w, https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/med/yujeong_park.jpg 1000w, https://s3.ca-central-1.amazonaws.com/nexusclinicassets/images/profile/lrg/yujeong_park.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Yujeong Park - Registered Massage Therapy">
            </a>
