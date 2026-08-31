@@ -1,0 +1,8 @@
+{
+  "name": "Orthotics",
+  "heading_text": "ORTHOTICS",
+  "files": ["pricing.php", "service/orthotics.php"],
+  "prices": [
+    {"label": "Custom Orthotics", "price": "$500"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hot Stone Massage",
+  "heading_text": "HOT STONE MASSAGE",
+  "files": ["pricing.php", "service/massage.php"],
+  "prices": [
+    {"label": "30 Min Session", "price": "$110 + HST"},
+    {"label": "45 Min Session", "price": "$125 + HST"},
+    {"label": "60 Min Session", "price": "$150 + HST"},
+    {"label": "75 Min Session", "price": "$185 + HST"},
+    {"label": "90 Min Session", "price": "$210 + HST"},
+    {"label": "120 Min Session", "price": "$280 + HST"}
+  ]
+}

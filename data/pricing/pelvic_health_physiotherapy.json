@@ -1,0 +1,12 @@
+{
+  "name": "Pelvic Health Physiotherapy",
+  "heading_text": "PELVIC HEALTH PHYSIOTHERAPY",
+  "files": ["pricing.php", "service/physiotherapy.php"],
+  "_note": "pricing.php includes '60 Min Follow-Up - $190' but service/physiotherapy.php is missing this row. The skill will update rows that exist in each file and skip labels not found.",
+  "prices": [
+    {"label": "15 Min Consultation", "price": "FREE"},
+    {"label": "Initial Assessment", "price": "$170"},
+    {"label": "40 Min Follow-Up", "price": "$140"},
+    {"label": "60 Min Follow-Up", "price": "$190"}
+  ]
+}
