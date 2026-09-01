@@ -317,9 +317,9 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$125</strong></li>
                             <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$85 + HST</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$100 + HST</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$105 + HST</strong></li>
                         </ul>
                       </div>
                       <!-- End Content --> 

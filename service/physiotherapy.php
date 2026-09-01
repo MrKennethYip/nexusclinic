@@ -494,8 +494,8 @@
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>Free</strong></li>
                           <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$135</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">20 Min Follow Up - <strong>$90</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">40 Min Follow Up - <strong>$115</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">20 Min Follow Up - <strong>$95</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">40 Min Follow Up - <strong>$120</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
@@ -527,9 +527,9 @@
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>Free</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$170</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">40 Min Follow Up - <strong>$140</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$175</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">40 Min Follow Up - <strong>$150</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Follow Up - <strong>$195</strong></li>
                           <span class="u-divider u-divider--xs u-divider--text text-white"><em>**Service offered on MONDAYS ONLY**</em></span>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>

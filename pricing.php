@@ -51,11 +51,11 @@
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$85 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$100 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$120 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$145 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$170 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$240 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$105 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$125 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$155 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$180 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$250 + HST</strong></li>
                         </ul>
                       </div>
                       <!-- End Content --> 
@@ -197,8 +197,8 @@
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$85 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$100 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$120 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$105 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$125 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
@@ -233,11 +233,11 @@
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$85 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$100 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$120 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$145 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$170 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$240 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$105 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Session - <strong>$125 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">75 Min Session - <strong>$155 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">90 Min Session - <strong>$180 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">120 Min Session - <strong>$250 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                         </ul>
@@ -277,9 +277,9 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$120 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$125 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">30 Min Session - <strong>$85 + HST</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$100 + HST</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Session - <strong>$105 + HST</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
@@ -315,8 +315,8 @@
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
                           <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$135</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">20 Min Follow-Up - <strong>$90</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$115</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">20 Min Follow-Up - <strong>$95</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$120</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
@@ -351,8 +351,8 @@
                           <ul class="list-unstyled">
                             <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
                             <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$135</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">20 Min Follow-Up - <strong>$90</strong></li>
-                            <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$115</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">20 Min Follow-Up - <strong>$95</strong></li>
+                            <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$120</strong></li>
                             <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                             <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                             <li class="u-pricing-v2__list-item py-1">&nbsp</li>
@@ -395,9 +395,9 @@
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
                           <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$170</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$140</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$190</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$175</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">40 Min Follow-Up - <strong>$150</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$195</strong></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="small text-muted py-1"><em>**Service offered on MON & THURS ONLY**</em></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
@@ -432,8 +432,8 @@
                        <ul class="list-unstyled">
                          <li class="u-pricing-v2__list-item py-1">15 Min Consultation - <strong>FREE</strong></li>
                          <li class="u-pricing-v2__list-item py-1">Initial Assessment - <strong>$140</strong></li>
-                         <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$115</strong></li>
-                         <li class="u-pricing-v2__list-item py-1">75 Min Follow-Up - <strong>$130</strong></li>
+                         <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$125</strong></li>
+                         <li class="u-pricing-v2__list-item py-1">75 Min Follow-Up - <strong>$140</strong></li>
                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
@@ -546,9 +546,9 @@
                       <!-- Content -->
                       <div class="u-space-1-top">
                         <ul class="list-unstyled">
-                          <li class="u-pricing-v2__list-item py-1">30 Min Follow-Up - <strong>$85</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$100</strong></li>
-                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$120</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">45 Min Follow-Up - <strong>$105</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">60 Min Follow-Up - <strong>$125</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
                           <li class="small text-muted py-1"><em>**This service is billed under Acupuncture Only**</em></li>
                           <li class="u-pricing-v2__list-item py-1">&nbsp</li>
