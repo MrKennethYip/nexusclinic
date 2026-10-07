@@ -1,0 +1,548 @@
+{
+  "_comment": "Canonical business record. Source of truth for the JSON-LD rendered by includes/schema.php and for the Google Business Profile checklist produced by the clinic-sync skill. Edit this file, not the schema.",
+  "business": {
+    "name": "Nexus Massage & Rehab",
+    "url": "https://nexushealthclinic.com/",
+    "id": "https://nexushealthclinic.com/",
+    "telephone": "+1-647-557-6267",
+    "telephoneDisplay": "(647) 557-6267",
+    "email": "contact@nexushealthclinic.com",
+    "priceRange": "$85 - $500",
+    "bookingUrl": "https://nexusclinic.clinicsense.com/book"
+  },
+  "address": {
+    "street": "40 Eglinton Ave E, Suite 603",
+    "locality": "Toronto",
+    "region": "ON",
+    "postalCode": "M4P 3A2",
+    "country": "CA"
+  },
+  "geo": {
+    "latitude": 43.707311,
+    "longitude": -79.397152
+  },
+  "hours": {
+    "weekday": {
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "08:00",
+      "closes": "21:00"
+    },
+    "weekend": {
+      "days": [
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "19:00"
+    },
+    "notes": [
+      "By appointment only - 6am to 8am.",
+      "Hours may vary by individual practitioner."
+    ]
+  },
+  "logo": "https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/logo.png",
+  "images": [
+    "https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Nexus-Square.jpg",
+    "https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Karen-Chiro-Square.jpg",
+    "https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Acupuncture-Square.jpg",
+    "https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Massage-Square.jpg",
+    "https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/unique-feature/med/Foot_Massage-Square.jpg"
+  ],
+  "sameAs": [
+    "https://maps.google.com/?cid=18317991477268843760",
+    "https://www.facebook.com/nexushealthclinic",
+    "https://www.instagram.com/nexus.clinic",
+    "https://twitter.com/Nexus_MnR",
+    "https://www.yelp.ca/biz/nexus-massage-and-rehab-toronto"
+  ],
+  "rating": {
+    "ratingValue": "4.9",
+    "reviewCount": "1460",
+    "bestRating": "5",
+    "syncedAt": "2026-09-25",
+    "_comment": "Refreshed by the clinic-sync skill from the Google Business Profile. The pre-commit hook warns when syncedAt is over 90 days old."
+  },
+  "services": [
+    {
+      "category": "RMT MASSAGE",
+      "gbpCategory": "Massage therapist",
+      "url": "/service/massage",
+      "items": [
+        {
+          "name": "30 Min Session",
+          "price": "85",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "45 Min Session",
+          "price": "105",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "60 Min Session",
+          "price": "125",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "75 Min Session",
+          "price": "155",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "90 Min Session",
+          "price": "180",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "120 Min Session",
+          "price": "250",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        }
+      ]
+    },
+    {
+      "category": "HOT STONE MASSAGE",
+      "gbpCategory": "Massage therapist",
+      "url": "/service/massage",
+      "items": [
+        {
+          "name": "30 Min Session",
+          "price": "110",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "45 Min Session",
+          "price": "125",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "60 Min Session",
+          "price": "150",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "75 Min Session",
+          "price": "185",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "90 Min Session",
+          "price": "210",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "120 Min Session",
+          "price": "280",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        }
+      ]
+    },
+    {
+      "category": "AROMATHERAPY MASSAGE",
+      "gbpCategory": "Massage therapist",
+      "url": "/service/massage",
+      "items": [
+        {
+          "name": "30 Min Session",
+          "price": "100",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "45 Min Session",
+          "price": "115",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "60 Min Session",
+          "price": "135",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "75 Min Session",
+          "price": "165",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "90 Min Session",
+          "price": "190",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "120 Min Session",
+          "price": "260",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        }
+      ]
+    },
+    {
+      "category": "MANUAL LYMPHATIC DRAINAGE MASSAGE",
+      "gbpCategory": "Massage therapist",
+      "url": "/service/massage",
+      "items": [
+        {
+          "name": "30 Min Session",
+          "price": "100",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "45 Min Session",
+          "price": "115",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "60 Min Session",
+          "price": "135",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "75 Min Session",
+          "price": "165",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "90 Min Session",
+          "price": "185",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "120 Min Session",
+          "price": "260",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        }
+      ]
+    },
+    {
+      "category": "INDIAN HEAD MASSAGE",
+      "gbpCategory": "Massage therapist",
+      "url": "/service/massage",
+      "items": [
+        {
+          "name": "30 Min Session",
+          "price": "85",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "45 Min Session",
+          "price": "105",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "60 Min Session",
+          "price": "125",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        }
+      ]
+    },
+    {
+      "category": "PRENATAL MASSAGE",
+      "gbpCategory": "Massage therapist",
+      "url": "/service/massage",
+      "items": [
+        {
+          "name": "30 Min Session",
+          "price": "85",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "45 Min Session",
+          "price": "105",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "60 Min Session",
+          "price": "125",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "75 Min Session",
+          "price": "155",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "90 Min Session",
+          "price": "180",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "120 Min Session",
+          "price": "250",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        }
+      ]
+    },
+    {
+      "category": "SPORTS MASSAGE THERAPY",
+      "gbpCategory": "Sports massage therapist",
+      "url": "/service/sports-massage",
+      "items": [
+        {
+          "name": "Initial Assessment",
+          "price": "125",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "30 Min Session",
+          "price": "85",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        },
+        {
+          "name": "45 Min Session",
+          "price": "105",
+          "priceCurrency": "CAD",
+          "taxNote": "+ HST"
+        }
+      ]
+    },
+    {
+      "category": "CHIROPRACTIC",
+      "gbpCategory": "Chiropractor",
+      "url": "/service/chiropractic",
+      "items": [
+        {
+          "name": "15 Min Consultation",
+          "price": "0",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "Initial Assessment",
+          "price": "135",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "20 Min Follow-Up",
+          "price": "95",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "40 Min Follow-Up",
+          "price": "120",
+          "priceCurrency": "CAD"
+        }
+      ]
+    },
+    {
+      "category": "PHYSIOTHERAPY",
+      "gbpCategory": "Physiotherapist",
+      "url": "/service/physiotherapy",
+      "items": [
+        {
+          "name": "15 Min Consultation",
+          "price": "0",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "Initial Assessment",
+          "price": "135",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "20 Min Follow-Up",
+          "price": "95",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "40 Min Follow-Up",
+          "price": "120",
+          "priceCurrency": "CAD"
+        }
+      ]
+    },
+    {
+      "category": "PELVIC HEALTH PHYSIOTHERAPY",
+      "gbpCategory": "Physiotherapist",
+      "url": "/service/physiotherapy",
+      "items": [
+        {
+          "name": "15 Min Consultation",
+          "price": "0",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "Initial Assessment",
+          "price": "175",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "40 Min Follow-Up",
+          "price": "150",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "60 Min Follow-Up",
+          "price": "195",
+          "priceCurrency": "CAD"
+        }
+      ],
+      "notes": [
+        "Service offered on MON & THURS ONLY"
+      ]
+    },
+    {
+      "category": "ACUPUNCTURE",
+      "gbpCategory": "Acupuncturist",
+      "url": "/service/acupuncture",
+      "items": [
+        {
+          "name": "15 Min Consultation",
+          "price": "0",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "Initial Assessment",
+          "price": "140",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "60 Min Follow-Up",
+          "price": "125",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "75 Min Follow-Up",
+          "price": "140",
+          "priceCurrency": "CAD"
+        }
+      ]
+    },
+    {
+      "category": "COSMETIC ACUPUNCTURE",
+      "gbpCategory": "Acupuncturist",
+      "url": "/service/acupuncture",
+      "items": [
+        {
+          "name": "15 Min Consultation",
+          "price": "0",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "Initial Assessment",
+          "price": "170",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "60 Min Follow-Up",
+          "price": "150",
+          "priceCurrency": "CAD"
+        }
+      ]
+    },
+    {
+      "category": "WEIGHT LOSS & BODY SCULPTING ACUPUNCTURE",
+      "gbpCategory": "Acupuncturist",
+      "url": "/service/acupuncture",
+      "items": [
+        {
+          "name": "15 Min Consultation",
+          "price": "0",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "Initial Assessment",
+          "price": "180",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "60 Min Follow-Up",
+          "price": "160",
+          "priceCurrency": "CAD"
+        }
+      ]
+    },
+    {
+      "category": "SHIATSU / TUINA MASSAGE",
+      "gbpCategory": "Acupuncturist",
+      "url": "/service/acupuncture",
+      "items": [
+        {
+          "name": "45 Min Follow-Up",
+          "price": "105",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "60 Min Follow-Up",
+          "price": "125",
+          "priceCurrency": "CAD"
+        }
+      ],
+      "notes": [
+        "This service is billed under Acupuncture Only"
+      ]
+    },
+    {
+      "category": "HERBS & NUTRITION",
+      "gbpCategory": "Acupuncturist",
+      "url": "/service/acupuncture",
+      "items": [
+        {
+          "name": "Initial Assessment",
+          "price": "110",
+          "priceCurrency": "CAD"
+        },
+        {
+          "name": "30 Min Follow-Up",
+          "price": "95",
+          "priceCurrency": "CAD"
+        }
+      ],
+      "notes": [
+        "Cannot be claimed under Acupuncture Insurance"
+      ]
+    },
+    {
+      "category": "ORTHOTICS",
+      "gbpCategory": "Medical clinic",
+      "url": "/service/orthotics",
+      "items": [
+        {
+          "name": "Custom Orthotics",
+          "price": "500",
+          "priceCurrency": "CAD"
+        }
+      ],
+      "notes": [
+        "Orthotics do not qualify for direct billing"
+      ]
+    }
+  ]
+}

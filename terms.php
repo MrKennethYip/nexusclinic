@@ -141,7 +141,7 @@
 	            <!-- End Title -->
 
 	            <!-- Text -->
-	            <p>Nexus Massage & Rehab is located at 40 Eglinton Ave East, Suite 603, Toronto, ON M4P 3A2. Additional parking details can be found on our <a href="file:///Users/freelansir/Dropbox/APPS/GitHub/nexusclinic/parking">Public Parking Guide</a>. Nexus Massage & Rehab is not responsible for any parking tickets that may be incurred.</p>
+	            <p>Nexus Massage & Rehab is located at 40 Eglinton Ave East, Suite 603, Toronto, ON M4P 3A2. Additional parking details can be found on our <a href="/parking">Public Parking Guide</a>. Nexus Massage & Rehab is not responsible for any parking tickets that may be incurred.</p>
 	            <!-- End Text -->
 	          </div>
 
