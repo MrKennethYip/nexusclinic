@@ -46,7 +46,9 @@ Derive these additional values:
 - `profile_url_from_root` = `profiles/{slug}`
 - `profile_url_from_service` = `../profiles/{slug}`
 
-**Service → CSS class + service page + icon + label mapping:**
+Every `services` value must appear in one of the two tables below. If a value matches neither, stop and ask the user how to handle it.
+
+**Primary services** — each gets a sidebar entry, a CSS class, and a card on its service page (Step 4):
 
 | `services` value | CSS class    | Service page                  | Icon filename              | Sidebar label                    |
 |------------------|--------------|-------------------------------|----------------------------|----------------------------------|
@@ -56,10 +58,27 @@ Derive these additional values:
 | `acupuncture`    | `acupuncture`| `service/acupuncture.php`     | `acupuncture-icon.jpg`     | `Acupuncture`                    |
 | `sports-massage` | `rmt`        | `service/sports-massage.php`  | `massage-icon.jpg`         | `Sports Massage Therapy`         |
 | `telehealth`     | `telehealth` | `service/telehealth.php`      | `telehealth-icon.jpg`      | `Virtual Telehealth`             |
+| `osteopathy`     | `osteopath`  | `service/osteopathy.php`      | `osteopath-icon.jpg`       | `Registered Manual Osteopath`    |
+| `orthotics`      | _(none)_     | `service/orthotics.php`       | _(none — no sidebar entry)_| _(none — no sidebar entry)_      |
 
-`css_classes` is all matched CSS classes joined with a space, e.g. `rmt chiro` for `["massage","chiropractic"]`.
+`orthotics` only adds a card to `service/orthotics.php`. It has no icon, so it gets no sidebar entry and contributes no CSS class.
 
-Icons are served from `https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/{icon_filename}`.
+**Sidebar-only sub-services** — each gets a sidebar entry only. They add no CSS class and no service page card. The sidebar entry links to the parent service page:
+
+| `services` value          | Links to                     | Icon filename                     | Sidebar label                               |
+|---------------------------|------------------------------|-----------------------------------|---------------------------------------------|
+| `cosmetic-acupuncture`    | `acupuncture`                | `cosmetic_acupuncture.jpg`        | `Cosmetic Acupuncture`                      |
+| `weight-loss-acupuncture` | `acupuncture`                | `weight_loss_body_sculpting.jpg`  | `Weight Loss & Body Sculpting Acupuncture`  |
+| `shiatsu-tuina`           | `acupuncture`                | `shiatsu_tuina_massage.jpg`       | `Shiatsu / Tuina Massage`                   |
+| `lymphatic-drainage`      | `massage`                    | `lymphatic-drainage-ico.png`      | `Manual Lymphatic Drainage Massage`         |
+| `pelvic-health`           | `physiotherapy`              | `pelvic_health-icon.png`          | `Pelvic Health Physiotherapy`               |
+| `nutrition`               | _(no link)_                  | `nutrition-icon.jpg`              | `Certified Nutritional Practitioner`        |
+
+If a sub-service is listed without its parent service (e.g. `pelvic-health` without `physiotherapy`), warn the user. Without the parent, the practitioner won't appear on that service page or under its `team.php` filter.
+
+`css_classes` is the CSS classes of the primary services, de-duplicated and joined with a space, in the order the services appear, e.g. `rmt chiro` for `["massage","sports-massage","chiropractic"]`.
+
+Icons are served from `https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/{icon_filename}`.
 
 ---
 
@@ -307,11 +326,11 @@ Create the file using this exact template, substituting all `{{ }}` placeholders
               <p>Second paragraph text.</p>
 ```
 
-**`{{ SERVICES_SIDEBAR }}`** — one block per service, in the order listed in `services`:
+**`{{ SERVICES_SIDEBAR }}`** — one block per service that has a sidebar entry (every service except `orthotics`), in the order listed in `services`:
 ```html
                 <!-- User -->
                 <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://s3.ca-central-1.amazonaws.com/nexusmassageclinic/icons/{icon_filename}" class="rounded-circle u-avatar align-self-start mr-3">
+                  <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/{icon_filename}" class="rounded-circle u-avatar align-self-start mr-3">
                   <div>
                     <a href="../service/{service_slug}">
                       <span class="d-block text-dark small font-weight-bold">{sidebar_label}</span>
@@ -320,7 +339,9 @@ Create the file using this exact template, substituting all `{{ }}` placeholders
                 </div>
                 <!-- End User -->
 ```
-where `{service_slug}` is the value from the `services` array (e.g. `massage`, `chiropractic`).
+where `{service_slug}` is the value from the `services` array (e.g. `massage`, `chiropractic`) for a primary service, or the "Links to" value for a sub-service (e.g. `cosmetic-acupuncture` → `acupuncture`).
+
+For a sub-service with no link (`nutrition`), drop the `<a>` wrapper and keep only the `<span>`.
 
 **`{{ HOURS_ROWS }}`** — one `<p>` per entry in `hours`:
 ```html
@@ -363,7 +384,7 @@ Block to insert (note: team.php uses `data-srcset` and `responsively-lazy`, unli
 
 ## Step 4 — Update each service page
 
-For each service in the `services` array, insert into the corresponding service page (e.g. `service/massage.php`).
+For each **primary** service in the `services` array, insert into the corresponding service page (e.g. `service/massage.php`). Skip sidebar-only sub-services — they have no service page of their own.
 
 Use the insertion anchor based on the service type:
 
@@ -381,7 +402,7 @@ Use the insertion anchor based on the service type:
             <a class="cbp-caption" href="../profiles/karen_ngo">
 ```
 
-- **All other services** — insert immediately **before** this closing anchor (which ends the practitioner grid):
+- **All other services** (`physiotherapy`, `acupuncture`, `telehealth`, `osteopathy`, `orthotics`) — insert immediately **before** this closing anchor (which ends the practitioner grid):
 ```
         </div>
         <!-- End Content -->
