@@ -1,0 +1,31 @@
+{
+  "first_name": "Thirunavukkarasu",
+  "last_name": "Chellappan",
+  "display_name": "Thirunavukkarasu Chellappan",
+  "credential": "RMT",
+  "title": "Registered Massage Therapist",
+  "email": "contact@nexushealthclinic.com",
+  "image_key": "thirunavukkarasu_chellappan",
+  "s3_base_url": "https://nexusclinicassets.s3.ca-central-1.amazonaws.com",
+  "embedsocial_id": "9c51696d1349e757564c35b9ee57f580e4b1e8a5",
+  "services": ["massage", "lymphatic-drainage", "prenatal-massage", "aromatherapy-massage"],
+  "hours": [
+    { "day": "Mon", "time": "8am - 2pm" },
+    { "day": "Tue", "time": "8am - 2pm" },
+    { "day": "Thu", "time": "8am - 2pm" },
+    { "day": "Sat", "time": "8am - 7pm" },
+    { "day": "Sun", "time": "8am - 12pm" }
+  ],
+  "bio": {
+    "about":           "I’m a Registered Massage Therapist (RMT) with more than five years of experience in Canada. My path into massage therapy started in physiotherapy, where I began my career in 1997 in India. That background gave me a strong foundation in anatomy, assessment and rehabilitation, and it still shapes every treatment I provide. Today I combine that clinical knowledge with hands-on massage therapy to help people ease pain, move more freely and get back to the activities that matter to them, whether that’s work, sport or everyday life.",
+    "cases":           "I especially enjoy working with clients who have chronic muscle tension and tightness, people who are active and want to recover well and stay injury free, and clients dealing with swelling during recovery. These cases rarely have a single cause. I enjoy taking the time to understand how each person moves, where their discomfort began and what may be keeping it going. Watching a client gradually feel more comfortable and confident in their body is the most rewarding part of my work.",
+    "specializations": "Deep tissue massage. For chronic tension, tightness and musculoskeletal discomfort, I use focused techniques that reach deeper layers of muscle, always adjusted to your comfort. Sports massage. Whether you’re training, competing or simply staying active, sports massage supports muscle recovery and mobility, and can be part of an injury prevention routine. Lymphatic drainage massage. Gentle, rhythmic techniques that support fluid movement and can help with swelling and recovery. My physiotherapy background means every session starts with understanding your condition. I assess how you move and what you’re experiencing, then choose the techniques that best fit your needs and goals.",
+    "proud_of":        "I’m proud of the progress my clients make, whether that means less pain, easier movement or returning to an activity they had to set aside. I’m just as proud of the trust I build along the way. Every client should feel comfortable, listened to and involved in their care from the first visit onward.",
+    "why_choose":      "My approach brings together years of rehabilitation knowledge and hands-on massage therapy. I take the time to listen and explain what I’m finding, so you leave understanding your body better and knowing what you can do between visits. My goal is more than a good treatment. I want to help you make steady progress toward better mobility and overall function, in a space where you feel comfortable, heard and respected."
+  },
+  "seo": {
+    "title":       "Thirunavukkarasu Chellappan (RMT) | Nexus Massage & Rehab | (647) 557-6267",
+    "description": "Thirunavukkarasu Chellappan, RMT at Nexus Massage & Rehab, Yonge & Eglinton Toronto. Specializing in lymphatic drainage & sports recovery. Book today.",
+    "keywords":    "Thirunavukkarasu Chellappan, Registered Massage Therapist, RMT, massage therapy, deep tissue massage, sports massage, manual lymphatic drainage, lymphatic drainage massage, prenatal massage, aromatherapy massage, swelling, injury recovery, chronic muscle tension, physiotherapy background, rehabilitation, mobility, massage at yonge and eglinton, Toronto, Nexus Massage & Rehab"
+  }
+}
