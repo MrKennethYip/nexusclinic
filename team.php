@@ -613,6 +613,53 @@
         </div>
         End Item -->
 
+        <!-- Item -->
+         <div class="cbp-item rmt">
+           <a class="cbp-caption" href="profiles/thirunavukkarasu_chellappan">
+             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/thirunavukkarasu_chellappan.jpg" data-srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/thirunavukkarasu_chellappan.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/thirunavukkarasu_chellappan.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/thirunavukkarasu_chellappan.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Thirunavukkarasu Chellappan - Registered Massage Therapist">
+           </a>
+             <div class="py-3 blurb">
+               <a href="profiles/thirunavukkarasu_chellappan">
+                 <h4 class="h6 text-dark mb-0">Thirunavukkarasu Chellappan</h4>
+               </a>
+               <p class="small mb-0">
+                 Registered Massage Therapist<br><br>
+               </p>
+             </div>
+         </div>
+         <!-- End Item -->
+
+        <!-- Item -->
+         <div class="cbp-item rmt">
+           <a class="cbp-caption" href="profiles/minhyoung_kim">
+             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/minhyoung_kim.jpg" data-srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/minhyoung_kim.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/minhyoung_kim.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/minhyoung_kim.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Minhyoung Kim - Registered Massage Therapist">
+           </a>
+             <div class="py-3 blurb">
+               <a href="profiles/minhyoung_kim">
+                 <h4 class="h6 text-dark mb-0">Minhyoung Kim</h4>
+               </a>
+               <p class="small mb-0">
+                 Registered Massage Therapist<br><br>
+               </p>
+             </div>
+         </div>
+        <!-- End Item -->
+
+        <!-- Item -->
+         <div class="cbp-item physio">
+           <a class="cbp-caption" href="profiles/deepti_verma">
+             <img class="rounded p-2 responsively-lazy" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/deepti_verma.jpg" data-srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/deepti_verma.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/deepti_verma.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/deepti_verma.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Deepti Verma - Physiotherapist">
+           </a>
+             <div class="py-3 blurb">
+               <a href="profiles/deepti_verma">
+                 <h4 class="h6 text-dark mb-0">Deepti Verma</h4>
+               </a>
+               <p class="small mb-0">
+                 Physiotherapist<br><br>
+               </p>
+             </div>
+         </div>
+         <!-- End Item -->
         </div>
         <!-- End Content -->
       </div>       

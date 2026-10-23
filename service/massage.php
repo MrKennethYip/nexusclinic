@@ -1355,6 +1355,38 @@
 
           <!-- Item -->
           <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/thirunavukkarasu_chellappan">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/thirunavukkarasu_chellappan.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/thirunavukkarasu_chellappan.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/thirunavukkarasu_chellappan.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/thirunavukkarasu_chellappan.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Thirunavukkarasu Chellappan - Registered Massage Therapist">
+            </a>
+              <div class="py-3 blurb">
+                <a href="../profiles/thirunavukkarasu_chellappan">
+                  <h4 class="h6 text-dark mb-0">Thirunavukkarasu Chellappan</h4>
+                </a>
+                <p class="small mb-0">
+                   My approach brings together years of rehabilitation knowledge and hands-on massage therapy. I take the time to listen and explain what I’m finding, so you leave understanding your body better and knowing what you can do between visits. My goal is more than a good treatment. I want to help you make steady progress toward better mobility and overall function, in a space where you feel comfortable, heard and respected. <br><br><br><br><br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt">
+            <a class="cbp-caption" href="../profiles/minhyoung_kim">
+              <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/minhyoung_kim.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/minhyoung_kim.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/minhyoung_kim.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/minhyoung_kim.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Minhyoung Kim - Registered Massage Therapist">
+            </a>
+              <div class="py-3 blurb">
+                <a href="../profiles/minhyoung_kim">
+                  <h4 class="h6 text-dark mb-0">Minhyoung Kim</h4>
+                </a>
+                <p class="small mb-0">
+                   I take an evidence-based approach that looks beyond the site of pain to identify the root cause through posture and movement analysis. Combined with targeted home-care exercises, my goal is to deliver lasting results, not just temporary relief. <br><br><br><br><br><br>
+                </p>
+              </div>
+          </div>
+          <!-- End Item -->
+
+          <!-- Item -->
+          <div class="cbp-item rmt">
             <a class="cbp-caption" href="../profiles/cassandra_kong">
               <img class="rounded p-2" style="border: #898A8D 2px solid;" src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/cassandra_kong.jpg" srcset="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/cassandra_kong.jpg 500w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/med/cassandra_kong.jpg 1000w, https://nexusclinicassets.s3.ca-central-1.amazonaws.com/images/profile/lrg/cassandra_kong.jpg 1500w" sizes="(min-width: 993px) 1500px,(min-width: 768px) and (max-width: 992px) 1000px, (max-width: 767px) 500px" alt="Cassandra Kong - Registered Massage Therapy">
             </a>

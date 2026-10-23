@@ -1,0 +1,29 @@
+{
+  "first_name": "Deepti",
+  "last_name": "Verma",
+  "display_name": "Deepti Verma",
+  "credential": "",
+  "title": "Physiotherapist",
+  "email": "contact@nexushealthclinic.com",
+  "image_key": "deepti_verma",
+  "s3_base_url": "https://nexusclinicassets.s3.ca-central-1.amazonaws.com",
+  "embedsocial_id": "ff6ed5f6bb588f29fc7c9a21faacd027bea348db",
+  "services": ["physiotherapy"],
+  "hours": [
+    { "day": "Mon", "time": "10am - 9pm" },
+    { "day": "Fri", "time": "10am - 9pm" },
+    { "day": "Sun", "time": "8am - 7pm" }
+  ],
+  "bio": {
+    "about":           "I am a passionate and dedicated Registered Physiotherapist in Canada, having successfully passed the Canadian Physiotherapy Competency Examination. I also hold a postgraduate diploma in Healthcare Leadership from Canada and a Bachelor’s degree in Physiotherapy from India. With a strong interest in musculoskeletal rehabilitation, pain management, and pelvic health, I am committed to providing personalized, evidence-based care that helps patients regain mobility, restore confidence, and improve their overall quality of life.",
+    "cases":           "I particularly enjoy treating musculoskeletal conditions, including neck and back pain, sports injuries, and shoulder and knee problems. I love helping patients overcome pain, restore movement, and return to their daily activities. Seeing my patients regain their strength, confidence, and independence is what makes my work truly rewarding.",
+    "specializations": "1. Sports Injury Rehabilitation - Helping patients recover from sports-related injuries, regain strength, and safely return to their activities. 2. Musculoskeletal Pain Management - Treating neck, back, and joint-related conditions through personalized approaches to reduce pain and restore mobility. 3. Neurological Rehabilitation - Helping patients improve balance, coordination, mobility, and functional independence through individualized rehabilitation programs.",
+    "proud_of":        "I take pride in building genuine connections with my patients and creating an environment where they feel heard, supported, and motivated. What I find most fulfilling is seeing patients progress from struggling with everyday movements to feeling stronger, more independent, and confident in their abilities.",
+    "why_choose":      "I bring a combination of clinical knowledge, a compassionate approach, and a genuine commitment to each patient’s recovery. I focus on understanding the person behind the pain, not just treating their symptoms. My goal is to make every patient feel comfortable, involved, and confident throughout their rehabilitation journey while working toward meaningful, lasting results."
+  },
+  "seo": {
+    "title":       "Deepti Verma (Physio) | Physiotherapist | Nexus Massage & Rehab at Yonge & Eglinton | (647) 557-6267",
+    "description": "Deepti Verma, physiotherapist at Nexus Massage & Rehab, Yonge & Eglinton Toronto. Specializing in sports injury rehab & neurological rehab. Book today.",
+    "keywords":    "Deepti Verma, Physiotherapist, Registered Physiotherapist, physio, physiotherapy, sports injury rehabilitation, musculoskeletal pain, neck pain, back pain, shoulder pain, knee pain, joint pain, neurological rehabilitation, balance, mobility, pain management, evidence-based care, physiotherapy at yonge and eglinton, Toronto, Nexus Massage & Rehab"
+  }
+}
