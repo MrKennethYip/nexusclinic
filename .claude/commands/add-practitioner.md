@@ -71,6 +71,8 @@ Every `services` value must appear in one of the two tables below. If a value ma
 | `weight-loss-acupuncture` | `acupuncture`                | `weight_loss_body_sculpting.jpg`  | `Weight Loss & Body Sculpting Acupuncture`  |
 | `shiatsu-tuina`           | `acupuncture`                | `shiatsu_tuina_massage.jpg`       | `Shiatsu / Tuina Massage`                   |
 | `lymphatic-drainage`      | `massage`                    | `lymphatic-drainage-ico.png`      | `Manual Lymphatic Drainage Massage`         |
+| `prenatal-massage`        | `massage`                    | `prenatal-massage-icon.jpg`       | `Prenatal Massage`                          |
+| `aromatherapy-massage`    | `massage`                    | `aromatherapy-massage-icon.jpg`   | `Aromatherapy Massage`                      |
 | `pelvic-health`           | `physiotherapy`              | `pelvic_health-icon.png`          | `Pelvic Health Physiotherapy`               |
 | `nutrition`               | _(no link)_                  | `nutrition-icon.jpg`              | `Certified Nutritional Practitioner`        |
 
@@ -329,19 +331,21 @@ Create the file using this exact template, substituting all `{{ }}` placeholders
 **`{{ SERVICES_SIDEBAR }}`** — one block per service that has a sidebar entry (every service except `orthotics`), in the order listed in `services`:
 ```html
                 <!-- User -->
-                <div class="card-header border-0 py-3 d-flex align-items-center">
-                  <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/{icon_filename}" class="rounded-circle u-avatar align-self-start mr-3">
-                  <div>
-                    <a href="../service/{service_slug}">
+                <a href="../service/{service_slug}">
+                  <div class="card-header border-0 py-3 d-flex align-items-center">
+                    <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/{icon_filename}" class="rounded-circle u-avatar align-self-start mr-3">
+                    <div>
                       <span class="d-block text-dark small font-weight-bold">{sidebar_label}</span>
-                    </a>
+                    </div>
                   </div>
-                </div>
+                </a>
                 <!-- End User -->
 ```
-where `{service_slug}` is the value from the `services` array (e.g. `massage`, `chiropractic`) for a primary service, or the "Links to" value for a sub-service (e.g. `cosmetic-acupuncture` → `acupuncture`).
+The `<a>` wraps the whole entry, icon and label together, so both are clickable (matches `profiles/jiyeon_kim.php`). Separate consecutive blocks with one blank line.
 
-For a sub-service with no link (`nutrition`), drop the `<a>` wrapper and keep only the `<span>`.
+`{service_slug}` is the value from the `services` array (e.g. `massage`, `chiropractic`) for a primary service, or the "Links to" value for a sub-service (e.g. `cosmetic-acupuncture` → `acupuncture`).
+
+For a sub-service with no link (`nutrition`), leave out the `<a>` and `</a>` lines and keep the `<div class="card-header …">` block as is.
 
 **`{{ HOURS_ROWS }}`** — one `<p>` per entry in `hours`:
 ```html
