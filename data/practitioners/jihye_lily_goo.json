@@ -7,6 +7,7 @@
   "email": "contact@nexushealthclinic.com",
   "image_key": "jihye_lily_goo",
   "s3_base_url": "https://nexusclinicassets.s3.ca-central-1.amazonaws.com",
+  "embedsocial_id": "ff925d511ece0ef6daa6c9cae84674176a6f6bf4",
   "services": ["massage"],
   "hours": [
     { "day": "Tue", "time": "2pm - 9pm" },

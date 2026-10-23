@@ -36,6 +36,8 @@ Rules:
 - **CTA:** End with `Book today.`
 - **Uniqueness:** The generated description must not duplicate any existing practitioner's meta description. Scan the `profiles/` directory for existing pages and check their `<meta name="Description">` tags before finalising.
 
+**EmbedSocial ID:** `embedsocial_id` is the practitioner's EmbedSocial Google Reviews widget ID (the 40-character hex `data-ref` value from the EmbedSocial embed code). It fills the review widget at the bottom of the profile page. If it is missing or empty, stop and ask the user for it — never reuse another practitioner's ID. Also check that no existing page in `profiles/` already uses the same `data-ref`; if one does, warn the user before continuing.
+
 Derive these additional values:
 - `full_name` = `{first_name} {last_name}`
 - `slug` = `image_key` (used for file paths and URLs, e.g. `ada_chindah`)
@@ -297,7 +299,7 @@ Create the file using this exact template, substituting all `{{ }}` placeholders
       <div class="container">
         <!-- Review Widget -->
         
-        <div class="embedsocial-reviews" data-ref="0c8cb12f4327698a9a08fed0accae436258c57d2"></div> <script> (function(d, s, id){ var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js); }(document, "script", "EmbedSocialReviewsScript")); </script>
+        <div class="embedsocial-reviews" data-ref="{{ embedsocial_id }}"></div> <script> (function(d, s, id){ var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ri.js"; d.getElementsByTagName("head")[0].appendChild(js); }(document, "script", "EmbedSocialReviewsScript")); </script>
 
         <!-- End Review Widget -->
       </div>
@@ -321,6 +323,8 @@ Create the file using this exact template, substituting all `{{ }}` placeholders
 ### Placeholder expansion rules
 
 **`{{ display_name | uppercase }}`** — the display_name value in ALL CAPS.
+
+**`{{ embedsocial_id }}`** — the `embedsocial_id` value, inserted as-is into the review widget's `data-ref` attribute.
 
 **Multi-paragraph bio fields** — any `bio.*` field may contain `\n\n` to delimit paragraphs. When rendering, split the value on `\n\n` and wrap each chunk in its own `<p>` tag instead of a single `<p>`. For example, a field with two paragraphs becomes:
 ```html
@@ -457,6 +461,7 @@ After completing all edits, report:
 - The profile page path created
 - Which service pages were updated
 - Confirmation that `team.php` and `sitemap.xml` were updated
+- The EmbedSocial ID used for the review widget
 - Remind the user to upload the practitioner's photos to S3 at:
   - `{{ img_sml }}`
   - `{{ img_med }}`
