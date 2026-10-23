@@ -1,0 +1,28 @@
+{
+  "first_name": "Minhyoung",
+  "last_name": "Kim",
+  "display_name": "Minhyoung Kim",
+  "credential": "RMT",
+  "title": "Registered Massage Therapist",
+  "email": "contact@nexushealthclinic.com",
+  "image_key": "minhyoung_kim",
+  "s3_base_url": "https://nexusclinicassets.s3.ca-central-1.amazonaws.com",
+  "embedsocial_id": "6346d2883632d2a927fd793e1df898793581f528",
+  "services": ["massage"],
+  "hours": [
+    { "day": "Wed", "time": "2pm - 9pm" },
+    { "day": "Thu", "time": "2pm - 9pm" }
+  ],
+  "bio": {
+    "about":           "I'm a Registered Massage Therapist and former Taekwondo Instructor who has spent most of my life in sports, so I know first-hand how pain and injury can hold you back. I focus on sports injury rehabilitation and postural correction, but every session is built around you, whether you need focused rehab or a deeply relaxing massage.",
+    "cases":           "I enjoy treating musculoskeletal pain and tension from a variety of causes, including sports injuries, postural imbalances, and repetitive strain from work or daily activities. I find it rewarding to identify the underlying cause, whether it's a movement pattern, muscle imbalance, or overuse, and build a treatment plan that restores function and long-term comfort.",
+    "specializations": "1. Sports massage: to support recovery, reduce injury risk, and optimize athletic   performance 2. Deep tissue and trigger point therapy: to address chronic muscle tension, adhesions, and referred pain 3. Remedial exercise and stretching: to improve mobility, correct muscle imbalances, and maintain results between sessions",
+    "proud_of":        "I'm proud of providing truly individualized care. I adapt my techniques to your needs, goals, and comfort level, whether the focus is rehabilitation, injury prevention, or relaxation, so every session feels like it was made just for you.",
+    "why_choose":      "I take an evidence-based approach that looks beyond the site of pain to identify the root cause through posture and movement analysis. Combined with targeted home-care exercises, my goal is to deliver lasting results, not just temporary relief."
+  },
+  "seo": {
+    "title":       "Minhyoung Kim (RMT) | Nexus Massage & Rehab | (647) 557-6267",
+    "description": "Minhyoung Kim, registered massage therapist at Nexus Massage & Rehab, Yonge & Eglinton Toronto. Specializing in sports rehab & posture correction. Book today.",
+    "keywords":    "Minhyoung Kim, Minhyoung, Registered Massage Therapist, RMT, sports massage, sports injury rehabilitation, postural correction, deep tissue, trigger point therapy, remedial exercise, stretching, muscle tension, chronic pain, repetitive strain, back pain, neck pain, injury prevention, relaxation massage, massage at yonge and eglinton, Toronto, Nexus Massage & Rehab"
+  }
+}
