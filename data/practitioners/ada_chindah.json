@@ -1,0 +1,28 @@
+{
+  "first_name": "Ada",
+  "last_name": "Chindah",
+  "display_name": "Ada Chindah",
+  "credential": "RMT",
+  "title": "Registered Massage Therapist",
+  "email": "ada@nexushealthclinic.com",
+  "image_key": "ada_chindah",
+  "s3_base_url": "https://s3.ca-central-1.amazonaws.com/nexusmassageclinic",
+  "services": ["rmt_massage"],
+  "hours": [
+    { "day": "Wed", "time": "2:15pm - 9pm" },
+    { "day": "Fri", "time": "8am - 2pm" },
+    { "day": "Sat", "time": "8am - 7pm" }
+  ],
+  "bio": {
+    "about":           "I'm a dedicated and energetic professional with a BSc in Psychology and over 10 years of experience as a PSW, aesthetician, and RMT. I've worked with diverse populations and developed strong skills in understanding and addressing patients needs. I'm committed to continuous growth and delivering high-quality, patient-centered care while building strong rapport with patients and colleagues.",
+    "cases":           "I enjoy treating clients with muscle tension, chronic pain, stress-related concerns, and pre/postnatal needs. I also work with postural issues and soft tissue restrictions.",
+    "specializations": "The top three treatments I specialize in are techniques like deep tissue, trigger point therapy, and Swedish massage to support recovery and overall wellness. I focus on addressing the root cause of pain and dysfunction, not just symptoms, so clients experience long-lasting results and improved movement.",
+    "proud_of":        "I'm most proud of how I connect with clients and tailor treatments to their needs. I focus on pain relief, education, and long-term improvement, and it's rewarding to see clients regain mobility and confidence. I'm committed to professionalism and continuous growth to provide the best care possible.",
+    "why_choose":      "Patients should choose me because I deliver personalized, results-focused care. I take time to understand each client's needs, improve function, and support lasting progress. I'm attentive, professional, and genuinely committed to helping clients feel and move better."
+  },
+  "seo": {
+    "title":       "Ada Chindah (RMT) | Nexus Massage & Rehab | (647) 557-6267",
+    "description": "Learn about the team at Nexus Massage & Rehab. Ada Chindah specializes in massage therapy & pain relief at our Yonge & Eglinton clinic. Learn more!",
+    "keywords":    "Ada Chindah, Best RMT, deep tissue, back pain, neck pain, massage at yonge and eglinton, best massage therapist, muscle aches, sore muscles, muscle spasm, proper posture, ergonomic assessment, strong massage therapist, deep pressure, professional massage therapist, massage for back pain, massage to decrease neck pain, massage to help back pain, best massage therapist, back problems, back relief, upper back pain, what helps with back pain, sore back, chronic neck pain, back pain relief, lower back pain relief, lumbar spine, back strain, neck problems, sore neck, backache, back strain, neck and shoulder tension"
+  }
+}
