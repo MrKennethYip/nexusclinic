@@ -153,7 +153,7 @@
     <div class="container u-space-1-top u-space-1-bottom">
       <h2 class="text-dark font-weight-normal"><span class="font-weight-bold">Are Compression Stockings covered by Insurance?</span></h2>
 
-      <span class="text-black">Not all insurance providers will cover compression stockings. These following questions will help you determine if Compression Stockings by Nexus Massage & Rehab are right for you.</span><br><br>
+      <span class="text-black">Not all insurance providers will cover compression stockings. These following questions will help you determine if your insurance company will cover Compression Stockings.</span><br><br>
 
       <div class="text-black">
 
