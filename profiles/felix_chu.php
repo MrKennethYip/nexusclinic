@@ -144,6 +144,17 @@
                   </div>
                 </a>
                 <!-- End User -->
+
+                <!-- User -->
+                <a href="../service/compression-stockings">
+                  <div class="card-header border-0 py-3 d-flex align-items-center">
+                    <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/icons/compression-stockings.jpg" class="rounded-circle u-avatar align-self-start mr-3">
+                    <div>
+                      <span class="d-block text-dark small font-weight-bold">Compression Stockings</span>
+                    </div>
+                  </div>
+                </a>
+                <!-- End User -->
               </div>
             </div>
             <!-- End Contacts  -->

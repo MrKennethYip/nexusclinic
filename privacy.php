@@ -28,7 +28,7 @@
 	        <!-- Hero -->
 	        <div class="position-relative u-gradient-half-primary-v1 u-space-2-top u-space-3-bottom rounded-top-pseudo px-7 px-md-9">
 	          <h1 class="text-white font-weight-bold">PRIVACY POLICY</h1>
-	          <p class="u-text-light">Last modified: Dec 1, 2018</p>
+	          <p class="u-text-light">Last modified: Oct 27, 2026</p>
 
 	          <!-- SVG Bottom Shape -->
 	          <figure class="position-absolute-bottom-0">
@@ -72,7 +72,26 @@
 
 	            <!-- Text -->
 	            <p>In order to provide treatment it is mandatory by our regulatory bodies (CMTO, CCO, CPO, CTCMPAO) who deliver our requirements from the government of Ontario to collect specific information to proceed with your session. This information includes but is not limited to your address, contact information and related health history ("Personal Information") to provide a safe and effective treatment. When necessary and with your consent we may use this information to provide progress and discharge reports to your physician or other health care provider.  Your consent can be cancelled at any time, however written notice of your intentions must be provided directly to us at <a href="mailto:contact@nexushealthclinic.com">contact@nexushealthclinic.com</a>.</p>
-              <p>Nexus Massage & Rehab is required by law to keep our patient files for a period of at least 7 years.</p>
+              	<p>Nexus Massage & Rehab is required by law to keep our patient files for a period of at least 7 years.</p>
+	            <!-- End Text -->
+	          </div>
+
+	          <div class="mb-7">
+	            <!-- Title -->
+	            <div class="mb-3">
+	              <h3 class="h5 text-primary font-weight-bold">Text Message Communication</h3>
+	            </div>
+	            <!-- End Title -->
+
+	            <!-- Text -->
+	            <p>If you provide a phone number, Nexus Massage & Rehab may send you text messages about your appointments and care. This includes booking confirmations, reminders, scheduling changes, follow-ups, and replies to messages you send us.</p>
+	            <ul>
+	              <li><p class="mb-1">Message frequency varies based on your appointments and messages.</p></li>
+	              <li><p class="mb-1">Message and data rates may apply.</p></li>
+	              <li><p class="mb-1">Reply STOP at any time to stop receiving texts. Reply HELP for help, or contact us at <a href="tel:+16475576267">(647) 557-6267</a> or <a href="mailto:contact@nexushealthclinic.com">contact@nexushealthclinic.com</a>.</p></li>
+	              <li><p class="mb-1">You do not need to receive texts to receive treatment.</p></li>
+	            </ul>
+	            <p>We do not sell, rent or share your mobile number or text message with third parties or affiliates for marketing or promotional purposes. We share mobile information only with the service providers that deliver our texts, and only so they can deliver them.</p>
 	            <!-- End Text -->
 	          </div>
 

@@ -613,11 +613,11 @@
               
               <!-- Friends List -->
               <div class="card u-info-v2 mb-3" style="background-color:#FFFFFF; max-width:340px; min-width:300px;">
-                <div class="card-body p-3">
+                <div class="card-body p-3 d-flex flex-column">
                   <div class="text-center">
                     <div class="media-body p-1">
                       <h2 class="p-1" style="color:#002A3A;">
-                        <strong class="font-weight-bold">ORTHOTICS</strong>
+                        <strong class="font-weight-bold">ORTHOTICS</strong></br></br>
                       </h2>
                       <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_colour.png" style="width: 200px;">
                       <!-- Content -->
@@ -628,19 +628,50 @@
                           <li class="small text-muted py-1"><strong>Ask your insurance provider the following:</strong></li>
                           <li class="small text-muted py-1">(1) Do I need a medical prescription for reimbursement? (2) Can a chiropractor dispense my orthotics?</li>
                           <li class="small text-muted py-1"><em>**Orthotics do not qualify for direct billing**</em></li>
-                          <li class="u-pricing-v2__list-item py-2">&nbsp</li>
-                          <li class="u-pricing-v2__list-item py-2">&nbsp</li>
-                          <li class="u-pricing-v2__list-item py-2">&nbsp</li>
                         </ul>
                       </div>
                       <!-- End Content -->
                     </div>
                   </div>
 
-                  <HR>
+                  <HR class="mt-auto w-100">
 
-                  <div class="media-body p-3 text-center">
+                  <div class="media-body flex-grow-0 p-3 text-center">
                     <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Orthotics<span class="fa fa-angle-right ml-2"></span></button></a>
+                  </div>
+
+                </div>
+              </div>
+              <!-- End Friends List -->
+
+              <!-- TODO: add to data/clinic.json once pricing is set -->
+              <!-- Friends List -->
+              <div class="card u-info-v2 mb-3" style="background-color:#FFFFFF; max-width:340px; min-width:300px;">
+                <div class="card-body p-3 d-flex flex-column">
+                  <div class="text-center">
+                    <div class="media-body p-1">
+                      <h2 class="p-1" style="color:#002A3A;">
+                        <strong class="font-weight-bold">COMPRESSION STOCKINGS</strong>
+                      </h2>
+                      <img src="https://nexusclinicassets.s3.ca-central-1.amazonaws.com/logos/x_line_colour.png" style="width: 200px;">
+                      <!-- Content -->
+                      <div class="u-space-1-top">
+                        <ul class="list-unstyled">
+                          <li class="u-pricing-v2__list-item py-1">Compression Stockings - <strong>price varies</strong></li>
+                          <li class="u-pricing-v2__list-item py-1">&nbsp</li>
+                          <li class="small text-muted py-1"><strong>Ask your insurance provider the following:</strong></li>
+                          <li class="small text-muted py-1">(1) Do I need a medical prescription for reimbursement? (2) What is my coverage for 20-30 mmHg? (3) How many pairs per year am I covered for?</li>
+                          <li class="small text-muted py-1"><em>**Compression stockings do not qualify for direct billing**</em></li>
+                        </ul>
+                      </div>
+                      <!-- End Content -->
+                    </div>
+                  </div>
+
+                  <HR class="mt-auto w-100">
+
+                  <div class="media-body flex-grow-0 p-3 text-center">
+                    <a href="https://nexusclinic.clinicsense.com/book" target="blank" onclick="handleClick('bookPricingBtn');"><button type="button" class="btn btn-sm btn-block btn-primary u-btn-primary transition-3d-hover">Book Compression<span class="fa fa-angle-right ml-2"></span></button></a>
                   </div>
 
                 </div>

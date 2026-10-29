@@ -253,7 +253,7 @@
     <div class="container u-space-2-top">
       <!-- Title -->
       <h2 class="text-dark font-weight-normal u-space-1-bottom"><span class="font-weight-bold">What to Expect During Your Orthotics Assessment?</span></h2>
-      <p>Learn about the different types of massages offered at Nexus Massage and Rehab to see which one is right for you:</p>
+      <p>Learn about the orthotic service offered at Nexus Massage and Rehab and understand how it can benefit you</p>
       <!-- End Title -->
     </div>
 

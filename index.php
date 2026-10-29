@@ -175,7 +175,18 @@
       </div>
     <!-- End Images Carousel Section -->
 
-    <!-- Red Promo Banner 
+    <!-- Red Promo Banner -->
+    <div class="text-white text-center" style="background-color:#FC4237">
+      <div class="container p-3 post">
+        <span class="h4 d-block font-weight-bold mb-3">
+           Compression Stockings now available!
+        </span>
+        <a class="btn btn-light transition-3d-hover btn-sml" href="service/compression-stockings" role="button">Learn More <span class="fa fa-angle-right font-size-18 ml-2"></span></a>
+      </div>
+    </div>
+    <!-- End Red Promo Banner -->
+
+    <!-- Red Promo Banner
     <div class="text-white text-center" style="background-color:#FC4237">
       <div class="container p-3 post">
         <span class="h4 d-block d-lg-inline-block font-weight-light mb-lg-0 font-weight-bold">
@@ -203,8 +214,8 @@
                   <a href="service/chiropractic"><p class="mb-md-0 text-white">Chiropractic</p></a>
                   <a href="service/physiotherapy"><p class="mb-md-0 text-white">Physiotherapy</p></a>
                   <p class="mb-md-0 text-white">Acupuncture</p>
-                  <p class="mb-md-0 text-white">Osteopathy</p>
                   <a href="service/orthotics"><p class="mb-md-0 text-white">Custom Orthotics</p></a>
+                  <a href="service/compression-stockings"><p class="mb-md-0 text-white">Compression Stockings</p></a>
                 </div>
               </div>
             </div>
